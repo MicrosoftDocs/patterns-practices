@@ -9,10 +9,8 @@ ms:mtpsurl: 'regionadaptermappings-class-mspp-regions.md'
 
 This class maps [Type](http://msdn.microsoft.com/en-us/library/42892f65) with [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

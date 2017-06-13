@@ -9,10 +9,8 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-item-property-int32-mspp-modul
 
 Gets the [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity) located at the specified index in the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

@@ -10,8 +10,7 @@ ms:mtpsurl: 'contentcontrolregionadapter-class-mspp-regions.md'
 Adapter that creates a new [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion) and monitors its active view to set it on the adapted [ContentControl](http://msdn.microsoft.com/en-us/library/ms609797).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

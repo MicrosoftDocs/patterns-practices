@@ -10,8 +10,7 @@ ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 Initializes a new instance of the [ModuleInitializeException](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity) class.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

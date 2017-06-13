@@ -9,8 +9,7 @@ ms:mtpsurl: 'delegatecommandbase-isactivechanged-event-mspp-commands.md'
 
 Fired if the [IsActive](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.isactive) property changes.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
-
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)<br/>
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax

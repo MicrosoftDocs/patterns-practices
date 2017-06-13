@@ -10,10 +10,8 @@ ms:mtpsurl: 'popupwindowaction-createdefaultwindow-method-mspp-interactivity.md'
 
 When no WindowContent is sent this method is used to create a default basic window to show the corresponding [INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest) or [IConfirmation](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest).
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 

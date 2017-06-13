@@ -11,8 +11,7 @@ ms:mtpsurl: 'defaultprismserviceregistrar-class-mspp-mefextensions.md'
 DefaultPrismServiceRegistrationAgent allows the Prism required types to be registered if necessary.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)  
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
-
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

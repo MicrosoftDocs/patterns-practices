@@ -10,10 +10,8 @@ ms:mtpsurl: 'delayedregioncreationbehavior-onupdatingregions-method-mspp-regions
 
 Called when the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) is updating it's [Regions](/patterns-practices/reference/regionmanager-regions-property-mspp-regions) collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

@@ -10,8 +10,7 @@ ms:mtpsurl: 'regionmemberlifetimebehavior-class-mspp-regions-behaviors.md'
 The RegionMemberLifetimeBehavior determines if items should be removed from the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) when they are deactivated.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
