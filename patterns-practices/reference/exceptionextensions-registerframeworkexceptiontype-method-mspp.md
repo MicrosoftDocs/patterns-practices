@@ -9,10 +9,8 @@ ms:mtpsurl: 'exceptionextensions-registerframeworkexceptiontype-method-mspp.md'
 
 Register the type of an Exception that is thrown by the framework. The [GetRootException(Exception)](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp) method uses this list of Exception types to find out if something has gone wrong.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

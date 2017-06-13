@@ -10,8 +10,7 @@ ms:mtpsurl: 'unitycontainerhelper-class-mspp-unityextensions.md'
 Extensions methods to extend and facilitate the usage of IUnityContainer.
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
-
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

@@ -9,10 +9,8 @@ ms:mtpsurl: 'eventbase-internalsubscribe-method-mspp-pubsubevents.md'
 
 Adds the specified [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription) to the subscribers' collection.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

@@ -9,10 +9,8 @@ ms:mtpsurl: 'regionadapterbase-t-regionbehaviorfactory-property-mspp-regions.md'
 
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -41,10 +39,8 @@ Type: [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfact
 
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

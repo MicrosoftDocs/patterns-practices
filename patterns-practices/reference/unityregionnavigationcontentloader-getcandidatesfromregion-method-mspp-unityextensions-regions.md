@@ -10,10 +10,8 @@ ms:mtpsurl: 'unityregionnavigationcontentloader-getcandidatesfromregion-method-m
 
 Returns the set of candidates that may satisfiy this navigation request.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/mspp-unityextensions-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/mspp-unityextensions-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

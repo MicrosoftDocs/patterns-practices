@@ -9,10 +9,8 @@ ms:mtpsurl: 'defaultdispatcher-constructor-mspp-events.md'
 
 Initializes a new instance of the [DefaultDispatcher](/patterns-practices/reference/defaultdispatcher-class-mspp-events) class
 
-**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

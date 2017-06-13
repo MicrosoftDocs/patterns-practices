@@ -9,10 +9,8 @@ ms:mtpsurl: 'unityregionnavigationcontentloader-constructor-mspp-unityextensions
 
 Initializes a new instance of the [UnityRegionNavigationContentLoader](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/mspp-unityextensions-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/mspp-unityextensions-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

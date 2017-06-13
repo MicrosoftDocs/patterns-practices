@@ -9,10 +9,8 @@ ms:mtpsurl: 'delegatecommand-constructor-action-func-boolean-mspp-commands.md'
 
 Creates a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

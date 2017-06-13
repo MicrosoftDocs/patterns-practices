@@ -10,10 +10,8 @@ ms:mtpsurl: 'moduleexportattribute-modulename-property-mspp-mefextensions-modula
 
 Gets the contract name of the module.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

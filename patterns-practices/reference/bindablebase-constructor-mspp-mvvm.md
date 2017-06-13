@@ -9,8 +9,7 @@ ms:mtpsurl: 'bindablebase-constructor-mspp-mvvm.md'
 
 Initializes a new instance of the [BindableBase](/patterns-practices/reference/bindablebase-class-mspp-mvvm) class
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)
-
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax

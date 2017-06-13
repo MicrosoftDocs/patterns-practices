@@ -9,10 +9,8 @@ ms:mtpsurl: 'iregionbehaviorcollection-containskey-method-mspp-regions.md'
 
 Checks if a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) with the specified key is already present.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism (in Microsoft.Practices.Prism.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism (in Microsoft.Practices.Prism.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

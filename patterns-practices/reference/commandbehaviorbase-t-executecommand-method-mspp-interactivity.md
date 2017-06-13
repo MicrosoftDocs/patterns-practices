@@ -10,10 +10,8 @@ ms:mtpsurl: 'commandbehaviorbase-t-executecommand-method-mspp-interactivity.md'
 
 Executes the command, if it's set, providing the [CommandParameter](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-commandparameter-property-mspp-interactivity)
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -43,10 +41,8 @@ Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 Executes the command, if it's set, providing the [CommandParameter](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-commandparameter-property-mspp-interactivity)
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

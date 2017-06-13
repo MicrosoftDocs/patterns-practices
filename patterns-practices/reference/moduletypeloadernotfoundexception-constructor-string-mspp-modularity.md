@@ -10,10 +10,8 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 
 Initializes a new instance of the [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception) class with a specified error message.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

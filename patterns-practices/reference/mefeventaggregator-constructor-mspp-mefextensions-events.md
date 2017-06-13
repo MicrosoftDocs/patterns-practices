@@ -9,10 +9,8 @@ ms:mtpsurl: 'mefeventaggregator-constructor-mspp-mefextensions-events.md'
 
 Initializes a new instance of the [MefEventAggregator](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Events](/patterns-practices/reference/mspp-mefextensions-events-namespace)  
-
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Events](/patterns-practices/reference/mspp-mefextensions-events-namespace)  <br/>
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

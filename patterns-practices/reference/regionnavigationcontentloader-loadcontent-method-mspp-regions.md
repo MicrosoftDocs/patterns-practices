@@ -9,8 +9,7 @@ ms:mtpsurl: 'regionnavigationcontentloader-loadcontent-method-mspp-regions.md'
 Gets the view to which the navigation request represented by *navigationContext* applies.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

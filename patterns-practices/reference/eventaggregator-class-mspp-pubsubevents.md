@@ -10,10 +10,8 @@ ms:mtpsurl: 'eventaggregator-class-mspp-pubsubevents.md'
 
 Implements [IEventAggregator](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

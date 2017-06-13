@@ -10,8 +10,7 @@ ms:mtpsurl: 'iregionmemberlifetime-keepalive-property-mspp-regions.md'
 Gets a value indicating whether this instance should be kept-alive upon deactivation.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

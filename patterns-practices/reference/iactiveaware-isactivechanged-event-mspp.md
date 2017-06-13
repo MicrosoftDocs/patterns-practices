@@ -10,8 +10,7 @@ ms:mtpsurl: 'iactiveaware-isactivechanged-event-mspp.md'
 
 Notifies that the value for [IsActive](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive) property has changed.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
-
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)<br/>
 **Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax

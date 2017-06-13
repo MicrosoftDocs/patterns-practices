@@ -9,10 +9,8 @@ ms:mtpsurl: 'iinteractionrequestaware-finishinteraction-property-mspp-interactiv
 
 An [Action](http://msdn.microsoft.com/en-us/library/bb534741) that can be invoked to finish the interaction.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

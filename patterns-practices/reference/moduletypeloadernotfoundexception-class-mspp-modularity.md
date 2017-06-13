@@ -10,10 +10,8 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-class-mspp-modularity.md'
 
 Exception that's thrown when there is no [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity) registered in [ModuleTypeLoaders](/patterns-practices/reference/modulemanager-moduletypeloaders-property-mspp-modularity) that can handle this particular type of module.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

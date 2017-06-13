@@ -10,10 +10,8 @@ ms:mtpsurl: 'bootstrapper-configuremodulecatalog-method-mspp.md'
 
 Configures the [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) used by Prism.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

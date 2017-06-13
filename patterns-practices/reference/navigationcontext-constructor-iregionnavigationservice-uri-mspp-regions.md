@@ -9,10 +9,8 @@ ms:mtpsurl: 'navigationcontext-constructor-iregionnavigationservice-uri-mspp-reg
 
 Initializes a new instance of the [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) class for a region name and a [Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

@@ -10,8 +10,7 @@ ms:mtpsurl: 'iregionadapter-interface-mspp-regions.md'
 Defines an interfaces to adapt an object and bind it to a new [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

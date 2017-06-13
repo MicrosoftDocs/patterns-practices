@@ -9,10 +9,8 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-class-mspp-modularity.md'
 
 A collection of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

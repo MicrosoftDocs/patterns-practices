@@ -10,10 +10,8 @@ ms:mtpsurl: 'pubsubevent-tpayload-unsubscribe-method-action-tpayload-mspp-pubsub
 
 Removes the first subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -43,10 +41,8 @@ PubSubEvent&lt;TPayload&gt; Members
 
 Removes the first subscriber matching [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

@@ -9,8 +9,7 @@ ms:mtpsurl: 'modulemanager-moduletypeloaders-property-mspp-modularity.md'
 Returns the list of registered [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity) instances that will be used to load the types of modules.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

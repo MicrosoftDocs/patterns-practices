@@ -10,10 +10,8 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-class-mspp.md'
 
 A dictionary of lists.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -47,10 +45,8 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
 
 A dictionary of lists.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

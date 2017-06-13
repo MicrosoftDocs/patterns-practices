@@ -10,10 +10,8 @@ ms:mtpsurl: 'uriparsinghelper-class-mspp.md'
 
 Helper class for parsing [Uri](http://msdn.microsoft.com/en-us/library/txt7706a) instances.
 
-*mspp-*Namespace:** [Microsoft-Practices-Prism](https://msdn-microsoft-com/library/microsoft-practices-prism-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+*mspp-*Namespace:** [Microsoft-Practices-Prism](https://msdn-microsoft-com/library/microsoft-practices-prism-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

@@ -9,10 +9,8 @@ ms:mtpsurl: 'mefbootstrapper-registerbootstrapperprovidedtypes-method-mspp-mefex
 
 Helper method for configuring the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553). Registers all the types direct instantiated by the bootstrapper with the container.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

@@ -9,10 +9,8 @@ ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-constructor-mspp-mefextensions-r
 
 Initializes a new instance of the [MefSelectorItemsSourceSyncBehavior](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

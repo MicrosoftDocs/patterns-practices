@@ -9,10 +9,8 @@ ms:mtpsurl: 'contentcontrolregionadapter-createregion-method-mspp-regions.md'
 
 Creates a new instance of [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespaces)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespaces)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

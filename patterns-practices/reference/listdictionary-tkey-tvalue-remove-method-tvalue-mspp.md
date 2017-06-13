@@ -9,10 +9,8 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-tvalue-mspp.md'
 
 Removes a value from all lists where it may be found.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -40,10 +38,8 @@ The value to remove.
 
 Removes a value from all lists where it may be found.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

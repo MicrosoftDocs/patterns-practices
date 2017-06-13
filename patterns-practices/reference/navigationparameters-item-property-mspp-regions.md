@@ -9,10 +9,8 @@ ms:mtpsurl: 'navigationparameters-item-property-mspp-regions.md'
 
 Gets the [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) with the specified key.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

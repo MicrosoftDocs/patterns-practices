@@ -10,10 +10,8 @@ ms:mtpsurl: 'moduleinitializer-class-mspp-modularity.md'
 
 Implements the [IModuleInitializer](/patterns-practices/reference/imoduleinitializer-interface-mspp-modularity) interface. Handles loading of a module based on a type.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

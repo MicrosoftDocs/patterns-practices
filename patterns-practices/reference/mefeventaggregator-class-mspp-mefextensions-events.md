@@ -11,8 +11,7 @@ ms:mtpsurl: 'mefeventaggregator-class-mspp-mefextensions-events.md'
 Exports the EventAggregator using the Managed Extensibility Framework (MEF).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Events](/patterns-practices/reference/mspp-mefextensions-events-namespace)  
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
-
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

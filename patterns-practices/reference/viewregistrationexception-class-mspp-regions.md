@@ -12,10 +12,8 @@ Exception that's thrown when something goes wrong while Registering a View with 
 
 Exception that's thrown when something goes wrong while Registering a View with a region name in the [RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-mspp-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

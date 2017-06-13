@@ -10,10 +10,8 @@ ms:mtpsurl: 'bindablebase-setproperty-t-method-mspp-mvvm.md'
 
 Checks if a property already matches a desired value. Sets the property and notifies listeners only when necessary.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -69,10 +67,8 @@ True if the value was changed, false if the existing value matched the desired v
 
 Checks if a property already matches a desired value. Sets the property and notifies listeners only when necessary.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

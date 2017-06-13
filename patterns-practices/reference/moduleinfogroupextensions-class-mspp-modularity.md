@@ -10,10 +10,8 @@ ms:mtpsurl: 'moduleinfogroupextensions-class-mspp-modularity.md'
 
 Defines extension methods for the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

@@ -9,10 +9,8 @@ ms:mtpsurl: 'errorscontainer-t-clearerrors-method-string-mspp-viewmodel.md'
 
 Clears the errors for a property.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -44,10 +42,8 @@ The name of th property for which to clear errors.
 
 Clears the errors for a property.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

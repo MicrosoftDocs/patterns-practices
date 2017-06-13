@@ -9,10 +9,8 @@ ms:mtpsurl: 'interactionrequest-t-raised-event-mspp-interactivity-interactionreq
 
 Fired when interaction is needed.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -39,10 +37,8 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&l
 
 Fired when interaction is needed.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

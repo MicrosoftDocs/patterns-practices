@@ -9,10 +9,8 @@ ms:mtpsurl: 'moduledependencyattribute-class-mspp-modularity.md'
 
 Specifies that the current module has a dependency on another module. This attribute should be used on classes that implement [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 ## Syntax
 ```C#

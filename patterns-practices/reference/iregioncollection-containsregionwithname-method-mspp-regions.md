@@ -9,10 +9,8 @@ ms:mtpsurl: 'iregioncollection-containsregionwithname-method-mspp-regions.md'
 
 Checks if the collection contains a [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) with the name received as parameter.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

@@ -10,8 +10,7 @@ ms:mtpsurl: 'moduleinfogroup-syncroot-property-mspp-modularity.md'
 Gets an object that can be used to synchronize access to the [ICollection](http://msdn.microsoft.com/en-us/library/b1ht6113).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

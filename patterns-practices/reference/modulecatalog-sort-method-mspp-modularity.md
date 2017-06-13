@@ -9,10 +9,8 @@ ms:mtpsurl: 'modulecatalog-sort-method-mspp-modularity.md'
 
 Sorts a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s. This method is called by [CompleteListWithDependencies(IEnumerable&lt;ModuleInfo&gt;)](/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity) to return a sorted list.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -39,10 +37,8 @@ Sorted list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-
 
 Sorts a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s. This method is called by [CompleteListWithDependencies(IEnumerable(of ModuleInfo))](/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity) to return a sorted list.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

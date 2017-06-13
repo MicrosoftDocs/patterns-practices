@@ -9,10 +9,8 @@ ms:mtpsurl: 'observableobject-t-constructor-mspp.md'
 
 Initializes a new instance of the [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) class
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -30,10 +28,8 @@ public ObservableObject()
 
 Initializes a new instance of the [ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp) class
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

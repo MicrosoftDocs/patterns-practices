@@ -10,10 +10,8 @@ ms:mtpsurl: 'regionbehavior-isattached-property-mspp-regions.md'
 
 Returns **truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **falsefalse** (**False** in Visual Basic) otherwise.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -28,10 +26,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 Returns **Truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **Falsefalse** (**False** in Visual Basic) otherwise.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ```VB

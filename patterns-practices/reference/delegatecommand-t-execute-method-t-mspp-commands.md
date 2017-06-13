@@ -9,10 +9,8 @@ ms:mtpsurl: 'delegatecommand-t-execute-method-t-mspp-commands.md'
 
 Executes the command and invokes the [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) provided during construction.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -45,10 +43,8 @@ Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
 
 Executes the command and invokes the [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) provided during construction.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

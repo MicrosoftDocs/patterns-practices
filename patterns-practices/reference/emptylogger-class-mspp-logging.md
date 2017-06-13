@@ -9,10 +9,8 @@ ms:mtpsurl: 'emptylogger-class-mspp-logging.md'
 
 Implementation of [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) that does nothing. This implementation is useful when the application does not need logging but there are infrastructure pieces that assume there is a logger.
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
