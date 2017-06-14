@@ -16,7 +16,7 @@ The [MefRegionAdapterMappings](/patterns-practices/reference/mefregionadaptermap
 <tr class="header">
 <th> </th>
 <th>Name</th>
-<th>Description</th>
+<th>Description</th> 
 </tr>
 </thead>
 <tbody>

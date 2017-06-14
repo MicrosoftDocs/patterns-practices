@@ -18,11 +18,11 @@ The [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigati
 <th>Name</th>
 <th>Description</th>
 </tr>
-</thead>
+</thead> 
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>MefRegionNavigationJournal</td>
+<td>MefRegionNavigationJournal</td> 
 <td><div class="summary">
 Initializes a new instance of the [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions) class
 </div></td>

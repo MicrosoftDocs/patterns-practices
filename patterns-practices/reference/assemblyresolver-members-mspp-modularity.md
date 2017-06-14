@@ -8,7 +8,7 @@ ms:mtpsurl: 'assemblyresolver-members-mspp-modularity.md'
 
 # AssemblyResolver Members
 
-The [AssemblyResolver]() type exposes the following members.
+The [AssemblyResolver](/patterns-practices/reference/assemblyresolver-members-mspp-modularity) type exposes the following members.
 
 ## Constructors
 

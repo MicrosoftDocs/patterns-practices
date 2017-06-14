@@ -14,7 +14,7 @@ The [MefRegionNavigationJournalEntry](/patterns-practices/reference/mefregionnav
 <table>
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th> 
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -22,7 +22,7 @@ The [MefRegionNavigationJournalEntry](/patterns-practices/reference/mefregionnav
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>MefRegionNavigationJournalEntry</td>
+<td>MefRegionNavigationJournalEntry</td> 
 <td><div class="summary">
 Initializes a new instance of the [MefRegionNavigationJournalEntry](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regionsentry) class
 </div></td>

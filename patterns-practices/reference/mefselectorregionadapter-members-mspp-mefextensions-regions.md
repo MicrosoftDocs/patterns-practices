@@ -16,7 +16,7 @@ The [MefSelectorRegionAdapter](/patterns-practices/reference/mefselectorregionad
 <table>
 
 <thead>
-<tr class="header">
+<tr class="header"> 
 <th> </th>
 <th>Name</th>
 <th>Description</th>

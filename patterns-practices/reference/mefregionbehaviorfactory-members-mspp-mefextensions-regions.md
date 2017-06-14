@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionbehaviorfactory-members-mspp-mefextensions-regions.md'
 
 # MefRegionBehaviorFactory Members
 
-The [MefRegionBehaviorFactory](/patterns-practices/reference/mefregionbehaviorfactory-class-mspp-mefextensions-regions) type exposes the following members.
+The [MefRegionBehaviorFactory](/patterns-practices/reference/mefregionbehaviorfactory-class-mspp-mefextensions-regions) type exposes the following members. 
 
 ## Constructors
 
