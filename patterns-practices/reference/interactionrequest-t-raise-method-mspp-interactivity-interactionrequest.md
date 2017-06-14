@@ -7,8 +7,6 @@ ms:mtpsurl: 'interactionrequest-t-raise-method-mspp-interactivity-interactionreq
 
 # InteractionRequest(Of T).Raise Method
 
-# InteractionRequest(Of T).Raise Method
-
 ## Overload List
 
 <table>
@@ -23,7 +21,6 @@ ms:mtpsurl: 'interactionrequest-t-raise-method-mspp-interactivity-interactionreq
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 
-<td><a href="https://msdn.microsoft.com/en-us/library/gg405794(v=pandp.50)">Raise(T)</a></td>
 
 <td><a href="/patterns-practices/reference/interactionrequest-t-raise-method-t-mspp-interactivity-interactionrequest">Raise(T)</a></td>
 
@@ -34,7 +31,6 @@ Fires the Raised event.
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 
-<td><a href="https://msdn.microsoft.com/en-us/library/gg405795(v=pandp.50)">Raise(T, Action(Of T))</a></td>
 
 <td><a href="/patterns-practices/reference/interactionrequest-t-raise-method-t-action-t-mspp-interactivity-interactionrequest">Raise(T, Action(Of T))</a></td>
 
