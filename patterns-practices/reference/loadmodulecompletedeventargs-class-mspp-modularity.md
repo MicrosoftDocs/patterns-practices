@@ -9,8 +9,8 @@ ms:mtpsurl: 'loadmodulecompletedeventargs-class-mspp-modularity.md'
 
 Provides completion information after a module is loaded, or fails to load.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -33,5 +33,5 @@ Public Class LoadModuleCompletedEventArgs
 
 ## See Also
 
-[LoadModuleCompletedEventArgs Members](/patterns-practices/reference/loadmodulecompletedeventargs-members-mspp-modularity)<br/>
+[LoadModuleCompletedEventArgs Members](/patterns-practices/reference/loadmodulecompletedeventargs-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

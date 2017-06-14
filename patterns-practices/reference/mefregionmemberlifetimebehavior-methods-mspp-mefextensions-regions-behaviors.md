@@ -90,5 +90,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefRegionMemberLifetimeBehavior Class](/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors)<br/>
+[MefRegionMemberLifetimeBehavior Class](/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors)  
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

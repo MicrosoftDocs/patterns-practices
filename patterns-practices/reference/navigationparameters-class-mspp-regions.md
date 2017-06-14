@@ -9,8 +9,8 @@ ms:mtpsurl: 'navigationparameters-class-mspp-regions.md'
 
 Represents Navigation parameters.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -37,5 +37,5 @@ Microsoft.Practices.Prism.Regions.NavigationParameters
 
 ## See Also
 
-[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

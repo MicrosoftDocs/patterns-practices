@@ -113,5 +113,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionAdapterMappings Class](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)<br/>
+[RegionAdapterMappings Class](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

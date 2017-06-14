@@ -132,5 +132,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[UnityRegionNavigationContentLoader Class](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions)<br/>
+[UnityRegionNavigationContentLoader Class](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions)  
 [Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/mspp-unityextensions-regions-namespace)

@@ -167,5 +167,5 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 
 ## See Also
 
-[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)<br/>
+[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

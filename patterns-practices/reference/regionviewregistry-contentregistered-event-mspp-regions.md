@@ -9,8 +9,8 @@ ms:mtpsurl: 'regionviewregistry-contentregistered-event-mspp-regions.md'
 
 Occurs whenever a new view is registered.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -44,6 +44,6 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)( O
 
 ## See Also
 
-[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)<br/>
-[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)  
+[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

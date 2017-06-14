@@ -9,8 +9,8 @@ ms:mtpsurl: 'mefregionnavigationcontentloader-constructor-mspp-mefextensions-reg
 
 Initializes a new instance of the [MefRegionNavigationContentLoader](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -35,6 +35,6 @@ IServiceLocator used to create the instance of the view from its [Type](http://m
 
 ## See Also
 
-[MefRegionNavigationContentLoader Class](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions)<br/>
-[MefRegionNavigationContentLoader Members](/patterns-practices/reference/mefregionnavigationcontentloader-members-mspp-mefextensions-regions)<br/>
+[MefRegionNavigationContentLoader Class](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions)  
+[MefRegionNavigationContentLoader Members](/patterns-practices/reference/mefregionnavigationcontentloader-members-mspp-mefextensions-regions)  
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

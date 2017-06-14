@@ -35,5 +35,5 @@ Returns an [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableo
 
 ## See Also
 
-[RegionContext Class](/patterns-practices/reference/regioncontext-class-mspp-regions)<br/>
+[RegionContext Class](/patterns-practices/reference/regioncontext-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

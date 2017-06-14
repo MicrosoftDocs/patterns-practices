@@ -10,8 +10,8 @@ ms:mtpsurl: 'unityregionnavigationcontentloader-getcandidatesfromregion-method-m
 
 Returns the set of candidates that may satisfiy this navigation request.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/mspp-unityextensions-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/mspp-unityextensions-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -71,6 +71,6 @@ An enumerable of candidate objects from the [IRegion](/patterns-practices/refere
 
 ## See Also
 
-[UnityRegionNavigationContentLoader Class](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions)<br/>
-[UnityRegionNavigationContentLoader Members](/patterns-practices/reference/unityregionnavigationcontentloader-members-mspp-unityextensions-regions)<br/>
-[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/mspp-unityextensions-regions-namespace)<br/>
+[UnityRegionNavigationContentLoader Class](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions)  
+[UnityRegionNavigationContentLoader Members](/patterns-practices/reference/unityregionnavigationcontentloader-members-mspp-unityextensions-regions)  
+[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/mspp-unityextensions-regions-namespace)  

@@ -155,5 +155,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefServiceLocatorAdapter Class](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions)<br/>
-[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>
+[MefServiceLocatorAdapter Class](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions)  
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)  

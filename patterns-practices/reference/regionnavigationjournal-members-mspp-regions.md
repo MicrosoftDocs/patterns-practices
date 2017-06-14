@@ -200,5 +200,5 @@ Gets or sets the target that implements INavigate.
 
 ## See Also
 
-[RegionNavigationJournal Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal(v=pandp.50))<br/>
+[RegionNavigationJournal Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal(v=pandp.50))  
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

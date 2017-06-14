@@ -9,8 +9,8 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp.md'
 
 Removes a value from the list with the given key.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -34,17 +34,17 @@ The value to remove.
 
 ## See Also
 
-[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)<br/>
-[ListDictionary&lt;TKey, TValue&gt; Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)<br/>
-[Remove Overload](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
+[ListDictionary&lt;TKey, TValue&gt; Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)  
+[Remove Overload](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  
 
 # ListDictionary(Of TKey, TValue).Remove Method (TKey, TValue)
 
 Removes a value from the list with the given key.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -69,7 +69,7 @@ The value to remove.
 
 ## See Also
 
-[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)<br/>
-[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)<br/>
-[Remove Overload](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
+[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)  
+[Remove Overload](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

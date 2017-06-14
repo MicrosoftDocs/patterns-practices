@@ -76,5 +76,5 @@ Returns a [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) that repres
 
 ## See Also
 
-[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>
+[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)  
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  

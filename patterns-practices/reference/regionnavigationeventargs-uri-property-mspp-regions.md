@@ -10,8 +10,8 @@ ms:mtpsurl: 'regionnavigationeventargs-uri-property-mspp-regions.md'
 
 Gets the navigation URI
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -35,6 +35,6 @@ The URI.
 
 ## See Also
 
-[RegionNavigationEventArgs Class](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions)<br/>
-[RegionNavigationEventArgs Members](/patterns-practices/reference/regionnavigationeventargs-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[RegionNavigationEventArgs Class](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions)  
+[RegionNavigationEventArgs Members](/patterns-practices/reference/regionnavigationeventargs-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

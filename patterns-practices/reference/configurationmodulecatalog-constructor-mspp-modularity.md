@@ -10,8 +10,8 @@ ms:mtpsurl: 'configurationmodulecatalog-constructor-mspp-modularity.md'
 
 Builds an instance of ConfigurationModuleCatalog with a [ConfigurationStore](/patterns-practices/reference/configurationstore-class-mspp-modularity) as the default store.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,6 +26,6 @@ Public Sub New
 
 ## See Also
 
-[ConfigurationModuleCatalog Class](/patterns-practices/reference/configurationstore-class-mspp-modularity)<br/>
-[ConfigurationModuleCatalog Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)<br/>
+[ConfigurationModuleCatalog Class](/patterns-practices/reference/configurationstore-class-mspp-modularity)  
+[ConfigurationModuleCatalog Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

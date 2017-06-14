@@ -130,5 +130,5 @@ When implemented in a derived class, gets a unique identifier for this [Attribut
 
 ## See Also
 
-[ModuleDependencyAttribute Class](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleDependencyAttribute Class](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

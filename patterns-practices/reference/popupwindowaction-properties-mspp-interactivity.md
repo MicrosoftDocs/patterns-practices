@@ -111,5 +111,5 @@ Gets or sets the content of the window.
 
 ## See Also
 
-[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)<br/>
-[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)  
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)  

@@ -39,6 +39,6 @@ Gets the IRegion with the name received as index.
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 =======
-[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
 >>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

@@ -10,8 +10,8 @@ ms:mtpsurl: 'modularityexception-constructor-mspp-modularity.md'
 
 Initializes the exception with a particular module and error message.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -47,8 +47,8 @@ The error message that explains the reason for the exception.
 
 ## See Also
 
-[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
-[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)<br/>
+[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)  
+[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)  
 ModularityException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

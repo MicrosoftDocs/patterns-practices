@@ -79,5 +79,5 @@ Gets or sets a value that remembers whether the [ModuleCatalog](/patterns-practi
 
 ## See Also
 
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

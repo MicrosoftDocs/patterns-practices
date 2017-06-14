@@ -9,8 +9,8 @@ ms:mtpsurl: 'compositecommand-canexecutechanged-event-mspp-commands.md'
 
 Occurs when any of the registered commands raise [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106). You must keep a hard reference to the handler to avoid garbage collection and unexpected results. See remarks for more information.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -46,6 +46,6 @@ EventHandler myEventHandlerReference = new EventHandler(this.OnCanExecuteChanged
 
 ## See Also
 
-[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)<br/>
-[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)<br/>
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)  
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

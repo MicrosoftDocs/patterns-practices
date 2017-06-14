@@ -9,8 +9,8 @@ ms:mtpsurl: 'delegatecommand-t-fromasynchandler-method-func-t-task-mspp-commands
 
 Factory method to create a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands) from an awaitable handler method.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -23,21 +23,21 @@ Factory method to create a new instance of [DelegateCommand&lt;T&gt;](/patterns-
 
 ### Parameters
 
-*executeMethod*<br/>
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;<br/>
+*executeMethod*  
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;  
 Delegate to execute when Execute is called on the command.
 
 ### Return Value
 
-Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)&lt;[T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)&gt;<br/>
+Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)&lt;[T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)&gt;  
 Constructed instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
 
 ## See Also
 
-[DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
-[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
-[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-mspp-commands)<br/>
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
+[DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)  
+[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)  
+[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-mspp-commands)  
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  
 
 
 # DelegateCommand(Of T).FromAsyncHandler Method (Func(Of T, Task))
@@ -45,8 +45,8 @@ Constructed instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference
 
 Factory method to create a new instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands) from an awaitable handler method.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -60,18 +60,18 @@ Public Shared Function FromAsyncHandler (
 
 ### Parameters
 
-*executeMethod*<br/>
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands), [Task](http://msdn.microsoft.com/en-us/library/dd235678))<br/>
+*executeMethod*  
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands), [Task](http://msdn.microsoft.com/en-us/library/dd235678))  
 Delegate to execute when Execute is called on the command.
 
 ### Return Value
 
-Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)(Of [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands))<br/>
+Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)(Of [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands))  
 Constructed instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands))
 
 ## See Also
 
-[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
-[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
-[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-mspp-commands)<br/>
+[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)  
+[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)  
+[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

@@ -11,8 +11,8 @@ ms:mtpsurl: 'defaultconfirmationwindow-confirmation-property-mspp-interactivity-
 
 Sets or gets the [IConfirmation](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest) shown by this window.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -34,6 +34,6 @@ Type: [IConfirmation](/patterns-practices/reference/iconfirmation-interface-mspp
 
 ## See Also
 
-[DefaultConfirmationWindow Class](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows)<br/>
-[DefaultConfirmationWindow Members](/patterns-practices/reference/defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwindows)<br/>
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)<br/>
+[DefaultConfirmationWindow Class](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows)  
+[DefaultConfirmationWindow Members](/patterns-practices/reference/defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwindows)  
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)  

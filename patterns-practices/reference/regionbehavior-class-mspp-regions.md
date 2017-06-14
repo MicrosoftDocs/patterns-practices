@@ -9,8 +9,8 @@ ms:mtpsurl: 'regionbehavior-class-mspp-regions.md'
 
 Provides a base class for region's behaviors.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -46,5 +46,5 @@ Microsoft.Practices.Prism.Regions.RegionBehavior
 
 ## See Also
 
-[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)<br/>
+[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

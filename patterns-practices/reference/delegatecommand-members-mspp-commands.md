@@ -233,4 +233,4 @@ Fired if the [IsActive](/patterns-practices/reference/delegatecommandbase-isacti
 ## See Also
 
 [DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  

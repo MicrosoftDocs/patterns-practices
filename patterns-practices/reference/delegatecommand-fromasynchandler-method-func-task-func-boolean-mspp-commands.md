@@ -10,8 +10,8 @@ ms:mtpsurl: 'delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp
 
 Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -45,18 +45,18 @@ Constructed instance of [DelegateCommand](/patterns-practices/reference/delegate
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
-[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)<br/>
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)  
+[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)  
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  
 
 
 # DelegateCommand.FromAsyncHandler Method (Func(Of Task), Func(Of Boolean))
 
 Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -90,7 +90,7 @@ Constructed instance of [DelegateCommand](/patterns-practices/reference/delegate
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
-[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)<br/>
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)  
+[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

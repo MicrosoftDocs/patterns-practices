@@ -9,8 +9,8 @@ ms:mtpsurl: 'mefcontentcontrolregionadapter-constructor-mspp-mefextensions-regio
 
 Initializes a new instance of the [MefContentControlRegionAdapter](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -38,6 +38,6 @@ The region behavior factory.
 
 ## See Also
 
-[MefContentControlRegionAdapter Class](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions)<br/>
-[MefContentControlRegionAdapter Members](/patterns-practices/reference/mefcontentcontrolregionadapter-members-mspp-mefextensions-regions)<br/>
+[MefContentControlRegionAdapter Class](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions)  
+[MefContentControlRegionAdapter Members](/patterns-practices/reference/mefcontentcontrolregionadapter-members-mspp-mefextensions-regions)  
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

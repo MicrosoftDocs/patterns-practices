@@ -38,6 +38,6 @@ Utility method to try to resolve a service from the container avoiding an except
 
 ## See Also
 
-[UnityContainerHelper Class](/patterns-practices/reference/unitycontainerhelper-class-mspp-regions)<br/>
-[UnityContainerHelper Members](/patterns-practices/reference/unitycontainerhelper-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)<br/>
+[UnityContainerHelper Class](/patterns-practices/reference/unitycontainerhelper-class-mspp-regions)  
+[UnityContainerHelper Members](/patterns-practices/reference/unitycontainerhelper-members-mspp-regions)  
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)  

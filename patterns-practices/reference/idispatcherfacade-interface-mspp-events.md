@@ -10,8 +10,8 @@ ms:mtpsurl: 'idispatcherfacade-interface-mspp-events.md'
 
 Defines the interface for invoking methods through a Dispatcher Facade
 
-**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -28,5 +28,5 @@ Public Interface IDispatcherFacade
 
 ## See Also
 
-[IDispatcherFacade Members](/patterns-practices/reference/idispatcherfacade-members-mspp-events)<br/>
+[IDispatcherFacade Members](/patterns-practices/reference/idispatcherfacade-members-mspp-events)  
 [Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)

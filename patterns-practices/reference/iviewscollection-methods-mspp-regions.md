@@ -48,5 +48,5 @@ Returns an enumerator that iterates through a collection.
 
 ## See Also
 
-[IViewsCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)<br/>
+[IViewsCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)  
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

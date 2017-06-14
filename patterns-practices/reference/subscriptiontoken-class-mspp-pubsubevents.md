@@ -9,8 +9,8 @@ ms:mtpsurl: 'subscriptiontoken-class-mspp-pubsubevents.md'
 
 Subscription token returned from [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase) on subscribe.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -34,5 +34,5 @@ Public Class SubscriptionToken
 
 ## See Also
 
-SubscriptionToken Members<br/>
+SubscriptionToken Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

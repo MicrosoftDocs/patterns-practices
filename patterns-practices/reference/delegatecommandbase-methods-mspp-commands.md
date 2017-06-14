@@ -112,5 +112,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)<br/>
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

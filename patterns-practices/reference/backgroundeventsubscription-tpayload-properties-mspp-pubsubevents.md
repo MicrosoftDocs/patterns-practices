@@ -54,5 +54,5 @@ Gets or sets a [SubscriptionToken](/patterns-practices/reference/eventsubscripti
 
 ## See Also
 
-[BackgroundEventSubscription(Of TPayload) Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)<br/>
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[BackgroundEventSubscription(Of TPayload) Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)  
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

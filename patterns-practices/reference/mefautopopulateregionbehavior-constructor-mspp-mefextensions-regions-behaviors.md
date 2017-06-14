@@ -9,8 +9,8 @@ ms:mtpsurl: 'mefautopopulateregionbehavior-constructor-mspp-mefextensions-region
 
 Initializes a new instance of the [MefAutoPopulateRegionBehavior](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -36,6 +36,6 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionViewRegistry](/patterns-practice
 
 ## See Also
 
-[MefAutoPopulateRegionBehavior Class](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors)<br/>
-[MefAutoPopulateRegionBehavior Members](/patterns-practices/reference/mefautopopulateregionbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>
+[MefAutoPopulateRegionBehavior Class](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors)  
+[MefAutoPopulateRegionBehavior Members](/patterns-practices/reference/mefautopopulateregionbehavior-members-mspp-mefextensions-regions-behaviors)  
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)  

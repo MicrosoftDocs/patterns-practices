@@ -9,8 +9,8 @@ ms:mtpsurl: 'iregionnavigationjournalentry-interface-mspp-regions.md'
 
 An entry in an IRegionNavigationJournal representing the URI navigated to.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,5 +26,5 @@ Public Interface IRegionNavigationJournalEntry
 
 ## See Also
 
-[IRegionNavigationJournalEntry Members](/patterns-practices/reference/iregionnavigationjournalentry-members-mspp-regions)<br/>
+[IRegionNavigationJournalEntry Members](/patterns-practices/reference/iregionnavigationjournalentry-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

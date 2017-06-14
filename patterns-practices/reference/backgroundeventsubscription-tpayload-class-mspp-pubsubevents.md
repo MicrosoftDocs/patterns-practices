@@ -13,8 +13,8 @@ Extends [EventSubscription(Of TPayload)](/patterns-practices/reference/eventsubs
 
 Extends [EventSubscription(Of TPayload)](/eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](/eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a background thread.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -45,4 +45,4 @@ Extends [EventSubscription(Of TPayload)](/eventsubscription-tpayload-class-mspp-
 
 BackgroundEventSubscription(Of TPayload) Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

@@ -92,5 +92,5 @@ Updates the target object's IsEnabled property based on the commands ability to 
 
 ## See Also
 
-[CommandBehaviorBase(Of T) Class](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)<br/>
-[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+[CommandBehaviorBase(Of T) Class](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)  
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)  

@@ -9,8 +9,8 @@ ms:mtpsurl: 'collectionextensions-addrange-t-method-mspp.md'
 
 Add a range of items to a collection.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -68,8 +68,8 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 Add a range of items to a collection.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -128,6 +128,6 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 ## See Also
 
-[CollectionExtensions Class](/patterns-practices/reference/collectionextensions-class-mspp)<br/>
-[CollectionExtensions Members](/patterns-practices/reference/collectionextensions-members-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[CollectionExtensions Class](/patterns-practices/reference/collectionextensions-class-mspp)  
+[CollectionExtensions Members](/patterns-practices/reference/collectionextensions-members-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

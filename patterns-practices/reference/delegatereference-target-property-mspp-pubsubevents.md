@@ -9,8 +9,8 @@ ms:mtpsurl: 'delegatereference-target-property-mspp-pubsubevents.md'
 
 Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the target) referenced by the current [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) object.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -45,6 +45,6 @@ Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 
 ## See Also
 
-[DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)<br/>
+[DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)  
 DelegateReference Members
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

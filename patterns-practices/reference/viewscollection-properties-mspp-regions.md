@@ -32,5 +32,5 @@ Gets or sets the comparison used to sort the views.
 
 ## See Also
 
-[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)<br/>
+[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

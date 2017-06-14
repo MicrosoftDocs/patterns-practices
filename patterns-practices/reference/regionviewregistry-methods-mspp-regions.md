@@ -101,5 +101,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)<br/>
+[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

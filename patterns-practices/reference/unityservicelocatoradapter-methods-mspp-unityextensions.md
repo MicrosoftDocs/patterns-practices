@@ -139,6 +139,6 @@ Returns a string that represents the current object.
 ## See Also
 
 [UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-dogetinstance-method-mspp-unityextensions
-)<br/>
+)  
 [Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace
-)<br/>
+)  

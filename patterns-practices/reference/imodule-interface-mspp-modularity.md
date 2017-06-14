@@ -10,8 +10,8 @@ ms:mtpsurl: 'imodule-interface-mspp-modularity.md'
 
 Defines the contract for the modules deployed in the application.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0) 
 
 ## Syntax
@@ -27,5 +27,5 @@ Public Interface IModule
 
 ## See Also
 
-[IModule Members](/patterns-practices/reference/imodule-members-mspp-modularity)<br/>
+[IModule Members](/patterns-practices/reference/imodule-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

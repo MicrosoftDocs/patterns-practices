@@ -159,5 +159,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

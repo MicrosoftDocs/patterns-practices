@@ -9,8 +9,8 @@ ms:mtpsurl: 'defaultdispatcher-begininvoke-method-mspp-events.md'
 
 Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
 
-**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -46,6 +46,6 @@ Arguments to pass to the invoked method.
 
 ## See Also
 
-[DefaultDispatcher Class](/patterns-practices/reference/defaultdispatcher-class-mspp-events)<br/>
-[DefaultDispatcher Members](/patterns-practices/reference/defaultdispatcher-members-mspp-events)<br/>
-[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)<br/>
+[DefaultDispatcher Class](/patterns-practices/reference/defaultdispatcher-class-mspp-events)  
+[DefaultDispatcher Members](/patterns-practices/reference/defaultdispatcher-members-mspp-events)  
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)  

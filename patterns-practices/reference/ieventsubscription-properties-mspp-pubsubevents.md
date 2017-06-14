@@ -37,5 +37,5 @@ Gets or sets a [SubscriptionToken](/patterns-practices/reference/ieventsubscript
 
 ## See Also
 
-[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
+[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)  
 [Microsoft.Practices.Prism.PubSubEvents Namespace ](/patterns-practices/reference/mspp-pubsubevents-namespace)

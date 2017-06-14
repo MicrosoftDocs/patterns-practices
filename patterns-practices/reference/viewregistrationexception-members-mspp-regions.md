@@ -257,5 +257,5 @@ Occurs when an exception is serialized to create an exception state object that 
 </table>
 
 ## See Also
-[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)<br/>
+[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

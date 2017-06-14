@@ -9,8 +9,8 @@ ms:mtpsurl: 'navigationcontext-constructor-iregionnavigationservice-uri-mspp-reg
 
 Initializes a new instance of the [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) class for a region name and a [Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -47,8 +47,8 @@ The Uri.
 
 ## See Also
 
-[NavigationContext Class](/patterns-practices/reference/navigationcontext-class-mspp-regions)<br/>
-[NavigationContext Members](/patterns-practices/reference/navigationcontext-constructor-iregionnavigationservice-uri-mspp-regions)<br/>
+[NavigationContext Class](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
+[NavigationContext Members](/patterns-practices/reference/navigationcontext-constructor-iregionnavigationservice-uri-mspp-regions)  
 NavigationContext Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

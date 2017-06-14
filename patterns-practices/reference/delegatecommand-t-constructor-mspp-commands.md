@@ -39,6 +39,6 @@ Initializes a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/ref
 
 ## See Also
 
-[DelegateCommand&lt;T&gt; Class ](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
-[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
+[DelegateCommand&lt;T&gt; Class ](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)  
+[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)  
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  

@@ -11,7 +11,7 @@ ms:mtpsurl: 'observableobject-t-value-property-mspp.md'
 The value that's wrapped inside the ObservableObject.
 
 **Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -28,14 +28,14 @@ Type: [T](/patterns-practices/reference/observableobject-t-class-mspp)
 
 [ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)  
 [ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)  
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  
 
 # ObservableObject(Of T).Value Property
 
 The value that's wrapped inside the ObservableObject.
 
 **Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -55,4 +55,4 @@ Type: [T](/patterns-practices/reference/observableobject-t-class-mspp)
 
 [ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)  
 [ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)  
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

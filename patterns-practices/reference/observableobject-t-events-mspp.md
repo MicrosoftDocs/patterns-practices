@@ -896,5 +896,5 @@ Occurs when the element is removed from within an element tree of loaded element
 </table>
 
 ## See Also
-[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

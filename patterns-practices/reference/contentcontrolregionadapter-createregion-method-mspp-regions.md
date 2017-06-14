@@ -9,8 +9,8 @@ ms:mtpsurl: 'contentcontrolregionadapter-createregion-method-mspp-regions.md'
 
 Creates a new instance of [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -25,11 +25,11 @@ Protected Overrides Function CreateRegion As IRegion
 
 ### Return Value
 
-Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)<br/>
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 A new instance of [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions).
 
 ## See Also
 
-[ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)<br/>
-[ContentControlRegionAdapter Members](/patterns-practices/reference/contentcontrolregionadapter-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)  
+[ContentControlRegionAdapter Members](/patterns-practices/reference/contentcontrolregionadapter-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

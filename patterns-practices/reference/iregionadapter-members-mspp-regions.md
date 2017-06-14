@@ -33,5 +33,5 @@ Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/libr
 </table>
 
 ## See Also
-[IRegionAdapter Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>
+[IRegionAdapter Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter)  
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  

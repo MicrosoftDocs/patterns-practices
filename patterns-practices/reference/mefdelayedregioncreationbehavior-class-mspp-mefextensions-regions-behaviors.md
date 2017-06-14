@@ -9,8 +9,8 @@ ms:mtpsurl: 'mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-b
 
 Exports the DelayedRegionCreationBehavior using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -31,11 +31,11 @@ This allows the MefBootstrapper to provide this class as a default implementatio
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-[Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior](/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior](/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors)  
 Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefDelayedRegionCreationBehavior
 
 ## See Also
 
-[MefDelayedRegionCreationBehavior Members](/patterns-practices/reference/mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
+[MefDelayedRegionCreationBehavior Members](/patterns-practices/reference/mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors)  
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

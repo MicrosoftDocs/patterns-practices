@@ -10,8 +10,8 @@ ms:mtpsurl: 'iinteractionrequestaware-notification-property-mspp-interactivity-i
 
 The [INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest) passed when the interaction request was raised.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -33,6 +33,6 @@ Type: [INotification](/patterns-practices/reference/inotification-interface-mspp
 
 ## See Also
 
-[IInteractionRequestAware Interface](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest)<br/>
-[IInteractionRequestAware Members](/patterns-practices/reference/iinteractionrequestaware-members-mspp-interactivity-interactionrequest)<br/>
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>
+[IInteractionRequestAware Interface](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest)  
+[IInteractionRequestAware Members](/patterns-practices/reference/iinteractionrequestaware-members-mspp-interactivity-interactionrequest)  
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)  

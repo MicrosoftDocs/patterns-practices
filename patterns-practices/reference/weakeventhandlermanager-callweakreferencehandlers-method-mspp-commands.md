@@ -9,8 +9,8 @@ ms:mtpsurl: 'weakeventhandlermanager-callweakreferencehandlers-method-mspp-comma
 
 Invokes the handlers
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -24,10 +24,10 @@ Invokes the handlers
 
 ### Parameters
 
-*sender*<br/>
+*sender*  
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-*handlers*<br/>
+*handlers*  
 Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;
 
 ## Syntax
@@ -42,15 +42,15 @@ Public Shared Sub CallWeakReferenceHandlers (
 
 ### Parameters
 
-*sender*<br/>
+*sender*  
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-*handlers*<br/>
+*handlers*  
 Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))
 
 
 ## See Also
 
-[WeakEventHandlerManager Class](/patterns-practices/reference/weakeventhandlermanager-class-mspp-commands)<br/>
-[WeakEventHandlerManager Members](/patterns-practices/reference/weakeventhandlermanager-members-mspp-commands)<br/>
+[WeakEventHandlerManager Class](/patterns-practices/reference/weakeventhandlermanager-class-mspp-commands)  
+[WeakEventHandlerManager Members](/patterns-practices/reference/weakeventhandlermanager-members-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

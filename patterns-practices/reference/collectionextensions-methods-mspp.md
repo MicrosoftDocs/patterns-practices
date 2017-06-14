@@ -36,5 +36,5 @@ Add a range of items to a collection.
 
 ## See Also
 
-[CollectionExtensions Class](/patterns-practices/reference/collectionextensions-class-mspp)<br/>
+[CollectionExtensions Class](/patterns-practices/reference/collectionextensions-class-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

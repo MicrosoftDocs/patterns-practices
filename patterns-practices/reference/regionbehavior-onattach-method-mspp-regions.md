@@ -10,8 +10,8 @@ ms:mtpsurl: 'regionbehavior-onattach-method-mspp-regions.md'
 
 Override this method to perform the logic after the behavior has been attached.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,6 +26,6 @@ Protected MustOverride Sub OnAttach
 
 ## See Also
 
-[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)<br/>
-[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
+[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

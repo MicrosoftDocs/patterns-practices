@@ -10,8 +10,8 @@ ms:mtpsurl: 'regionnavigationjournalentry-parameters-property-mspp-regions.md'
 
 Gets or sets the NavigationParameters instance.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -37,6 +37,6 @@ Type: [NavigationParameters](/patterns-practices/reference/navigationparameters-
 
 ## See Also
 
-[RegionNavigationJournalEntry Class](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)<br/>
-[RegionNavigationJournalEntry Members](/patterns-practices/reference/regionnavigationjournalentry-members-mspp-regions)<br/>
+[RegionNavigationJournalEntry Class](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)  
+[RegionNavigationJournalEntry Members](/patterns-practices/reference/regionnavigationjournalentry-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -9,8 +9,8 @@ ms:mtpsurl: 'moduleinfogroup-insert-method-int32-moduleinfo-mspp-modularity.md'
 
 Inserts an item to the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6) at the specified index.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -48,8 +48,8 @@ The object to insert into the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/l
 
 Inserts an item to the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6) at the specified index.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -65,7 +65,7 @@ Public Sub Insert (
 ### Parameters
 
 *index*  
-Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)<br/>
+Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)  
 The zero-based *index* at which item should be inserted.
 
 *item*    
@@ -88,7 +88,7 @@ The object to insert into the [IList(Of T)](http://msdn.microsoft.com/en-us/libr
 
 ## See Also
 
-[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)<br/>
-[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)<br/>
-[Insert Overload](/patterns-practices/reference/moduleinfogroup-insert-method-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)  
+[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)  
+[Insert Overload](/patterns-practices/reference/moduleinfogroup-insert-method-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

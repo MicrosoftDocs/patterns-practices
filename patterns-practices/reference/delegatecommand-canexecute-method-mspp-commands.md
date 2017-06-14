@@ -10,8 +10,8 @@ ms:mtpsurl: 'canexecute-mthd.md'
 
 Determines if the command can be executed.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -35,7 +35,7 @@ Returns **Truetrue** (**True** in Visual Basic) if the command can execute, othe
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
-[CanExecute Overload](/patterns-practices/reference/canexecute-mthd)<br/>
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)  
+[CanExecute Overload](/patterns-practices/reference/canexecute-mthd)  
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  

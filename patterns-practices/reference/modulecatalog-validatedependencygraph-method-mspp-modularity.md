@@ -9,8 +9,8 @@ ms:mtpsurl: 'modulecatalog-validatedependencygraph-method-mspp-modularity.md'
 
 Ensures that there are no cyclic dependencies.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -24,6 +24,6 @@ Protected Overridable Sub ValidateDependencyGraph
 
 ## See Also
 
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)<br/>
-[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)<br/>
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

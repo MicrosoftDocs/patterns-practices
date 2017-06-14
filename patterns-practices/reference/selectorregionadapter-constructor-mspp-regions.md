@@ -10,8 +10,8 @@ ms:mtpsurl: 'selectorregionadapter-constructor-mspp-regions.md'
 
 Initializes a new instance of [SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -38,6 +38,6 @@ The factory used to create the region behaviors to attach to the created regions
 
 ## See Also
 
-[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)<br/>
-[SelectorRegionAdapter Members](/patterns-practices/reference/selectorregionadapter-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)  
+[SelectorRegionAdapter Members](/patterns-practices/reference/selectorregionadapter-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

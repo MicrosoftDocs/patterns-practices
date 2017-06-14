@@ -43,5 +43,5 @@ The region that this behavior is extending.
 
 ## See Also
 
-[IHostAwareRegionBehavior Interface](/patterns-practices/reference/ihostawareregionbehavior-interface-mspp-regions-behaviors)<br/>
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+[IHostAwareRegionBehavior Interface](/patterns-practices/reference/ihostawareregionbehavior-interface-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)  

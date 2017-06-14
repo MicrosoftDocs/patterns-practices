@@ -34,5 +34,5 @@ Initializes the specified module.
 
 ## See Also
 
-[IModuleInitializer Interface](/patterns-practices/reference/imoduleinitializer-interface-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[IModuleInitializer Interface](/patterns-practices/reference/imoduleinitializer-interface-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

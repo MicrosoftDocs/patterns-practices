@@ -9,8 +9,8 @@ ms:mtpsurl: 'subscriptiontoken-constructor-mspp-pubsubevents.md'
 
 Initializes a new instance of [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -23,7 +23,7 @@ public SubscriptionToken(
 
 ### Parameters
 
-*unsubscribeAction*<br/> 
+*unsubscribeAction*  
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)&gt;
 
 ```VB
@@ -34,11 +34,11 @@ Public Sub New (
 ```
 ### Parameters
 
-*unsubscribeAction*<br/> 
+*unsubscribeAction*  
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents))
 
 ## See Also
 
-[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents(v=pandp.50))<br/>
-SubscriptionToken Members<br/>
+[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents(v=pandp.50))  
+SubscriptionToken Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

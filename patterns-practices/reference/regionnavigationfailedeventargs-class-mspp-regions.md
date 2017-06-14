@@ -10,8 +10,8 @@ ms:mtpsurl: 'regionnavigationfailedeventargs-class-mspp-regions.md'
 
 EventArgs used with the NavigationFailed event.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -32,5 +32,5 @@ Public Class RegionNavigationFailedEventArgs
 
 ## See Also
 
-[RegionNavigationFailedEventArgs Members](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[RegionNavigationFailedEventArgs Members](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

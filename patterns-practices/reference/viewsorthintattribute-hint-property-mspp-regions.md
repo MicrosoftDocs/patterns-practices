@@ -10,8 +10,8 @@ ms:mtpsurl: 'viewsorthintattribute-hint-property-mspp-regions.md'
 
 Gets the hint.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -30,6 +30,6 @@ The hint to use for sorting.
 
 ## See Also
 
-[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)<br/>
-[ViewSortHintAttribute Members](/patterns-practices/reference/viewsorthintattribute-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)  
+[ViewSortHintAttribute Members](/patterns-practices/reference/viewsorthintattribute-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

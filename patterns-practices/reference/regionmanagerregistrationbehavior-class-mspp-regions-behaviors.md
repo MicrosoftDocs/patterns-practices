@@ -11,8 +11,8 @@ Subscribes to a static event from the [RegionManager](/patterns-practices/refere
 
 Subscribes to a static event from the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) in order to register the target [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) in a [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) when one is available on the host control by walking up the tree and finding a control whose [RegionManagerProperty](/patterns-practices/reference/regionmanager-regionmanagerproperty-field-mspp-regions) property is not **Nothing**a null reference (**Nothing** in Visual Basic).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -31,12 +31,12 @@ Public Class RegionManagerRegistrationBehavior
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)<br/>
-    Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+  [Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
+    Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior  
       [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionManagerRegistrationBehavior](/patterns-practices/reference/mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors)
 
 ## See Also
 
-[RegionManagerRegistrationBehavior Members](/patterns-practices/reference/regionmanagerregistrationbehavior-members-mspp-regions-behaviors)<br/>
+[RegionManagerRegistrationBehavior Members](/patterns-practices/reference/regionmanagerregistrationbehavior-members-mspp-regions-behaviors)  
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

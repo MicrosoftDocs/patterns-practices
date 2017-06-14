@@ -50,5 +50,5 @@ Behavior's attached region.
 
 ## See Also
 
-[SelectorItemsSourceSyncBehavior Class](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)<br/>
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+[SelectorItemsSourceSyncBehavior Class](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)  

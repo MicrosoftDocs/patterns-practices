@@ -117,5 +117,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[AssemblyResolver Class](/patterns-practices/reference/assemblyresolver-class-mspp-modularity)<br/>
+[AssemblyResolver Class](/patterns-practices/reference/assemblyresolver-class-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

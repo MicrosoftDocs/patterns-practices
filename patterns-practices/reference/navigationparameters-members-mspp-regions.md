@@ -149,5 +149,5 @@ Gets the [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) with the spe
 
 ## See Also
 
-[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

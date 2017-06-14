@@ -10,8 +10,8 @@ ms:mtpsurl: 'viewsorthintattribute-class-mspp-regions.md'
 
 Provides a hint from a view to a region on how to sort the view.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -32,5 +32,5 @@ Public NotInheritable Class ViewSortHintAttribute
 
 ## See Also
 
-[ViewSortHintAttribute Members](/patterns-practices/reference/viewsorthintattribute-members-mspp-regions)<br/>
+[ViewSortHintAttribute Members](/patterns-practices/reference/viewsorthintattribute-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

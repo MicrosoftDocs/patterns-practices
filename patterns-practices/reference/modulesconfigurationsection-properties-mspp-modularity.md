@@ -147,5 +147,5 @@ Gets a [SectionInformation](http://msdn.microsoft.com/en-us/library/ms134738) ob
 
 ## See Also
 
-[ModulesConfigurationSection Class](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModulesConfigurationSection Class](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

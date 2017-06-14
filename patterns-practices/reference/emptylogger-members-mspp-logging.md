@@ -100,6 +100,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[EmptyLogger Class](/patterns-practices/reference/emptylogger-class-mspp-logging)<br/>
+[EmptyLogger Class](/patterns-practices/reference/emptylogger-class-mspp-logging)  
 
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)  

@@ -35,5 +35,5 @@ Gets the content to which the navigation request represented by navigationContex
 
 ## See Also
 
-[IRegionNavigationContentLoader Interface](/patterns-practices/reference/iregionnavigationcontentloader-interface-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[IRegionNavigationContentLoader Interface](/patterns-practices/reference/iregionnavigationcontentloader-interface-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

@@ -10,8 +10,8 @@ ms:mtpsurl: 'region-itemmetadatacollection-property-mspp-regions.md'
 
 Gets the collection with all the views along with their metadata.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -21,7 +21,7 @@ protected virtual ObservableCollection<ItemMetadata> ItemMetadataCollection { ge
 ```
 ### Property Value
 
-Type: [ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions)&gt;<br/>
+Type: [ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions)&gt;  
 An [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) with all the added views.
 
 ```VB
@@ -32,11 +32,11 @@ Protected Overridable ReadOnly Property ItemMetadataCollection As ObservableColl
 
 ### Property Value
 
-Type: [ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)(Of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions))<br/>
+Type: [ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)(Of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions))  
 An [ObservableCollection(Of T)](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) with all the added views.
 
 ## See Also
 
-[Region Class](/patterns-practices/reference/region-class-mspp-regions)<br/>
-[Region Members](/patterns-practices/reference/region-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)  
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

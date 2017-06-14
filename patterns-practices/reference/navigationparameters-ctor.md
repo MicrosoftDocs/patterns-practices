@@ -38,6 +38,6 @@ Initializes a new instance of the [NavigationParameters](/patterns-practices/ref
 
 ## See Also
 
-[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
-[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)<br/>
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -161,5 +161,5 @@ Initiates navigation to the target specified by the *target*.
 
 ## See Also
 
-[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)<br/>
+[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

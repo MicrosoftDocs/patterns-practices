@@ -56,5 +56,5 @@ Gets a shallow copy of all values in all lists.
 
 ## See Also
 
-[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

@@ -9,8 +9,8 @@ ms:mtpsurl: 'textlogger-log-method-mspp-logging.md'
 
 Write a new log entry with the specified category and priority.
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -52,6 +52,6 @@ The priority of the entry.
 
 ## See Also
 
-[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)<br/>
-[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)<br/>
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)  
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)  
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)  

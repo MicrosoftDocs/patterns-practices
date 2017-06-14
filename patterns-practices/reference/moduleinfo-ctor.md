@@ -12,7 +12,7 @@ Initializes a new empty instance of [ModuleInfo](/patterns-practices/reference/m
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
   
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -27,8 +27,8 @@ Public Sub New
 
 ## See Also
 
-[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)<br/>
-[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)<br/>
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
+[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)  
 ModuleInfo Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

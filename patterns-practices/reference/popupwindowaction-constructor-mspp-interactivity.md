@@ -10,8 +10,8 @@ ms:mtpsurl: 'popupwindowaction-constructor-mspp-interactivity.md'
 
 Initializes a new instance of the [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity) class
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -27,6 +27,6 @@ Public Sub New
 
 ## See Also
 
-[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)<br/>
-[PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)<br/>
-[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)  
+[PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)  
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)  

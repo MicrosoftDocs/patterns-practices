@@ -10,8 +10,8 @@ ms:mtpsurl: 'observableobject-t-class-mspp.md'
 
 Class that wraps an object, so that other classes can notify for Change events. Typically, this class is set as a Dependency Property on DependencyObjects, and allows other classes to observe any changes in the Value.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -43,15 +43,15 @@ Microsoft.Practices.Prism.ObservableObject&lt;T&gt;
 
 ## See Also
 
-[ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  
 
 # ObservableObject(Of T) Class
 
 Class that wraps an object, so that other classes can notify for Change events. Typically, this class is set as a Dependency Property on DependencyObjects, and allows other classes to observe any changes in the Value.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -84,5 +84,5 @@ Microsoft.Practices.Prism.ObservableObject(Of T)
 
 ## See Also
 
-[ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

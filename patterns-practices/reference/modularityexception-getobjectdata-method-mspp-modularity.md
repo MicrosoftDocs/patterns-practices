@@ -9,8 +9,8 @@ ms:mtpsurl: 'modularityexception-getobjectdata-method-mspp-modularity.md'
 
 Sets the [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) with information about the exception.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -47,6 +47,6 @@ The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that co
 
 ## See Also
 
-[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
-[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)<br/>  
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)  
+[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

@@ -9,8 +9,8 @@ ms:mtpsurl: 'iregionmanager-createregionmanager-method-mspp-regions.md'
 
 Creates a new region manager.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -32,6 +32,6 @@ A new region manager that can be used as a different scope from the current regi
 
 ## See Also
 
-[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)<br/>
-[IRegionManager Members](/patterns-practices/reference/iregionmanager-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
+[IRegionManager Members](/patterns-practices/reference/iregionmanager-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

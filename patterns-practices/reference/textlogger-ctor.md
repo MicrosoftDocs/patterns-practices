@@ -40,6 +40,6 @@ Initializes a new instance of [TextLogger](/patterns-practices/reference/textlog
 
 ## See Also
 
-[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)<br/>
-[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)<br/>
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)  
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)  
 [Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

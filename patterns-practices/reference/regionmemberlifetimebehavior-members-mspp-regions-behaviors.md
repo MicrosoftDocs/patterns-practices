@@ -165,5 +165,5 @@ Behavior's attached region.
 
 ## See Also
 
-[RegionMemberLifetimeBehavior Class](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)<br/>
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+[RegionMemberLifetimeBehavior Class](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)  

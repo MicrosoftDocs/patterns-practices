@@ -156,5 +156,5 @@ Behavior's attached region.
 
 ## See Also
 
-[MefClearChildViewsRegionBehavior Class](/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors)<br/>
+[MefClearChildViewsRegionBehavior Class](/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors)  
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

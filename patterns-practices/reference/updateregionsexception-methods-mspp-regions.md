@@ -116,5 +116,5 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 
 ## See Also
 
-[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

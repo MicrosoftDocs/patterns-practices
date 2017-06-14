@@ -10,8 +10,8 @@ ms:mtpsurl: 'regionmanager-regions-property-mspp-regions.md'
 
 Gets a collection of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that identify each region by name. You can use this collection to add or remove regions to the current region manager.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -27,7 +27,7 @@ Gets a collection of [IRegion](/patterns-practices/reference/iregion-interface-m
 
 ### Property Value
 
-Type: [IRegionCollection](/patterns-practices/reference/iregioncollection-interface-mspp-regions)<br/>
+Type: [IRegionCollection](/patterns-practices/reference/iregioncollection-interface-mspp-regions)  
 A [IRegionCollection](/patterns-practices/reference/iregioncollection-interface-mspp-regions) with all the registered regions.
 
 ### Implements
@@ -36,6 +36,6 @@ A [IRegionCollection](/patterns-practices/reference/iregioncollection-interface-
 
 ## See Also
 
-[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)<br/>
-[RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)  
+[RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

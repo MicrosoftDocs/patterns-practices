@@ -107,5 +107,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefRegionViewRegistry Class](/patterns-practices/reference/mefregionviewregistry-class-mspp-mefextensions-regions)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>
+[MefRegionViewRegistry Class](/patterns-practices/reference/mefregionviewregistry-class-mspp-mefextensions-regions)  
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  

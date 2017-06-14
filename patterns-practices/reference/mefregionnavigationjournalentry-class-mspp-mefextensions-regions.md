@@ -9,8 +9,8 @@ ms:mtpsurl: 'mefregionnavigationjournalentry-class-mspp-mefextensions-regions.md
 
 Exports the RegionNavigationJournalEntry using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -31,11 +31,11 @@ Public Class MefRegionNavigationJournalEntry
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)<br/>
+&nbsp;&nbsp;[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry
 
 ## See Also
 
-[MefRegionNavigationJournalEntry Members](/patterns-practices/reference/mefregionnavigationjournalentry-members-mspp-mefextensions-regions)<br/>
+[MefRegionNavigationJournalEntry Members](/patterns-practices/reference/mefregionnavigationjournalentry-members-mspp-mefextensions-regions)  
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

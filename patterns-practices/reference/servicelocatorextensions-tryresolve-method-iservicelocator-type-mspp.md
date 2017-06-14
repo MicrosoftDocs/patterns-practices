@@ -9,8 +9,8 @@ ms:mtpsurl: 'servicelocatorextensions-tryresolve-method-iservicelocator-type-msp
 
 Attempts to resolve specified type from the underlying IServiceLocator.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -85,7 +85,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 ## See Also
 
-[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)<br/>
-[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)<br/>
-[TryResolve Overload](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)  
+[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)  
+[TryResolve Overload](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

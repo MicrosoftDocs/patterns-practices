@@ -9,8 +9,8 @@ ms:mtpsurl: 'modulemanager-handlemoduletypeloadingerror-method-mspp-modularity.m
 
 Handles any exception occurred in the module typeloading process, logs the error using the [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) and throws a [ModuleTypeLoadingException](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity). This method can be overridden to provide a different behavior.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -49,6 +49,6 @@ The exception thrown that is the cause of the current error.
 
 ## See Also
 
-[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)<br/>
-[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)  
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

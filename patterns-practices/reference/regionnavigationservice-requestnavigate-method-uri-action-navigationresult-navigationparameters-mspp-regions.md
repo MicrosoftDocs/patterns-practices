@@ -9,8 +9,8 @@ ms:mtpsurl: 'regionnavigationservice-requestnavigate-method-mspp-regions.md'
 
 Initiates navigation to the specified target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -48,8 +48,8 @@ The navigation parameters specific to the navigation request.
 
 Initiates navigation to the specified target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -85,7 +85,7 @@ The navigation parameters specific to the navigation request.
 
 ## See Also
 
-[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)<br/>
-[RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)<br/>
-[RequestNavigate Overload](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-mspp-regions)<br/>
+[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)  
+[RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)  
+[RequestNavigate Overload](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

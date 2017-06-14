@@ -10,8 +10,8 @@ ms:mtpsurl: 'defaultconfirmationwindow-constructor-mspp-interactivity-defaultpop
 
 Creates a new instance of ConfirmationChildWindow.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,6 +26,6 @@ Public Sub New
 
 ## See Also
 
-[DefaultConfirmationWindow Class](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows)<br/>
-[DefaultConfirmationWindow Members](/patterns-practices/reference/defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwindows)<br/>
+[DefaultConfirmationWindow Class](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows)  
+[DefaultConfirmationWindow Members](/patterns-practices/reference/defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwindows)  
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)

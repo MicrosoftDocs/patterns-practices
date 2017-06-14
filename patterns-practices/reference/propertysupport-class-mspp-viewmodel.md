@@ -9,8 +9,8 @@ ms:mtpsurl: 'propertysupport-class-mspp-viewmodel.md'
 
 Provides support for extracting property information based on a property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -34,5 +34,5 @@ Public NotInheritable Class PropertySupport
 
 ## See Also
 
-[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)<br/>
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)  
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)  

@@ -9,8 +9,8 @@ ms:mtpsurl: 'viewscollection-getenumerator-method-mspp-regions.md'
 
 Returns an enumerator that iterates through the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -33,7 +33,7 @@ Public Function GetEnumerator As IEnumerator(Of Object)
 
 ### Return Value
 
-Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))<br/>
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))  
 A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 ### Implements
 
@@ -41,6 +41,6 @@ A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can
 
 ## See Also
 
-[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)<br/>
-[ViewsCollection Members](/patterns-practices/reference/viewscollection-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)  
+[ViewsCollection Members](/patterns-practices/reference/viewscollection-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

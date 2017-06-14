@@ -53,6 +53,6 @@ Initializes a new instance of the [RegionCreationException](/patterns-practices/
 
 ## See Also
 
-[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)<br/>
-[RegionCreationException Members](/patterns-practices/reference/regioncreationexception-members-mspp-regions-behaviors)<br/>
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)  
+[RegionCreationException Members](/patterns-practices/reference/regioncreationexception-members-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)  

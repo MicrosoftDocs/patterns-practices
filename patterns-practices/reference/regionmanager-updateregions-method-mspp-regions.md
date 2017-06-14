@@ -10,7 +10,7 @@ ms:mtpsurl: 'regionmanager-updateregions-method-mspp-regions.md'
 Notifies attached behaviors to update the region managers appropriatelly if needed to.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -32,4 +32,4 @@ This method is normally called internally, and there is usually no need to call 
 
 [RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)  
 [RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

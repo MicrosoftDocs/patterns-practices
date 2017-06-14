@@ -9,8 +9,8 @@ ms:mtpsurl: 'moduledependencysolver-class-mspp-modularity.md'
 
 Used by [ModuleInitializer](/patterns-practices/reference/moduleinitializer-class-mspp-modularity) to get the load sequence for the modules to load according to their dependencies.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -31,5 +31,5 @@ Public Class ModuleDependencySolver
 
 ## See Also
 
-[ModuleDependencySolver Members](/patterns-practices/reference/moduledependencysolver-members-mspp-modularity)<br/>
+[ModuleDependencySolver Members](/patterns-practices/reference/moduledependencysolver-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

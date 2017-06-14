@@ -9,8 +9,8 @@ ms:mtpsurl: 'ieventsubscription-interface-mspp-pubsubevents.md'
 
 Defines a contract for an event subscription to be used by [EventBase](https://review.docs.microsoft.com/en-us/patterns-practices/reference/eventbase-class-mspp-pubsubevents).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

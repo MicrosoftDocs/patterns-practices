@@ -39,6 +39,6 @@ The region that this behavior is extending.
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 =======
-[IRegionBehavior Interface](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[IRegionBehavior Interface](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
 >>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

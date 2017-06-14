@@ -164,5 +164,5 @@ Behavior's attached region.
 
 ## See Also
 
-[MefAutoPopulateRegionBehavior Class](https://review.docs.microsoft.com/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>
+[MefAutoPopulateRegionBehavior Class](https://review.docs.microsoft.com/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors)  
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)  

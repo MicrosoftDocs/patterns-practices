@@ -9,8 +9,8 @@ ms:mtpsurl: 'iloggerfacade-log-method-mspp-logging.md'
 
 Write a new log entry with the specified category and priority.
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -34,7 +34,7 @@ Sub Log (
 ### Parameters
 
 _message_  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>Message body to log.
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  Message body to log.
 
 _category_  
 Type: [Microsoft.Practices.Prism.Logging.Category](/patterns-practices/reference/category-enumeration-mspp-logging)  
@@ -46,6 +46,6 @@ The priority of the entry
 
 ## See Also
 
-[ILoggerFacade Interface](/patterns-practices/reference/ILoggerFacade-class-mspp-logging)<br/>
-[ILoggerFacade Members](/patterns-practices/reference/ILoggerFacade-members-mspp-logging)<br/>
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>
+[ILoggerFacade Interface](/patterns-practices/reference/ILoggerFacade-class-mspp-logging)  
+[ILoggerFacade Members](/patterns-practices/reference/ILoggerFacade-members-mspp-logging)  
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)  

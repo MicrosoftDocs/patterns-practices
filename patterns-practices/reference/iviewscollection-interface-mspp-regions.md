@@ -10,12 +10,12 @@ ms:mtpsurl: 'iviewscollection-interface-mspp-regions.md'
 Defines a view of a collection.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 public interface IViewsCollection : IEnumerable&lt;Object&gt;, IEnumerable, INotifyCollectionChangedPublic Interface IViewsCollection Inherits IEnumerable(Of Object), IEnumerable, INotifyCollectionChanged
 
 ## See Also
-[IViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iviewscollection)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>
+[IViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iviewscollection)  
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  

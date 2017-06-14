@@ -9,8 +9,8 @@ ms:mtpsurl: 'inavigationaware-onnavigatedfrom-method-mspp-regions.md'
 
 Called when the implementer is being navigated away from.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -38,6 +38,6 @@ The navigation context.
 
 ## See Also
 
-[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)<br/>
-[INavigationAware Members](/patterns-practices/reference/inavigationaware-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)  
+[INavigationAware Members](/patterns-practices/reference/inavigationaware-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

@@ -42,5 +42,5 @@ Behavior's attached region.
 
 ## See Also
 
-[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

@@ -9,8 +9,8 @@ ms:mtpsurl: 'navigationasyncextensions-requestnavigate-method-inavigateasync-str
 
 Initiates navigation to the target specified by the *target*.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,28 +26,28 @@ Initiates navigation to the target specified by the *target*.
 
 ### Parameters
 
-*navigation*<br/>
-Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp-regions)<br/>
+*navigation*  
+Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp-regions)  
 The navigation object.
 
-*target*<br/>
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
+*target*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The navigation target
 
-*navigationCallback*<br/>
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;<br/>
+*navigationCallback*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;  
 The callback executed when the navigation request is completed.
 
-*navigationParameters*<br/>
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
+*navigationParameters*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 An instance of NavigationParameters, which holds a collection of object parameters.
 
 # NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, String, Action(Of NavigationResult), NavigationParameters)
 
 Initiates navigation to the target specified by the *target*.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -65,20 +65,20 @@ Public Shared Sub RequestNavigate (
 
 ### Parameters
 
-*navigation*<br/>
-Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp-regions)<br/>
+*navigation*  
+Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp-regions)  
 The navigation object.
 
-*target*<br/>
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
+*target*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The navigation target
 
-*navigationCallback*<br/>
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions))<br/>
+*navigationCallback*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions))  
 The callback executed when the navigation request is completed.
 
-*navigationParameters*<br/>
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
+*navigationParameters*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 An instance of NavigationParameters, which holds a collection of object parameters.
 
 ### Usage Note
@@ -87,7 +87,7 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 ## See Also
 
-[NavigationAsyncExtensions Class](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions)<br/>
-[NavigationAsyncExtensions Members](https://review.docs.microsoft.com/patterns-practices/reference/navigationasyncextensions-members-mspp-regions)<br/>
-[RequestNavigate Overload](https://review.docs.microsoft.com/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-mspp-regions)<br/>
+[NavigationAsyncExtensions Class](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions)  
+[NavigationAsyncExtensions Members](https://review.docs.microsoft.com/patterns-practices/reference/navigationasyncextensions-members-mspp-regions)  
+[RequestNavigate Overload](https://review.docs.microsoft.com/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

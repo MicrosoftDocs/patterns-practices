@@ -9,8 +9,8 @@ ms:mtpsurl: 'eventbase-subscriptions-property-mspp-pubsubevents.md'
 
 Gets the list of current subscriptions.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -43,7 +43,7 @@ The current subscribers.
 
 ## See Also
 
-[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
+[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
 EventBase Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

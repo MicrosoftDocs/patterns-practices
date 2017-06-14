@@ -9,8 +9,8 @@ ms:mtpsurl: 'iassemblyresolver-interface-mspp-modularity.md'
 
 Interface for classes that are responsible for resolving and loading assembly files.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,5 +26,5 @@ Public Interface IAssemblyResolver
 
 ## See Also
 
-[IAssemblyResolver Members](/patterns-practices/reference/iassemblyresolver-members-mspp-modularity)<br/>
+[IAssemblyResolver Members](/patterns-practices/reference/iassemblyresolver-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

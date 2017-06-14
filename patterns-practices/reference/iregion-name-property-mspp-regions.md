@@ -10,8 +10,8 @@ ms:mtpsurl: 'iregion-name-property-mspp-regions.md'
 
 Gets the name of the region that uniequely identifies the region within a [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -42,7 +42,7 @@ The name of the region.
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 =======
-[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)<br/>
-[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)  
+[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
 >>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

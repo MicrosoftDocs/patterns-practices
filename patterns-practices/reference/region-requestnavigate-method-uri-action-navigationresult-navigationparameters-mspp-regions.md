@@ -9,8 +9,8 @@ ms:mtpsurl: 'region-requestnavigate-method-mspp-regions.md'
 
 Initiates navigation to the specified target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,15 +26,15 @@ public void RequestNavigate(
 ### Parameters
 
 *target*  
-Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)<br/>
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)  
 The target.
 
-*navigationCallback*<br/>
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;<br/>
+*navigationCallback*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;  
 A callback to execute when the navigation request is completed.
 
 *navigationParameters*  
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 The navigation parameters specific to the navigation request.
 
 ### Implements
@@ -46,8 +46,8 @@ The navigation parameters specific to the navigation request.
 
 Initiates navigation to the specified target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>**Version:** 5.0.0.0 (5.0.0.0)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -63,15 +63,15 @@ Public Sub RequestNavigate (
 ### Parameters
 
 *target*  
-Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)<br/>
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)  
 The target.
 
-*navigationCallback*<br/>
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions))<br/>
+*navigationCallback*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions))  
 A callback to execute when the navigation request is completed.
 
 *navigationParameters*  
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 The navigation parameters specific to the navigation request.
 
 ### Implements
@@ -80,7 +80,7 @@ The navigation parameters specific to the navigation request.
 
 ## See Also
 
-[Region Class](/patterns-practices/reference/region-class-mspp-regions)<br/>
-[Region Members](/patterns-practices/reference/region-members-mspp-regions)<br/>
-[RequestNavigate Overload](/patterns-practices/reference/region-requestnavigate-method-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)  
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
+[RequestNavigate Overload](/patterns-practices/reference/region-requestnavigate-method-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

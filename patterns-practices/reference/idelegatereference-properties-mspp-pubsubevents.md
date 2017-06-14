@@ -36,5 +36,5 @@ Gets the referenced [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 
 ## See Also
 
-[IDelegateReference Interface](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)<br/>
+[IDelegateReference Interface](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)  
 [Microsoft.Practices.Prism.PubSubEvents Namespace ](/patterns-practices/reference/mspp-pubsubevents-namespace)

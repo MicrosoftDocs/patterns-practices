@@ -9,8 +9,8 @@ ms:mtpsurl: 'delegatecommand-constructor-action-func-boolean-mspp-commands.md'
 
 Creates a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution and a **Func** to query for determining if the command can execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 # Syntax
@@ -38,18 +38,18 @@ public DelegateCommand(
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)  
 DelegateCommand Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  
 
 # DelegateCommand Constructor (Action, Func(Of Boolean))
 
 Creates a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution and a **Func** to query for determining if the command can execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 # Syntax
@@ -78,8 +78,8 @@ Public Sub New (
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)  
 DelegateCommand Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  

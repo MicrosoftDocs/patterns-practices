@@ -102,5 +102,5 @@ Removes the subscriber matching the [SubscriptionToken](/patterns-practices/refe
 
 ## See Also
 
-[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

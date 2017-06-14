@@ -10,8 +10,8 @@ ms:mtpsurl: 'unityregionnavigationcontentloader-class-mspp-unityextensions-regio
 Specialization of the default RegionNavigationContentLoader that queries the corresponding IUnityContainer to obtain the name of the view's type registered for the contract name. 
 
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)<br/>
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)  
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -34,5 +34,5 @@ Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLo
 
 ## See Also
 
-[UnityRegionNavigationContentLoader Members](/patterns-practices/reference/unityregionnavigationcontentloader-members-mspp-unityextensions-regions)<br/>
-[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)<br/>
+[UnityRegionNavigationContentLoader Members](/patterns-practices/reference/unityregionnavigationcontentloader-members-mspp-unityextensions-regions)  
+[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)  

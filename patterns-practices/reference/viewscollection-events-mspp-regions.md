@@ -33,5 +33,5 @@ Occurs when the collection changes.
 
 ## See Also
 
-[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
