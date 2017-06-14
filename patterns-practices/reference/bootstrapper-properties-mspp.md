@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Bootstrapper'
 ms:mtpsurl: 'bootstrapper-properties-mspp.md'
 ---
 
-
 # Bootstrapper Properties
 
 The [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp) type exposes the following members.
@@ -16,7 +15,7 @@ The [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp) type e
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -24,21 +23,21 @@ The [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp) type e
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/bootstrapper-logger-property-mspp">Logger</a></td>
+<td>[Logger](/patterns-practices/reference/bootstrapper-logger-property-mspp)</td>
 <td><div class="summary">
-Gets the <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a> for the application.
+Gets the [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) for the application.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/bootstrapper-modulecatalog-property-mspp">ModuleCatalog</a></td>
+<td>[ModuleCatalog](/patterns-practices/reference/bootstrapper-modulecatalog-property-mspp)</td>
 <td><div class="summary">
-Gets the default <a href="/patterns-practices/reference/imodulecatalog-interface-mspp-modularity">IModuleCatalog</a> for the application.
+Gets the default [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) for the application.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/bootstrapper-shell-property-mspp">Shell</a></td>
+<td>[Shell](/patterns-practices/reference/bootstrapper-shell-property-mspp)</td>
 <td><div class="summary">
 Gets the shell user interface
 </div></td>
