@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Confi
 ms:mtpsurl: 'unitybootstrapper-configurecontainer-method-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapper.ConfigureContainer Method
 
 Configures the IUnityContainer. May be overwritten in a derived class to add specific type mappings required by the application.

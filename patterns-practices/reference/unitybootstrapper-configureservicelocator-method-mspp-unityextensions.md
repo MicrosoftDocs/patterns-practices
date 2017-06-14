@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Confi
 ms:mtpsurl: 'unitybootstrapper-configureservicelocator-method-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapper.ConfigureServiceLocator Method
 
 Configures the LocatorProvider for the ServiceLocator.

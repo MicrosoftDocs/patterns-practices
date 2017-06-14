@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.GetView(System.String)'
 ms:mtpsurl: 'region-getview-method-mspp-regions.md'
 ---
 
-
 # Region.GetView Method
 
 Returns the view instance that was added to the region using a specific name.

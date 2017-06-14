@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Deactivate(System.Object
 ms:mtpsurl: 'region-deactivate-method-mspp-regions.md'
 ---
 
-
 # Region.Deactivate Method
 
 Marks the specified view as inactive.
