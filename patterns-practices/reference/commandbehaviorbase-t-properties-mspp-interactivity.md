@@ -26,7 +26,7 @@ The [CommandBehaviorBase&lt;T&gt;](/patterns-practices/reference/commandbehavior
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/protect-method.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Command](https://msdn.microsoft.com/en-us/library/dn736180(v=pandp.50))</td>
 <td><div class="summary">
 Corresponding command to be execute and monitored for [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106)

@@ -15,17 +15,17 @@ Creates a new instance of the [RegionViewRegistry](/patterns-practices/reference
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+```C#
 public RegionViewRegistry(
 	IServiceLocator locator
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New ( 
 	locator As IServiceLocator
 )
-~~~
+```
 
 ### Parameters
 

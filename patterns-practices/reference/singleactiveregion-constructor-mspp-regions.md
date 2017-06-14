@@ -17,13 +17,13 @@ Initializes a new instance of the [SingleActiveRegion](/patterns-practices/refer
 
 ## Syntax
 
-~~~C#
+```C#
 public SingleActiveRegion()
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New
-~~~
+```
 ## See Also
 
 [SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)<br/>

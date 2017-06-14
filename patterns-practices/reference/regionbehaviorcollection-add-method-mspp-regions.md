@@ -16,19 +16,19 @@ Adds a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface
 
 ## Syntax
 
-~~~C#
+```C#
 public void Add(
 	string key,
 	IRegionBehavior regionBehavior
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub Add ( 
 	key As String,
 	regionBehavior As IRegionBehavior
 )
-~~~
+```
 
 ### Parameters
 

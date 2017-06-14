@@ -16,14 +16,14 @@ Associate a view with a region, by registering a type. When the region get's dis
 
 ## Syntax
 
-~~~C#
+```C#
 public static IRegionManager RegisterViewWithRegion(
 	this IRegionManager regionManager,
 	string regionName,
 	Type viewType
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 <ExtensionAttribute> 
 Public Shared Function RegisterViewWithRegion ( 
@@ -31,20 +31,20 @@ Public Shared Function RegisterViewWithRegion (
 	regionName As String,
 	viewType As Type
 ) As IRegionManager
-~~~
+```
 ### Parameters
 
 _regionManager_  
-Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
-The regionmanager that this extension method effects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The regionmanager that this extension method effects.
 
 _regionName_  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
-The name of the region to associate the view with.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name of the region to associate the view with.
 
 _viewType_  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
-The type of the view to register with the
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type of the view to register with the
 
 ### Return Value
 

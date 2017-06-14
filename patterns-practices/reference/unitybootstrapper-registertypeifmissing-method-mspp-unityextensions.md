@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Regis
 ms:mtpsurl: 'unitybootstrapper-registertypeifmissing-method-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapper.RegisterTypeIfMissing Method
 
 Registers a type in the container only if that type was not already registered.

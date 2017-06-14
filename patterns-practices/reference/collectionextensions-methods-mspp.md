@@ -24,6 +24,7 @@ The [CollectionExtensions](/patterns-practices/reference/collectionextensions-cl
 </thead>
 <tbody>
 <tr class="odd">
+
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td>[AddRange&lt;T&gt;](/patterns-practices/reference/collectionextensions-addrange-t-method-mspp)</td>
 <td><div class="summary">
@@ -36,4 +37,4 @@ Add a range of items to a collection.
 ## See Also
 
 [CollectionExtensions Class](/patterns-practices/reference/collectionextensions-class-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

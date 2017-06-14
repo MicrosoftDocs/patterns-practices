@@ -5,17 +5,14 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFo
 ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 ---
 
-
 # ModuleTypeLoaderNotFoundException Constructor
 
-## Overload List
-
+## Overload List
 
 <table>
-
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -23,18 +20,18 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleTypeLoaderNotFoundException</td>
+<td>ModuleTypeLoaderNotFoundException()</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity
-">ModuleTypeLoaderNotFoundException</a> class.
+Initializes a new instance of the [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity
+) class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>ModuleTypeLoaderNotFoundException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity
-">ModuleTypeLoaderNotFoundException</a> class with a specified error message.
+Initializes a new instance of the [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity
+) class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
@@ -48,7 +45,7 @@ Initializes a new instance with serialized data.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>ModuleTypeLoaderNotFoundException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity">ModuleTypeLoaderNotFoundException</a> class with a specified error message.
+Initializes a new instance of the [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity) class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">

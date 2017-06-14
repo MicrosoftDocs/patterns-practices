@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper.Tr
 ms:mtpsurl: 'unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-unityextensions.md'
 ---
 
-
 # UnityContainerHelper.TryResolve Method (IUnityContainer, Type)
 
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.

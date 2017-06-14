@@ -16,7 +16,7 @@ The [MefItemsControlRegionAdapter](/patterns-practices/reference/mefitemscontrol
 <table>
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -24,11 +24,11 @@ The [MefItemsControlRegionAdapter](/patterns-practices/reference/mefitemscontrol
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/regionadapterbase-t-regionbehaviorfactory-property-mspp-regions">RegionBehaviorFactory</a></td>
+<td>[RegionBehaviorFactory](/patterns-practices/reference/regionadapterbase-t-regionbehaviorfactory-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 </div>
-(Inherited from <a href="/patterns-practices/reference/regionadapterbase-t-class-mspp-regions">RegionAdapterBase&lt;T&gt;</a>.)</td>
+(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>

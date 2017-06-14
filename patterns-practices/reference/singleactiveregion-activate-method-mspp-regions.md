@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SingleActiveRegion.Activate(Sys
 ms:mtpsurl: 'singleactiveregion-activate-method-mspp-regions.md'
 ---
 
-
 # SingleActiveRegion.Activate Method
 
 Marks the specified view as active.

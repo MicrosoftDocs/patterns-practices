@@ -54,7 +54,7 @@ Public Enumeration ThreadOption
 
 |     | Member name      | Value | Description                                                                                                                                                                                       |
 |-----|------------------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | PublisherThread  | 0     | The call is done on the same thread on which the [PubSubEvent(Of TPayload)](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent%601) was published. |
+|     | PublisherThread  | 0     | The call is done on the same thread on which the [PubSubEvent(Of TPayload)](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) was published. |
 |     | UIThread         | 1     | The call is done on the UI thread.                                                                                                                                                                |
 |     | BackgroundThread | 2     | The call is done asynchronously on a background thread.                                                                                                                                           |
 

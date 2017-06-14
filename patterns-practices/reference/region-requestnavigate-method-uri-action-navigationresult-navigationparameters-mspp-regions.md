@@ -5,14 +5,13 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.RequestNavigate(System.U
 ms:mtpsurl: 'region-requestnavigate-method-mspp-regions.md'
 ---
 
-
-
 # Region.RequestNavigate Method (Uri, Action&lt;NavigationResult&gt;, NavigationParameters)
 
 Initiates navigation to the specified target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -31,30 +30,24 @@ Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)<br/>
 The target.
 
 *navigationCallback*<br/>
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/mspp-regions-namespace.navigationresult)&gt;<br/>
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;<br/>
 A callback to execute when the navigation request is completed.
 
 *navigationParameters*  
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/mspp-regions-namespace.navigationparameters)<br/>
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
 The navigation parameters specific to the navigation request.
 
 ### Implements
 
 [INavigateAsync.RequestNavigate(Uri, Action&lt;NavigationResult&gt;, NavigationParameters)](/patterns-practices/reference/inavigateasync-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions)
 
-## See Also
-
-[Region Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region(v=pandp.50))<br/>
-[Region Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region_members(v=pandp.50))<br/>
-[RequestNavigate Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.requestnavigate(v=pandp.50))<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
 
 # Region.RequestNavigate Method (Uri, Action(Of NavigationResult), NavigationParameters)
 
 Initiates navigation to the specified target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -74,11 +67,11 @@ Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)<br/>
 The target.
 
 *navigationCallback*<br/>
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/mspp-regions-namespace.navigationresult))<br/>
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions))<br/>
 A callback to execute when the navigation request is completed.
 
 *navigationParameters*  
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/mspp-regions-namespace.navigationparameters)<br/>
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
 The navigation parameters specific to the navigation request.
 
 ### Implements
@@ -87,7 +80,7 @@ The navigation parameters specific to the navigation request.
 
 ## See Also
 
-[Region Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region(v=pandp.50))<br/>
-[Region Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region_members(v=pandp.50))<br/>
-[RequestNavigate Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.requestnavigate(v=pandp.50))<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)<br/>
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)<br/>
+[RequestNavigate Overload](/patterns-practices/reference/region-requestnavigate-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

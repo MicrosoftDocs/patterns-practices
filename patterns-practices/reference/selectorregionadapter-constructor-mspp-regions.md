@@ -16,17 +16,17 @@ Initializes a new instance of [SelectorRegionAdapter](/patterns-practices/refere
 
 ## Syntax
 
-~~~C#
+```C#
 public SelectorRegionAdapter(
 	IRegionBehaviorFactory regionBehaviorFactory
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New ( 
 	regionBehaviorFactory As IRegionBehaviorFactory
 )
-~~~
+```
 
 ### Parameters
 

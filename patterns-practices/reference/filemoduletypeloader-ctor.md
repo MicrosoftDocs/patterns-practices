@@ -25,14 +25,14 @@ ms:mtpsurl: 'filemoduletypeloader-constructor-iassemblyresolver-mspp-modularity.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>FileModuleTypeLoader</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity">FileModuleTypeLoader</a> class.
+Initializes a new instance of the [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity) class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>FileModuleTypeLoader(IAssemblyResolver)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity">FileModuleTypeLoader</a> class.
+Initializes a new instance of the [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity) class.
 </div></td>
 </tr>
 </tbody>

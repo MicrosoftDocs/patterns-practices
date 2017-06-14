@@ -5,7 +5,6 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.RegionNavigationService'
 ms:mtpsurl: 'regionnavigationservice-events-mspp-regions.md'
 ---
 
-
 # RegionNavigationService Events
 
 The [RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions) type exposes the following members.

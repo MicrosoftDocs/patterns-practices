@@ -5,17 +5,14 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreation
 ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 ---
 
-
 # RegionCreationException Constructor
 
-## Overload List
-
+## Overload List
 
 <table>
-
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -23,32 +20,32 @@ ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>RegionCreationException</td>
+<td>RegionCreationException()</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors
-">RegionCreationException</a>
+Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors
+)
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>RegionCreationException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors
-">RegionCreationException</a> class with a specified error message.
+Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors
+) class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>RegionCreationException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors">RegionCreationException</a> class with serialized data.
+Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors) class with serialized data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>RegionCreationException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors">RegionCreationException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 </tbody>

@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.IHostAware
 ms:mtpsurl: 'ihostawareregionbehavior-members-mspp-regions-behaviors.md'
 ---
 
-
 # IHostAwareRegionBehavior Members
 
-The [IHostAwareRegionBehavior](/patterns-practices/reference/ihostawareregionbehavior-class-mspp-modularity) type exposes the following members.
+The [IHostAwareRegionBehavior](/patterns-practices/reference/ihostawareregionbehavior-interface-mspp-regions-behaviors) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -35,7 +33,6 @@ Attaches the behavior to the specified region.
 </table>
 
 ## Properties
-
 
 <table>
 

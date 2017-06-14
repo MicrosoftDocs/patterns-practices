@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigationAware.IsNavigationTa
 ms:mtpsurl: 'inavigationaware-isnavigationtarget-method-mspp-regions.md'
 ---
 
-
 # INavigationAware.IsNavigationTarget Method
 
 Called to determine if this instance can handle the navigation request.
@@ -21,6 +20,19 @@ bool IsNavigationTarget(
 	NavigationContext navigationContext
 )
 ```
+
+### Parameters
+
+*navigationContext*<br/>
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)<br/>
+The navigation context.
+
+### Return Value
+
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+**truetrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **falsefalse** (**False** in Visual Basic).
+
+
 ```VB
 'Declaration
 Function IsNavigationTarget ( 
@@ -30,17 +42,14 @@ Function IsNavigationTarget (
 
 ### Parameters
 
-*navigationContext*  
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
-
+*navigationContext*<br/>
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)<br/>
 The navigation context.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
-**truetrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **falsefalse** (**False** in Visual Basic).
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+**Truetrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **Falsefalse** (**False** in Visual Basic).
 
 ## See Also
 

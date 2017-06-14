@@ -4,7 +4,8 @@ Title: 'IRegion.SortComparison Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegion.SortComparison'
 ms:mtpsurl: 'iregion-sortcomparison-property-mspp-regions.md'
 ---
-
+
+
 # IRegion.SortComparison Property
 
 Gets or sets the comparison used to sort the views.
@@ -12,10 +13,20 @@ Gets or sets the comparison used to sort the views.
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
-## Syntax
-```C#
+
+## Syntax
+
+```C#
     Comparison<Object> SortComparison { get; set; }
 ```
+
+### Property Value
+
+Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
+
+The comparison to use.
+
+
 ```VB
    'Declaration
     Property SortComparison As Comparison(Of Object)

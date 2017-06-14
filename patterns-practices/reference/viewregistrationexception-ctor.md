@@ -15,13 +15,13 @@ Initializes a new instance of the [ViewRegistrationException](/patterns-practice
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+```C#
 public ViewRegistrationException()
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New
-~~~
+```
 
 ## See Also
 

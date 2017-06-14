@@ -55,6 +55,7 @@ Represets a catalog created from a directory on disk.
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
+
 <td>[DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)</td>
 <td><div>
 Exception thrown when a module is declared twice in the same catalog.

@@ -4,13 +4,12 @@ Title: 'ViewsCollection Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.ViewsCollection'
 ms:mtpsurl: 'viewscollection-events-mspp-regions.md'
 ---
-
+
 # ViewsCollection Events
 
-The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) type exposes the following members.
+The [ViewsCollection](/patterns-practices/reference/viewscollection-class-mspp-regions) type exposes the following members.
 
 ## Events
-
 
 <table>
 
@@ -24,7 +23,7 @@ The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.collectionchanged">CollectionChanged</a></td>
+<td>[CollectionChanged](/patterns-practices/reference/viewscollection-collectionchanged-event-mspp-regions)</td>
 <td><div class="summary">
 Occurs when the collection changes.
 </div></td>
@@ -33,5 +32,6 @@ Occurs when the collection changes.
 </table>
 
 ## See Also
-[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>
+
+[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

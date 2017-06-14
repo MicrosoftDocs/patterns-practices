@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Initi
 ms:mtpsurl: 'unitybootstrapper-initializemodules-method-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapper.InitializeModules Method
 
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
