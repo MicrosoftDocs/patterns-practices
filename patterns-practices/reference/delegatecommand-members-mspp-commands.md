@@ -172,35 +172,12 @@ Returns a string that represents the current object.
 </table>
 
 ## Fields
-<table>
-<thead>
-<tr class="header">
-<th> </th>
-<th>Name</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>[_canExecuteMethod](/patterns-practices/reference/canexecutemthd-field)</td>
-<td><div class="summary">
-(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands.)
-</div>
-</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>[_executeMethod](/patterns-practices/reference/executemthd-field)</td>
-<td><div class="summary">
-(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands.)
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 
 
+|                                                                                                | Name                                                                                                                        | Description |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------|
+| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_canExecuteMethod](/patterns-practices/reference/canexecutemthd-field) |      (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)       |
+| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_executeMethod](/patterns-practices/reference/executemthd-field)       |       (Inherited from  [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)      |
 ## Properties
 
 <table>
