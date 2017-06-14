@@ -16,7 +16,7 @@ The [MefRegionViewRegistry](/patterns-practices/reference/mefregionviewregistry-
 <table>
 
 <thead>
-<tr class="header">
+<tr class="header"> 
 <th> </th>
 <th>Name</th>
 <th>Description</th>
@@ -103,7 +103,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td> 
 <td>[RegisterViewWithRegion(String, Func(Of Object))](/patterns-practices/reference/regionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions)</td>
 <td><div class="summary">
 Registers a delegate that can be used to retrieve the content associated with a region name.

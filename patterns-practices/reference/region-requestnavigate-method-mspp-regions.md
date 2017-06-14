@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.Region.RequestNavigate'
 ms:mtpsurl: 'region-requestnavigate-method-mspp-regions.md'
 ---
 
-
 # Region.RequestNavigate Method
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,14 +20,14 @@ ms:mtpsurl: 'region-requestnavigate-method-mspp-regions.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RequestNavigate(Uri, Action(Of NavigationResult))](/patterns-practices/reference/region-requestnavigate-method-mspp-regions)</td>
+<td>[RequestNavigate(Uri, Action(Of NavigationResult))](/patterns-practices/reference/region-requestnavigate-method-uri-action-navigationresult-mspp-regions)</td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/region-requestnavigate-method-mspp-regions)</td>
+<td>[RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/region-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions)</td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div></td>

@@ -26,12 +26,12 @@ The [ModularityException](/patterns-practices/reference/modularityexception-clas
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected event](/patterns-practices/reference/images/protevent.gif)</td>
+<td>![Protected event](/patterns-practices/reference/images/protected-event.gif)</td>
 <td>[SerializeObjectState](http://msdn.microsoft.com/en-us/library/ee332915)</td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 </tbody>
 </table>

@@ -38,5 +38,5 @@ Initiates navigation to the specified target.
 ## See Also
 
 [RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)<br/>
-[RegionNavigationService Members](https://review.docs.microsoft.com/patterns-practices/reference/regionnavigationservice-members-mspp-regions)<br/>
+[RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

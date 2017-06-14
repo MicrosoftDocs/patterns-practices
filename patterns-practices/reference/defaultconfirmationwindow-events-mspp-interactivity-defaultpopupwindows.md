@@ -5,7 +5,6 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindow
 ms:mtpsurl: 'defaultconfirmationwindow-events-mspp-interactivity-defaultpopupwindows.md'
 ---
 
-
 # DefaultConfirmationWindow Events
 
 The [DefaultConfirmationWindow](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows) type exposes the following members.
@@ -46,7 +45,7 @@ Occurs when the window is about to close.
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td>[Closing](http://msdn.microsoft.com/en-us/library/ms596798)</td>
 <td><div class="summary">
-Occurs directly after [Close()()()](http://msdn.microsoft.com/en-us/library/ms599697) is called, and can be handled to cancel window closure.
+Occurs directly after [Close](http://msdn.microsoft.com/en-us/library/ms599697) is called, and can be handled to cancel window closure.
 </div>
 (Inherited from [Window](http://msdn.microsoft.com/en-us/library/ms590112).)</td>
 </tr>

@@ -115,7 +115,7 @@ Returns a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-ms
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[EnsureCatalogValidated](/patterns-practices/reference/modulecatalog-ensurecatalogvalidated-method-mspp-modularity)</td>
 <td><div class="summary">
-Ensures that the catalog is validated.
+Ensures that the catalog is validated. 
 </div>
 (Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>

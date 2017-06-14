@@ -131,7 +131,7 @@ Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms58
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
+Returns **Truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **Falsefalse** (**False** in Visual Basic) otherwise.
 </div>
 (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>

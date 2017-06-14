@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegion
 ms:mtpsurl: 'syncregioncontextwithhostbehavior-members-mspp-regions-behaviors.md'
 ---
 
-
 # SyncRegionContextWithHostBehavior Members
 
 The [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 
@@ -34,7 +32,6 @@ Initializes a new instance of the [SyncRegionContextWithHostBehavior](/patterns-
 </table>
 
 ## Methods
-
 
 <table>
 
@@ -100,7 +97,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Override this method to perform the logic after the behavior has been attached.
 </div>
-(Overrides [RegionBehavior.OnAttach()](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions).)</td>
+(Overrides [RegionBehavior.OnAttach](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -115,7 +112,6 @@ Returns a string that represents the current object.
 
 ## Fields
 
-
 <table>
 
 <thead>
@@ -127,7 +123,7 @@ Returns a string that represents the current object.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[BehaviorKey](/patterns-practices/reference/regionmanagerregistrationbehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Name that identifies the SyncRegionContextWithHostBehavior behavior in a collection of RegionsBehaviors.
@@ -137,7 +133,6 @@ Name that identifies the SyncRegionContextWithHostBehavior behavior in a collect
 </table>
 
 ## Properties
-
 
 <table>
 
@@ -160,7 +155,7 @@ Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms58
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
-Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
+Returns **Truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **Falsefalse** (**False** in Visual Basic) otherwise.
 </div>
 (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>

@@ -16,7 +16,7 @@ The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.pr
 <table>
 
 <thead>
-<tr class="header">
+<tr class="header"> 
 <th> </th>
 <th>Name</th>
 <th>Description</th>

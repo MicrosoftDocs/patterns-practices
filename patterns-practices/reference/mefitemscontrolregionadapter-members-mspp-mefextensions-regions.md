@@ -55,7 +55,7 @@ Adapts an [ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045) to an
 <td><div class="summary">
 Template method to attach new behaviors.
 </div>
-(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
+(Inherited from [RegionAdapterBase(Of T)](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -63,7 +63,7 @@ Template method to attach new behaviors.
 <td><div class="summary">
 This method adds the default behaviors by using the [IRegionBehaviorFactory](/patterns-practices/reference/iregion-interface-mspp-regionsbehaviorfactory) object.
 </div>
-(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
+(Inherited from [RegionAdapterBase(Of T)](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -111,7 +111,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td><div class="summary">
 Adapts an object and binds it to a new [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 </div>
-(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
+(Inherited from [RegionAdapterBase(Of T)](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -149,7 +149,7 @@ Returns a string that represents the current object.
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 </div>
-(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
+(Inherited from [RegionAdapterBase(Of T)](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>

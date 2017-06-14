@@ -51,7 +51,6 @@ Initiates navigation to the specified target.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 ```VB
 'Declaration
 Public Sub RequestNavigate (

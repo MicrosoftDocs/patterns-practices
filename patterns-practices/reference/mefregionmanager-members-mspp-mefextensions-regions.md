@@ -11,7 +11,7 @@ The [MefRegionManager](/patterns-practices/reference/mefregionmanager-class-mspp
 
 ## Constructors
 
-<table>
+<table> 
 <thead>
 <tr class="header">
 <th> </th>

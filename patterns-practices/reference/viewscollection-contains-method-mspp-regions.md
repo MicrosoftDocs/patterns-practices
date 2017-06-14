@@ -29,16 +29,18 @@ Public Function Contains (
 ```
 ### Parameters
 
-*value*  
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+*value* 
 
-The object to locate in the collection.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object to locate in the collection.
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-Truetrue (True in Visual Basic) if value is found in the collection; otherwise, falseFalsefalsefalse (False in Visual Basic).
+**truetrue** (**True** in Visual Basic) if *value* is found in the collection; otherwise, **falsefalse** (**False** in Visual Basic).
+
 ### Implements
 
 [IViewsCollection.Contains(Object)](/patterns-practices/reference/iviewscollection-contains-method-mspp-regions)

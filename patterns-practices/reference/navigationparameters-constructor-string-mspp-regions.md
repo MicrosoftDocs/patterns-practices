@@ -9,7 +9,7 @@ ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 
 Initializes a new instance of the [NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions) class with a query string.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -30,15 +30,12 @@ Public Sub New (
 
 #### Parameters
 
-*query*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*query*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The query string.
 
 ## See Also
 [NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
 [NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)<br/>
-NavigationParameters Overload
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
+NavigationParameters Overload  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
