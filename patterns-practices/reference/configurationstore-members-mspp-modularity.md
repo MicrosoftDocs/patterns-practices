@@ -27,7 +27,7 @@ The [ConfigurationStore](/patterns-practices/reference/configurationstore-class-
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[ConfigurationStore](/patterns-practices/reference/configurationstore-class-mspp-modularity)</td>
 <td><div class="summary">
-Initializes a new instance of the [ConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore) class
+Initializes a new instance of the [ConfigurationStore](/patterns-practices/reference/configurationstore-class-mspp-modularity) class
 </div></td>
 </tr>
 </tbody>

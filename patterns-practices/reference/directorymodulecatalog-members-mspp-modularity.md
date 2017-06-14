@@ -59,7 +59,7 @@ Adds a [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modulari
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddModule(Type, String[])](/patterns-practices/reference/addmodule-mthd-type-str)</td>
+<td>[AddModule(Type, String())](/patterns-practices/reference/addmodule-mthd-type-str)</td>
 <td><div class="summary">
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div>
@@ -67,7 +67,7 @@ Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-msp
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddModule(String, String, String[])](/patterns-practices/reference/addmodule-mthd-str-str-str)</td>
+<td>[AddModule(String, String, String())](/patterns-practices/reference/addmodule-mthd-str-str-str)</td>
 <td><div class="summary">
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div>
@@ -75,7 +75,7 @@ Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-msp
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddModule(Type, InitializationMode, String[])](/patterns-practices/reference/addmodule-mthd-type-initializationmode-str)</td>
+<td>[AddModule(Type, InitializationMode, String())](/patterns-practices/reference/addmodule-mthd-type-initializationmode-str)</td>
 <td><div class="summary">
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div>
@@ -83,7 +83,7 @@ Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-msp
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddModule(String, String, InitializationMode, String[])](/patterns-practices/reference/addmodule-mthd-str-str-initializationmode-str)</td>
+<td>[AddModule(String, String, InitializationMode, String())](/patterns-practices/reference/addmodule-mthd-str-str-initializationmode-str)</td>
 <td><div class="summary">
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div>
@@ -91,7 +91,7 @@ Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-msp
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddModule(String, String, String, InitializationMode, String[])](/patterns-practices/reference/addmodule-mthd-str-str-str-initializationmode-str)</td>
+<td>[AddModule(String, String, String, InitializationMode, String())](/patterns-practices/reference/addmodule-mthd-str-str-str-initializationmode-str)</td>
 <td><div class="summary">
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div>

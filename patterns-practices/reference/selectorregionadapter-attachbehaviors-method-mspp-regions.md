@@ -33,15 +33,15 @@ Protected Overrides Sub AttachBehaviors (
 
 *region*
 
-Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
-The region being used.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The region being used.
 
 *regionTarget*
 
-Type: [System.Windows.Controls.Primitives.Selector](http://msdn.microsoft.com/en-us/library/ms595227)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Windows.Controls.Primitives.Selector](http://msdn.microsoft.com/en-us/library/ms595227)
 
-The object to adapt.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object to adapt.
 
 ## Remarks
 

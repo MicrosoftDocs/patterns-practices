@@ -169,7 +169,7 @@ The key of this behavior.
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
-Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
+Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>Falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
 </div>
 (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>

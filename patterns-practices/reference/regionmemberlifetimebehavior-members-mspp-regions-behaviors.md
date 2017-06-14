@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemb
 ms:mtpsurl: 'regionmemberlifetimebehavior-members-mspp-regions-behaviors.md'
 ---
 
-
 # RegionMemberLifetimeBehavior Members
 
 The [RegionMemberLifetimeBehavior](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 
@@ -34,7 +32,6 @@ Initializes a new instance of the [RegionMemberLifetimeBehavior](/patterns-pract
 </table>
 
 ## Methods
-
 
 <table>
 
@@ -115,7 +112,6 @@ Returns a string that represents the current object.
 
 ## Fields
 
-
 <table>
 
 <thead>
@@ -127,7 +123,7 @@ Returns a string that represents the current object.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[BehaviorKey](/patterns-practices/reference/regionmanagerregistrationbehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 The key for this behavior.
@@ -137,7 +133,6 @@ The key for this behavior.
 </table>
 
 ## Properties
-
 
 <table>
 
@@ -153,7 +148,7 @@ The key for this behavior.
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
+Returns **Truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **Falsefalse** (**False** in Visual Basic) otherwise.
 </div>
 (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
