@@ -238,7 +238,7 @@ Makes the current instance a frozen clone of the specified [Freezable](http://ms
 <td><div class="summary">
 Specifies the name of the Event this EventTriggerBase is listening for.
 </div>
-(Overrides EventTriggerGetEventName().)</td>
+(Overrides EventTriggerGetEventName()()().)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
