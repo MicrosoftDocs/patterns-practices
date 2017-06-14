@@ -5,7 +5,8 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Interactivity.InteractionRequest
 ms:mtpsurl: 'interactionrequest-t-raise-method-mspp-interactivity-interactionrequest.md'
 ---
 
-# InteractionRequest(Of T).Raise Method
+
+# InteractionRequest&lt;T&gt;.Raise Method
 
 ## Overload List
 
@@ -21,7 +22,6 @@ ms:mtpsurl: 'interactionrequest-t-raise-method-mspp-interactivity-interactionreq
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 
-
 <td><a href="/patterns-practices/reference/interactionrequest-t-raise-method-t-mspp-interactivity-interactionrequest">Raise(T)</a></td>
 
 <td><div class="summary">
@@ -32,7 +32,11 @@ Fires the Raised event.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 
 
+<td><a href="/patterns-practices/reference/interactionrequest-t-raise-method-t-action-t-mspp-interactivity-interactionrequest">Raise(T, Action&lt;T&gt;)</a></td>
+
+
 <td><a href="/patterns-practices/reference/interactionrequest-t-raise-method-t-action-t-mspp-interactivity-interactionrequest">Raise(T, Action(Of T))</a></td>
+
 
 <td><div class="summary">
 Fires the Raised event.
@@ -43,6 +47,12 @@ Fires the Raised event.
 
 ## See Also
 
+
+[InteractionRequest&lt;T&gt; Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)<br/>
+[InteractionRequest&lt;T&gt; Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+
 [InteractionRequest(Of T) Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)<br/>
 [InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+

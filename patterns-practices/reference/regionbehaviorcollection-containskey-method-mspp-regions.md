@@ -16,17 +16,17 @@ Checks if a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-inte
 
 ## Syntax
 
-~~~C#
+```C#
 public bool ContainsKey(
 	string key
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Function ContainsKey ( 
 	key As String
 ) As Boolean
-~~~
+```
 
 ### Parameters
 

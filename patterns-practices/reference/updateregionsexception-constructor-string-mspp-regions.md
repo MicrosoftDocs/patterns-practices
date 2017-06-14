@@ -15,17 +15,17 @@ Initializes a new instance of the [UpdateRegionsException](/patterns-practices/r
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+```C#
 public UpdateRegionsException(
 	string message
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New ( 
 	message As String
 )
-~~~
+```
 
 ### Parameters
 

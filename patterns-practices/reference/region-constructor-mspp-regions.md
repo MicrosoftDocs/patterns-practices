@@ -15,13 +15,13 @@ Initializes a new instance of [Region](/patterns-practices/reference/region-clas
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+```C#
 public Region()
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New
-~~~
+```
 
 ## See Also
 

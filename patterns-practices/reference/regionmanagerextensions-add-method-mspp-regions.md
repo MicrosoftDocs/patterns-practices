@@ -23,6 +23,7 @@ public static void Add(
 	IRegion region
 )
 ```
+
 ```VB
 'Declaration
 <ExtensionAttribute> 
@@ -31,7 +32,7 @@ Public Shared Sub Add (
 	regionName As String,
 	region As IRegion
 )
-~~~
+```
 
 ### Parameters
 

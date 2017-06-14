@@ -8,7 +8,7 @@ ms:mtpsurl: 'popupwindowaction-methods-mspp-interactivity.md'
 
 # PopupWindowAction Methods
 
-The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
+The [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity) type exposes the following members.
 
 ## Methods
 
@@ -126,9 +126,11 @@ Coerces the value of the specified dependency property. This is accomplished by 
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[CreateDefaultWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.createdefaultwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification))</td>
+<td>[CreateDefaultWindow](/patterns-practices/reference/popupwindowaction-createdefaultwindow-method-mspp-interactivity
+)</td>
 <td><div class="summary">
-When no WindowContent is sent this method is used to create a default basic window to show the corresponding [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification) or [IConfirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation).
+When no WindowContent is sent this method is used to create a default basic window to show the corresponding [INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest
+) or [IConfirmation](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest).
 </div></td>
 </tr>
 <tr class="odd">
@@ -255,7 +257,7 @@ Returns the current effective value of a dependency property on this instance of
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[GetWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.getwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification))</td>
+<td>[GetWindow](/patterns-practices/reference/popupwindowaction-getwindow-method-mspp-interactivity)</td>
 <td><div class="summary">
 Returns the window to display as part of the trigger action.
 </div></td>
@@ -270,9 +272,9 @@ Re-evaluates the effective value for the specified dependency property
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[Invoke](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.invoke(system.object))</td>
+<td>[Invoke](/patterns-practices/reference/popupwindowaction-invoke-method-mspp-interactivity)</td>
 <td><div class="summary">
-Displays the child window and collects results for [IInteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest).
+Displays the child window and collects results for [IInteractionRequest](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest).
 </div>
 (Overrides TriggerActionInvoke(Object).)</td>
 </tr>
@@ -328,9 +330,9 @@ Overrides the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms58930
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[PrepareContentForWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.preparecontentforwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification%2csystem.windows.window))</td>
+<td>[PrepareContentForWindow](/patterns-practices/reference/popupwindowaction-preparecontentforwindow-method-mspp-interactivity)</td>
 <td><div class="summary">
-Checks if the WindowContent or its DataContext implements [IInteractionRequestAware](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware). If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
+Checks if the WindowContent or its DataContext implements [IInteractionRequestAware](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest). If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
 </div></td>
 </tr>
 <tr class="even">
@@ -418,5 +420,5 @@ Verifies that the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) 
 
 ## See Also
 
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)<br/>
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)<br/>
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)<br/>
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
