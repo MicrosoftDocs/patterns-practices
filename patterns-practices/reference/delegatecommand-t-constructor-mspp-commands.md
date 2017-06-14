@@ -6,7 +6,7 @@ ms:mtpsurl: 'delegatecommand-t-constructor-mspp-commands.md'
 ---
 
 
-# DelegateCommand(Of T) Constructor
+# DelegateCommand&lt;T&gt; Constructor
 
 ## Overload List
 
@@ -22,16 +22,16 @@ ms:mtpsurl: 'delegatecommand-t-constructor-mspp-commands.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>DelegateCommand(Of T)(Action(Of T))</td>
+<td>DelegateCommand&lt;T&gt;(Action&lt;T&gt;)</td>
 <td><div class="summary">
-Initializes a new instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
+Initializes a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>DelegateCommand(Of T)(Action(Of T), Func(Of T, Boolean))</td>
+<td>DelegateCommand&lt;T&gt;(Action&lt;T&gt;, Func&lt;T, Boolean&gt;)</td>
 <td><div class="summary">
-Initializes a new instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
+Initializes a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
 </div></td>
 </tr>
 </tbody>
@@ -39,6 +39,6 @@ Initializes a new instance of [DelegateCommand(Of T)](/patterns-practices/refere
 
 ## See Also
 
-[DelegateCommand(Of T) Class ](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
-[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
+[DelegateCommand&lt;T&gt; Class ](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
+[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
