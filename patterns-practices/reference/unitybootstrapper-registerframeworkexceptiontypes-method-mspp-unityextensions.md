@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Regis
 ms:mtpsurl: 'unitybootstrapper-registerframeworkexceptiontypes-method-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapper.RegisterFrameworkExceptionTypes Method
 
 Registers in the IUnityContainer the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp).

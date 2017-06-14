@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ServiceLocatorExtensions.TryResolve\`\`
 ms:mtpsurl: 'servicelocatorextensions-tryresolve-t-method-iservicelocator-mspp.md'
 ---
 
-
 # ServiceLocatorExtensions.TryResolve&lt;T&gt; Method (IServiceLocator)
 
 Attempts to resolve specified type from the underlying IServiceLocator.

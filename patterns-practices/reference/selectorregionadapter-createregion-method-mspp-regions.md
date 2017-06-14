@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.CreateReg
 ms:mtpsurl: 'selectorregionadapter-createregion-method-mspp-regions.md'
 ---
 
-
 # SelectorRegionAdapter.CreateRegion Method
 
 Creates a new instance of [Region](/patterns-practices/reference/region-class-mspp-regions).

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.AttachBeh
 ms:mtpsurl: 'selectorregionadapter-attachbehaviors-method-mspp-regions.md'
 ---
 
-
 # SelectorRegionAdapter.AttachBehaviors Method
 
 Attach new behaviors.

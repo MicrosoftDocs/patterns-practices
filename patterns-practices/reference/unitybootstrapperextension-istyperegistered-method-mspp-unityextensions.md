@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtens
 ms:mtpsurl: 'unitybootstrapperextension-istyperegistered-method-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapperExtension.IsTypeRegistered Method
 
 Evaluates if a specified type was registered in the container.
