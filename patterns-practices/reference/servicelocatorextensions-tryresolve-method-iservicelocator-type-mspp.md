@@ -22,12 +22,12 @@ public static Object TryResolve(
 ```
 ### Parameters
 *locator*  
-Type: IServiceLocator   
-Locator to use in resolving.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ype: IServiceLocator   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Locator to use in resolving.
 
 *type*  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
-Type to resolve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type to resolve.
 
 ### Return Value
 
@@ -57,12 +57,12 @@ Public Shared Function TryResolve (
 
 ### Parameters
 *locator*  
-Type: IServiceLocator   
-Locator to use in resolving.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Locator to use in resolving.
 
 *type*  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
-Type to resolve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type to resolve.
 
 ### Return Value
 
@@ -81,7 +81,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 | Exception                                                                             | Condition                                                                            |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | Thrown when *locator* is **Nothing**a null reference (**Nothing** in Visual Basic). |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | Thrown when *locator* is **Nothinga** null reference (**Nothing** in Visual Basic). |
 
 ## See Also
 

@@ -24,7 +24,7 @@ Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;[Object
 A [IEnumerator&lt;T&gt;](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 ### Implements
 
-[IEnumerable&lt;T&gt;.GetEnumerator](http://msdn.microsoft.com/en-us/library/s793z9y2)
+[IEnumerable&lt;T&gt;.GetEnumerator](http://msdn.microsoft.com/en-us/library/s793z9y2)()
 
 ```VB
 'Declaration

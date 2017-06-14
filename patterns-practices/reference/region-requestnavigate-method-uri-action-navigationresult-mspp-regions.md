@@ -9,8 +9,8 @@ ms:mtpsurl: 'region-requestnavigate-method-mspp-regions.md'
 
 Initiates navigation to the specified target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -23,13 +23,13 @@ public void RequestNavigate(
 
 ### Parameters
 
-target  
-Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)   
-The target.
+*target*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The target.
 
-navigationCallback  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;   
-A callback to execute when the navigation request is completed.
+*navigationCallback*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A callback to execute when the navigation request is completed.
 
 ### Implements
 
@@ -37,17 +37,17 @@ A callback to execute when the navigation request is completed.
 
 ## See Also
 
-[Region Class](/patterns-practices/reference/region-class-mspp-regions)  
-[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
-[RequestNavigate Overload](/patterns-practices/reference/region-requestnavigate-method-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)<br/>
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)<br/>
+[RequestNavigate Overload](/patterns-practices/reference/region-requestnavigate-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
 
 # Region.RequestNavigate Method (Uri, Action (Of NavigationResult))
 
 Initiates navigation to the specified target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -75,7 +75,7 @@ A callback to execute when the navigation request is completed.
 
 ## See Also
 
-[Region Class](/patterns-practices/reference/region-class-mspp-regions)  
-[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
-[RequestNavigate Overload](/patterns-practices/reference/region-requestnavigate-method-mspp-regions)  
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)<br/>
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)<br/>
+[RequestNavigate Overload](/patterns-practices/reference/region-requestnavigate-method-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
