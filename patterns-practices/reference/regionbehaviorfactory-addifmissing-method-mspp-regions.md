@@ -16,19 +16,19 @@ Adds a particular type of RegionBehavior if it was not already registered. The b
 
 ## Syntax
 
-~~~C#
+```C#
 public void AddIfMissing(
 	string behaviorKey,
 	Type behaviorType
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub AddIfMissing ( 
 	behaviorKey As String,
 	behaviorType As Type
 )
-~~~
+```
 ### Parameters
 
 _behaviorKey_  

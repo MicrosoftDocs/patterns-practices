@@ -1,4 +1,4 @@
-    ---
+---
 TOCTitle: CreateRegionManager Method
 Title: 'IRegionManager.CreateRegionManager Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionManager.CreateRegionManager'

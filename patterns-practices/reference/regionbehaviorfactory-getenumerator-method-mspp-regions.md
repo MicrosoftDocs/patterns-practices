@@ -16,9 +16,9 @@ Returns an enumerator that iterates through the collection.
 
 ## Syntax
 
-~~~C#
+```C#
 public IEnumerator<string> GetEnumerator()
-~~~
+```
 
 ### Return Value
 
@@ -31,10 +31,10 @@ A [IEnumerator&lt;T&gt;](http://msdn.microsoft.com/en-us/library/78dfe2yb) that 
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
 Public Function GetEnumerator As IEnumerator(Of String)
-~~~
+```
 
 ### Return Value
 

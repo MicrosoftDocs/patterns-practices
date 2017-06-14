@@ -16,13 +16,13 @@ Initializes a new instance of the [RegionNavigationJournalEntry](/patterns-pract
 
 ## Syntax
 
-~~~C#
+```C#
 public RegionNavigationJournalEntry()
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New
-~~~
+```
 
 ## See Also
 

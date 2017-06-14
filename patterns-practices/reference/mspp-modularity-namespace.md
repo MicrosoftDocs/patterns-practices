@@ -55,7 +55,7 @@ Represets a catalog created from a directory on disk.
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[DuplicateModuleException](/patterns-practices/reference/https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception(v=pandp.50)</td>
+<td>[DuplicateModuleException](/patterns-practices/reference/https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception(v=pandp.50))</td>
 <td><div>
 Exception thrown when a module is declared twice in the same catalog.
 </div></td>

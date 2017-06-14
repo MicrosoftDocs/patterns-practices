@@ -7,8 +7,7 @@ ms:mtpsurl: 'eventsubscription-tpayload-methods-mspp-pubsubevents.md'
 
 # EventSubscription&lt;TPayload&gt; Methods
 
-The [EventSubscription&lt;TPayload&gt;](https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents
-) type exposes the following members.
+The [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -44,8 +43,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <tr class="odd">
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetExecutionStrategy](https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-getexecutionstrategy-method-mspp-pubsubevents
-)</td>
+<td>[GetExecutionStrategy](/patterns-practices/reference/eventsubscription-tpayload-getexecutionstrategy-method-mspp-pubsubevents)</td>
 
 <td><div class="summary">
 Gets the execution strategy to publish this event.
@@ -74,8 +72,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <tr class="even">
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[InvokeAction](https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-invokeaction-method-mspp-pubsubevents
-)</td>
+<td>[InvokeAction](/patterns-practices/reference/eventsubscription-tpayload-invokeaction-method-mspp-pubsubevents)</td>
 
 <td><div class="summary">
 Invokes the specified [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) synchronously when not overridden.
@@ -106,7 +103,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[EventSubscription&lt;TPayload&gt; Class](hhttps://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents
-)
+[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)
