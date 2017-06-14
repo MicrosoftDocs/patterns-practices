@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionCrea
 ms:mtpsurl: 'regioncreationexception-members-mspp-regions-behaviors.md'
 ---
 
-
 # RegionCreationException Members
 
-The [RegionCreationException](/patterns-practices/reference/regioncreationexception-interface-mspp-regions-behaviors) type exposes the following members.
+The [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 
@@ -25,37 +23,36 @@ The [RegionCreationException](/patterns-practices/reference/regioncreationexcept
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>RegionCreationException()</td>
+<td>RegionCreationException</td>
 <td><div class="summary">
-Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-interface-mspp-regions-behaviors)
+Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>RegionCreationException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-interface-mspp-regions-behaviors) class with a specified error message.
+Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors) class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>RegionCreationException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
-Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-interface-mspp-regions-behaviors) class with serialized data.
+Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors) class with serialized data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>RegionCreationException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-interface-mspp-regions-behaviors) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## Methods
-
 
 <table>
 
@@ -136,7 +133,6 @@ Creates and returns a string representation of the current exception.
 
 ## Extension Methods
 
-
 <table>
 
 <thead>
@@ -151,7 +147,7 @@ Creates and returns a string representation of the current exception.
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
 <td>[GetRootException](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp)</td>
 <td><div class="summary">
-Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
+Looks at all the inner exceptions of the *exception* parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 </div>
 (Defined by [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp).)</td>
 </tr>
@@ -159,7 +155,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </table>
 
 ## Properties
-
 
 <table>
 
@@ -240,7 +235,6 @@ Gets the method that throws the current exception.
 
 ## Events
 
-
 <table>
 
 <thead>
@@ -252,7 +246,7 @@ Gets the method that throws the current exception.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected event](/patterns-practices/reference/images/protevent.gif)</td>
+<td>![Protected event](/patterns-practices/reference/images/protected-event.gif)</td>
 <td>[SerializeObjectState](http://msdn.microsoft.com/en-us/library/ee332915)</td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
