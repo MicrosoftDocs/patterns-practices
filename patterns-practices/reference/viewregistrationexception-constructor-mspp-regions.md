@@ -21,7 +21,7 @@ ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ViewRegistrationException</td>
+<td>ViewRegistrationException()</td>
 <td><div class="summary">
 Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class.
 </div></td>

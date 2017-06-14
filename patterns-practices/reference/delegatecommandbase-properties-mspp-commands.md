@@ -5,19 +5,17 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Commands.DelegateCommandBase
 ms:mtpsurl: 'delegatecommandbase-properties-mspp-commands.md'
 ---
 
-
 # DelegateCommandBase Properties
 
 The [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands) type exposes the following members.
 
 ## Properties
 
-
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -25,7 +23,7 @@ The [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-clas
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/delegatecommandbase-isactive-property-mspp-commands">IsActive</a></td>
+<td>[IsActive](/patterns-practices/reference/delegatecommandbase-isactive-property-mspp-commands)</td>
 <td><div class="summary">
 Gets or sets a value indicating whether the object is active.
 </div></td>
