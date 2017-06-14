@@ -9,10 +9,8 @@ ms:mtpsurl: 'compositecommand-execute-method-mspp-commands.md'
 
 Forwards [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) to the registered commands.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

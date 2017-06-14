@@ -69,14 +69,14 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![static-member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![static-member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[FromAsyncHandler(Func&lt;T, Task&gt;)](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-func-t-task-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands) from an awaitable handler method.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![static-member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![static-member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[FromAsyncHandler(Func&lt;T, Task&gt;, Func&lt;T, Boolean&gt;)](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-func-t-task-func-t-boolean-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands) from an awaitable handler method.
@@ -128,7 +128,7 @@ This raises the [IsActiveChanged](/patterns-practices/reference/delegatecommandb
 <td><div class="summary">
 Raises [CanExecuteChanged](/patterns-practices/reference/delegatecommandbase-class-mspp-commands.canexecutechanged) on the UI thread so every command invoker can requery to check if the command can execute.
 <div>
-<h2 id="remarks">Remarks</h2>
+<h3 id="remarks">Remarks</h3>
 Note that this will trigger the execution of [CanExecute(Object)](/patterns-practices/reference/delegatecommandbase-class-mspp-commands) once for each invoker.
 </div>
 </div>

@@ -9,8 +9,7 @@ ms:mtpsurl: 'subscriptiontoken-dispose-method-mspp-pubsubevents.md'
 
 Disposes the SubscriptionToken, removing the subscription from the corresponding [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
-
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax

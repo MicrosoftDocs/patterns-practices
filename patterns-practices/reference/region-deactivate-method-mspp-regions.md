@@ -5,15 +5,12 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Deactivate(System.Object
 ms:mtpsurl: 'region-deactivate-method-mspp-regions.md'
 ---
 
-
 # Region.Deactivate Method
 
 Marks the specified view as inactive.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

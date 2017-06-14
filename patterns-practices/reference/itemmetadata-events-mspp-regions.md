@@ -4,10 +4,10 @@ Title: 'ItemMetadata Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.ItemMetadata'
 ms:mtpsurl: 'itemmetadata-events-mspp-regions.md'
 ---
-
+
 # ItemMetadata Events
 
-The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
+The [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) type exposes the following members.
 
 ## Events
 
@@ -23,7 +23,7 @@ The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.metadatachanged">MetadataChanged</a></td>
+<td>[MetadataChanged](/patterns-practices/reference/itemmetadata-metadatachanged-event-mspp-regions)</td>
 <td><div class="summary">
 Occurs when metadata on the item changes.
 </div></td>
@@ -32,5 +32,6 @@ Occurs when metadata on the item changes.
 </table>
 
 ## See Also
-[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>
+
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

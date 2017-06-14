@@ -11,10 +11,8 @@ Subscribes to a static event from the [RegionManager](/patterns-practices/refere
 
 Subscribes to a static event from the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) in order to register the target [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) in a [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) when one is available on the host control by walking up the tree and finding a control whose [RegionManagerProperty](/patterns-practices/reference/regionmanager-regionmanagerproperty-field-mspp-regions) property is not **Nothing**a null reference (**Nothing** in Visual Basic).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

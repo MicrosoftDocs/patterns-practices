@@ -10,27 +10,25 @@ ms:mtpsurl: 'regionbehaviorcollection-add-method-mspp-regions.md'
 
 Adds a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) to the collection, using the specified key as an indexer.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-~~~C#
+```C#
 public void Add(
 	string key,
 	IRegionBehavior regionBehavior
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub Add ( 
 	key As String,
 	regionBehavior As IRegionBehavior
 )
-~~~
+```
 
 ### Parameters
 

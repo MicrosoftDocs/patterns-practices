@@ -10,27 +10,25 @@ ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 
 Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-~~~C#
+```C#
 protected UpdateRegionsException(
 	SerializationInfo info,
 	StreamingContext context
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Protected Sub New ( 
 	info As SerializationInfo,
 	context As StreamingContext
 )
-~~~
+```
 ### Parameters
 
 _info_

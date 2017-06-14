@@ -10,10 +10,8 @@ ms:mtpsurl: 'syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md'
 
 Behavior that synchronizes the [Context](/patterns-practices/reference/iregion-context-property-mspp-regions) property of a [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) with the control that hosts the Region. It does this by setting the [RegionContextProperty](/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions) Dependency Property on the host control. This behavior allows the usage of two way databinding of the RegionContext from XAML.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

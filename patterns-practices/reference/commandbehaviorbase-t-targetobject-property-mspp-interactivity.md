@@ -10,10 +10,8 @@ ms:mtpsurl: 'commandbehaviorbase-t-targetobject-property-mspp-interactivity.md'
 
 Object to which this behavior is attached.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -36,18 +34,17 @@ Type: [T](https://review.docs.microsoft.com/patterns-practices/reference/command
 
 Object to which this behavior is attached.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
 ```VB
-    'Declaration
+'Declaration
 Protected ReadOnly Property TargetObject As T
 	Get
+
 ```
 ### Property Value
 

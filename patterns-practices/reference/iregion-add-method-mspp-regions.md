@@ -5,19 +5,16 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.IRegion.Add'
 ms:mtpsurl: 'iregion-add-method-mspp-regions.md'
 ---
 
-
 # IRegion.Add Method
 
 Adds a new view to the region.
 
-## Overload List
-
+## Overload List
 
 <table>
-
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -25,21 +22,21 @@ Adds a new view to the region.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/iregion-add-method-object-mspp-regions)">Add(Object)</a></td>
+<td>[Add(Object)](/patterns-practices/reference/iregion-add-method-object-mspp-regions)</td>
 <td><div class="summary">
 Adds a new view to the region.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/iregion-add-method-object-string-mspp-regions)">Add(Object, String)</a></td>
+<td>[Add(Object, String)](/patterns-practices/reference/iregion-add-method-object-string-mspp-regions)</td>
 <td><div class="summary">
 Adds a new view to the region.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/iregion-add-method-object-string-boolean-mspp-regions)">Add(Object, String, Boolean)</a></td>
+<td>[Add(Object, String, Boolean)](/patterns-practices/reference/iregion-add-method-object-string-boolean-mspp-regions)</td>
 <td><div class="summary">
 Adds a new view to the region.
 </div></td>
@@ -52,3 +49,4 @@ Adds a new view to the region.
 [IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)<br/>
 [IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+

@@ -10,10 +10,8 @@ ms:mtpsurl: 'errorscontainer-t-class-mspp-viewmodel.md'
 
 Manages validation errors for an object, notifying when the error state changes.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -41,10 +39,8 @@ The type of the error object.
 
 Manages validation errors for an object, notifying when the error state changes.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

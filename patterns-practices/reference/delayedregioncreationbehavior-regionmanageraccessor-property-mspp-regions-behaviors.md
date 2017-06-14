@@ -10,8 +10,7 @@ ms:mtpsurl: 'delayedregioncreationbehavior-regionmanageraccessor-property-mspp-r
 Sets a class that interfaces between the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) 's static properties/events and this behavior, so this behavior can be tested in isolation.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

@@ -10,10 +10,8 @@ ms:mtpsurl: 'navigationasyncextensions-requestnavigate-method-inavigateasync-str
 
 Initiates navigation to the target specified by the target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -53,25 +51,12 @@ Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practic
 
 An instance of NavigationParameters, which holds a collection of object parameters.
 
-### Usage Note
-
-In Visual Basic and C\#, you can call this method as an instance method on any object of type [INavigateAsync](/patterns-practices/reference/mspp-regions-namespace). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
-
-## See Also
-
-[NavigationAsyncExtensions Class](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions)<br/>
-[NavigationAsyncExtensions Members](https://review.docs.microsoft.com/patterns-practices/reference/navigationasyncextensions-members-mspp-regions)<br/>
-[RequestNavigate Overload](https://review.docs.microsoft.com/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
-
 # NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, String, Action(Of NavigationResult), NavigationParameters)
 
 Initiates navigation to the target specified by the target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

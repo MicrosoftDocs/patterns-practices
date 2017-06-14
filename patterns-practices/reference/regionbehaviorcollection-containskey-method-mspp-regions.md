@@ -10,25 +10,23 @@ ms:mtpsurl: 'regionbehaviorcollection-containskey-method-mspp-regions.md'
 
 Checks if a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) with the specified key is already present.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-~~~C#
+```C#
 public bool ContainsKey(
 	string key
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Function ContainsKey ( 
 	key As String
 ) As Boolean
-~~~
+```
 
 ### Parameters
 

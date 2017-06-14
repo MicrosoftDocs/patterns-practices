@@ -5,27 +5,23 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.Invoke(
 ms:mtpsurl: 'popupwindowaction-invoke-method-mspp-interactivity.md'
 ---
 
-
 # PopupWindowAction.Invoke Method
 
 Displays the child window and collects results for [IInteractionRequest](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest).
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
 ```C#
-   protected override void Invoke(
+protected override void Invoke(
 	Object parameter
-) 
+)
 ```
-
 ```VB
-   'Declaration
+'Declaration
 Protected Overrides Sub Invoke ( 
 	parameter As Object
 )
@@ -33,10 +29,8 @@ Protected Overrides Sub Invoke (
 
 ### Parameters
 
-*parameter*  
-
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+*parameter*<br/>
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
 The parameter to the action. If the action does not require a parameter, the parameter may be set to a null reference.
 
 ## See Also

@@ -11,8 +11,7 @@ ms:mtpsurl: 'regionmanager-getobservableregion-method-mspp-regions.md'
 Returns an [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) wrapper that can hold an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions). Using this wrapper you can detect when an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) has been created by the [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions). If the [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) wrapper does not yet exist, a new wrapper will be created. When the region gets created and assigned to the wrapper, you can use the [PropertyChanged](/patterns-practices/reference/observableobject-t-propertychanged-event-mspp) event to get notified of that change.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,8 +25,8 @@ public static ObservableObject<IRegion> GetObservableRegion(
 ### Parameters
 
 *view*  
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
-The view that will host the region.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The view that will host the region.
 
 ### Return Value
 
@@ -38,8 +37,7 @@ Wrapper that can hold an [IRegion](/patterns-practices/reference/iregion-interfa
 Returns an [ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp) wrapper that can hold an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions). Using this wrapper you can detect when an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) has been created by the [RegionAdapterBase(Of T)](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions). If the [ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp) wrapper does not yet exist, a new wrapper will be created. When the region gets created and assigned to the wrapper, you can use the [PropertyChanged](/patterns-practices/reference/observableobject-t-propertychanged-event-mspp) event to get notified of that change.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -54,8 +52,8 @@ Public Shared Function GetObservableRegion (
 ### Parameters
 
 *view*  
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
-The view that will host the region.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The view that will host the region.
 
 ### Return Value
 

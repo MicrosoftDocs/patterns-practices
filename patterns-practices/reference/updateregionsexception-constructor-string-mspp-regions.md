@@ -10,24 +10,22 @@ ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 
 Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with a specified error message.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+```C#
 public UpdateRegionsException(
 	string message
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New ( 
 	message As String
 )
-~~~
+```
 
 ### Parameters
 

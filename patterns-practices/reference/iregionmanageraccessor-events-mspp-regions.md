@@ -31,7 +31,7 @@ The [IRegionManagerAccessor](/patterns-practices/reference/iregionmanageraccesso
 ![Public event](/patterns-practices/reference/images/pubevent.gif)
 </td>
 <td>
-<a href="/patterns-practices/reference/iregionmanageraccessor-updatingregions-event-mspp-regions">UpdatingRegions</a>
+[UpdatingRegions](/patterns-practices/reference/iregionmanageraccessor-updatingregions-event-mspp-regions)
 </td>
 <td>
 <div>

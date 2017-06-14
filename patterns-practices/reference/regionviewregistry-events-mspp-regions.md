@@ -7,10 +7,9 @@ ms:mtpsurl: 'regionviewregistry-events-mspp-regions.md'
 
 # RegionViewRegistry Events
 
-The [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry) type exposes the following members.
+The [RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-mspp-regions) type exposes the following members.
 
 ## Events
-
 
 <table>
 
@@ -24,7 +23,7 @@ The [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.contentregistered">ContentRegistered</a></td>
+<td>[ContentRegistered](/patterns-practices/reference/regionviewregistry-contentregistered-event-mspp-regions)</td>
 <td><div class="summary">
 Occurs whenever a new view is registered.
 </div></td>
@@ -34,5 +33,5 @@ Occurs whenever a new view is registered.
 
 ## See Also
 
-[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

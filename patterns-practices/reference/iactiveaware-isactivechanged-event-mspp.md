@@ -10,10 +10,9 @@ ms:mtpsurl: 'iactiveaware-isactivechanged-event-mspp.md'
 
 Notifies that the value for [IsActive](/patterns-practices/reference/delegatecommandbase-isactive-property-mspp-commands) property has changed.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll)
-
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

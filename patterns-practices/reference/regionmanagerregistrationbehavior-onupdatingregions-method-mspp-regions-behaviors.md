@@ -9,14 +9,12 @@ ms:mtpsurl: 'regionmanagerregistrationbehavior-onupdatingregions-method-mspp-reg
 
 This event handler gets called when a RegionManager is requering the instances of a region to be registered if they are not already.
 
-### Remarks
+## Remarks
 
 Although this is a public method to support Weak Delegates in Silverlight, it should not be called by the user.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -38,16 +36,12 @@ Public Sub OnUpdatingRegions (
 
 ### Parameters
 
-*sender*
-
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+*sender*<br/>
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
 The sender.
 
-*e*
-
-Type: [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
-
+*e*<br/>
+Type: [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)<br/>
 The arguments.
 
 ## See Also

@@ -9,10 +9,8 @@ ms:mtpsurl: 'clearchildviewsregionbehavior-onattach-method-mspp-regions-behavior
 
 Subscribes to the [Region](/patterns-practices/reference/region-class-mspp-regions)'s PropertyChanged method to monitor its RegionManager property. 
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

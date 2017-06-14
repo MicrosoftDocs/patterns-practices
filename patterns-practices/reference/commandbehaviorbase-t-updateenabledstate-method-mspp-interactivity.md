@@ -10,10 +10,8 @@ ms:mtpsurl: 'commandbehaviorbase-t-updateenabledstate-method-mspp-interactivity.
 
 Updates the target object's IsEnabled property based on the commands ability to execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) <br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -38,10 +36,8 @@ Protected Overridable Sub UpdateEnabledState
 
 Updates the target object's IsEnabled property based on the commands ability to execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) <br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

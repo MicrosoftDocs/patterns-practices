@@ -10,10 +10,8 @@ ms:mtpsurl: 'moduletypeloadingexception-class-mspp-modularity.md'
 
 Exception thrown by [IModuleManager](/patterns-practices/reference/imodulemanager-interface-mspp-modularity) implementations whenever a module fails to retrieve.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

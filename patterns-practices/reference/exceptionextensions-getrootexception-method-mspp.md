@@ -9,10 +9,8 @@ ms:mtpsurl: 'exceptionextensions-getrootexception-method-mspp.md'
 
 Looks at all the inner exceptions of the *exception* parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

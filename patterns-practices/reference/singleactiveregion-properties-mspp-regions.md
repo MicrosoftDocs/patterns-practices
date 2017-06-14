@@ -4,7 +4,8 @@ Title: 'SingleActiveRegion Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.SingleActiveRegion'
 ms:mtpsurl: 'singleactiveregion-properties-mspp-regions.md'
 ---
-
+
+
 # SingleActiveRegion Properties
 
 The [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions) type exposes the following members.
@@ -23,79 +24,86 @@ The [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.activeviews">ActiveViews</a></td>
+<td>[ActiveViews](/patterns-practices/reference/region-class-mspp-regions.activeviews)</td>
 <td><div class="summary">
 Gets a readonly view of the collection of all the active views in the region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.behaviors">Behaviors</a></td>
+<td>[Behaviors](/patterns-practices/reference/region-class-mspp-regions.behaviors)</td>
 <td><div class="summary">
-Gets the collection of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a>s that can extend the behavior of regions.
+Gets the collection of [IRegionBehavior](/patterns-practices/reference/iregionmanager-interface-mspp-regions)s that can extend the behavior of regions.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.context">Context</a></td>
+<td>[Context](/patterns-practices/reference/region-class-mspp-regions.context)</td>
 <td><div class="summary">
 Gets or sets a context for the region. This value can be used by the user to share context with the views.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.itemmetadatacollection">ItemMetadataCollection</a></td>
+<td>[ItemMetadataCollection](/patterns-practices/reference/region-class-mspp-regions.itemmetadatacollection)</td>
 <td><div class="summary">
 Gets the collection with all the views along with their metadata.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.name">Name</a></td>
+<td>[Name](/patterns-practices/reference/region-class-mspp-regions.name)</td>
 <td><div class="summary">
-Gets the name of the region that uniequely identifies the region within a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager">IRegionManager</a>.
+Gets the name of the region that uniequely identifies the region within a [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions).
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.navigationservice">NavigationService</a></td>
+<td>[NavigationService](/patterns-practices/reference/region-class-mspp-regions.navigationservice)</td>
 <td><div class="summary">
 Gets the navigation service.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.regionmanager">RegionManager</a></td>
+<td>[RegionManager](/patterns-practices/reference/region-class-mspp-regions.regionmanager)</td>
 <td><div class="summary">
-Gets or sets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager">IRegionManager</a> that will be passed to the views when adding them to the region, unless the view is added by specifying createRegionManagerScope as trueTruetruetrue (True in Visual Basic).
+Gets or sets the [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) that will be passed to the views when adding them to the region, unless the view is added by specifying createRegionManagerScope as trueTruetruetrue (True in Visual Basic).
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.sortcomparison">SortComparison</a></td>
+<td>[SortComparison](/patterns-practices/reference/region-class-mspp-regions.sortcomparison)</td>
 <td><div class="summary">
 Gets or sets the comparison used to sort the views.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.views">Views</a></td>
+<td>[Views](/patterns-practices/reference/region-class-mspp-regions.views)</td>
 <td><div class="summary">
 Gets a readonly view of the collection of views in the region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
+<<<<<<< HEAD
+
+[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+=======
 [SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+>>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

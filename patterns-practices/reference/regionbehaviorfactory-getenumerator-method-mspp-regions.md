@@ -10,17 +10,15 @@ ms:mtpsurl: 'regionbehaviorfactory-getenumerator-method-mspp-regions.md'
 
 Returns an enumerator that iterates through the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-~~~C#
+```C#
 public IEnumerator<string> GetEnumerator()
-~~~
+```
 
 ### Return Value
 
@@ -33,10 +31,10 @@ A [IEnumerator&lt;T&gt;](http://msdn.microsoft.com/en-us/library/78dfe2yb) that 
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
 Public Function GetEnumerator As IEnumerator(Of String)
-~~~
+```
 
 ### Return Value
 

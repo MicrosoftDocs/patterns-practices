@@ -10,10 +10,8 @@ ms:mtpsurl: 'modulecatalog-validatedependenciesinitializationmode-method-mspp-mo
 
 Ensures that there are no modules marked to be loaded [WhenAvailable](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity) depending on modules loaded [OnDemand](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity)
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

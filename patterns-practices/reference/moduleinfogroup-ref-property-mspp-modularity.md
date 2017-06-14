@@ -10,8 +10,7 @@ ms:mtpsurl: 'moduleinfogroup-ref-property-mspp-modularity.md'
 Gets or sets the [Ref](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref) value for the whole group. Any [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) classes that are added after setting this value will also get this Ref. The ref value will also be used by the [IModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager) to determine which [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader) to use. For example, using an "file://" prefix with a valid URL will cause the FileModuleTypeLoader to be used (Only available in the desktop version of CAL).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

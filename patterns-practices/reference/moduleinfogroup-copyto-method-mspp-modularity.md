@@ -9,10 +9,8 @@ ms:mtpsurl: 'moduleinfogroup-copyto-method-mspp-modularity.md'
 
 Copies the elements of the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) to an [Array](http://msdn.microsoft.com/en-us/library/czz5hkty), starting at a particular [Array](http://msdn.microsoft.com/en-us/library/czz5hkty) index.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

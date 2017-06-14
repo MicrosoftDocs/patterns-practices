@@ -9,10 +9,8 @@ ms:mtpsurl: 'delegatereference-constructor-mspp-pubsubevents.md'
 
 Initializes a new instance of [DelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
-
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)<br/>
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) <br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

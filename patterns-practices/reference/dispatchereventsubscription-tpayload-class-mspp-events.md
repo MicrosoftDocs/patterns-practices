@@ -10,10 +10,8 @@ ms:mtpsurl: 'dispatchereventsubscription-tpayload-class-mspp-events.md'
 
 Extends EventSubscription to invoke the Action delegate in a specific [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
 
-**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -44,10 +42,8 @@ The type to use for the generic [Action&lt;T&gt;](http://msdn.microsoft.com/en-u
 
 Extends EventSubscription to invoke the Action delegate in a specific [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
 
-**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

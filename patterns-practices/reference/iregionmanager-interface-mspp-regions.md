@@ -10,8 +10,7 @@ ms:mtpsurl: 'iregionmanager-interface-mspp-regions.md'
 Defines an interface to manage a set of [regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) and to attach regions to objects (typically controls).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

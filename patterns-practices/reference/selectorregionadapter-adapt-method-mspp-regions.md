@@ -5,15 +5,12 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.Adapt(Mic
 ms:mtpsurl: 'selectorregionadapter-adapt-method-mspp-regions.md'
 ---
 
-
 # SelectorRegionAdapter.Adapt Method
 
 Adapts an [Selector](http://msdn.microsoft.com/en-us/library/ms595227) to an [IRegion](/patterns-practices/reference/iregion-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

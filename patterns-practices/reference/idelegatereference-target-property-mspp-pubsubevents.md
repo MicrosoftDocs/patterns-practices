@@ -5,15 +5,12 @@ ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.IDelegateReference.Target'
 ms:mtpsurl: 'idelegatereference-target-property-mspp-pubsubevents.md'
 ---
 
-
 # IDelegateReference.Target Property
 
 Gets the referenced [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) object.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -24,8 +21,7 @@ Gets the referenced [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 
 ### Property Value
 
-Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
-
+Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)<br/>
 A [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) instance if the target is valid; otherwise **null**a null reference (**Nothing** in Visual Basic).
 
 
@@ -37,13 +33,11 @@ ReadOnly Property Target As Delegate
 
 ### Property Value
 
-Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
-
+Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)<br/>
 A [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) instance if the target is valid; otherwise **Nothing**a null reference (**Nothing** in Visual Basic).
 
 ## See Also
 
 [IDelegateReference Interface](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)<br/>
-IDelegateReference Members
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+IDelegateReference Members<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

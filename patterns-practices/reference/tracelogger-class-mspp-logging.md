@@ -11,8 +11,7 @@ ms:mtpsurl: 'tracelogger-class-mspp-logging.md'
 Implementation of [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) that logs to .NET [Trace](http://msdn.microsoft.com/en-us/library/36hhw2t6) class.
 
 **Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

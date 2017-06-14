@@ -10,10 +10,8 @@ ms:mtpsurl: 'delegatecommand-class-mspp-commands.md'
 
 An [ICommand](http://msdn.microsoft.com/en-us/library/ms616869) whose delegates do not take any parameters for [Execute()](/patterns-practices/reference/delegatecommand-execute-method-mspp-commands) and [CanExecute()](/patterns-practices/reference/delegatecommand-canexecute-method-mspp-commands).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

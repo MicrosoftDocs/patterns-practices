@@ -9,10 +9,8 @@ ms:mtpsurl: 'itemscontrolregionadapter-adapt-method-mspp-regions.md'
 
 Adapts an [ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045) to an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

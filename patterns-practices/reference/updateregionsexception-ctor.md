@@ -12,21 +12,19 @@ Initializes a new instance of the [UpdateRegionsException](/patterns-practices/r
 )
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace
-)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-~~~C#
+```C#
 public UpdateRegionsException()
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New
-~~~
+```
 ## See Also
 
 [UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions

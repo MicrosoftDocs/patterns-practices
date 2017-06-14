@@ -10,27 +10,25 @@ ms:mtpsurl: 'regionbehaviorfactory-addifmissing-method-mspp-regions.md'
 
 Adds a particular type of RegionBehavior if it was not already registered. The behaviorKey string is used to check if the behavior is already present
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-~~~C#
+```C#
 public void AddIfMissing(
 	string behaviorKey,
 	Type behaviorType
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub AddIfMissing ( 
 	behaviorKey As String,
 	behaviorType As Type
 )
-~~~
+```
 ### Parameters
 
 _behaviorKey_  

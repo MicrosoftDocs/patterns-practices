@@ -5,15 +5,12 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager.CallWe
 ms:mtpsurl: 'weakeventhandlermanager-callweakreferencehandlers-method-mspp-commands.md'
 ---
 
-
 # WeakEventHandlerManager.CallWeakReferenceHandlers Method
 
 Invokes the handlers
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -27,12 +24,10 @@ Invokes the handlers
 
 ### Parameters
 
-*sender*
-
+*sender*<br/>
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-*handlers*  
-
+*handlers*<br/>
 Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;
 
 ## Syntax
@@ -47,12 +42,10 @@ Public Shared Sub CallWeakReferenceHandlers (
 
 ### Parameters
 
-*sender*
-
+*sender*<br/>
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-*handlers*  
-
+*handlers*<br/>
 Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))
 
 

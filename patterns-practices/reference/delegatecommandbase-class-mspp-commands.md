@@ -10,10 +10,8 @@ ms:mtpsurl: 'delegatecommandbase-class-mspp-commands.md'
 
 An [ICommand](http://msdn.microsoft.com/en-us/library/ms616869) whose delegates can be attached for [Execute(Object)](/patterns-practices/reference/delegatecommandbase-execute-method-mspp-commands) and [CanExecute(Object)](/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax

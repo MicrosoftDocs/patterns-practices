@@ -5,15 +5,12 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper.Is
 ms:mtpsurl: 'unitycontainerhelper-istyperegistered-method-mspp-unityextensions.md'
 ---
 
-
 # UnityContainerHelper.IsTypeRegistered Method
 
 Returns whether a specified type has a type mapping registered in the container.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

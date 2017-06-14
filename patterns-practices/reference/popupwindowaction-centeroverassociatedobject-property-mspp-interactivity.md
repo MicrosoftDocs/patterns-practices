@@ -10,10 +10,8 @@ ms:mtpsurl: 'popupwindowaction-centeroverassociatedobject-property-mspp-interact
 
 Gets or sets if the window will be initially shown centered over the view that raised the interaction request or not.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) 
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) <br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

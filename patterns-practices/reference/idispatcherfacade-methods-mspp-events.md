@@ -22,7 +22,7 @@ The [IDispatcherFacade](/patterns-practices/reference/idispatcherfacade-interfac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/idispatcherfacade-begininvoke-method-mspp-events">BeginInvoke</a></td>
+<td>[BeginInvoke](/patterns-practices/reference/idispatcherfacade-begininvoke-method-mspp-events)</td>
 <td><div class="summary">
 Dispatches an invocation to the method received as parameter.
 </div></td>

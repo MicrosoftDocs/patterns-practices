@@ -9,10 +9,8 @@ ms:mtpsurl: 'regionmanagerregistrationbehavior-onattach-method-mspp-regions-beha
 
 When the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) has a name assigned, the behavior will start monitoring the ancestor controls in the element tree to look for an [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) where to register the region in.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

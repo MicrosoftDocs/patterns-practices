@@ -4,35 +4,54 @@ Title: 'ModuleExportAttribute.DependsOnModuleNames Property (Microsoft.Practices
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute.DependsOnModuleNames'
 ms:mtpsurl: 'moduleexportattribute-dependsonmodulenames-property-mspp-mefextensions-modularity.md'
 ---
-
+
+
 # ModuleExportAttribute.DependsOnModuleNames Property
 
 Gets or sets the contract names of modules this module depends upon.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
-## Syntax
-```C#
+
+## Syntax
+
+```C#
 public string[] DependsOnModuleNames { get; set; }
 ```
+### Property Value
+
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
+
+### Implements
+
+[IModuleExport.DependsOnModuleNames](/patterns-practices/reference/imoduleexport-dependsonmodulenames-property-mspp-mefextensions-modularity)
+
+
 ```VB
 'Declaration
 Public Property DependsOnModuleNames As String()
 	Get
 	Set
 ```
-
 ### Property Value
 
-Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()
+
 ### Implements
 
 [IModuleExport.DependsOnModuleNames](/patterns-practices/reference/imoduleexport-dependsonmodulenames-property-mspp-mefextensions-modularity)
 
 ## See Also
+<<<<<<< HEAD
+
+[ModuleExportAttribute Class](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)
+
+[ModuleExportAttribute Members](/patterns-practices/reference/moduleexportattribute-members-mspp-mefextensions-modularity)
+
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
+=======
 [ModuleExportAttribute Class](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)<br/>
 [ModuleExportAttribute Members](/patterns-practices/reference/moduleexportattribute-members-mspp-mefextensions-modularity)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>
+>>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

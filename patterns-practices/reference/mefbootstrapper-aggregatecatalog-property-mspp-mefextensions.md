@@ -9,10 +9,8 @@ ms:mtpsurl: 'mefbootstrapper-aggregatecatalog-property-mspp-mefextensions.md'
 
 Gets or sets the default AggregateCatalog for the application.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -30,7 +28,8 @@ Protected Property AggregateCatalog As AggregateCatalog
 
 ### Property Value
 
-Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)<br/>
+Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
+
 The default AggregateCatalog instance.
 
 ## See Also

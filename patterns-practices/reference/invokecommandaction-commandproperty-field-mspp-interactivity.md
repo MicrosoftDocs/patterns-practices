@@ -9,10 +9,8 @@ ms:mtpsurl: 'invokecommandaction-commandproperty-field-mspp-interactivity.md'
 
 Dependency property identifying the command to execute when invoked.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -35,4 +33,4 @@ Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 [InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)<br/>    
 [InvokeCommandAction Members](/patterns-practices/reference/invokecommandaction-members-mspp-interactivity)<br/>
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)<br/>
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>

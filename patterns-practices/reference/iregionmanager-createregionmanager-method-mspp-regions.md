@@ -1,4 +1,4 @@
-    ---
+---
 TOCTitle: CreateRegionManager Method
 Title: 'IRegionManager.CreateRegionManager Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionManager.CreateRegionManager'
@@ -9,10 +9,8 @@ ms:mtpsurl: 'iregionmanager-createregionmanager-method-mspp-regions.md'
 
 Creates a new region manager.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
