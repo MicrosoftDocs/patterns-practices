@@ -38,5 +38,5 @@ Gets an instance of an event type.
 
 ## See Also
 
-[IEventAggregator Interface](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents)<br/>
+[IEventAggregator Interface](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents)  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

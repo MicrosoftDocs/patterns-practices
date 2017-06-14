@@ -41,5 +41,5 @@ This attached property can be defined on a view to indicate that regions defined
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior)<br/>
+[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior)  
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-namespace.behaviors)

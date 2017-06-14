@@ -9,8 +9,8 @@ ms:mtpsurl: 'mefregionviewregistry-class-mspp-mefextensions-regions.md'
 
 Exports the RegionViewRegistry using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -31,11 +31,11 @@ Public Class MefRegionViewRegistry
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-mspp-regions)<br/>
+&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-mspp-regions)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry
 
 ## See Also
 
-[MefRegionViewRegistry Members](/patterns-practices/reference/mefregionviewregistry-members-mspp-mefextensions-regions)<br/>
+[MefRegionViewRegistry Members](/patterns-practices/reference/mefregionviewregistry-members-mspp-mefextensions-regions)  
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

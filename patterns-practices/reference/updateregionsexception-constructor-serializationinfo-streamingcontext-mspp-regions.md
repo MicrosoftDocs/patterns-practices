@@ -10,8 +10,8 @@ ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 
 Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -45,8 +45,8 @@ The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that co
 
 ## See Also
 
-[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)<br/>
-[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)<br/>
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)  
+[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)  
 UpdateRegionsException Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

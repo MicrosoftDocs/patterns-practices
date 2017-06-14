@@ -9,8 +9,8 @@ ms:mtpsurl: 'moduleinfogroup-removeat-method-mspp-modularity.md'
 
 Removes the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6) item at the specified index.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -29,7 +29,7 @@ The zero-based index of the item to remove.
 
 ### Implements
 
-[IList&lt;T&gt;.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)<br/>
+[IList&lt;T&gt;.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)  
 [IList.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/x5zwtyhy)
 
 ## Exceptions
@@ -45,8 +45,8 @@ The zero-based index of the item to remove.
 
 Removes the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6) item at the specified index.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -66,7 +66,7 @@ The zero-based index of the item to remove.
 
 ### Implements
 
-[IList(Of T).RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)<br/>
+[IList(Of T).RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)  
 [IList.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/x5zwtyhy)
 
 ## Exceptions
@@ -80,6 +80,6 @@ The zero-based index of the item to remove.
 
 ## See Also
 
-[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)<br/>
-[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)  
+[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

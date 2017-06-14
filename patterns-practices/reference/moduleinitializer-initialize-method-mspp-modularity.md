@@ -9,8 +9,8 @@ ms:mtpsurl: 'moduleinitializer-initialize-method-mspp-modularity.md'
 
 Initializes the specified module.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -40,6 +40,6 @@ The module to initialize
 
 ## See Also
 
-[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)<br/>
-[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)  
+[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

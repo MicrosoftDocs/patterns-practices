@@ -9,8 +9,8 @@ ms:mtpsurl: 'compositecommand-registeredcommands-property-mspp-commands.md'
 
 Gets the list of all the registered commands.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -43,6 +43,6 @@ This returns a copy of the commands subscribed to the CompositeCommand.
 
 ## See Also
 
-[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)<br/>
-[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)<br/>
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)  
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

@@ -9,8 +9,8 @@ ms:mtpsurl: 'iregionnavigationcontentloader-interface-mspp-regions.md'
 
 Identifies the view in a region that is the target of a navigation request.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -27,5 +27,5 @@ public interface IRegionNavigationContentLoaderPublic Interface IRegionNavigatio
 
 ## See Also
 
-[IRegionNavigationContentLoader Members](/patterns-practices/reference/iregionnavigationcontentloader-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[IRegionNavigationContentLoader Members](/patterns-practices/reference/iregionnavigationcontentloader-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

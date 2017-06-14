@@ -10,8 +10,8 @@ ms:mtpsurl: 'iactiveaware-interface-mspp.md'
 
 Interface that defines if the object instance is active and notifies when the activity changes.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -26,5 +26,5 @@ Public Interface IActiveAware
 
 ## See Also
 
-[IActiveAware Members](/patterns-practices/reference/iactiveaware-members-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[IActiveAware Members](/patterns-practices/reference/iactiveaware-members-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

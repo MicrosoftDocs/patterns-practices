@@ -9,8 +9,8 @@ ms:mtpsurl: 'iregion-add-method-mspp-regions.md'
 
 Adds a new view to the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -41,7 +41,7 @@ The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp
 
 ## See Also
 
-[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)<br/>
-[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)<br/>
-[Add Overload](/patterns-practices/reference/iregion-add-method-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)  
+[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)  
+[Add Overload](/patterns-practices/reference/iregion-add-method-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

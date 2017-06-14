@@ -37,5 +37,5 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)<br/>
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace ](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)

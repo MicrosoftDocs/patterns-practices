@@ -10,8 +10,8 @@ ms:mtpsurl: 'regionnavigationeventargs-class-mspp-regions.md'
 
 EventArgs used with the Navigated event.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -32,5 +32,5 @@ Public Class RegionNavigationEventArgs
 
 ## See Also
 
-[RegionNavigationEventArgs Members](/patterns-practices/reference/regionnavigationeventargs-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[RegionNavigationEventArgs Members](/patterns-practices/reference/regionnavigationeventargs-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

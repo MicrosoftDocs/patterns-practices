@@ -9,7 +9,7 @@ ms:mtpsurl: 'subscriptiontoken-equals-method-mspp-pubsubevents.md'
 
 Indicates whether the current object is equal to another object of the same type.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-pract
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **trueTrue** (**True** in Visual Basic) if the current object is equal to the other parameter; otherwise, **falseFalse** (**False** in Visual Basic).
 ### Implements
 
@@ -50,7 +50,7 @@ Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-pract
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **trueTrue** (**True** in Visual Basic) if the current object is equal to the other parameter; otherwise, **falseFalse** (**False** in Visual Basic).
 ### Implements
 
@@ -58,8 +58,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 
 ## See Also
 
-[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)<br/>
+[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 SubscriptionToken Members
 
-[Equals Overload](/patterns-practices/reference/subscriptiontoken-equals-method-mspp-pubsubevents)<br/>
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[Equals Overload](/patterns-practices/reference/subscriptiontoken-equals-method-mspp-pubsubevents)  
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

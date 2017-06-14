@@ -9,8 +9,8 @@ ms:mtpsurl: 'dataeventargs-tdata-constructor-mspp-pubsubevents.md'
 
  Initializes the DataEventArgs class. 
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -29,16 +29,16 @@ Information related to the event.
 
 ## See Also
 
-[DataEventArgs&lt;TData&gt; Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)<br/>
+[DataEventArgs&lt;TData&gt; Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)  
 DataEventArgs&lt;TData&gt; Members  
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
 
 # DataEventArgs(Of TData) Constructor
 
  Initializes the DataEventArgs class. 
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -58,8 +58,8 @@ Information related to the event.
 
 ## See Also
 
-[DataEventArgs(Of TData) Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)<br/>
+[DataEventArgs(Of TData) Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)  
 DataEventArgs(Of TData) Members  
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
 
 

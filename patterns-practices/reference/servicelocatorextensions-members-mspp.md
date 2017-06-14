@@ -37,5 +37,5 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 </table>
 
 ## See Also
-[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)<br/>
+[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

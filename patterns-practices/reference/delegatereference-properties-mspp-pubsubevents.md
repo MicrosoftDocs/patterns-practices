@@ -31,5 +31,5 @@ Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the targe
 </table>
 
 ## See Also
-[DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)<br/>
+[DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

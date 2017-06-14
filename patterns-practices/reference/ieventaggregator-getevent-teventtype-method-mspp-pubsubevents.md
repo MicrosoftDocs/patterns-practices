@@ -9,8 +9,8 @@ ms:mtpsurl: 'ieventaggregator-getevent-teventtype-method-mspp-pubsubevents.md'
 
 Gets an instance of an event type.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -34,16 +34,16 @@ An instance of an event object of type TEventType.
 
 ## See Also
 
-[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
+[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)  
 IEventAggregator Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  
 
 # IEventAggregator.GetEvent(Of TEventType) Method
 
 Gets an instance of an event type.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)  
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -67,7 +67,7 @@ An instance of an event object of type TEventType.
 
 ## See Also
 
-[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
+[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)  
 IEventAggregator Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

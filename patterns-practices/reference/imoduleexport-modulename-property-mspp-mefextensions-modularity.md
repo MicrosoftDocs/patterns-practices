@@ -9,8 +9,8 @@ ms:mtpsurl: 'imoduleexport-modulename-property-mspp-mefextensions-modularity.md'
 
 Gets the name of the module.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -32,6 +32,6 @@ The name of the module.
 
 ## See Also
 
-[IModuleExport Interface](/patterns-practices/reference/imoduleexport-interface-mspp-mefextensions-modularity)<br/>
-[IModuleExport Members](/patterns-practices/reference/imoduleexport-members-mspp-mefextensions-modularity)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>
+[IModuleExport Interface](/patterns-practices/reference/imoduleexport-interface-mspp-mefextensions-modularity)  
+[IModuleExport Members](/patterns-practices/reference/imoduleexport-members-mspp-mefextensions-modularity)  
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)  

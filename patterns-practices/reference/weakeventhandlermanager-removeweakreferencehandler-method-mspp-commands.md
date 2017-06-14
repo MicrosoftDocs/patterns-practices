@@ -9,8 +9,8 @@ ms:mtpsurl: 'weakeventhandlermanager-removeweakreferencehandler-method-mspp-comm
 
 Removes an event handler from the reference list.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -24,12 +24,12 @@ public static void RemoveWeakReferenceHandler(
 
 ### Parameters
 
-*handlers*<br/>
-Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;<br/>
+*handlers*  
+Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;  
 Handler list to remove reference from.
 
-*handler*<br/>
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)<br/>
+*handler*  
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)  
 Handler to remove.
 
 ```VB
@@ -42,16 +42,16 @@ Public Shared Sub RemoveWeakReferenceHandler (
 
 ### Parameters
 
-*handlers*<br/>
-Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))<br/>
+*handlers*  
+Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))  
 Handler list to remove reference from.
 
-*handler*<br/>
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)<br/>
+*handler*  
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)  
 Handler to remove.
 
 ## See Also
 
-[WeakEventHandlerManager Class](/patterns-practices/reference/weakeventhandlermanager-class-mspp-commands)<br/>
-[WeakEventHandlerManager Members](/patterns-practices/reference/weakeventhandlermanager-members-mspp-commands)<br/>
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
+[WeakEventHandlerManager Class](/patterns-practices/reference/weakeventhandlermanager-class-mspp-commands)  
+[WeakEventHandlerManager Members](/patterns-practices/reference/weakeventhandlermanager-members-mspp-commands)  
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  

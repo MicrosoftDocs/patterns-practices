@@ -9,8 +9,8 @@ ms:mtpsurl: 'addmodule-mthd-moduleinfogroup-str-type-str.md'
 
 Adds a new module that is statically referenced to the specified module info group. 
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,23 +26,23 @@ public static ModuleInfoGroup AddModule(
 ### Parameters
 
 *moduleInfoGroup*  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)<br/>
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)  
 The group where to add the module info in.
 
 *moduleType*  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)<br/>
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
 The type for the module. This type should be a descendant of [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity).
 
 *dependsOn*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]<br/>
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]  
 The names for the modules that this module depends on.
 
 # ModuleInfoGroupExtensions.AddModule Method (ModuleInfoGroup, Type, String())
 
 Adds a new module that is statically referenced to the specified module info group. 
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ```VB
@@ -58,20 +58,20 @@ Public Shared Function AddModule (
 ### Parameters
 
 *moduleInfoGroup*  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)<br/>
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)  
 The group where to add the module info in.
 
 *moduleType*  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)<br/>
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
 The type for the module. This type should be a descendant of [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity).
 
 *dependsOn*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()<br/>
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()  
 The names for the modules that this module depends on.
 
 ### Return Value
 
-Type: [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)<br/>
+Type: [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)  
 Returns the instance of the passed in module info group, to provide a fluid interface.
 
 ### Usage Note
@@ -84,7 +84,7 @@ The name of the module will be the type name.
 
 ## See Also
 
-[ModuleInfoGroupExtensions Class](/patterns-practices/reference/moduleinfogroupextensions-class-mspp-modularity)<br/>
-[ModuleInfoGroupExtensions Members](/patterns-practices/reference/moduleinfogroupextensions-members-mspp-modularity)<br/>
-[AddModule Overload](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleInfoGroupExtensions Class](/patterns-practices/reference/moduleinfogroupextensions-class-mspp-modularity)  
+[ModuleInfoGroupExtensions Members](/patterns-practices/reference/moduleinfogroupextensions-members-mspp-modularity)  
+[AddModule Overload](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

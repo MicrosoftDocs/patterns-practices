@@ -38,6 +38,6 @@ Creates a new instance of [DelegateCommand](/patterns-practices/reference/delega
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

@@ -9,8 +9,8 @@ ms:mtpsurl: 'mefservicelocatoradapter-constructor-mspp-mefextensions.md'
 
 Initializes a new instance of the [MefServiceLocatorAdapter](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -37,6 +37,6 @@ The MEF composition container.
 
 ## See Also
 
-[MefServiceLocatorAdapter Class](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions)<br/>
-[MefServiceLocatorAdapter Members](/patterns-practices/reference/mefservicelocatoradapter-members-mspp-mefextensions)<br/>
-[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>
+[MefServiceLocatorAdapter Class](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions)  
+[MefServiceLocatorAdapter Members](/patterns-practices/reference/mefservicelocatoradapter-members-mspp-mefextensions)  
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)  

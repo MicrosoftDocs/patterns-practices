@@ -49,5 +49,5 @@ Gets the navigation URI.
 
 ## See Also
 
-[NavigationContext Class](/patterns-practices/reference/navigationcontext-class-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[NavigationContext Class](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

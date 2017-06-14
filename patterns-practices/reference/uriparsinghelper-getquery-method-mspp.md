@@ -10,8 +10,8 @@ ms:mtpsurl: 'uriparsinghelper-getquery-method-mspp.md'
 
 Gets the query part of *uri*.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -39,6 +39,6 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[UriParsingHelper Class](/patterns-practices/reference/uriparsinghelper-class-mspp)<br/>
-[UriParsingHelper Members](/patterns-practices/reference/uriparsinghelper-members-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[UriParsingHelper Class](/patterns-practices/reference/uriparsinghelper-class-mspp)  
+[UriParsingHelper Members](/patterns-practices/reference/uriparsinghelper-members-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

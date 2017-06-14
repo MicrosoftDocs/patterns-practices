@@ -117,5 +117,5 @@ Removes a command from the collection and removes itself from the [CanExecuteCha
 
 ## See Also
 
-[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)<br/>
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

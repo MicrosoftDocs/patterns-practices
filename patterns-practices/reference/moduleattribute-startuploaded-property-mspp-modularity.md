@@ -9,8 +9,8 @@ ms:mtpsurl: 'moduleattribute-startuploaded-property-mspp-modularity.md'
 
 Gets or sets a value indicating whether the module should be loaded at startup.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -35,6 +35,6 @@ A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value.
 
 ## See Also
 
-[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-modularity)<br/>
-[ModuleAttribute Members](/patterns-practices/reference/moduleattribute-members-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-modularity)  
+[ModuleAttribute Members](/patterns-practices/reference/moduleattribute-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

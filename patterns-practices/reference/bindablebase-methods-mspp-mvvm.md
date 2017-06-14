@@ -96,5 +96,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
+[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)  
 [Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

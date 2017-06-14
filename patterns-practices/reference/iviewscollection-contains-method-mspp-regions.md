@@ -9,8 +9,8 @@ ms:mtpsurl: 'iviewscollection-contains-method-mspp-regions.md'
 
 Determines whether the collection contains a specific value.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -43,6 +43,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[IViewsCollection Interface](/patterns-practices/reference/iviewscollection-interface-mspp-regions)<br/>
-[IViewsCollection Members](/patterns-practices/reference/iviewscollection-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[IViewsCollection Interface](/patterns-practices/reference/iviewscollection-interface-mspp-regions)  
+[IViewsCollection Members](/patterns-practices/reference/iviewscollection-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

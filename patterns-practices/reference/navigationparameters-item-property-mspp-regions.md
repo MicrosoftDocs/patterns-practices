@@ -9,8 +9,8 @@ ms:mtpsurl: 'navigationparameters-item-property-mspp-regions.md'
 
 Gets the [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) with the specified key.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -53,6 +53,6 @@ The value for the specified key, or **Nothing**a null reference (**Nothing** in 
 
 ## See Also
 
-[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
-[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  

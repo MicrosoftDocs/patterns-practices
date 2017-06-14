@@ -90,5 +90,5 @@ Gets the method that throws the current exception.
 
 ## See Also
 
-[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)<br/>
+[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

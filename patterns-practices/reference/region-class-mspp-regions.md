@@ -9,8 +9,8 @@ ms:mtpsurl: 'region-class-mspp-regions.md'
 
 Implementation of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that allows multiple active views.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -28,12 +28,12 @@ Public Class Region
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  Microsoft.Practices.Prism.Regions.Region<br/>
-    [Microsoft.Practices.Prism.Regions.AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+  Microsoft.Practices.Prism.Regions.Region  
+    [Microsoft.Practices.Prism.Regions.AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions)  
     [Microsoft.Practices.Prism.Regions.SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions)
 
 ## See Also
 
-[Region Members](/patterns-practices/reference/region-members-mspp-regions)<br/>
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

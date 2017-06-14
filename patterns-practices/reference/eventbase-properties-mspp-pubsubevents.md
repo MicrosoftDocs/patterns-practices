@@ -41,5 +41,5 @@ Allows the SynchronizationContext to be set by the EventAggregator for UI Thread
 
 ## See Also
 
-[EventBase Class](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)<br/>
+[EventBase Class](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

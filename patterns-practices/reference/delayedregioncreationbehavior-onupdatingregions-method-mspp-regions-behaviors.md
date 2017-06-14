@@ -9,8 +9,8 @@ ms:mtpsurl: 'delayedregioncreationbehavior-onupdatingregions-method-mspp-regions
 
 Called when the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) is updating it's [Regions](/patterns-practices/reference/regionmanager-regions-property-mspp-regions) collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -32,12 +32,12 @@ Public Sub OnUpdatingRegions (
 
 ### Parameters
 
-*sender*<br/>
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+*sender*  
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions).
 
-*e*<br/>
-Type: [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)<br/>
+*e*  
+Type: [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)  
 The [EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3) instance containing the event data.
 
 ## Remarks
@@ -46,6 +46,6 @@ This method has to be public, because it has to be callable using weak reference
 
 ## See Also
 
-[DelayedRegionCreationBehavior Class](/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors)<br/>
-[DelayedRegionCreationBehavior Members](/patterns-practices/reference/delayedregioncreationbehavior-members-mspp-regions-behaviors)<br/>
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
+[DelayedRegionCreationBehavior Class](/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors)  
+[DelayedRegionCreationBehavior Members](/patterns-practices/reference/delayedregioncreationbehavior-members-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)  

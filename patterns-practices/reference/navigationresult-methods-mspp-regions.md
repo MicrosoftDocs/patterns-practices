@@ -73,5 +73,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)<br/>
+[NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

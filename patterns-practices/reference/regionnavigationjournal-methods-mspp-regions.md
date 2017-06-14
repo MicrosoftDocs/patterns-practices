@@ -101,5 +101,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionNavigationJournal Class](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)<br/>
+[RegionNavigationJournal Class](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

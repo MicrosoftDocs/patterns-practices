@@ -278,5 +278,5 @@ Occurs when a property value changes.
 
 ## See Also
 
-[AllActiveRegion Class](/patterns-practices/reference/allactiveregion-class-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[AllActiveRegion Class](/patterns-practices/reference/allactiveregion-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

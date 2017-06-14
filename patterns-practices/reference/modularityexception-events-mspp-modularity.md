@@ -38,5 +38,5 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
+[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

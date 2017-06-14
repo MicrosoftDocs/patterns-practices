@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleinfo-state-property-mspp-modularity.md'
 Gets or sets the state of the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) with regards to the module loading and initialization process.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -33,5 +33,5 @@ Type: [ModuleState](/patterns-practices/reference/modulestate-enumeration-mspp-m
 
 [ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 [ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)  
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
 

@@ -10,8 +10,8 @@ ms:mtpsurl: 'region-activeviews-property-mspp-regions.md'
 
 Gets a readonly view of the collection of all the active views in the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -34,6 +34,6 @@ An [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-m
 
 ## See Also
 
-[Region Class](/patterns-practices/reference/region-class-mspp-regions)<br/>
-[Region Members](/patterns-practices/reference/region-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)  
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

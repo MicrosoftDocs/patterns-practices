@@ -54,5 +54,5 @@ Gets or sets the title to use for the notification.
 
 ## See Also
 
-[IConfirmation Interface](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest)<br/>
+[IConfirmation Interface](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest)  
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

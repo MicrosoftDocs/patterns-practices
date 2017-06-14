@@ -9,8 +9,8 @@ ms:mtpsurl: 'mefservicelocatoradapter-class-mspp-mefextensions.md'
 
 Provides service location utilizing the Managed Extensibility Framework container.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -27,11 +27,11 @@ Public Class MefServiceLocatorAdapter
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-ServiceLocatorImplBase<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+ServiceLocatorImplBase  
 Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter
 
 ## See Also
 
-[MefServiceLocatorAdapter Members](/patterns-practices/reference/mefservicelocatoradapter-members-mspp-mefextensions)<br/>
+[MefServiceLocatorAdapter Members](/patterns-practices/reference/mefservicelocatoradapter-members-mspp-mefextensions)  
 [Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)

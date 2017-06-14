@@ -10,8 +10,8 @@ ms:mtpsurl: 'regionadaptermappings-getmapping-method-mspp-regions.md'
 
 Returns the adapter associated with the type provided.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -56,6 +56,6 @@ This class will look for a registered type for *controlType* and if there is not
 
 ## See Also
 
-[RegionAdapterMappings Class](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)<br/>
-[RegionAdapterMappings Members](/patterns-practices/reference/regionadaptermappings-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[RegionAdapterMappings Class](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)  
+[RegionAdapterMappings Members](/patterns-practices/reference/regionadaptermappings-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

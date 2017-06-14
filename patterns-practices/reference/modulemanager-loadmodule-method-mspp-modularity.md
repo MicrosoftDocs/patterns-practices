@@ -9,8 +9,8 @@ ms:mtpsurl: 'modulemanager-loadmodule-method-mspp-modularity.md'
 
 Loads and initializes the module on the [ModuleCatalog](/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity) with the name *moduleName*.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -40,6 +40,6 @@ Name of the module requested for initialization.
 
 ## See Also
 
-[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)<br/>
-[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)  
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

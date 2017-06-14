@@ -9,8 +9,8 @@ ms:mtpsurl: 'notification-constructor-mspp-interactivity-interactionrequest.md'
 
 Initializes a new instance of the [Notification](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest) class
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,6 +26,6 @@ Public Sub New
 
 ## See Also
 
-[Notification Class](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)<br/>
-[Notification Members](/patterns-practices/reference/notification-members-mspp-interactivity-interactionrequest)<br/>
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>
+[Notification Class](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)  
+[Notification Members](/patterns-practices/reference/notification-members-mspp-interactivity-interactionrequest)  
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)  

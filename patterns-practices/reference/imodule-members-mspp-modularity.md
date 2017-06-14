@@ -35,5 +35,5 @@ Notifies the module that it has be initialized.
 
 ## See Also
 
-[IModule Interface](/patterns-practices/reference/imodule-interface-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[IModule Interface](/patterns-practices/reference/imodule-interface-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

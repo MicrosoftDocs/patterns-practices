@@ -10,8 +10,8 @@ ms:mtpsurl: 'moduledependencyattribute-constructor-mspp-modularity.md'
 
 Initializes a new instance of [ModuleDependencyAttribute](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -39,6 +39,6 @@ The name of the module that this module is dependant upon.
 
 ## See Also
 
-[ModuleDependencyAttribute Class](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity)<br/>
-[ModuleDependencyAttribute Members](/patterns-practices/reference/moduledependencyattribute-members-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleDependencyAttribute Class](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity)  
+[ModuleDependencyAttribute Members](/patterns-practices/reference/moduledependencyattribute-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

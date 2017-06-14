@@ -10,7 +10,7 @@ ms:mtpsurl: 'moduleinitializer-constructor-mspp-modularity.md'
 Initializes a new instance of [ModuleInitializer](/patterns-practices/reference/moduleinitializer-class-mspp-modularity).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -41,6 +41,6 @@ The logger to use.
 
 ## See Also
 
-[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)<br/>
-[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)  
+[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

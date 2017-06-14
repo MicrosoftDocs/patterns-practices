@@ -49,5 +49,5 @@ Called when the implementer has been navigated to.
 
 ## See Also
 
-[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)<br/>
+[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

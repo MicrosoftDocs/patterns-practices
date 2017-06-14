@@ -73,5 +73,5 @@ Gets or sets a name for the wrapped item.
 
 ## See Also
 
-[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

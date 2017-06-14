@@ -9,8 +9,8 @@ ms:mtpsurl: 'bindablebase-setproperty-t-method-mspp-mvvm.md'
 
 Checks if a property already matches a desired value. Sets the property and notifies listeners only when necessary.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -24,26 +24,26 @@ Checks if a property already matches a desired value. Sets the property and noti
 ```
 ### Parameters
 
-*storage*<br/>
-Type: T%<br/>
+*storage*  
+Type: T%  
 Reference to a property with both getter and setter.
 
-*value*<br/>
-Type: T<br/>
+*value*  
+Type: T  
 Desired value for the property.
 
-*propertyName* (Optional)<br/>
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
+*propertyName* (Optional)  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support CallerMemberName.
 
 ## Type Parameters
 
-*T*<br/>
+*T*  
 Type of the property.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 True if the value was changed, false if the existing value matched the desired value.
 
 
@@ -51,8 +51,8 @@ True if the value was changed, false if the existing value matched the desired v
 
 Checks if a property already matches a desired value. Sets the property and notifies listeners only when necessary.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -67,30 +67,30 @@ Protected Overridable Function SetProperty(Of T) (
 ```
 ### Parameters
 
-*storage*<br/>
-Type: T%<br/>
+*storage*  
+Type: T%  
 Reference to a property with both getter and setter.
 
-*value*<br/>
-Type: T<br/>
+*value*  
+Type: T  
 Desired value for the property.
 
-*propertyName* (Optional)<br/>
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
+*propertyName* (Optional)  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support CallerMemberName.
 
 ## Type Parameters
 
-*T*<br/>
+*T*  
 Type of the property.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 True if the value was changed, false if the existing value matched the desired value.
 
 ## See Also
 
-[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
-[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)<br/>
+[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)  
+[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)  
 [Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

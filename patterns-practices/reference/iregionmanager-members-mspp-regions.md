@@ -195,5 +195,5 @@ Gets a collection of [IRegion](/patterns-practices/reference/iregion-interface-m
 
 ## See Also
 
-[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)<br/>
+[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

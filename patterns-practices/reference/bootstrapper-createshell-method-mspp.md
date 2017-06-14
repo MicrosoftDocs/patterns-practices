@@ -10,8 +10,8 @@ ms:mtpsurl: 'bootstrapper-createshell-method-mspp.md'
 
 Creates the shell or main window of the application.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -37,6 +37,6 @@ The shell of the application.
 
 ## See Also
 
-[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)<br/>
-[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)  
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

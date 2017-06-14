@@ -9,7 +9,7 @@ ms:mtpsurl: 'modulemanager-modulecatalog-property-mspp-modularity.md'
 The module catalog specified in the constructor.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -32,5 +32,5 @@ Type: [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-ms
 
 [ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)  
 [ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)  
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
 

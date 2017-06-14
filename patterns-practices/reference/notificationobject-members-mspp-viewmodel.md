@@ -138,5 +138,5 @@ Raised when a property on this object has a new value.
 </table>
 
 ## See Also
-[NotificationObject Class](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)<br/>
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
+[NotificationObject Class](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)  
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)  

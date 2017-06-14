@@ -34,6 +34,6 @@ ms:mtpsurl: 'delegatecommandbase-constructor-action-object-func-object-boolean-m
 
 ## See Also
 
-[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)<br/>
-[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)<br/>
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
+[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

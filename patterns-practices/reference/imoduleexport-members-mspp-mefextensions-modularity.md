@@ -53,5 +53,5 @@ Gets the type of the module.
 
 ## See Also
 
-[IModuleExport Interface](/patterns-practices/reference/imoduleexport-interface-mspp-mefextensions-modularity)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>
+[IModuleExport Interface](/patterns-practices/reference/imoduleexport-interface-mspp-mefextensions-modularity)  
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)  

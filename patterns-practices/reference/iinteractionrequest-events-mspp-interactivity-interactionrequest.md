@@ -36,5 +36,5 @@ Fired when the interaction is needed.
 
 ## See Also
 
-[IInteractionRequest Interface](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest)<br/>
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>
+[IInteractionRequest Interface](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest)  
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)  

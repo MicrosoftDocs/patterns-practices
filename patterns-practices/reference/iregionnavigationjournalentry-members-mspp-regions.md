@@ -42,5 +42,5 @@ Gets or sets the URI.
 
 ## See Also
 
-[IRegionNavigationJournalEntry Interface](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournalentry)<br/>
+[IRegionNavigationJournalEntry Interface](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournalentry)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -39,7 +39,7 @@ Indicates whether the current object is equal to another object of the same type
 
 ## See Also
 
-[SubscriptionToken Class](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken)<br/>
+[SubscriptionToken Class](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken)  
 SubscriptionToken Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

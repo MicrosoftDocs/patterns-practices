@@ -99,5 +99,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefEventAggregator Class](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Events Namespace](/patterns-practices/reference/mspp-mefextensions-events-namespace)<br/>
+[MefEventAggregator Class](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events)  
+[Microsoft.Practices.Prism.MefExtensions.Events Namespace](/patterns-practices/reference/mspp-mefextensions-events-namespace)  

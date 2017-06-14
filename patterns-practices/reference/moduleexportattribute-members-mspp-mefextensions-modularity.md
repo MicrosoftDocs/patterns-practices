@@ -183,5 +183,5 @@ When implemented in a derived class, gets a unique identifier for this [Attribut
 
 ## See Also
 
-[ModuleExportAttribute Class](https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>
+[ModuleExportAttribute Class](https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)  
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-modularity-namespace)  

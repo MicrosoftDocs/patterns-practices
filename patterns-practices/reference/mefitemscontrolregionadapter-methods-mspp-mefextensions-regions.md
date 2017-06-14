@@ -116,5 +116,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefItemsControlRegionAdapter Class](/patterns-practices/reference/mefitemscontrolregionadapter-class-mspp-mefextensions-regions)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>
+[MefItemsControlRegionAdapter Class](/patterns-practices/reference/mefitemscontrolregionadapter-class-mspp-mefextensions-regions)  
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  

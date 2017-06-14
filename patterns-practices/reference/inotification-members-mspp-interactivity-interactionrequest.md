@@ -41,5 +41,5 @@ Gets or sets the title to use for the notification.
 
 ## See Also
 
-[INotification Interface](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest)<br/>
+[INotification Interface](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest)  
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

@@ -9,8 +9,8 @@ ms:mtpsurl: 'delegatereference-class-mspp-pubsubevents.md'
 
 Represents a reference to a [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) that may contain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target. This class is used internally by the Prism Library.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -37,4 +37,4 @@ Microsoft.Practices.Prism.PubSubEvents.DelegateReference
 DelegateReference Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace
-)<br/>
+)  

@@ -9,8 +9,8 @@ ms:mtpsurl: 'iactiveaware-isactive-property-mspp.md'
 
 Gets or sets a value indicating whether the object is active.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -34,6 +34,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)<br/>
-[IActiveAware Members](/patterns-practices/reference/iactiveaware-members-mspp)<br/>
+[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)  
+[IActiveAware Members](/patterns-practices/reference/iactiveaware-members-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

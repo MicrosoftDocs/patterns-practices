@@ -9,8 +9,8 @@ ms:mtpsurl: 'eventaggregator-constructor-mspp-pubsubevents.md'
 
 Initializes a new instance of the [EventAggregator](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents) class
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -24,7 +24,7 @@ Public Sub New
 
 ## See Also
 
-[EventAggregator Class](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)<br/>
+[EventAggregator Class](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)  
 EventAggregator Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

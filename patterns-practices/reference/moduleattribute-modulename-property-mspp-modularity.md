@@ -10,8 +10,8 @@ ms:mtpsurl: 'moduleattribute-modulename-property-mspp-modularity.md'
 
 Gets or sets the name of the module.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -33,6 +33,6 @@ The name of the module.
 
 ## See Also
 
-[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-mefextensions-modularity)<br/>
-[ModuleAttribute Members](/patterns-practices/reference/moduleattribute-members-mspp-mefextensions-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-mefextensions-modularity)  
+[ModuleAttribute Members](/patterns-practices/reference/moduleattribute-members-mspp-mefextensions-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)  

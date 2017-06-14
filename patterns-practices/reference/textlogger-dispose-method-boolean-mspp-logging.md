@@ -9,8 +9,8 @@ ms:mtpsurl: 'textlogger-dispose-method-boolean-mspp-logging.md'
 
 Disposes the associated [TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328).
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -43,7 +43,7 @@ When **Truetrue** (**True** in Visual Basic), disposes the associated [TextWrite
 
 ## See Also
 
-[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)<br/>
-[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)<br/>
-[Dispose Overload](/patterns-practices/reference/textlogger-dispose-method-mspp-logging)<br/>
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)  
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)  
+[Dispose Overload](/patterns-practices/reference/textlogger-dispose-method-mspp-logging)  
 [Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

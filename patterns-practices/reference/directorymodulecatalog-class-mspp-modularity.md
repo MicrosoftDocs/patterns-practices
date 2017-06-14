@@ -10,8 +10,8 @@ ms:mtpsurl: 'directorymodulecatalog-class-mspp-modularity.md'
 
 Represets a catalog created from a directory on disk.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -32,11 +32,11 @@ Public Class DirectoryModuleCatalog
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
 &nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog
 
 ## See Also
 
-[DirectoryModuleCatalog Members](/patterns-practices/reference/directorymodulecatalog-members-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[DirectoryModuleCatalog Members](/patterns-practices/reference/directorymodulecatalog-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

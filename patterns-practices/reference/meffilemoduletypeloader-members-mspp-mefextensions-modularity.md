@@ -136,5 +136,5 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 
 ## See Also
 
-[MefFileModuleTypeLoader Class](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mefextensions.modularity)<br/>
+[MefFileModuleTypeLoader Class](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)  
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mefextensions.modularity)  

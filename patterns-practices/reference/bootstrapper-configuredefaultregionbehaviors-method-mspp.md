@@ -10,8 +10,8 @@ ms:mtpsurl: 'bootstrapper-configuredefaultregionbehaviors-method-mspp.md'
 
 Configures the [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions). This will be the list of default behaviors that will be added to a region.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -31,6 +31,6 @@ Type: [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfact
 
 ## See Also
 
-[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)<br/>
-[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)  
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

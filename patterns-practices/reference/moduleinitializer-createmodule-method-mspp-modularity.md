@@ -38,6 +38,6 @@ Uses the container to resolve a new [IModule](/patterns-practices/reference/imod
 
 ## See Also
 
-[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)<br/>
-[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)<br/>
+[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)  
+[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

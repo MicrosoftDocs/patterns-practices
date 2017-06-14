@@ -9,8 +9,8 @@ ms:mtpsurl: 'mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-be
 
 Exports the AutoPopulateRegionBehavior using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -31,12 +31,12 @@ Public Class MefRegionMemberLifetimeBehavior
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-&nbsp;&nbsp;&nbsp;  [Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    [Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)<br/>
+&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+&nbsp;&nbsp;&nbsp;  [Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
+&nbsp;&nbsp;&nbsp;&nbsp;    [Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionMemberLifetimeBehavior
 
 ## See Also
 
-[MefRegionMemberLifetimeBehavior Members](/patterns-practices/reference/mefregionmemberlifetimebehavior-members-mspp-mefextensions-regions-behaviors)<br/>
+[MefRegionMemberLifetimeBehavior Members](/patterns-practices/reference/mefregionmemberlifetimebehavior-members-mspp-mefextensions-regions-behaviors)  
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

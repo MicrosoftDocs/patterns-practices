@@ -9,8 +9,8 @@ ms:mtpsurl: 'idispatcherfacade-begininvoke-method-mspp-events.md'
 
 Dispatches an invocation to the method received as parameter.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -42,6 +42,6 @@ Arguments to pass to the invoked method.
 
 ## See Also
 
-[IDispatcherFacade Interface](/patterns-practices/reference/idispatcherfacade-interface-mspp-events)<br/>
-[IDispatcherFacade Members](/patterns-practices/reference/idispatcherfacade-members-mspp-events)<br/>
-[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)<br/>
+[IDispatcherFacade Interface](/patterns-practices/reference/idispatcherfacade-interface-mspp-events)  
+[IDispatcherFacade Members](/patterns-practices/reference/idispatcherfacade-members-mspp-events)  
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)  

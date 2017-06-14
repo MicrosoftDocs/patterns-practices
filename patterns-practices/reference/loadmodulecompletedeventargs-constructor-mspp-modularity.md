@@ -10,8 +10,8 @@ ms:mtpsurl: 'loadmodulecompletedeventargs-constructor-mspp-modularity.md'
 
 Initializes a new instance of the [LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -45,6 +45,6 @@ Any error that occurred during the call.
 
 ## See Also
 
-[LoadModuleCompletedEventArgs Class](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)<br/>
-[LoadModuleCompletedEventArgs Members](/patterns-practices/reference/loadmodulecompletedeventargs-members-mspp-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+[LoadModuleCompletedEventArgs Class](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)  
+[LoadModuleCompletedEventArgs Members](/patterns-practices/reference/loadmodulecompletedeventargs-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

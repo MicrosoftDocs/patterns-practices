@@ -11,8 +11,8 @@ Gets or sets a SubscriptionToken that identifies this [IEventSubscription](/patt
 
 IEventSubscription.SubscriptionToken Property
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -36,7 +36,7 @@ A token that identifies this [IEventSubscription](/patterns-practices/reference/
 
 ## See Also
 
-[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
+[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)  
 IEventSubscription Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)  

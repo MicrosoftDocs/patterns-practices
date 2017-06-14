@@ -150,5 +150,5 @@ Occurs whenever a new view is registered.
 
 ## See Also
 
-[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)<br/>
+[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

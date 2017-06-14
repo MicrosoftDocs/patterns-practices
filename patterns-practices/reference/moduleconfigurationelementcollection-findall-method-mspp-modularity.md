@@ -9,8 +9,8 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-findall-method-mspp-modularity
 
 Searches the collection for all the [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity) that match the specified predicate.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -47,7 +47,7 @@ A [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz) that imple
 
 ### Return Value
 
-Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)(Of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity))<br/>
+Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)(Of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity))  
 A [List(Of T)](http://msdn.microsoft.com/en-us/library/6sh2ey19) with the successful matches.
 
 ## Exceptions
@@ -59,6 +59,6 @@ A [List(Of T)](http://msdn.microsoft.com/en-us/library/6sh2ey19) with the succes
 
 ## See Also
 
-[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)<br/>
-[ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)<br/>
+[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)  
+[ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

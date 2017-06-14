@@ -10,8 +10,8 @@ ms:mtpsurl: 'loadmodulecompletedeventargs-moduleinfo-property-mspp-modularity.md
 
 Gets the module info.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -32,6 +32,6 @@ The module info.
 
 ## See Also
 
-[LoadModuleCompletedEventArgs Class](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-mefextensions-modularity)<br/> 
-[LoadModuleCompletedEventArgs Members](/patterns-practices/reference/loadmodulecompletedeventargs-members-mspp-mefextensions-modularity)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[LoadModuleCompletedEventArgs Class](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-mefextensions-modularity)  
+[LoadModuleCompletedEventArgs Members](/patterns-practices/reference/loadmodulecompletedeventargs-members-mspp-mefextensions-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)  

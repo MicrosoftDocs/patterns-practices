@@ -9,8 +9,8 @@ ms:mtpsurl: 'itemmetadata-constructor-mspp-regions.md'
 
 Initializes a new instance of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -38,6 +38,6 @@ The item to wrap.
 
 ## See Also
 
-[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)<br/>
-[ItemMetadata Members](/patterns-practices/reference/itemmetadata-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)  
+[ItemMetadata Members](/patterns-practices/reference/itemmetadata-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

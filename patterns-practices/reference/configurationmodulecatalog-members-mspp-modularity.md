@@ -322,5 +322,5 @@ Gets or sets a value that remembers whether the [ModuleCatalog](/patterns-practi
 
 ## See Also
 
-[ConfigurationModuleCatalog Class](/patterns-practices/reference/configurationmodulecatalog-class-mspp-modularity)<br/>
+[ConfigurationModuleCatalog Class](/patterns-practices/reference/configurationmodulecatalog-class-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

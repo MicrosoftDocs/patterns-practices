@@ -9,8 +9,8 @@ ms:mtpsurl: 'bootstrapper-configureregionadaptermappings-method-mspp.md'
 
 Configures the default region adapter mappings to use in the application, in order to adapt UI controls defined in XAML to use a region and register it automatically. May be overwritten in a derived class to add specific mappings required by the application.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,11 +26,11 @@ Protected Overridable Function ConfigureRegionAdapterMappings As RegionAdapterMa
 
 ### Return Value
 
-Type: [RegionAdapterMappings](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)<br/>
+Type: [RegionAdapterMappings](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)  
 The [RegionAdapterMappings](/patterns-practices/reference/regionadaptermappings-class-mspp-regions) instance containing all the mappings.
 
 ## See Also
 
-[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)<br/>
-[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)<br/>
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)  
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

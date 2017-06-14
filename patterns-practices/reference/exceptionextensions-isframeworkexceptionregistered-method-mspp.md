@@ -9,8 +9,8 @@ ms:mtpsurl: 'exceptionextensions-isframeworkexceptionregistered-method-mspp.md'
 
 Determines whether the exception type is already registered using the [RegisterFrameworkExceptionType(Type)](/patterns-practices/reference/exceptionextensions-registerframeworkexceptiontype-method-mspp) method
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -41,6 +41,6 @@ true if the exception type is already registered; otherwise, false.
 
 ## See Also
 
-[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)<br/>
-[ExceptionExtensions Members](/patterns-practices/reference/exceptionextensions-members-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
+[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)  
+[ExceptionExtensions Members](/patterns-practices/reference/exceptionextensions-members-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

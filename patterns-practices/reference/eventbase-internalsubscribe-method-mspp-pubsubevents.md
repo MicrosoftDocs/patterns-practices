@@ -9,8 +9,8 @@ ms:mtpsurl: 'eventbase-internalsubscribe-method-mspp-pubsubevents.md'
 
 Adds the specified [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents) to the subscribers' collection.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -30,13 +30,13 @@ Protected Overridable Function InternalSubscribe (
 
 ### Parameters
 
-*eventSubscription*<br/>
-Type: [Microsoft.Practices.Prism.PubSubEvents.IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
+*eventSubscription*  
+Type: [Microsoft.Practices.Prism.PubSubEvents.IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)  
 The subscriber.
 
 ### Return Value
 
-Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)<br/>
+Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 The [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) that uniquely identifies every subscriber.
 
 ## Remarks
@@ -45,6 +45,6 @@ Adds the subscription to the internal list and assigns it a new [SubscriptionTok
 
 ## See Also
 
-[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
-EventBase Members<br/>
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
+EventBase Members  
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

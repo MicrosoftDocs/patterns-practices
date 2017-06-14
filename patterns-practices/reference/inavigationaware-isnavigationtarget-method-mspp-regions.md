@@ -9,8 +9,8 @@ ms:mtpsurl: 'inavigationaware-isnavigationtarget-method-mspp-regions.md'
 
 Called to determine if this instance can handle the navigation request.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -23,13 +23,13 @@ bool IsNavigationTarget(
 
 ### Parameters
 
-*navigationContext*<br/>
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)<br/>
+*navigationContext*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
 The navigation context.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **truetrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **falsefalse** (**False** in Visual Basic).
 
 
@@ -42,17 +42,17 @@ Function IsNavigationTarget (
 
 ### Parameters
 
-*navigationContext*<br/>
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)<br/>
+*navigationContext*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
 The navigation context.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **Truetrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **Falsefalse** (**False** in Visual Basic).
 
 ## See Also
 
-[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)<br/>
-[INavigationAware Members](/patterns-practices/reference/inavigationaware-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)  
+[INavigationAware Members](/patterns-practices/reference/inavigationaware-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

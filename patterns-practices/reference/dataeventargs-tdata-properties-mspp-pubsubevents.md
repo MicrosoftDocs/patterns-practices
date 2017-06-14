@@ -37,5 +37,5 @@ Gets the information related to the event.
 
 ## See Also
 
-[DataEventArgs&lt;TData&gt; Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)<br/>
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[DataEventArgs&lt;TData&gt; Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)  
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

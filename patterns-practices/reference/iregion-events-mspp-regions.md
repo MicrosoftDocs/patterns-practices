@@ -34,5 +34,5 @@ Occurs when a property value changes.
 </table>
 
 ## See Also
-[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>
+[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)  
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  

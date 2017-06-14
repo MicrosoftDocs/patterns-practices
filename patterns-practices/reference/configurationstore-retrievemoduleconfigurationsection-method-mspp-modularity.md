@@ -9,8 +9,8 @@ ms:mtpsurl: 'configurationstore-retrievemoduleconfigurationsection-method-mspp-m
 
 Gets the module configuration data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -49,6 +49,6 @@ A [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurati
 
 ## See Also
 
-[ConfigurationStore Class](/patterns-practices/reference/configurationstore-class-mspp-modularity)<br/>
-[ConfigurationStore Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)<br/>
+[ConfigurationStore Class](/patterns-practices/reference/configurationstore-class-mspp-modularity)  
+[ConfigurationStore Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

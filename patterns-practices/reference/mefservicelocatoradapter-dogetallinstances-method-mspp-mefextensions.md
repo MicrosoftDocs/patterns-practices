@@ -9,8 +9,8 @@ ms:mtpsurl: 'mefservicelocatoradapter-dogetallinstances-method-mspp-mefextension
 
 Resolves the instance of the requested service.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -50,6 +50,6 @@ Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [Object
 The requested service instance.
 
 ## See Also
-[MefServiceLocatorAdapter Class](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions)<br/>
-[MefServiceLocatorAdapter Members](/patterns-practices/reference/mefservicelocatoradapter-members-mspp-mefextensions)<br/>
-[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>
+[MefServiceLocatorAdapter Class](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions)  
+[MefServiceLocatorAdapter Members](/patterns-practices/reference/mefservicelocatoradapter-members-mspp-mefextensions)  
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)  

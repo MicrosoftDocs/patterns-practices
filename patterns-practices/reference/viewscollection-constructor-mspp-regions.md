@@ -9,8 +9,8 @@ ms:mtpsurl: 'viewscollection-constructor-mspp-regions.md'
 
 Initializes a new instance of the [ViewsCollection](/patterns-practices/reference/viewscollection-class-mspp-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -62,6 +62,6 @@ A predicate to filter the list collection.
 
 ## See Also
 
-[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)<br/>
-[ViewsCollection Members](/patterns-practices/reference/viewscollection-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)  
+[ViewsCollection Members](/patterns-practices/reference/viewscollection-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

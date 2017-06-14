@@ -9,8 +9,8 @@ ms:mtpsurl: 'delegatereference-constructor-mspp-pubsubevents.md'
 
 Initializes a new instance of [DelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) <br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)  
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -53,8 +53,8 @@ If **falsefalse** (**False** in Visual Basic) the class will create a weak refer
 
 ## See Also
 
-[DelegateReference Class](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference)<br/>
-[DelegateReference Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference)<br/>
+[DelegateReference Class](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference)  
+[DelegateReference Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference)  
 DelegateReference Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

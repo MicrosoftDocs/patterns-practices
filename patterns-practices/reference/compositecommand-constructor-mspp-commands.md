@@ -40,6 +40,6 @@ Initializes a new instance of [CompositeCommand](/patterns-practices/reference/c
 
 ## See Also
 
-[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)<br/>
-[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)<br/>
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)  
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
