@@ -7,7 +7,7 @@ ms:mtpsurl: 'defaultconfirmationwindow-properties-mspp-interactivity-defaultpopu
 
 # DefaultConfirmationWindow Properties
 
-The [DefaultConfirmationWindow](/patterns-practices/refernce/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows) type exposes the following members.
+The [DefaultConfirmationWindow](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows) type exposes the following members.
 
 ## Properties
 
@@ -270,7 +270,7 @@ Gets or sets the dialog result value, which is the value that is returned from t
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Dispatcher](http://msdn.microsoft.com/en-us/library/ms605656)</td>
 <td><div class="summary">
-Gets the [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907) this [DispatcherObject ](http://msdn2.microsoft.com/en-us/library/ms615925) is associated with.
+Gets the [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907) this [DispatcherObject ](http://msdn.microsoft.com/en-us/library/ms615925) is associated with.
 </div>
 (Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).)</td>
 </tr>
@@ -758,7 +758,7 @@ Gets a collection of windows for which this window is the owner.
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Owner](http://msdn.microsoft.com/en-us/library/ms588783)</td>
 <td><div class="summary">
-Gets or sets the [Window](http://msdn.microsoft.com/en-us/library/ms590112) that owns this [Window](http://msdn2.microsoft.com/en-us/library/ms590112).
+Gets or sets the [Window](http://msdn.microsoft.com/en-us/library/ms590112) that owns this [Window](http://msdn.microsoft.com/en-us/library/ms590112).
 </div>
 (Inherited from [Window](http://msdn.microsoft.com/en-us/library/ms590112).)</td>
 </tr>

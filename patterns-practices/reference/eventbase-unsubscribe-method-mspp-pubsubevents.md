@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.Unsubscribe(Micr
 ms:mtpsurl: 'eventbase-unsubscribe-method-mspp-pubsubevents.md'
 ---
 
-
 # EventBase.Unsubscribe Method
 
 Removes the subscriber matching the [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
@@ -17,31 +16,25 @@ Removes the subscriber matching the [SubscriptionToken](/patterns-practices/refe
 ## Syntax
 
 ```C#
-   public virtual void Unsubscribe(
+public virtual void Unsubscribe(
 	SubscriptionToken token
-) 
+)
 ```
-
-
 ```VB
-   'Declaration
+'Declaration
 Public Overridable Sub Unsubscribe ( 
 	token As SubscriptionToken
 )
 ```
 
-
 ### Parameters
 
-*token*
-
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
-
+*token*<br/>
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)<br/>
 The [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) returned by [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) while subscribing to the event.
 
 ## See Also
 
 [EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
-EventBase Members
-
+EventBase Members<br/>
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

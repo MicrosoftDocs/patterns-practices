@@ -26,8 +26,7 @@ Public Overrides Function GetHashCode As Integer
 
 ### Return Value
 
-Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
-
+Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)<br/>
 A hash code for the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
 
 ## See Also

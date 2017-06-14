@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.Defau
 ms:mtpsurl: 'defaultnotificationwindow-constructor-mspp-interactivity-defaultpopupwindows.md'
 ---
 
-
 # DefaultNotificationWindow Constructor
 
 Creates a new instance of [DefaultNotificationWindow](/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows)
@@ -21,7 +20,7 @@ Creates a new instance of [DefaultNotificationWindow](/patterns-practices/refere
 ```
 
 ```VB
-   'Declaration
+'Declaration
 Public Sub New
 ```
 

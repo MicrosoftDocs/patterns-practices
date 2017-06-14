@@ -5,25 +5,24 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken.Equals(S
 ms:mtpsurl: 'subscriptiontoken-equals-method-mspp-pubsubevents.md'
 ---
 
-
 # SubscriptionToken.Equals Method (Object)
 
 Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
 ```C#
-   public override bool Equals(
+public override bool Equals(
 	Object obj
 )
 ```
 
 ```VB
-   'Declaration
+'Declaration
 Public Overrides Function Equals ( 
 	obj As Object
 ) As Boolean
@@ -31,16 +30,13 @@ Public Overrides Function Equals (
 
 ### Parameters
 
-*obj*  
-
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+*obj*<br/>
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
 The [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) to compare with the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 true if the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b); otherwise, false.
 
 ## Exceptions
@@ -53,7 +49,6 @@ true if the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 ## See Also
 
 [SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)<br/>
-SubscriptionToken Members
-
+SubscriptionToken Members<br/>
 [Equals Overload](/patterns-practices/reference/subscriptiontoken-equals-method-mspp-pubsubevents)<br/>
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

@@ -23,17 +23,14 @@ public DataEventArgs(
 
 #### Parameters
 
-*value*
-
-Type: [TData](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)
-
+*value*  
+Type: [TData](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)  
 Information related to the event.
 
 ## See Also
 
 [DataEventArgs&lt;TData&gt; Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)<br/>
-DataEventArgs&lt;TData&gt; Members
-
+DataEventArgs&lt;TData&gt; Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
 
 # DataEventArgs(Of TData) Constructor
@@ -55,17 +52,14 @@ Public Sub New (
 
 #### Parameters
 
-*value*
-
-Type: [TData](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)
-
+*value*  
+Type: [TData](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)  
 Information related to the event.
 
 ## See Also
 
 [DataEventArgs(Of TData) Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)<br/>
-DataEventArgs(Of TData) Members
-
+DataEventArgs(Of TData) Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
 
 
