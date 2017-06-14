@@ -9,8 +9,8 @@ ms:mtpsurl: 'filemoduletypeloader-loadmodulecompleted-event-mspp-modularity.md'
 
 Raised when a module is loaded or fails to load.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -20,8 +20,8 @@ public event EventHandler<LoadModuleCompletedEventArgs> LoadModuleCompleted
 ```
 
 ### Value
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity))&gt;
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs))&gt;
 
 ## Syntax
 
@@ -31,14 +31,13 @@ Public Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs
 ```
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity))
 
 ### Implements
-
-[IModuleTypeLoader.LoadModuleCompleted](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmodulecompleted)
+[IModuleTypeLoader.LoadModuleCompleted](/patterns-practices/reference/imoduletypeloader-loadmodulecompleted-event-mspp-modularity)
 
 ## See Also
 
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)<br/>
-[FileModuleTypeLoader Members](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[FileModuleTypeLoader Class](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity)<br/>
+[FileModuleTypeLoader Members](/patterns-practices/reference/filemoduletypeloader-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

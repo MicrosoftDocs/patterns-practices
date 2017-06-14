@@ -10,7 +10,7 @@ ms:mtpsurl: 'iregionviewregistry-contentregistered-event-mspp-regions.md'
 
 Event triggered when a content is registered to a region name.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -22,7 +22,7 @@ event EventHandler<ViewRegisteredEventArgs> ContentRegistered
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ViewRegisteredEventArgs](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)&gt;
 
 ## Syntax
 
@@ -33,7 +33,7 @@ Event ContentRegistered As EventHandler(Of ViewRegisteredEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ViewRegisteredEventArgs](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions))
 
 ## Remarks
 
@@ -41,6 +41,6 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of
 
 ## See Also
 
-[IRegionViewRegistry Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry)<br/>
-[IRegionViewRegistry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry_members)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions)<br/>
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)<br/>
+[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
