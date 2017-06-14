@@ -7,7 +7,7 @@ ms:mtpsurl: 'ieventaggregator-methods-mspp-pubsubevents.md'
 
 # IEventAggregator Methods
 
-The [IEventAggregator](/patterns-practices/reference/bindablebase-class-mspp-mvvm) type exposes the following members.
+The [IEventAggregator](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -38,5 +38,5 @@ Gets an instance of an event type.
 
 ## See Also
 
-[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[IEventAggregator Interface](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

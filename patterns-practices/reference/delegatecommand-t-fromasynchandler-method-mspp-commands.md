@@ -23,14 +23,14 @@ ms:mtpsurl: 'delegatecommand-t-fromasynchandler-method-mspp-commands.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[FromAsyncHandler(Func(Of T, Task))](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-func-t-task-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands) from an awaitable handler method.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[FromAsyncHandler(Func(Of T, Task), Func(Of T, Boolean))](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-func-t-task-func-t-boolean-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands) from an awaitable handler method.

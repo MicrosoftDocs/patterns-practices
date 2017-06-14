@@ -27,7 +27,7 @@ The [PubSubEvent(Of TPayload)](/patterns-practices/reference/pubsubevent-tpayloa
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Subscriptions](/patterns-practices/reference/mspp-pubsubevents-namespace)</td>
+<td>[Subscriptions](/patterns-practices/reference/eventbase-subscriptions-property-mspp-pubsubevents)</td>
 <td><div class="summary">
 Gets the list of current subscriptions.
 </div>
@@ -35,7 +35,7 @@ Gets the list of current subscriptions.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[SynchronizationContext](/patterns-practices/reference/idelegatereference-target-property-mspp-pubsubevents)</td>
+<td>[SynchronizationContext](/patterns-practices/reference/eventbase-synchronizationcontext-property-mspp-pubsubevents)</td>
 <td><div class="summary">
 Allows the SynchronizationContext to be set by the EventAggregator for UI Thread Dispatching
 </div>
