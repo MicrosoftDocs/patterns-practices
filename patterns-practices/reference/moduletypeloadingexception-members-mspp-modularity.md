@@ -1,13 +1,13 @@
 ---
-TOCTitle: ModuleTypeLoaderNotFoundException Members
-Title: 'ModuleTypeLoaderNotFoundException Members (Microsoft.Practices.Prism.Modularity)'
-ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException'
-ms:mtpsurl: 'moduletypeloadernotfoundexception-members-mspp-modularity.md'
+TOCTitle: ModuleTypeLoadingException Members
+Title: 'ModuleTypeLoadingException Members (Microsoft.Practices.Prism.Modularity)'
+ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException'
+ms:mtpsurl: 'ModuleTypeLoadingException-members-mspp-modularity.md'
 ---
 
-# ModuleTypeLoaderNotFoundException Members
+# ModuleTypeLoadingException Members
 
-The [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity) type exposes the following members.
+The [ModuleTypeLoadingException](/patterns-practices/reference/ModuleTypeLoadingException-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -23,35 +23,41 @@ The [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletype
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleTypeLoaderNotFoundException</td>
+<td>ModuleTypeLoadingException</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity) class.
-</div></td>
+Initializes a new instance</div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleTypeLoaderNotFoundException(String) </td>
+<td>ModuleTypeLoadingException(String) </td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity) class with a specified error message.
+Initializes a new instance with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>ModuleTypeLoaderNotFoundException(SerializationInfo, StreamingContext) </td>
+<td>	ModuleTypeLoadingException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
 Initializes a new instance with serialized data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleTypeLoaderNotFoundException(String, Exception) </td>
+<td>ModuleTypeLoadingException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity) class with a specified error message.
+Initializes a new instance with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleTypeLoaderNotFoundException(String, String, Exception) </td>
+<td>ModuleTypeLoadingException(String, String)</td>
+<td><div class="summary">
+Initializes the exception with a particular module and error message.
+</div></td>
+</tr>
+<tr class="even">
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td>ModuleTypeLoadingException(String, String, Exception)</td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.
 </div></td>
@@ -91,9 +97,9 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetBaseException](http://msdn.microsoft.com/en-us/library/49kcee3b)</td>
 <td><div class="summary">
-When overridden in a derived class, returns the [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents) that is the root cause of one or more subsequent exceptions.
+When overridden in a derived class, returns the [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59) that is the root cause of one or more subsequent exceptions.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -117,7 +123,7 @@ Sets the [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) w
 <td><div class="summary">
 Gets the runtime type of the current instance.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -133,7 +139,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Creates and returns a string representation of the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 </tbody>
 </table>
@@ -181,7 +187,7 @@ Looks at all the inner exceptions of the *exception* parameter to find the most 
 <td><div class="summary">
 Gets a collection of key/value pairs that provide additional user-defined information about the exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -189,7 +195,7 @@ Gets a collection of key/value pairs that provide additional user-defined inform
 <td><div class="summary">
 Gets or sets a link to the help file associated with this exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -197,15 +203,15 @@ Gets or sets a link to the help file associated with this exception.
 <td><div class="summary">
 Gets or sets HRESULT, a coded numerical value that is assigned to a specific exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[InnerException](http://msdn.microsoft.com/en-us/library/902sca80)</td>
 <td><div class="summary">
-Gets the [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents) instance that caused the current exception.
+Gets the [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59) instance that caused the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -213,7 +219,7 @@ Gets the [Exception](/patterns-practices/reference/ieventsubscription-interface-
 <td><div class="summary">
 Gets a message that describes the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -229,7 +235,7 @@ Gets or sets the name of the module that this exception refers to.
 <td><div class="summary">
 Gets or sets the name of the application or the object that causes the error.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -237,7 +243,7 @@ Gets or sets the name of the application or the object that causes the error.
 <td><div class="summary">
 Gets a string representation of the immediate frames on the call stack.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -245,7 +251,7 @@ Gets a string representation of the immediate frames on the call stack.
 <td><div class="summary">
 Gets the method that throws the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 </tbody>
 </table>
@@ -268,12 +274,12 @@ Gets the method that throws the current exception.
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Class](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)<br/>
+[ModuleTypeLoadingException Class](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

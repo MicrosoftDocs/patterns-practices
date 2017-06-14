@@ -7,7 +7,7 @@ ms:mtpsurl: 'allactiveregion-members-mspp-regions.md'
 
 # AllActiveRegion Members
 
-The [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-modularity) type exposes the following members.
+The [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -25,7 +25,7 @@ The [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-m
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>AllActiveRegion</td>
 <td><div class="summary">
-Initializes a new instance of the [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-modularity) class
+Initializes a new instance of the [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions) class
 </div></td>
 </tr>
 </tbody>
