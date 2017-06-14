@@ -9,8 +9,10 @@ ms:mtpsurl: 'SubscriptionToken-GetHashCode-Method-mspp-modularity.md'
 
 Serves as a hash function for a particular type.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
+
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -32,6 +34,8 @@ A hash code for the current [Object](http://msdn2.microsoft.com/en-us/library/e5
 
 ## See Also
 
-[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)<br/>
-SubscriptionToken Members<br/>
+[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
+
+SubscriptionToken Members
+
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
