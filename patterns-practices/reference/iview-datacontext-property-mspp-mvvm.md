@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Mvvm.IView.DataContext'
 ms:mtpsurl: 'iview-datacontext-property-mspp-mvvm.md'
 ---
 
-
 # IView.DataContext Property
 
 **Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
@@ -19,7 +18,7 @@ ms:mtpsurl: 'iview-datacontext-property-mspp-mvvm.md'
 ```
 
 ```VB
-   'Declaration
+'Declaration
 Property DataContext As Object
 	Get
 	Set

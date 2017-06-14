@@ -5,16 +5,18 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSub
 ms:mtpsurl: 'dispatchereventsubscription-tpayload-methods-mspp-pubsubevents.md'
 ---
 
-
 # DispatcherEventSubscription(Of TPayload) Methods
 
-The [DispatcherEventSubscription(Of TPayload)](https://review.docs.microsoft.com/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents) type exposes the following members.
+The [DispatcherEventSubscription(Of TPayload)](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
-
 <table>
-
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -41,11 +43,11 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetExecutionStrategy](https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-getexecutionstrategy-method-mspp-pubsubevents)</td>
+<td>[GetExecutionStrategy](/patterns-practices/reference/eventsubscription-tpayload-getexecutionstrategy-method-mspp-pubsubevents)</td>
 <td><div class="summary">
 Gets the execution strategy to publish this event.
 </div>
-(Inherited from [EventSubscription(Of TPayload)](https://review.docs.microsoft.com/en-us/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents).)</td>
+(Inherited from [EventSubscription(Of TPayload)](/en-us/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>

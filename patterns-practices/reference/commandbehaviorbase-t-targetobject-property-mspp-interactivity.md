@@ -41,9 +41,10 @@ Object to which this behavior is attached.
 ## Syntax
 
 ```VB
-    'Declaration
+'Declaration
 Protected ReadOnly Property TargetObject As T
 	Get
+
 ```
 ### Property Value
 
