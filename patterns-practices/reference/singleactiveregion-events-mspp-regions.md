@@ -7,7 +7,7 @@ ms:mtpsurl: 'singleactiveregion-events-mspp-regions.md'
 
 # SingleActiveRegion Events
 
-The [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion) type exposes the following members.
+The [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions) type exposes the following members.
 
 ## Events
 
@@ -22,16 +22,16 @@ The [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.propertychanged">PropertyChanged</a></td>
+<td>[PropertyChanged](/patterns-practices/reference/region-propertychanged-event-mspp-regions)</td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[SingleActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

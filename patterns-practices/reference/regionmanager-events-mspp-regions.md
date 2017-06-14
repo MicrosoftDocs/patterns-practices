@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionmanager-events-mspp-regions.md'
 
 # RegionManager Events
 
-The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager) type exposes the following members.
+The [RegionManager](/patterns-practices/reference/regionmanager-updatingregions-event-mspp-regions) type exposes the following members.
 
 ## Events
 
@@ -22,7 +22,7 @@ The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/public-event.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.updatingregions">UpdatingRegions</a></td>
+<td>[UpdatingRegions](/patterns-practices/reference/regionmanager-updatingregions-event-mspp-regions)</td>
 <td><div class="summary">
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
 </div></td>
@@ -32,5 +32,5 @@ Notification used by attached behaviors to update the region managers appropriat
 
 ## See Also
 
-[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>
+[RegionManager Class](/patterns-practices/reference/regionmanager-updatingregions-event-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
