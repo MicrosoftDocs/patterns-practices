@@ -10,7 +10,7 @@ ms:mtpsurl: 'imodulemanager-loadmodulecompleted-event-mspp-modularity.md'
 
 Raised when a module is loaded or fails to load.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -24,7 +24,7 @@ event EventHandler<LoadModuleCompletedEventArgs> LoadModuleCompleted
 
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)&gt;
 
 ## Syntax
 
@@ -35,10 +35,10 @@ Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)])
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)])
 
 ## See Also
 
-[IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)<br/>
-[IModuleManager Members](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)<br/>
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)<br/>
+[IModuleManager Members](/patterns-practices/reference/imodulemanager-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

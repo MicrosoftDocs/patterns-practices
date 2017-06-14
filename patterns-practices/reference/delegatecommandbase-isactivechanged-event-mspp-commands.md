@@ -7,11 +7,13 @@ ms:mtpsurl: 'delegatecommandbase-isactivechanged-event-mspp-commands.md'
 
 # DelegateCommandBase.IsActiveChanged Event
 
-Fired if the [IsActive](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.isactive) property changes.
+Fired if the [IsActive](/patterns-practices/reference/delegatecommandbase-isactive-property-mspp-commands) property changes.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -30,10 +32,10 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
 ### Implements
 
-[IActiveAware.IsActiveChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactivechanged)
+[IActiveAware.IsActiveChanged](/patterns-practices/reference/iactiveaware-isactivechanged-event-mspp)
 
 ## See Also
 
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)<br/>
-[DelegateCommandBase Members](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)<br/>
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)<br/>
+[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

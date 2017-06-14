@@ -9,7 +9,7 @@ ms:mtpsurl: 'interactionrequest-t-raised-event-mspp-interactivity-interactionreq
 
 Fired when interaction is needed.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -23,23 +23,23 @@ public event EventHandler&lt;InteractionRequestedEventArgs&gt; Raised
 
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[InteractionRequestedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)&gt;
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[InteractionRequestedEventArgs](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)&gt;
 
 ### Implements
 
-[IInteractionRequest.Raised](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest.raised)
+[IInteractionRequest.Raised](/patterns-practices/reference/iinteractionrequest-raised-event-mspp-interactivity-interactionrequest)
 
 ## See Also
 
 [InteractionRequest&lt;T&gt; Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)<br/>
 [InteractionRequest&lt;T&gt; Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)<br/>
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>
 
 # InteractionRequest(Of T).Raised Event
 
 Fired when interaction is needed.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -54,14 +54,14 @@ Public Event Raised As EventHandler(Of InteractionRequestedEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [InteractionRequestedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs))
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [InteractionRequestedEventArgs](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest))
 
 ### Implements
 
-[IInteractionRequest.Raised](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest.raised)
+[IInteractionRequest.Raised](/patterns-practices/reference/iinteractionrequest-raised-event-mspp-interactivity-interactionrequest)
 
 ## See Also
 
 [InteractionRequest(Of T) Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)<br/>
 [InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)<br/>
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

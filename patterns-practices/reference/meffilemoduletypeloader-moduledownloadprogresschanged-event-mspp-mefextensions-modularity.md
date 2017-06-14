@@ -9,7 +9,7 @@ ms:mtpsurl: 'meffilemoduletypeloader-moduledownloadprogresschanged-event-mspp-me
 
 Raised repeatedly to provide progress as modules are loaded in the background.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 

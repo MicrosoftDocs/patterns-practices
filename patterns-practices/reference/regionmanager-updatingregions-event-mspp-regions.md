@@ -10,7 +10,7 @@ ms:mtpsurl: 'regionmanager-updatingregions-event-mspp-regions.md'
 
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -38,6 +38,6 @@ This event uses weak references to the event handler to prevent this static even
 
 ## See Also
 
-[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)<br/>
-[RegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager_members)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>
+[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)<br/>
+[RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
