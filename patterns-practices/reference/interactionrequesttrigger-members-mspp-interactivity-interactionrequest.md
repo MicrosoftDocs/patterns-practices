@@ -4,16 +4,14 @@ Title: 'InteractionRequestTrigger Members (Microsoft.Practices.Prism.Interactivi
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger'
 ms:mtpsurl: 'interactionrequesttrigger-members-mspp-interactivity-interactionrequest.md'
 ---
-
+
 # InteractionRequestTrigger Members
 
-The [InteractionRequestTrigger](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger) type exposes the following members.
+The [InteractionRequestTrigger](/patterns-practices/reference/interactionrequesttrigger-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,9 +22,9 @@ The [InteractionRequestTrigger](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger.">InteractionRequestTrigger</a></td>
+<td>InteractionRequestTrigger</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger">InteractionRequestTrigger</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/interactionrequesttrigger-class-mspp-interactivity-interactionrequest">InteractionRequestTrigger</a> class
 </div></td>
 </tr>
 </tbody>
@@ -34,9 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -238,7 +234,7 @@ Makes the current instance a frozen clone of the specified <a href="http://msdn.
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger.geteventname">GetEventName</a></td>
+<td><a href="/patterns-practices/reference/interactionrequesttrigger-geteventname-method-mspp-interactivity-interactionrequest">GetEventName</a></td>
 <td><div class="summary">
 Specifies the name of the Event this EventTriggerBase is listening for.
 </div>
@@ -299,7 +295,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger.onattached">OnAttached</a></td>
+<td><a href="/patterns-practices/reference/interactionrequesttrigger-onattached-method-mspp-interactivity-interactionrequest">OnAttached</a></td>
 <td><div class="summary">
 Called after the trigger is attached to an AssociatedObject.
 </div>
@@ -315,7 +311,7 @@ Called when the current <a href="http://msdn.microsoft.com/en-us/library/ms60273
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger.ondetaching">OnDetaching</a></td>
+<td><a href="/patterns-practices/reference/interactionrequesttrigger-ondetaching-method-mspp-interactivity-interactionrequest">OnDetaching</a></td>
 <td><div class="summary">
 Called when the trigger is being dettached from its AssociatedObject, but before it has actually occurred.
 </div>
@@ -440,9 +436,7 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -544,9 +538,7 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 
 ## Events
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -572,5 +564,6 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 </table>
 
 ## See Also
-[InteractionRequestTrigger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)<br/>
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)<br/>
+
+[InteractionRequestTrigger Class](/patterns-practices/reference/interactionrequesttrigger-class-mspp-interactivity-interactionrequest)<br />
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
