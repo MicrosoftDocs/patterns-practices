@@ -23,19 +23,19 @@ The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microso
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters">Parameters</a></td>
+<td>[Parameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters)</td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a>.)</td>
+(Inherited from [RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.uri">Uri</a></td>
+<td>[Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.uri)</td>
 <td><div class="summary">
 Gets or sets the URI.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a>.)</td>
+(Inherited from [RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry).)</td>
 </tr>
 </tbody>
 </table>

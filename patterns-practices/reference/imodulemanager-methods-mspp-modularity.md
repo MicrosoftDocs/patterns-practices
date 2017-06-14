@@ -24,16 +24,16 @@ The [IModuleManager](/patterns-practices/reference/imodulemanager-interface-mspp
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/imodulemanager-loadmodule-method-mspp-modularity">LoadModule</a></td>
+<td>[LoadModule](/patterns-practices/reference/imodulemanager-loadmodule-method-mspp-modularity)</td>
 <td><div class="summary">
-Loads and initializes the module on the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> with the name <i>moduleName</i>.
+Loads and initializes the module on the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) with the name <i>moduleName</i>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/imodulemanager-run-method-mspp-modularity">Run</a></td>
+<td>[Run](/patterns-practices/reference/imodulemanager-run-method-mspp-modularity)</td>
 <td><div class="summary">
-Initializes the modules marked as <a href="/patterns-practices/reference/initializationmode-enumeration-mspp-modularity">WhenAvailable</a> on the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.
+Initializes the modules marked as [WhenAvailable](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity) on the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).
 </div></td>
 </tr>
 </tbody>

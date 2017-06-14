@@ -24,14 +24,14 @@ The [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interfac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/imoduletypeloader-canloadmoduletype-method-mspp-modularity">CanLoadModuleType</a></td>
+<td>[CanLoadModuleType](/patterns-practices/reference/imoduletypeloader-canloadmoduletype-method-mspp-modularity)</td>
 <td><div class="summary">
-Evaluates the <a href="/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity">Ref</a> property to see if the current typeloader will be able to retrieve the moduleInfo.
+Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the moduleInfo.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/imoduletypeloader-loadmoduletype-method-mspp-modularity">LoadModuleType</a></td>
+<td>[LoadModuleType](/patterns-practices/reference/imoduletypeloader-loadmoduletype-method-mspp-modularity)</td>
 <td><div class="summary">
 Retrieves the <i>moduleInfo</i>.
 </div></td>
@@ -54,14 +54,14 @@ Retrieves the <i>moduleInfo</i>.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="/patterns-practices/reference/imoduletypeloader-loadmodulecompleted-event-mspp-modularity">LoadModuleCompleted</a></td>
+<td>[LoadModuleCompleted](/patterns-practices/reference/imoduletypeloader-loadmodulecompleted-event-mspp-modularity)</td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="/patterns-practices/reference/imoduletypeloader-moduledownloadprogresschanged-event-mspp-modularity">ModuleDownloadProgressChanged</a></td>
+<td>[ModuleDownloadProgressChanged](/patterns-practices/reference/imoduletypeloader-moduledownloadprogresschanged-event-mspp-modularity)</td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are downloaded in the background.
 </div></td>

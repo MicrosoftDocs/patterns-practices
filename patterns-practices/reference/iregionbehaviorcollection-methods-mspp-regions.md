@@ -39,7 +39,7 @@ Checks if a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-inte
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/s793z9y2">GetEnumerator</a></td>
+<td>[GetEnumerator](http://msdn.microsoft.com/en-us/library/s793z9y2)</td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div>
@@ -47,7 +47,7 @@ Returns an enumerator that iterates through the collection.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/5zae5365">GetEnumerator</a></td>
+<td>[GetEnumerator](http://msdn.microsoft.com/en-us/library/5zae5365)</td>
 <td><div class="summary">
 Returns an enumerator that iterates through a collection.
 </div>

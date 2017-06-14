@@ -24,7 +24,7 @@ The [IModuleInitializer](/patterns-practices/reference/imoduleinitializer-interf
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/imoduleinitializer-initialize-method-mspp-modularity">Initialize</a></td>
+<td>[Initialize](/patterns-practices/reference/imoduleinitializer-initialize-method-mspp-modularity)</td>
 <td><div class="summary">
 Initializes the specified module.
 </div></td>

@@ -24,7 +24,7 @@ The [IConfigurationStore](/patterns-practices/reference/iconfigurationstore-inte
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/iconfigurationstore-retrievemoduleconfigurationsection-method-mspp-modularity">RetrieveModuleConfigurationSection</a></td>
+<td>[RetrieveModuleConfigurationSection](/patterns-practices/reference/iconfigurationstore-retrievemoduleconfigurationsection-method-mspp-modularity)</td>
 <td><div class="summary">
 Gets the module configuration data.
 </div></td>

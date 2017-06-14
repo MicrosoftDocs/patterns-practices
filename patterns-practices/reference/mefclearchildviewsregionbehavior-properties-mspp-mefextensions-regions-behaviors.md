@@ -25,22 +25,22 @@ The [MefClearChildViewsRegionBehavior](/patterns-practices/reference/mefclearchi
 
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 
-<td><a href="/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions
-">IsAttached</a></td>
+<td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions
+)</td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
 </div>
-(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 
-<td><a href="/patterns-practices/reference/regionbehavior-region-property-mspp-regions">Region</a></td>
+<td>[Region](/patterns-practices/reference/regionbehavior-region-property-mspp-regions)</td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>

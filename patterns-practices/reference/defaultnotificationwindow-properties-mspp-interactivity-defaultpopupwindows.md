@@ -253,7 +253,7 @@ Gets the size that this element computed during the measure pass of the layout p
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[DialogResult](http://msdn.microsoft.com/en-us/library/ms588776)</td>
 <td><div class="summary">
-Gets or sets the dialog result value, which is the value that is returned from the <a href="http://msdn.microsoft.com/en-us/library/ms599715">ShowDialog()()()</a> method.
+Gets or sets the dialog result value, which is the value that is returned from the [ShowDialog()()()](http://msdn.microsoft.com/en-us/library/ms599715) method.
 </div>
 (Inherited from [Window](http://msdn.microsoft.com/en-us/library/ms590112).)</td>
 </tr>
@@ -493,7 +493,7 @@ Gets or sets a value that declares whether this element can possibly be returned
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsInitialized](http://msdn.microsoft.com/en-us/library/ms600884)</td>
 <td><div class="summary">
-Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its <a href="http://msdn.microsoft.com/en-us/library/ms598118">EndInit()()()</a> method called.
+Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its [EndInit()()()](http://msdn.microsoft.com/en-us/library/ms598118) method called.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>

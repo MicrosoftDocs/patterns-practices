@@ -24,27 +24,27 @@ The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigated">Navigated</a></td>
+<td>[Navigated](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigated)</td>
 <td><div class="summary">
 Raised when the region is navigated to content.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice).)</td>
 </tr>
 <tr class="even">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigating">Navigating</a></td>
+<td>[Navigating](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigating)</td>
 <td><div class="summary">
 Raised when the region is about to be navigated to content.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice).)</td>
 </tr>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigationfailed">NavigationFailed</a></td>
+<td>[NavigationFailed](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigationfailed)</td>
 <td><div class="summary">
 Raised when a navigation request fails.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice).)</td>
 </tr>
 </tbody>
 </table>

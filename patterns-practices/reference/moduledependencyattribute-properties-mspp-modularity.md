@@ -25,19 +25,19 @@ The [ModuleDependencyAttribute](/patterns-practices/reference/moduledependencyat
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/moduledependencyattribute-modulename-property-mspp-modularity
-">ModuleName</a></td>
+<td>[ModuleName](/patterns-practices/reference/moduledependencyattribute-modulename-property-mspp-modularity
+)</td>
 <td><div class="summary">
 Gets the name of the module that this module is dependant upon.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/sa1bf03e">TypeId</a></td>
+<td>[TypeId](http://msdn.microsoft.com/en-us/library/sa1bf03e)</td>
 <td><div class="summary">
-When implemented in a derived class, gets a unique identifier for this <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.
+When implemented in a derived class, gets a unique identifier for this [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.)</td>
+(Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)</td>
 </tr>
 </tbody>
 </table>

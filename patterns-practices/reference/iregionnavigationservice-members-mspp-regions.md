@@ -27,7 +27,7 @@ The [IRegionNavigationService](/patterns-practices/reference/mspp-regions-namesp
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[RequestNavigate(Uri, Action(NavigationResult))](/patterns-practices/reference/mspp-regions-namespace.inavigateasync.requestnavigate)</td>
 <td><div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div>
 (Inherited from [INavigateAsync](/patterns-practices/reference/mspp-regions-namespace.inavigateasync).)</td>
 </tr>
@@ -35,7 +35,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[RequestNavigate(Uri, Action(NavigationResult), NavigationParameters)](/patterns-practices/reference/mspp-regions-namespace.inavigateasync.requestnavigate)</td>
 <td><div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div>
 (Inherited from [INavigateAsync](/patterns-practices/reference/mspp-regions-namespace.inavigateasync).)</td>
 </tr>
@@ -69,7 +69,7 @@ Initiates navigation to the target specified by the target.
 <td>[RequestNavigate(Uri)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-uri-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div>
 (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/mspp-regions-namespace.navigationasyncextensions).)</td>
 </tr>

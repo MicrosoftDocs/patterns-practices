@@ -24,7 +24,7 @@ The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/micro
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior.behaviorkey">BehaviorKey</a></td>
+<td>[BehaviorKey](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior.behaviorkey)</td>
 <td><div class="summary">
 The key of this behavior.
 </div></td>

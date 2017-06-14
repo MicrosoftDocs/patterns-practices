@@ -24,19 +24,19 @@ The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.journal">Journal</a></td>
+<td>[Journal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.journal)</td>
 <td><div class="summary">
 Gets the journal.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.region">Region</a></td>
+<td>[Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.region)</td>
 <td><div class="summary">
 Gets or sets the region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice).)</td>
 </tr>
 </tbody>
 </table>

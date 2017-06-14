@@ -22,19 +22,19 @@ ms:mtpsurl: 'pubsubevent-tpayload-contains-method-mspp-pubsubevents.md'
 <tr class="odd">
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent.contains(system.action)">Contains(Action&lt;TPayload&gt;)</a></td>
+<td>[Contains(Action&lt;TPayload&gt;)](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent.contains(system.action))</td>
 
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt;</a>.
+Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Contains(SubscriptionToken)</a></td>
+<td>[Contains(SubscriptionToken)](/patterns-practices/reference/mspp-mvvm-namespace.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken))</td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken">SubscriptionToken</a>.
+Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken).
 </div>
-(Inherited from <a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase">EventBase</a>.)</td>
+(Inherited from [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase).)</td>
 </tr>
 </tbody>
 </table>

@@ -25,16 +25,16 @@ ms:mtpsurl: 'regionnavigationfailedeventargs-constructor-mspp-regions.md'
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>RegionNavigationFailedEventArgs(NavigationContext)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions
-">RegionNavigationEventArgs</a> class.
+Initializes a new instance of the [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions
+) class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>RegionNavigationFailedEventArgs(NavigationContext, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions
-">RegionNavigationFailedEventArgs</a> class.
+Initializes a new instance of the [RegionNavigationFailedEventArgs](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions
+) class.
 </div></td>
 </tr>
 </tbody>

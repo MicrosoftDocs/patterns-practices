@@ -115,7 +115,7 @@ Gets the hint.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/sa1bf03e">TypeId</a></td>
+<td>[TypeId](http://msdn.microsoft.com/en-us/library/sa1bf03e)</td>
 <td><div class="summary">
 When implemented in a derived class, gets a unique identifier for this [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).
 </div>

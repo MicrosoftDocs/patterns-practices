@@ -25,7 +25,7 @@ The [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) t
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/imodule-initialize-method-mspp-modularity">Initialize</a></td>
+<td>[Initialize](/patterns-practices/reference/imodule-initialize-method-mspp-modularity)</td>
 <td><div class="summary">
 Notifies the module that it has be initialized.
 </div></td>

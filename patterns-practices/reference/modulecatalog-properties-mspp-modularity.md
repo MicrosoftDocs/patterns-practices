@@ -25,53 +25,53 @@ The [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modul
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-grouplessmodules-property-mspp-modularity
-">GrouplessModules</a></td>
+<td>[GrouplessModules](/patterns-practices/reference/modulecatalog-grouplessmodules-property-mspp-modularity
+)</td>
 <td><div class="summary">
-Returns the list of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity
-">ModuleInfo</a>s that are not contained within any <a href="/patterns-practices/reference/moduleinfogroup-class-mspp-modularity
-">ModuleInfoGroup</a>.
+Returns the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity
+)s that are not contained within any [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity
+).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-groups-property-mspp-modularity
-">Groups</a></td>
+<td>[Groups](/patterns-practices/reference/modulecatalog-groups-property-mspp-modularity
+)</td>
 <td><div class="summary">
-Gets the <a href="/patterns-practices/reference/moduleinfogroup-class-mspp-modularity
-">ModuleInfoGroup</a>s that have been added to the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity
-">ModuleCatalog</a>.
+Gets the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity
+)s that have been added to the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity
+).
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-items-property-mspp-modularity
-">Items</a></td>
+<td>[Items](/patterns-practices/reference/modulecatalog-items-property-mspp-modularity
+)</td>
 <td><div class="summary">
-Gets the items in the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity
-">ModuleCatalog</a>. This property is mainly used to add <a href="/patterns-practices/reference/moduleinfogroup-class-mspp-modularity
-">ModuleInfoGroup</a>s or <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity
-">ModuleInfo</a>s through XAML.
+Gets the items in the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity
+). This property is mainly used to add [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity
+)s or [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity
+)s through XAML.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-modules-property-mspp-modularity
-">Modules</a></td>
+<td>[Modules](/patterns-practices/reference/modulecatalog-modules-property-mspp-modularity
+)</td>
 <td><div class="summary">
-Gets all the <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity
-">ModuleInfo</a> classes that are in the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity
-">ModuleCatalog</a>, regardless if they are within a <a href="/patterns-practices/reference/moduleinfogroup-class-mspp-modularity
-">ModuleInfoGroup</a> or not.
+Gets all the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity
+) classes that are in the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity
+), regardless if they are within a [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity
+) or not.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-validated-property-mspp-modularity
-">Validated</a></td>
+<td>[Validated](/patterns-practices/reference/modulecatalog-validated-property-mspp-modularity
+)</td>
 <td><div class="summary">
-Gets or sets a value that remembers whether the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity
-">ModuleCatalog</a> has been validated already.
+Gets or sets a value that remembers whether the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity
+) has been validated already.
 </div></td>
 </tr>
 </tbody>

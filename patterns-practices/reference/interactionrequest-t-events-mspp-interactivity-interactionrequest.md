@@ -26,7 +26,7 @@ The [InteractionRequest&lt;T&gt;](/patterns-practices/reference/interactionreque
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601.raised">Raised</a></td>
+<td>[Raised](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601.raised)</td>
 <td><div class="summary">
 Fired when interaction is needed.
 </div></td>

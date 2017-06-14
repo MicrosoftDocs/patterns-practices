@@ -25,7 +25,7 @@ The [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieven
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription.getexecutionstrategy">GetExecutionStrategy</a></td>
+<td>[GetExecutionStrategy](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription.getexecutionstrategy)</td>
 <td><div class="summary">
 Gets the execution strategy to publish this event.
 </div></td>

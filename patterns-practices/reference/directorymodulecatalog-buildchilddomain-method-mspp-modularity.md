@@ -51,8 +51,8 @@ The new child domain.
 <th class="exceptionConditionColumn" scope="col"><strong>Condition</strong></th>
 </tr>
 <tr>
-<td data-th="Exception"><a href="http://msdn2.microsoft.com/en-us/library/27426hcy" target="_blank">System<span xmlns="">.</span>ArgumentNullException</a></td>
-<td data-th="Condition">An <a href="http://msdn2.microsoft.com/en-us/library/27426hcy" target="_blank">ArgumentNullException</a> is thrown if <span class="parameter"><i>parentDomain</i></span> is null.</td>
+<td data-th="Exception">[System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)</td>
+<td data-th="Condition">An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if <span class="parameter"><i>parentDomain</i></span> is null.</td>
 </tr>
 </tbody>
 </table>

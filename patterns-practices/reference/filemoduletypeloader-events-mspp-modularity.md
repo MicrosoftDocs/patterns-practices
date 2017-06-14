@@ -23,14 +23,14 @@ The [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-cl
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.loadmodulecompleted">LoadModuleCompleted</a></td>
+<td>[LoadModuleCompleted](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.loadmodulecompleted)</td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
+<td>[ModuleDownloadProgressChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.moduledownloadprogresschanged)</td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are loaded in the background.
 </div></td>

@@ -24,7 +24,7 @@ The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microso
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.behaviorkey">BehaviorKey</a></td>
+<td>[BehaviorKey](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.behaviorkey)</td>
 <td><div class="summary">
 Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collection of RegionsBehaviors.
 </div></td>
