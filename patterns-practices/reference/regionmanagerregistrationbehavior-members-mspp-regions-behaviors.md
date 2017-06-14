@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionMana
 ms:mtpsurl: 'regionmanagerregistrationbehavior-members-mspp-regions-behaviors.md'
 ---
 
-
 # RegionManagerRegistrationBehavior Members
 
 The [RegionManagerRegistrationBehavior](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 
@@ -34,7 +32,6 @@ Initializes a new instance of [RegionManagerRegistrationBehavior](/patterns-prac
 </table>
 
 ## Methods
-
 
 <table>
 
@@ -126,7 +123,6 @@ Returns a string that represents the current object.
 
 ## Fields
 
-
 <table>
 
 <thead>
@@ -138,7 +134,7 @@ Returns a string that represents the current object.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[BehaviorKey](/patterns-practices/reference/regionmanagerregistrationbehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 The key of this behavior.
@@ -148,7 +144,6 @@ The key of this behavior.
 </table>
 
 ## Properties
-
 
 <table>
 

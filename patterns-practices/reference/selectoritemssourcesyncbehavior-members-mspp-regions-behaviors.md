@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.SelectorIt
 ms:mtpsurl: 'selectoritemssourcesyncbehavior-members-mspp-regions-behaviors.md'
 ---
 
-
 # SelectorItemsSourceSyncBehavior Members
 
 The [SelectorItemsSourceSyncBehavior](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 
@@ -34,7 +32,6 @@ Initializes a new instance of the [SelectorItemsSourceSyncBehavior](/patterns-pr
 </table>
 
 ## Methods
-
 
 <table>
 
@@ -115,7 +112,6 @@ Returns a string that represents the current object.
 
 ## Fields
 
-
 <table>
 
 <thead>
@@ -127,7 +123,7 @@ Returns a string that represents the current object.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[BehaviorKey](/patterns-practices/reference/regionmanagerregistrationbehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collection of RegionsBehaviors.
@@ -137,7 +133,6 @@ Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collectio
 </table>
 
 ## Properties
-
 
 <table>
 
@@ -160,7 +155,7 @@ Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms58
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
-Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
+Returns **Truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **Falsefalse** (**False** in Visual Basic) otherwise.
 </div>
 (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
