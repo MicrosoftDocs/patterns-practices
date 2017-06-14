@@ -23,7 +23,7 @@ ms:mtpsurl: 'textlogger-dispose-method-boolean-mspp-logging.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Dispose](/patterns-practices/reference/textlogger-dispose)</td>
+<td>[Dispose()](/patterns-practices/reference/textlogger-dispose)</td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
