@@ -5,17 +5,15 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.
 ms:mtpsurl: 'regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-func-object-mspp-regions.md'
 ---
 
-
 # RegionManagerExtensions.RegisterViewWithRegion Method
 
-## Overload List
-
+## Overload List
 
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -23,16 +21,14 @@ ms:mtpsurl: 'regionmanagerextensions-registerviewwithregion-method-iregionmanage
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-func-object-mspp-regions
-">RegisterViewWithRegion(IRegionManager, String, Func&lt;Object&gt;)</a></td>
+<td>[RegisterViewWithRegion(IRegionManager, String, Func&lt;Object&gt;)](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-func-object-mspp-regions)</td>
 <td><div class="summary">
 Associate a view with a region, using a delegate to resolve a concreate instance of the view. When the region get's displayed, this delelgate will be called and the result will be added to the views collection of the region.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-type-mspp-regions
-">RegisterViewWithRegion(IRegionManager, String, Type)</a></td>
+<td>[RegisterViewWithRegion(IRegionManager, String, Type)](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-type-mspp-regions)</td>
 <td><div class="summary">
 Associate a view with a region, by registering a type. When the region get's displayed this type will be resolved using the ServiceLocator into a concrete instance. The instance will be added to the Views collection of the region
 </div></td>
@@ -45,3 +41,4 @@ Associate a view with a region, by registering a type. When the region get's dis
 [RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)<br/>
 [RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+
