@@ -21,7 +21,7 @@ ms:mtpsurl: 'canexecute-mthd.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[CanExecute](/patterns-practices/reference/delegatecommand-canexecute-method-mspp-commands)</td>
+<td>[CanExecute()](/patterns-practices/reference/delegatecommand-canexecute-method-mspp-commands)</td>
 <td><div class="summary">
 Determines if the command can be executed.
 </div></td>
@@ -31,7 +31,7 @@ Determines if the command can be executed.
 <td>[CanExecute(Object)](/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands)</td>
 <td><div class="summary">
 	
-Determines if the command can execute with the provided parameter by invoking the [Func(Of T, TResult)](http://msdn.microsoft.com/en-us/library/bb549151) supplied during construction.
+Determines if the command can execute with the provided parameter by invoking the [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) supplied during construction.
 </div>
 (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>
 </tr>
