@@ -25,32 +25,32 @@ The [ViewModelLocationProvider](/patterns-practices/reference/viewmodellocationp
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/viewmodellocationprovider-autowireviewmodelchanged-method-mspp-mvvm
-">AutoWireViewModelChanged</a></td>
+<td>[AutoWireViewModelChanged](/patterns-practices/reference/viewmodellocationprovider-autowireviewmodelchanged-method-mspp-mvvm
+)</td>
 <td><div class="summary">
 Automatically looks up the viewmodel that corresponds to the current view, using two strategies: It first looks to see if there is a mapping registered for that view, if not it will fallback to the convention based approach.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/viewmodellocationprovider-register-method-mspp-mvvm
-">Register</a></td>
+<td>[Register](/patterns-practices/reference/viewmodellocationprovider-register-method-mspp-mvvm
+)</td>
 <td><div class="summary">
 Registers the view model factory for the specified view type name.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/viewmodellocationprovider-setdefaultviewmodelfactory-method-mspp-mvvm
-">SetDefaultViewModelFactory</a></td>
+<td>[SetDefaultViewModelFactory](/patterns-practices/reference/viewmodellocationprovider-setdefaultviewmodelfactory-method-mspp-mvvm
+)</td>
 <td><div class="summary">
 Sets the default view model factory.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/viewmodellocationprovider-setdefaultviewtypetoviewmodeltyperesolver-method-mspp-mvvm
-">SetDefaultViewTypeToViewModelTypeResolver</a></td>
+<td>[SetDefaultViewTypeToViewModelTypeResolver](/patterns-practices/reference/viewmodellocationprovider-setdefaultviewtypetoviewmodeltyperesolver-method-mspp-mvvm
+)</td>
 <td><div class="summary">
 Sets the default view type to view model type resolver.
 </div></td>

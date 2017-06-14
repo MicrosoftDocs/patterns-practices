@@ -48,43 +48,43 @@ Initializes a new instance of [ItemMetadata](/patterns-practices/reference/itemm
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms591167">CheckAccess</a></td>
+<td>[CheckAccess](http://msdn.microsoft.com/en-us/library/ms591167)</td>
 <td><div class="summary">
-Determines whether the calling thread has access to this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.
+Determines whether the calling thread has access to this [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
+(Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597464">ClearValue(DependencyProperty)</a></td>
+<td>[ClearValue(DependencyProperty)](http://msdn.microsoft.com/en-us/library/ms597464)</td>
 <td><div class="summary">
-Clears the local value of a property. The property to be cleared is specified by a <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a> identifier.
+Clears the local value of a property. The property to be cleared is specified by a [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318) identifier.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597465">ClearValue(DependencyPropertyKey)</a></td>
+<td>[ClearValue(DependencyPropertyKey)](http://msdn.microsoft.com/en-us/library/ms597465)</td>
 <td><div class="summary">
-Clears the local value of a read-only property. The property to be cleared is specified by a <a href="http://msdn.microsoft.com/en-us/library/ms602348">DependencyPropertyKey</a>.
+Clears the local value of a read-only property. The property to be cleared is specified by a [DependencyPropertyKey](http://msdn.microsoft.com/en-us/library/ms602348).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597466">CoerceValue</a></td>
+<td>[CoerceValue](http://msdn.microsoft.com/en-us/library/ms597466)</td>
 <td><div class="summary">
-Coerces the value of the specified dependency property. This is accomplished by invoking any <a href="http://msdn.microsoft.com/en-us/library/ms589135">CoerceValueCallback</a> function specified in property metadata for the dependency property as it exists on the calling <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
+Coerces the value of the specified dependency property. This is accomplished by invoking any [CoerceValueCallback](http://msdn.microsoft.com/en-us/library/ms589135) function specified in property metadata for the dependency property as it exists on the calling [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/aa345743">Equals</a></td>
+<td>[Equals](http://msdn.microsoft.com/en-us/library/aa345743)</td>
 <td><div class="summary">
-Determines whether a provided <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> is equivalent to the current <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
+Determines whether a provided [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) is equivalent to the current [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -96,19 +96,19 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/aa345744">GetHashCode</a></td>
+<td>[GetHashCode](http://msdn.microsoft.com/en-us/library/aa345744)</td>
 <td><div class="summary">
-Gets a hash code for this <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
+Gets a hash code for this [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597467">GetLocalValueEnumerator</a></td>
+<td>[GetLocalValueEnumerator](http://msdn.microsoft.com/en-us/library/ms597467)</td>
 <td><div class="summary">
-Creates a specialized enumerator for determining which dependency properties have locally set values on this <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
+Creates a specialized enumerator for determining which dependency properties have locally set values on this [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -120,25 +120,25 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597469">GetValue</a></td>
+<td>[GetValue](http://msdn.microsoft.com/en-us/library/ms597469)</td>
 <td><div class="summary">
-Returns the current effective value of a dependency property on this instance of a <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
+Returns the current effective value of a dependency property on this instance of a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597470">InvalidateProperty</a></td>
+<td>[InvalidateProperty](http://msdn.microsoft.com/en-us/library/ms597470)</td>
 <td><div class="summary">
 Re-evaluates the effective value for the specified dependency property
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.invokemetadatachanged">InvokeMetadataChanged</a></td>
+<td>[InvokeMetadataChanged](/patterns-practices/reference/mspp-regions-namespace.itemmetadata.invokemetadatachanged)</td>
 <td><div class="summary">
-Explicitly invokes <a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.metadatachanged">MetadataChanged</a> to notify listeners.
+Explicitly invokes [MetadataChanged](/patterns-practices/reference/mspp-regions-namespace.itemmetadata.metadatachanged) to notify listeners.
 </div></td>
 </tr>
 <tr class="odd">
@@ -151,51 +151,51 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597471">OnPropertyChanged</a></td>
+<td>[OnPropertyChanged](http://msdn.microsoft.com/en-us/library/ms597471)</td>
 <td><div class="summary">
-Invoked whenever the effective value of any dependency property on this <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> has been updated. The specific dependency property that changed is reported in the event data.
+Invoked whenever the effective value of any dependency property on this [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) has been updated. The specific dependency property that changed is reported in the event data.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597472">ReadLocalValue</a></td>
+<td>[ReadLocalValue](http://msdn.microsoft.com/en-us/library/ms597472)</td>
 <td><div class="summary">
 Returns the local value of a dependency property, if it exists.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/dd549644">SetCurrentValue</a></td>
+<td>[SetCurrentValue](http://msdn.microsoft.com/en-us/library/dd549644)</td>
 <td><div class="summary">
 Sets the value of a dependency property without changing its value source.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597473">SetValue(DependencyProperty, Object)</a></td>
+<td>[SetValue(DependencyProperty, Object)](http://msdn.microsoft.com/en-us/library/ms597473)</td>
 <td><div class="summary">
 Sets the local value of a dependency property, specified by its dependency property identifier.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597474">SetValue(DependencyPropertyKey, Object)</a></td>
+<td>[SetValue(DependencyPropertyKey, Object)](http://msdn.microsoft.com/en-us/library/ms597474)</td>
 <td><div class="summary">
-Sets the local value of a read-only dependency property, specified by the <a href="http://msdn.microsoft.com/en-us/library/ms602348">DependencyPropertyKey</a> identifier of the dependency property.
+Sets the local value of a read-only dependency property, specified by the [DependencyPropertyKey](http://msdn.microsoft.com/en-us/library/ms602348) identifier of the dependency property.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597475">ShouldSerializeProperty</a></td>
+<td>[ShouldSerializeProperty](http://msdn.microsoft.com/en-us/library/ms597475)</td>
 <td><div class="summary">
 Returns a value that indicates whether serialization processes should serialize the value for the provided dependency property.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -207,11 +207,11 @@ Returns a string that represents the current object.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms591169">VerifyAccess</a></td>
+<td>[VerifyAccess](http://msdn.microsoft.com/en-us/library/ms591169)</td>
 <td><div class="summary">
-Enforces that the calling thread has access to this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.
+Enforces that the calling thread has access to this [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
+(Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).)</td>
 </tr>
 </tbody>
 </table>
@@ -261,45 +261,45 @@ The name of the wrapped item.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms600674">DependencyObjectType</a></td>
+<td>[DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms600674)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
+Gets the [DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms589310) that wraps the CLR type of this instance. 
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms605656">Dispatcher</a></td>
+<td>[Dispatcher](http://msdn.microsoft.com/en-us/library/ms605656)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a> this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a> is associated with.
+Gets the [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907) this [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925) is associated with.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
+(Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.isactive">IsActive</a></td>
+<td>[IsActive](/patterns-practices/reference/mspp-regions-namespace.itemmetadata.isactive)</td>
 <td><div class="summary">
 Gets or sets a value indicating whether the wrapped item is considered active.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms600677">IsSealed</a></td>
+<td>[IsSealed](http://msdn.microsoft.com/en-us/library/ms600677)</td>
 <td><div class="summary">
 Gets a value that indicates whether this instance is currently sealed (read-only).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.item">Item</a></td>
+<td>[Item](/patterns-practices/reference/mspp-regions-namespace.itemmetadata.item)</td>
 <td><div class="summary">
 Gets the wrapped item.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.name">Name</a></td>
+<td>[Name](/patterns-practices/reference/mspp-regions-namespace.itemmetadata.name)</td>
 <td><div class="summary">
 Gets or sets a name for the wrapped item.
 </div></td>
@@ -322,7 +322,7 @@ Gets or sets a name for the wrapped item.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="/patterns-practices/reference/itemmetadata-metadatachanged-event-mspp-regions">MetadataChanged</a></td>
+<td>[MetadataChanged](/patterns-practices/reference/itemmetadata-metadatachanged-event-mspp-regions)</td>
 <td><div class="summary">
 Occurs when metadata on the item changes.
 </div></td>

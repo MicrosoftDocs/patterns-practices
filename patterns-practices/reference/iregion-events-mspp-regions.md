@@ -24,11 +24,11 @@ The [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regio
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms133023">PropertyChanged</a></td>
+<td>[PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)</td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms133020">INotifyPropertyChanged</a>.)</td>
+(Inherited from [INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/ms133020).)</td>
 </tr>
 </tbody>
 </table>

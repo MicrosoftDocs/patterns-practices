@@ -24,46 +24,46 @@ The [IRegionCollection](/patterns-practices/reference/iregioncollection-interfac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/iregioncollection-add-method-mspp-regions
-">Add</a></td>
+<td>[Add](/patterns-practices/reference/iregioncollection-add-method-mspp-regions
+)</td>
 <td><div class="summary">
-Adds a <a href="/patterns-practices/reference/iregion-interface-mspp-regions
-">IRegion</a> to the collection.
+Adds a [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions
+) to the collection.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/iregioncollection-containsregionwithname-method-mspp-regions
-">ContainsRegionWithName</a></td>
+<td>[ContainsRegionWithName](/patterns-practices/reference/iregioncollection-containsregionwithname-method-mspp-regions
+)</td>
 <td><div class="summary">
-Checks if the collection contains a <a href="/patterns-practices/reference/iregion-interface-mspp-regions
-">IRegion</a> with the name received as parameter.
+Checks if the collection contains a [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions
+) with the name received as parameter.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/s793z9y2">GetEnumerator()</a></td>
+<td>[GetEnumerator()](http://msdn.microsoft.com/en-us/library/s793z9y2)</td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;<a href="/patterns-practices/reference/iregion-interface-mspp-regions
-">IRegion</a>&gt;.)</td>
+(Inherited from [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[IRegion](/patterns-practices/reference/iregion-interface-mspp-regions
+)&gt;.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/5zae5365">GetEnumerator()</a></td>
+<td>[GetEnumerator()](http://msdn.microsoft.com/en-us/library/5zae5365)</td>
 <td><div class="summary">
 Returns an enumerator that iterates through a collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/h1x9x1b1">IEnumerable</a>.)</td>
+(Inherited from [IEnumerable](http://msdn.microsoft.com/en-us/library/h1x9x1b1).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/iregioncollection-remove-method-mspp-regions
-">Remove</a></td>
+<td>[Remove](/patterns-practices/reference/iregioncollection-remove-method-mspp-regions
+)</td>
 <td><div class="summary">
-Removes a <a href="/patterns-practices/reference/iregion-interface-mspp-regions
-">IRegion</a> from the collection.
+Removes a [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions
+) from the collection.
 </div></td>
 </tr>
 </tbody>
@@ -84,13 +84,13 @@ Removes a <a href="/patterns-practices/reference/iregion-interface-mspp-regions
 <tbody>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td><a href="/patterns-practices/reference/regionmanagerextensions-add-method-mspp-regions
-">Add</a></td>
+<td>[Add](/patterns-practices/reference/regionmanagerextensions-add-method-mspp-regions
+)</td>
 <td><div class="summary">
 Adds a region to the regionmanager with the name received as argument.
 </div>
-(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions
-">RegionManagerExtensions</a>.)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions
+).)</td>
 </tr>
 </tbody>
 </table>
@@ -110,8 +110,8 @@ Adds a region to the regionmanager with the name received as argument.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/iregioncollection-item-property-mspp-regions
-">Item</a></td>
+<td>[Item](/patterns-practices/reference/iregioncollection-item-property-mspp-regions
+)</td>
 <td><div class="summary">
 Gets the IRegion with the name received as index.
 </div></td>
@@ -134,11 +134,11 @@ Gets the IRegion with the name received as index.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms653382">CollectionChanged</a></td>
+<td>[CollectionChanged](http://msdn.microsoft.com/en-us/library/ms653382)</td>
 <td><div class="summary">
 Occurs when the collection changes.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms668629">INotifyCollectionChanged</a>.)</td>
+(Inherited from [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629).)</td>
 </tr>
 </tbody>
 </table>

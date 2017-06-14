@@ -25,43 +25,43 @@ The [ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/modul
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-bytesreceived-property-mspp-modularity
-">BytesReceived</a></td>
+<td>[BytesReceived](/patterns-practices/reference/moduledownloadprogresschangedeventargs-bytesreceived-property-mspp-modularity
+)</td>
 <td><div class="summary">
 Gets the bytes received.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.moduleinfo">ModuleInfo</a></td>
+<td>[ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.moduleinfo)</td>
 <td><div class="summary">
 Getsthe module info.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity
-">ProgressPercentage</a></td>
+<td>[ProgressPercentage](/patterns-practices/reference/moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity
+)</td>
 <td><div class="summary">
 Gets the asynchronous task progress percentage.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/0tat795f">ProgressChangedEventArgs</a>.)</td>
+(Inherited from [ProgressChangedEventArgs](http://msdn.microsoft.com/en-us/library/0tat795f).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-totalbytestoreceive-property-mspp-modularity
-">TotalBytesToReceive</a></td>
+<td>[TotalBytesToReceive](/patterns-practices/reference/moduledownloadprogresschangedeventargs-totalbytestoreceive-property-mspp-modularity
+)</td>
 <td><div class="summary">
 Gets the total bytes to receive.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/w2bh9809">UserState</a></td>
+<td>[UserState](http://msdn.microsoft.com/en-us/library/w2bh9809)</td>
 <td><div class="summary">
 Gets a unique user state.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/0tat795f">ProgressChangedEventArgs</a>.)</td>
+(Inherited from [ProgressChangedEventArgs](http://msdn.microsoft.com/en-us/library/0tat795f).)</td>
 </tr>
 </tbody>
 </table>

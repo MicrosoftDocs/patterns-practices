@@ -25,11 +25,11 @@ The [ViewRegistrationException](/patterns-practices/reference/viewregistrationex
 
 <td>![Protected event](/patterns-practices/reference/images/protected-event.gif)</td>
 
-<td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
+<td>[SerializeObjectState](http://msdn.microsoft.com/en-us/library/ee332915)</td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 </tbody>
 </table>

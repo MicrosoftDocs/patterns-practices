@@ -36,7 +36,7 @@ The [INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp
   </td>
   <td>
     <div>
-Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
+Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div>
   </td>
 </tr>
@@ -50,7 +50,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
   </td>
   <td>
     <div>
-Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
+Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Initiates navigation to the target specified by the target</span>.
 [RequestNavigate(Uri)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
-Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
+Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr>

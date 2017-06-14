@@ -24,11 +24,11 @@ The [MefRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practic
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.contentregistered">ContentRegistered</a></td>
+<td>[ContentRegistered](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.contentregistered)</td>
 <td><div class="summary">
 Occurs whenever a new view is registered.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry">RegionViewRegistry</a>.)</td>
+(Inherited from [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry).)</td>
 </tr>
 </tbody>
 </table>

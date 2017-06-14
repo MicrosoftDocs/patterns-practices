@@ -24,218 +24,218 @@ The [DirectoryModuleCatalog](/patterns-practices/reference/directorymodulecatalo
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-addgroup-method-mspp-modularity">AddGroup</a></td>
+<td>[AddGroup](/patterns-practices/reference/modulecatalog-addgroup-method-mspp-modularity)</td>
 <td><div class="summary">
-Creates and adds a <a href="/patterns-practices/reference/moduleinfogroup-class-mspp-modularity">ModuleInfoGroup</a> to the catalog.
+Creates and adds a [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) to the catalog.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-addmodule-method-moduleinfo-mspp-modularity">AddModule(ModuleInfo)</a></td>
+<td>[AddModule(ModuleInfo)](/patterns-practices/reference/modulecatalog-addmodule-method-moduleinfo-mspp-modularity)</td>
 <td><div class="summary">
-Adds a <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.
+Adds a [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/addmodule-mthd-type-str">AddModule(Type, String[])</a></td>
+<td>[AddModule(Type, String[])](/patterns-practices/reference/addmodule-mthd-type-str)</td>
 <td><div class="summary">
-Adds a groupless <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the catalog.
+Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/addmodule-mthd-str-str-str">AddModule(String, String, String[])</a></td>
+<td>[AddModule(String, String, String[])](/patterns-practices/reference/addmodule-mthd-str-str-str)</td>
 <td><div class="summary">
-Adds a groupless <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the catalog.
+Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/addmodule-mthd-type-initializationmode-str">AddModule(Type, InitializationMode, String[])</a></td>
+<td>[AddModule(Type, InitializationMode, String[])](/patterns-practices/reference/addmodule-mthd-type-initializationmode-str)</td>
 <td><div class="summary">
-Adds a groupless <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the catalog.
+Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/addmodule-mthd-str-str-initializationmode-str">AddModule(String, String, InitializationMode, String[])</a></td>
+<td>[AddModule(String, String, InitializationMode, String[])](/patterns-practices/reference/addmodule-mthd-str-str-initializationmode-str)</td>
 <td><div class="summary">
-Adds a groupless <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the catalog.
+Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/addmodule-mthd-str-str-str-initializationmode-str">AddModule(String, String, String, InitializationMode, String[])</a></td>
+<td>[AddModule(String, String, String, InitializationMode, String[])](/patterns-practices/reference/addmodule-mthd-str-str-str-initializationmode-str)</td>
 <td><div class="summary">
-Adds a groupless <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the catalog.
+Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/directorymodulecatalog-buildchilddomain-method-mspp-modularity">BuildChildDomain</a></td>
+<td>[BuildChildDomain](/patterns-practices/reference/directorymodulecatalog-buildchilddomain-method-mspp-modularity)</td>
 <td><div class="summary">
 Creates a new child domain and copies the evidence from a parent domain.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity">CompleteListWithDependencies</a></td>
+<td>[CompleteListWithDependencies](/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity)</td>
 <td><div class="summary">
-Returns a list of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s that contain both the <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s in modules, but also all the modules they depend on.
+Returns a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in modules, but also all the modules they depend on.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-ensurecatalogvalidated-method-mspp-modularity">EnsureCatalogValidated</a></td>
+<td>[EnsureCatalogValidated](/patterns-practices/reference/modulecatalog-ensurecatalogvalidated-method-mspp-modularity)</td>
 <td><div class="summary">
 Ensures that the catalog is validated.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
+<td>[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)</td>
 <td><div class="summary">
-Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
+<td>[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)</td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-getdependentmodules-method-mspp-modularity">GetDependentModules</a></td>
+<td>[GetDependentModules](/patterns-practices/reference/modulecatalog-getdependentmodules-method-mspp-modularity)</td>
 <td><div class="summary">
-Return the list of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s that moduleInfo depends on.
+Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that moduleInfo depends on.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-getdependentmodulesinner-method-mspp-modularity">GetDependentModulesInner</a></td>
+<td>[GetDependentModulesInner](/patterns-practices/reference/modulecatalog-getdependentmodulesinner-method-mspp-modularity)</td>
 <td><div class="summary">
-Returns the <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> on which the received module dependens on.
+Returns the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) on which the received module dependens on.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
+<td>[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)</td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
+<td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-initialize-method-mspp-modularity">Initialize</a></td>
+<td>[Initialize](/patterns-practices/reference/modulecatalog-initialize-method-mspp-modularity)</td>
 <td><div class="summary">
 Initializes the catalog, which may load and validate the modules.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/directorymodulecatalog-innerload-method-mspp-modularity">InnerLoad</a></td>
+<td>[InnerLoad](/patterns-practices/reference/directorymodulecatalog-innerload-method-mspp-modularity)</td>
 <td><div class="summary">
 Drives the main logic of building the child domain and searching for the assemblies.
 </div>
-(Overrides <a href="/patterns-practices/reference/modulecatalog-innerload-method-mspp-modularity">ModuleCatalog.InnerLoad()</a>.)</td>
+(Overrides [ModuleCatalog.InnerLoad()](/patterns-practices/reference/modulecatalog-innerload-method-mspp-modularity).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-load-method-mspp-modularity">Load</a></td>
+<td>[Load](/patterns-practices/reference/modulecatalog-load-method-mspp-modularity)</td>
 <td><div class="summary">
 Loads the catalog if necessary.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
+<td>[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)</td>
 <td><div class="summary">
-Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-sort-method-mspp-modularity">Sort</a></td>
+<td>[Sort](/patterns-practices/reference/modulecatalog-sort-method-mspp-modularity)</td>
 <td><div class="summary">
-Sorts a list of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s. This method is called by <a href="/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity">CompleteListWithDependencies(IEnumerable&lt;ModuleInfo&gt;)</a> to return a sorted list.
+Sorts a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s. This method is called by [CompleteListWithDependencies(IEnumerable&lt;ModuleInfo&gt;)](/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity) to return a sorted list.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
+<td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)</td>
 <td><div class="summary">
 Returns a string that represents the current object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-validate-method-mspp-modularity">Validate</a></td>
+<td>[Validate](/patterns-practices/reference/modulecatalog-validate-method-mspp-modularity)</td>
 <td><div class="summary">
-Validates the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.
+Validates the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-validatecrossgroupdependencies-method-mspp-modularity">ValidateCrossGroupDependencies</a></td>
+<td>[ValidateCrossGroupDependencies](/patterns-practices/reference/modulecatalog-validatecrossgroupdependencies-method-mspp-modularity)</td>
 <td><div class="summary">
 Ensures that there are no dependencies between modules on different groups.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-validatedependenciesinitializationmode-method-mspp-modularity">ValidateDependenciesInitializationMode</a></td>
+<td>[ValidateDependenciesInitializationMode](/patterns-practices/reference/modulecatalog-validatedependenciesinitializationmode-method-mspp-modularity)</td>
 <td><div class="summary">
-Ensures that there are no modules marked to be loaded <a href="/patterns-practices/reference/initializationmode-enumeration-mspp-modularity">WhenAvailable</a> depending on modules loaded <a href="/patterns-practices/reference/initializationmode-enumeration-mspp-modularity">OnDemand</a>
+Ensures that there are no modules marked to be loaded [WhenAvailable](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity) depending on modules loaded [OnDemand](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity)
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-validatedependencygraph-method-mspp-modularity">ValidateDependencyGraph</a></td>
+<td>[ValidateDependencyGraph](/patterns-practices/reference/modulecatalog-validatedependencygraph-method-mspp-modularity)</td>
 <td><div class="summary">
 Ensures that there are no cyclic dependencies.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-validateuniquemodules-method-mspp-modularity">ValidateUniqueModules</a></td>
+<td>[ValidateUniqueModules](/patterns-practices/reference/modulecatalog-validateuniquemodules-method-mspp-modularity)</td>
 <td><div class="summary">
 Makes sure all modules have an Unique name.
 </div>
-(Inherited from <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.)</td>
+(Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
 </tbody>
 </table>

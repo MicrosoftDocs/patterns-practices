@@ -25,10 +25,10 @@ The [NavigationParameters](/patterns-practices/reference/navigationparameters-cl
 
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 
-<td><a href="/patterns-practices/reference/navigationparameters-item-property-mspp-regions
-">Item</a></td>
+<td>[Item](/patterns-practices/reference/navigationparameters-item-property-mspp-regions
+)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> with the specified key.
+Gets the [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) with the specified key.
 </div></td>
 </tr>
 </tbody>

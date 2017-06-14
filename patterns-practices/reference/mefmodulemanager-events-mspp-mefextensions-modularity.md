@@ -24,19 +24,19 @@ The [MefModuleManager](https://msdn.microsoft.com/library/microsoft.practices.pr
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.loadmodulecompleted">LoadModuleCompleted</a></td>
+<td>[LoadModuleCompleted](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.loadmodulecompleted)</td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
+(Inherited from [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager).)</td>
 </tr>
 <tr class="even">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
+<td>[ModuleDownloadProgressChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.moduledownloadprogresschanged)</td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are loaded in the background.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
+(Inherited from [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager).)</td>
 </tr>
 </tbody>
 </table>

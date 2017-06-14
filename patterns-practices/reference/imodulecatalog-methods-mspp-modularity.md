@@ -24,28 +24,28 @@ The [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/imodulecatalog-addmodule-method-mspp-modularity">AddModule</a></td>
+<td>[AddModule](/patterns-practices/reference/imodulecatalog-addmodule-method-mspp-modularity)</td>
 <td><div class="summary">
-Adds a <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.
+Adds a [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/imodulecatalog-completelistwithdependencies-method-mspp-modularity">CompleteListWithDependencies</a></td>
+<td>[CompleteListWithDependencies](/patterns-practices/reference/imodulecatalog-completelistwithdependencies-method-mspp-modularity)</td>
 <td><div class="summary">
-Returns the collection of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s that contain both the <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s in <i>modules</i>, but also all the modules they depend on.
+Returns the collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in <i>modules</i>, but also all the modules they depend on.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/imodulecatalog-getdependentmodules-method-mspp-modularity">GetDependentModules</a></td>
+<td>[GetDependentModules](/patterns-practices/reference/imodulecatalog-getdependentmodules-method-mspp-modularity)</td>
 <td><div class="summary">
-Return the list of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s that <i>moduleInfo</i> depends on.
+Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that <i>moduleInfo</i> depends on.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/imodulecatalog-initialize-method-mspp-modularity">Initialize</a></td>
+<td>[Initialize](/patterns-practices/reference/imodulecatalog-initialize-method-mspp-modularity)</td>
 <td><div class="summary">
 Initializes the catalog, which may load and validate the modules.
 </div></td>

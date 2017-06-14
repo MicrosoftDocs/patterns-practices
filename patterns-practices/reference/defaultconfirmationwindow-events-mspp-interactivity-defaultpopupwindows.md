@@ -46,7 +46,7 @@ Occurs when the window is about to close.
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td>[Closing](http://msdn.microsoft.com/en-us/library/ms596798)</td>
 <td><div class="summary">
-Occurs directly after <a href="http://msdn.microsoft.com/en-us/library/ms599697">Close()()()</a> is called, and can be handled to cancel window closure.
+Occurs directly after [Close()()()](http://msdn.microsoft.com/en-us/library/ms599697) is called, and can be handled to cancel window closure.
 </div>
 (Inherited from [Window](http://msdn.microsoft.com/en-us/library/ms590112).)</td>
 </tr>
@@ -766,7 +766,7 @@ Occurs when the cursor is requested to display. This event is raised on an eleme
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td>[RequestBringIntoView](http://msdn.microsoft.com/en-us/library/ms596559)</td>
 <td><div class="summary">
-Occurs when <a href="http://msdn.microsoft.com/en-us/library/ms598115">BringIntoView(Rect)</a> is called on this element.
+Occurs when [BringIntoView(Rect)](http://msdn.microsoft.com/en-us/library/ms598115) is called on this element.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>

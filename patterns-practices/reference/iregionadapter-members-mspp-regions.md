@@ -24,9 +24,9 @@ The [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.pris
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter.initialize(system.object%2csystem.string)">Initialize</a></td>
+<td>[Initialize](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter.initialize(system.object%2csystem.string))</td>
 <td><div class="summary">
-Adapts an object and binds it to a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>.
+Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 </div></td>
 </tr>
 </tbody>

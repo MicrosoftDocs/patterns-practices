@@ -24,7 +24,7 @@ The [IAssemblyResolver](/patterns-practices/reference/iassemblyresolver-interfac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/iassemblyresolver-loadassemblyfrom-method-mspp-modularity">LoadAssemblyFrom</a></td>
+<td>[LoadAssemblyFrom](/patterns-practices/reference/iassemblyresolver-loadassemblyfrom-method-mspp-modularity)</td>
 <td><div class="summary">
 Load an assembly when it's required by the application.
 </div></td>

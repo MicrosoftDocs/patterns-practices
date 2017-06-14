@@ -34,42 +34,42 @@ The [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-ms
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms600923">CanFreeze</a></td>
+<td>[CanFreeze](http://msdn.microsoft.com/en-us/library/ms600923)</td>
 <td><div class="summary">
 Gets a value that indicates whether the object can be made unmodifiable.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobject">CenterOverAssociatedObject</a></td>
+<td>[CenterOverAssociatedObject](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobject)</td>
 <td><div class="summary">
 Gets or sets if the window will be initially shown centered over the view that raised the interaction request or not.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms600674">DependencyObjectType</a></td>
+<td>[DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms600674)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
+Gets the [DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms589310) that wraps the CLR type of this instance. 
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms605656">Dispatcher</a></td>
+<td>[Dispatcher](http://msdn.microsoft.com/en-us/library/ms605656)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a> this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a> is associated with.
+Gets the [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907) this [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925) is associated with.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
+(Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms616442">HasAnimatedProperties</a></td>
+<td>[HasAnimatedProperties](http://msdn.microsoft.com/en-us/library/ms616442)</td>
 <td><div class="summary">
-Gets a value that indicates whether one or more <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationClock</a> objects is associated with any of this object's dependency properties.
+Gets a value that indicates whether one or more [AnimationClock](http://msdn.microsoft.com/en-us/library/ms618394) objects is associated with any of this object's dependency properties.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
+(Inherited from [Animatable](http://msdn.microsoft.com/en-us/library/ms618388).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -78,30 +78,30 @@ Gets a value that indicates whether one or more <a href="http://msdn.microsoft.c
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms600924">IsFrozen</a></td>
+<td>[IsFrozen](http://msdn.microsoft.com/en-us/library/ms600924)</td>
 <td><div class="summary">
 Gets a value that indicates whether the object is currently modifiable.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.ismodal">IsModal</a></td>
+<td>[IsModal](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.ismodal)</td>
 <td><div class="summary">
 Gets or sets if the window will be modal or not.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms600677">IsSealed</a></td>
+<td>[IsSealed](http://msdn.microsoft.com/en-us/library/ms600677)</td>
 <td><div class="summary">
 Gets a value that indicates whether this instance is currently sealed (read-only).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.windowcontent">WindowContent</a></td>
+<td>[WindowContent](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.windowcontent)</td>
 <td><div class="summary">
 Gets or sets the content of the window.
 </div></td>

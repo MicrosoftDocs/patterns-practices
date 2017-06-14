@@ -24,7 +24,7 @@ The [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.pri
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.attach">Attach</a></td>
+<td>[Attach](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.attach)</td>
 <td><div class="summary">
 Attaches the behavior to the specified region.
 </div></td>
@@ -47,7 +47,7 @@ Attaches the behavior to the specified region.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.region">Region</a></td>
+<td>[Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.region)</td>
 <td><div class="summary">
 The region that this behavior is extending.
 </div></td>

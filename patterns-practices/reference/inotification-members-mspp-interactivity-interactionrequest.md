@@ -24,14 +24,14 @@ The [INotification](/patterns-practices/reference/inotification-interface-mspp-i
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/inotification-content-property-mspp-interactivity-interactionrequest">Content</a></td>
+<td>[Content](/patterns-practices/reference/inotification-content-property-mspp-interactivity-interactionrequest)</td>
 <td><div class="summary">
 Gets or sets the content of the notification.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/inotification-title-property-mspp-interactivity-interactionrequest">Title</a></td>
+<td>[Title](/patterns-practices/reference/inotification-title-property-mspp-interactivity-interactionrequest)</td>
 <td><div class="summary">
 Gets or sets the title to use for the notification.
 </div></td>

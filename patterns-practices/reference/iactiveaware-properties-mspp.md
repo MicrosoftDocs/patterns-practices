@@ -25,7 +25,7 @@ The [IActiveAware](/patterns-practices/reference/iactiveaware-interface-mspp) ty
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/iactiveaware-isactive-property-mspp">IsActive</a></td>
+<td>[IsActive](/patterns-practices/reference/iactiveaware-isactive-property-mspp)</td>
 <td><div class="summary">
 Gets or sets a value indicating whether the object is active.
 </div></td>

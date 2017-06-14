@@ -25,18 +25,18 @@ The [IInteractionRequestAware](/patterns-practices/reference/iinteractionrequest
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/iinteractionrequestaware-finishinteraction-property-mspp-interactivity-interactionrequest">FinishInteraction</a></td>
+<td>[FinishInteraction](/patterns-practices/reference/iinteractionrequestaware-finishinteraction-property-mspp-interactivity-interactionrequest)</td>
 <td><div class="summary">
-An <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> that can be invoked to finish the interaction.
+An [Action](http://msdn.microsoft.com/en-us/library/bb534741) that can be invoked to finish the interaction.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/iinteractionrequestaware-notification-property-mspp-interactivity-interactionrequest
-">Notification</a></td>
+<td>[Notification](/patterns-practices/reference/iinteractionrequestaware-notification-property-mspp-interactivity-interactionrequest
+)</td>
 <td><div class="summary">
-The <a href="/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest
-">INotification</a> passed when the interaction request was raised.
+The [INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest
+) passed when the interaction request was raised.
 </div></td>
 </tr>
 </tbody>

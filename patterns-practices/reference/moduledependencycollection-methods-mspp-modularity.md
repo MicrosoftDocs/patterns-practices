@@ -32,10 +32,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/19tyhxbx" target="_blank">BaseAdd(ConfigurationElement)</a>
+[BaseAdd(ConfigurationElement)](http://msdn.microsoft.com/en-us/library/19tyhxbx)
 </td>
 <td>
-<div>Adds a configuration element to the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Adds a configuration element to the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -43,10 +43,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/94tzb2x4" target="_blank">BaseAdd(ConfigurationElement, Boolean)</a>
+[BaseAdd(ConfigurationElement, Boolean)](http://msdn.microsoft.com/en-us/library/94tzb2x4)
 </td>
 <td>
-<div>Adds a configuration element to the configuration element collection.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Adds a configuration element to the configuration element collection.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -54,10 +54,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/09d36k3s" target="_blank">BaseAdd(Int32, ConfigurationElement)</a>
+[BaseAdd(Int32, ConfigurationElement)](http://msdn.microsoft.com/en-us/library/09d36k3s)
 </td>
 <td>
-<div>Adds a configuration element to the configuration element collection.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Adds a configuration element to the configuration element collection.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -65,10 +65,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/b4yf3zw6" target="_blank">BaseClear</a>
+[BaseClear](http://msdn.microsoft.com/en-us/library/b4yf3zw6)
 </td>
 <td>
-<div>Removes all configuration element objects from the collection.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Removes all configuration element objects from the collection.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -76,10 +76,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/e90fbaaw" target="_blank">BaseGet(Object)</a>
+[BaseGet(Object)](http://msdn.microsoft.com/en-us/library/e90fbaaw)
 </td>
 <td>
-<div>Returns the configuration element with the specified key.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Returns the configuration element with the specified key.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -87,10 +87,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/w493w5yy" target="_blank">BaseGet(Int32)</a>
+[BaseGet(Int32)](http://msdn.microsoft.com/en-us/library/w493w5yy)
 </td>
 <td>
-<div>Gets the configuration element at the specified index location.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Gets the configuration element at the specified index location.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -98,10 +98,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/9ts4f970" target="_blank">BaseGetAllKeys</a>
+[BaseGetAllKeys](http://msdn.microsoft.com/en-us/library/9ts4f970)
 </td>
 <td>
-<div>Returns an array of the keys for all of the configuration elements contained in the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Returns an array of the keys for all of the configuration elements contained in the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -109,10 +109,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/zf0857te" target="_blank">BaseGetKey</a>
+[BaseGetKey](http://msdn.microsoft.com/en-us/library/zf0857te)
 </td>
 <td>
-<div>Gets the key for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a> at the specified index location.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Gets the key for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) at the specified index location.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -120,10 +120,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/8byca88s" target="_blank">BaseIndexOf</a>
+[BaseIndexOf](http://msdn.microsoft.com/en-us/library/8byca88s)
 </td>
 <td>
-<div>Indicates the index of the specified <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Indicates the index of the specified [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -131,10 +131,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/wk5tz03f" target="_blank">BaseIsRemoved</a>
+[BaseIsRemoved](http://msdn.microsoft.com/en-us/library/wk5tz03f)
 </td>
 <td>
-<div>Indicates whether the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a> with the specified key has been removed from the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Indicates whether the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) with the specified key has been removed from the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -142,10 +142,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/s4cs5s6w" target="_blank">BaseRemove</a>
+[BaseRemove](http://msdn.microsoft.com/en-us/library/s4cs5s6w)
 </td>
 <td>
-<div>Removes a <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a> from the collection.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Removes a [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) from the collection.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -153,10 +153,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/wt92bf00" target="_blank">BaseRemoveAt</a>
+[BaseRemoveAt](http://msdn.microsoft.com/en-us/library/wt92bf00)
 </td>
 <td>
-<div>Removes the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a> at the specified index location.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Removes the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) at the specified index location.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -164,10 +164,10 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/d22w8c80" target="_blank">CopyTo</a>
+[CopyTo](http://msdn.microsoft.com/en-us/library/d22w8c80)
 </td>
 <td>
-<div>Copies the contents of the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a> to an array.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Copies the contents of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) to an array.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -180,7 +180,7 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 <td>
 <div>
 Creates a new [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity).
-</div> (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8" target="_blank">ConfigurationElementCollection.CreateNewElement</a>.)</td>
+</div> (Overrides [ConfigurationElementCollection.CreateNewElement](http://msdn.microsoft.com/en-us/library/ak7z48w8).)</td>
 </tr>
 <tr>
 <td>
@@ -188,10 +188,10 @@ Creates a new [ModuleDependencyConfigurationElement](/patterns-practices/referen
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ky49faah" target="_blank">CreateNewElement(String)</a>
+[CreateNewElement(String)](http://msdn.microsoft.com/en-us/library/ky49faah)
 </td>
 <td>
-<div>Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a> when overridden in a derived class.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Creates a new [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) when overridden in a derived class.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -199,10 +199,10 @@ Creates a new [ModuleDependencyConfigurationElement](/patterns-practices/referen
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134126" target="_blank">DeserializeElement</a>
+[DeserializeElement](http://msdn.microsoft.com/en-us/library/ms134126)
 </td>
 <td>
-<div>Reads XML from the configuration file.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Reads XML from the configuration file.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -210,10 +210,10 @@ Creates a new [ModuleDependencyConfigurationElement](/patterns-practices/referen
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/0eye6ky8" target="_blank">Equals</a>
+[Equals](http://msdn.microsoft.com/en-us/library/0eye6ky8)
 </td>
 <td>
-<div>Compares the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a> to the specified object.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Compares the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) to the specified object.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>

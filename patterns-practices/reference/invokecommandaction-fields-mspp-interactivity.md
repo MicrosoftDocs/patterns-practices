@@ -23,21 +23,21 @@ The [InvokeCommandAction](/patterns-practices/reference/invokecommandaction-clas
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameterproperty">CommandParameterProperty</a></td>
+<td>[CommandParameterProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameterproperty)</td>
 <td><div class="summary">
 Dependency property identifying the command parameter to supply on command execution.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandproperty">CommandProperty</a></td>
+<td>[CommandProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandproperty)</td>
 <td><div class="summary">
 Dependency property identifying the command to execute when invoked.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpathproperty">TriggerParameterPathProperty</a></td>
+<td>[TriggerParameterPathProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpathproperty)</td>
 <td><div class="summary">
 Dependency property identifying the TriggerParameterPath to be parsed to identify the child property of the trigger parameter to be used as the command parameter.
 </div></td>

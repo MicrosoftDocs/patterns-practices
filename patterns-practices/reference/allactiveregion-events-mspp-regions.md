@@ -24,11 +24,11 @@ The [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-r
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.propertychanged">PropertyChanged</a></td>
+<td>[PropertyChanged](/patterns-practices/reference/region-propertychanged-event-mspp-regions)</td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>

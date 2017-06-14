@@ -306,7 +306,7 @@ Called when the current [Freezable](http://msdn.microsoft.com/en-us/library/ms60
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/aa345824">OnFreezablePropertyChanged(DependencyObject, DependencyObject)</a></td>
+<td>[OnFreezablePropertyChanged(DependencyObject, DependencyObject)](http://msdn.microsoft.com/en-us/library/aa345824)</td>
 <td><div class="summary">
 Ensures that appropriate context pointers are established for a [DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms589310) data member that has just been set.
 </div>
