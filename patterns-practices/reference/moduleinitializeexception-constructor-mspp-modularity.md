@@ -11,7 +11,6 @@ ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 ## Overload List
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -22,7 +21,7 @@ ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleInitializeException</td>
+<td>ModuleInitializeException()</td>
 <td><div class="summary">
 Initializes a new instance.
 </div></td>
@@ -31,8 +30,7 @@ Initializes a new instance.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>ModuleInitializeException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity
-">ModuleInitializeException</a> class.
+Initializes a new instance of the [ModuleInitializeException](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity) class.
 </div></td>
 </tr>
 <tr class="odd">
@@ -46,7 +44,7 @@ Initializes a new instance with serialized data.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>ModuleInitializeException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException</a> class.
+Initializes a new instance of the [ModuleInitializeException](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity) class.
 </div></td>
 </tr>
 <tr class="odd">

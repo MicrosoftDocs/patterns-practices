@@ -10,9 +10,7 @@ ms:mtpsurl: 'moduletypeloadingexception-constructor-mspp-modularity.md'
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,7 +21,7 @@ ms:mtpsurl: 'moduletypeloadingexception-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleTypeLoadingException</td>
+<td>ModuleTypeLoadingException()</td>
 <td><div class="summary">
 Initializes a new instance.
 </div></td>
