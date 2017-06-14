@@ -25,42 +25,42 @@ ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>DuplicateModuleException</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity">DuplicateModuleException</a> class.
+Initializes a new instance of the [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>DuplicateModuleException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity">DuplicateModuleException</a> class.
+Initializes a new instance of the [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) class.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>DuplicateModuleException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity">DuplicateModuleException</a> class with the serialization data.
+Initializes a new instance of the [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) class with the serialization data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>DuplicateModuleException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity">DuplicateModuleException</a> class.
+Initializes a new instance of the [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) class.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>DuplicateModuleException(String, String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity">DuplicateModuleException</a> class with a specified error message.
+Initializes a new instance of the [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) class with a specified error message.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>DuplicateModuleException(String, String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity">DuplicateModuleException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 </tbody>

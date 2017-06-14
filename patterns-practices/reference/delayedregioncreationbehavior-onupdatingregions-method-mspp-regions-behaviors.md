@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreation
 ms:mtpsurl: 'delayedregioncreationbehavior-onupdatingregions-method-mspp-regions-behaviors.md'
 ---
 
-
 # DelayedRegionCreationBehavior.OnUpdatingRegions Method
 
 Called when the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) is updating it's [Regions](/patterns-practices/reference/regionmanager-regions-property-mspp-regions) collection.
@@ -33,16 +32,12 @@ Public Sub OnUpdatingRegions (
 
 ### Parameters
 
-*sender*  
-
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+*sender*<br/>
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
 The [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions).
 
-*e*  
-
-Type: [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
-
+*e*<br/>
+Type: [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)<br/>
 The [EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3) instance containing the event data.
 
 ## Remarks

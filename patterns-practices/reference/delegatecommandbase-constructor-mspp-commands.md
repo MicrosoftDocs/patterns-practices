@@ -10,11 +10,7 @@ ms:mtpsurl: 'delegatecommandbase-constructor-action-object-func-object-boolean-m
 ## Overload List
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th></th>
@@ -24,12 +20,12 @@ ms:mtpsurl: 'delegatecommandbase-constructor-action-object-func-object-boolean-m
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected method}(/patterns-practices/reference/images/protect-method.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>DelegateCommandBase(Action&lt;Object&gt;, Func&lt;Object, Boolean&gt;)</td>
 <td>Creates a new instance of a [DelegateCommandBase,](/patterns-practices/reference/delegatecommandbase-class-mspp-commands) specifying both the execute action and the can execute function.</td>
 </tr>
 <tr class="even">
-<td>![Protected method}(/patterns-practices/reference/images/protect-method.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>DelegateCommandBase(Func&lt;Object, Task&gt;, Func&lt;Object, Boolean&gt;)</td>
 <td>Creates a new instance of a [DelegateCommandBase,](/patterns-practices/reference/delegatecommandbase-class-mspp-commands) specifying both the Execute action as an awaitable Task and the CanExecute function.</td>
 </tr>

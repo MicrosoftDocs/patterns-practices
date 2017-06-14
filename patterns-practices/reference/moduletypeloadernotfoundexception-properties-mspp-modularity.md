@@ -63,11 +63,19 @@ Gets a message that describes the current exception.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
+<<<<<<< HEAD
 <td>[ModuleName](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception.modulename)</td>
 <td><div class="summary">
 Gets or sets the name of the module that this exception refers to.
 </div>
 (Inherited from [ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception).)</td>
+=======
+<td>[ModuleName](/patterns-practices/reference/modularityexception-modulename-property-mspp-modularity)</td>
+<td><div class="summary">
+Gets or sets the name of the module that this exception refers to.
+</div>
+(Inherited from [ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity).)</td>
+>>>>>>> Page structure updated
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>

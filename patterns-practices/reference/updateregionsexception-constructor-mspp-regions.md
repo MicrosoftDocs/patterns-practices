@@ -22,7 +22,7 @@ ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>UpdateRegionsException</td>
+<td>UpdateRegionsException()</td>
 <td><div class="summary">
 Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions)
 </div></td>

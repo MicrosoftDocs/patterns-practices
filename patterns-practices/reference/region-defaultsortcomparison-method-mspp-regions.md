@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.DefaultSortComparison(Sy
 ms:mtpsurl: 'region-defaultsortcomparison-method-mspp-regions.md'
 ---
 
-
 # Region.DefaultSortComparison Method
 
 The default sort algorithm.

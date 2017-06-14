@@ -21,7 +21,7 @@ ms:mtpsurl: 'unitybootstrapper-run-method-boolean-mspp-unityextensions.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>Run</td>
+<td>![Run()](/patterns-practices/reference/run-mthd)</td>
 <td><div class="summary">
 Runs the bootstrapper process.
 </div>
@@ -29,7 +29,7 @@ Runs the bootstrapper process.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>Run(Boolean)</td>
+<td>![Run(Boolean)](/patterns-practices/reference/unitybootstrapper-run-method-boolean-mspp-unityextensions)</td>
 <td><div class="summary">
 Run the bootstrapper process.
 </div>

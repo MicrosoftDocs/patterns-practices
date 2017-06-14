@@ -4,7 +4,8 @@ Title: 'ModuleCatalog.Groups Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Groups'
 ms:mtpsurl: 'modulecatalog-groups-property-mspp-modularity.md'
 ---
-
+
+
 # ModuleCatalog.Groups Property
 
 Gets the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)s that have been added to the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).
@@ -12,24 +13,39 @@ Gets the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-m
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)<br/>
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
-## Syntax
+
+## Syntax
 
 ```C#
 public IEnumerable<ModuleInfoGroup> Groups { get; }
 ```
-```VB
-'Declaration
-Public ReadOnly Property Groups As IEnumerable(Of ModuleInfoGroup)
-	Get
-```
-
 ### Property Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)&gt;
 
 The groups.
 
+```VB
+'Declaration
+Public ReadOnly Property Groups As IEnumerable(Of ModuleInfoGroup)
+	Get
+```
+### Property Value
+
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity))
+
+The groups.
+
 ## See Also
+<<<<<<< HEAD
+
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
+
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+=======
 [ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)<br/>
 [ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
+>>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8
