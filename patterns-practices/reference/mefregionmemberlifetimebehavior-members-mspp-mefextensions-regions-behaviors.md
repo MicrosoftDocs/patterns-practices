@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionmemberlifetimebehavior-members-mspp-mefextensions-regions-
 
 # MefRegionMemberLifetimeBehavior Members
 
-The [MefRegionMemberLifetimeBehavior](https://review.docs.microsoft.com/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
+The [MefRegionMemberLifetimeBehavior](/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Constructors
 
@@ -24,7 +24,7 @@ The [MefRegionMemberLifetimeBehavior](https://review.docs.microsoft.com/patterns
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>MefRegionMemberLifetimeBehavior</td>
 <td><div class="summary">
-Initializes a new instance of the [MefAutoPopulateRegionBehavior](https://review.docs.microsoft.com/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors) class.
+Initializes a new instance of the [MefAutoPopulateRegionBehavior](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors) class.
 </div></td>
 </tr>
 </tbody>
@@ -43,11 +43,11 @@ Initializes a new instance of the [MefAutoPopulateRegionBehavior](https://review
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Attach](https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-attach-method-mspp-regions)</td>
+<td>[Attach](/patterns-practices/reference/regionbehavior-attach-method-mspp-regions)</td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div>
-(Inherited from [RegionBehavior](https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -91,11 +91,11 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[OnAttach](https://review.docs.microsoft.com/patterns-practices/reference/regionmemberlifetimebehavior-onattach-method-mspp-regions-behaviors)</td>
+<td>[OnAttach](/patterns-practices/reference/regionmemberlifetimebehavior-onattach-method-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Override this method to perform the logic after the behavior has been attached.
 </div>
-(Inherited from [RegionMemberLifetimeBehavior](https://review.docs.microsoft.com/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors).)</td>
+(Inherited from [RegionMemberLifetimeBehavior](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -121,24 +121,24 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[IsAttached](https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
+<td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
+Returns **Truetrue* (**True** in Visual Basic) if the behavior is attached to a region, **Falsefalse** (**False** in Visual Basic) otherwise.
 </div>
-(Inherited from [RegionBehavior](https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Region](https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-region-property-mspp-regions)</td>
+<td>[Region](/patterns-practices/reference/regionbehavior-region-property-mspp-regions)</td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from [RegionBehavior](https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[MefRegionMemberLifetimeBehavior Class](https://review.docs.microsoft.com/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors)<br/>
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>
+[MefRegionMemberLifetimeBehavior Class](/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>
