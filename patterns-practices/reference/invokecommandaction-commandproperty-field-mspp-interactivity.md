@@ -33,4 +33,4 @@ Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 [InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)<br/>    
 [InvokeCommandAction Members](/patterns-practices/reference/invokecommandaction-members-mspp-interactivity)<br/>
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)<br/>
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>

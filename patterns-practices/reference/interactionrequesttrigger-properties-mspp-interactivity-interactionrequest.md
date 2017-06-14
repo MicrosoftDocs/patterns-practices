@@ -61,10 +61,10 @@ AssociatedObjectTypeConstraint
 ![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms600923" target="_blank">CanFreeze</a>
+[CanFreeze](http://msdn.microsoft.com/en-us/library/ms600923")
 </td>
 <td>
-<div>Gets a value that indicates whether the object can be made unmodifiable. </div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734" target="_blank">Freezable</a>.)</td>
+<div>Gets a value that indicates whether the object can be made unmodifiable. </div> (Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734").)</td>
 </tr>
 <tr>
 <td>
@@ -72,10 +72,10 @@ AssociatedObjectTypeConstraint
 ![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms600674" target="_blank">DependencyObjectType</a>
+[DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms600674")
 </td>
 <td>
-<div>Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310" target="_blank">DependencyObjectType</a> that wraps the CLR type of this instance.&nbsp;</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309" target="_blank">DependencyObject</a>.)</td>
+<div>Gets the [DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms589310") that wraps the CLR type of this instance.&nbsp;</div> (Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309").)</td>
 </tr>
 <tr>
 <td>
@@ -83,10 +83,10 @@ AssociatedObjectTypeConstraint
 ![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms605656" target="_blank">Dispatcher</a>
+[Dispatcher](http://msdn.microsoft.com/en-us/library/ms605656")
 </td>
 <td>
-<div>Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907" target="_blank">Dispatcher</a> this <a href="http://msdn.microsoft.com/en-us/library/ms615925" target="_blank">DispatcherObject</a> is associated with. </div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925" target="_blank">DispatcherObject</a>.)</td>
+<div>Gets the [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907") this [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925") is associated with. </div> (Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925").)</td>
 </tr>
 <tr>
 <td>
@@ -104,10 +104,10 @@ EventName
 ![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms616442" target="_blank">HasAnimatedProperties</a>
+[HasAnimatedProperties](http://msdn.microsoft.com/en-us/library/ms616442")
 </td>
 <td>
-<div>Gets a value that indicates whether one or more <a href="http://msdn.microsoft.com/en-us/library/ms618394" target="_blank">AnimationClock</a> objects is associated with any of this object's dependency properties.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388" target="_blank">Animatable</a>.)</td>
+<div>Gets a value that indicates whether one or more [AnimationClock](http://msdn.microsoft.com/en-us/library/ms618394") objects is associated with any of this object's dependency properties.</div> (Inherited from [Animatable](http://msdn.microsoft.com/en-us/library/ms618388").)</td>
 </tr>
 <tr>
 <td>
@@ -115,10 +115,10 @@ EventName
 ![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms600924" target="_blank">IsFrozen</a>
+[IsFrozen](http://msdn.microsoft.com/en-us/library/ms600924")
 </td>
 <td>
-<div>Gets a value that indicates whether the object is currently modifiable. </div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734" target="_blank">Freezable</a>.)</td>
+<div>Gets a value that indicates whether the object is currently modifiable. </div> (Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734").)</td>
 </tr>
 <tr>
 <td>
@@ -126,10 +126,10 @@ EventName
 ![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms600677" target="_blank">IsSealed</a>
+[IsSealed](http://msdn.microsoft.com/en-us/library/ms600677")
 </td>
 <td>
-<div>Gets a value that indicates whether this instance is currently sealed (read-only).</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309" target="_blank">DependencyObject</a>.)</td>
+<div>Gets a value that indicates whether this instance is currently sealed (read-only).</div> (Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309").)</td>
 </tr>
 <tr>
 <td>
@@ -139,7 +139,7 @@ EventName
 <td>
 Source
 </td>
-<td> (Inherited from EventTriggerBase&lt;<a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>&gt;.)</td>
+<td> (Inherited from EventTriggerBase&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b")&gt;.)</td>
 </tr>
 <tr>
 <td>

@@ -8,10 +8,12 @@ ms:mtpsurl: 'iactiveaware-isactivechanged-event-mspp.md'
 
 # IActiveAware.IsActiveChanged Event
 
-Notifies that the value for [IsActive](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive) property has changed.
+Notifies that the value for [IsActive](/patterns-practices/reference/delegatecommandbase-isactive-property-mspp-commands) property has changed.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)<br/>
-**Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll) Version: 1.0.0.0 (1.0.0.0)
+
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
+**Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll)<br/>
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -32,6 +34,6 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
 ## See Also
 
-[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)<br/>
-[IActiveAware Members](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)<br/>
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)<br/>
+[IActiveAware Members](/patterns-practices/reference/iactiveaware-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

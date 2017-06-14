@@ -16,19 +16,19 @@ Initializes a new instance of the [UpdateRegionsException](/patterns-practices/r
 
 ## Syntax
 
-~~~C#
+```C#
 protected UpdateRegionsException(
 	SerializationInfo info,
 	StreamingContext context
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Protected Sub New ( 
 	info As SerializationInfo,
 	context As StreamingContext
 )
-~~~
+```
 ### Parameters
 
 _info_

@@ -15,21 +15,21 @@ Initializes a new instance of the [RegionNavigationService](/patterns-practices/
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+```C#
 public RegionNavigationService(
 	IServiceLocator serviceLocator,
 	IRegionNavigationContentLoader regionNavigationContentLoader,
 	IRegionNavigationJournal journal
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New ( 
 	serviceLocator As IServiceLocator,
 	regionNavigationContentLoader As IRegionNavigationContentLoader,
 	journal As IRegionNavigationJournal
 )
-~~~~
+```~
 
 ### Parameters
 

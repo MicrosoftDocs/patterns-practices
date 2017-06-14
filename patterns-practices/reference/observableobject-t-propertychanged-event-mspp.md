@@ -10,7 +10,7 @@ ms:mtpsurl: 'observableobject-t-propertychanged-event-mspp.md'
 
 Event that gets invoked when the Value property changes.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -32,13 +32,13 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 [ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)<br/>
 [ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
 
 # ObservableObject(Of T).PropertyChanged Event
 
 Event that gets invoked when the Value property changes.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)<br/>
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)<br/>
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -61,4 +61,4 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 [ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)<br/>
 [ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)<br/>
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

@@ -18,13 +18,13 @@ Initializes a new instance of the [UpdateRegionsException](/patterns-practices/r
 
 ## Syntax
 
-~~~C#
+```C#
 public UpdateRegionsException()
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub New
-~~~
+```
 ## See Also
 
 [UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions

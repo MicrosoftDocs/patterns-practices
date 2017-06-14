@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.RequestNavigate(System.U
 ms:mtpsurl: 'region-requestnavigate-method-mspp-regions.md'
 ---
 
-
 # Region.RequestNavigate Method (Uri, Action&lt;NavigationResult&gt;)
 
 Initiates navigation to the specified target.
@@ -42,7 +41,6 @@ A callback to execute when the navigation request is completed.
 [Region Members](/patterns-practices/reference/region-members-mspp-regions)<br/>
 [RequestNavigate Overload](/patterns-practices/reference/region-requestnavigate-method-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
-------------------------------------------------------
 
 # Region.RequestNavigate Method (Uri, Action (Of NavigationResult))
 

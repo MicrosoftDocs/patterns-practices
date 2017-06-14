@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Run(S
 ms:mtpsurl: 'unitybootstrapper-run-method-boolean-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapper.Run Method (Boolean)
 
 Run the bootstrapper process.

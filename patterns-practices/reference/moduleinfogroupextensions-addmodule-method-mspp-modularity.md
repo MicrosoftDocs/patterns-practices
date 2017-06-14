@@ -19,14 +19,14 @@ ms:mtpsurl: 'addmodule-mthd-moduleinfogroup-str-type-str.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[AddModule(ModuleInfoGroup, Type, String[])](/patterns-practices/reference/addmodule-mthd-moduleinfogroup-type-str)</td>
 <td><div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[AddModule(ModuleInfoGroup, String, Type, String[])](/patterns-practices/reference/addmodule-mthd-moduleinfogroup-str-type-str)</td>
 <td><div class="summary">
 Adds a new module that is statically referenced to the specified module info group.

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Remove(System.Object)'
 ms:mtpsurl: 'region-remove-method-mspp-regions.md'
 ---
 
-
 # Region.Remove Method
 
 Removes the specified view from the region.

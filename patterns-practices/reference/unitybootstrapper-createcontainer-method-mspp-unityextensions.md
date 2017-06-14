@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Creat
 ms:mtpsurl: 'unitybootstrapper-createcontainer-method-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapper.CreateContainer Method
 
 Creates the IUnityContainer that will be used as the default container.

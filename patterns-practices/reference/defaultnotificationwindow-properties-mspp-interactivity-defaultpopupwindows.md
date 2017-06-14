@@ -8,7 +8,7 @@ ms:mtpsurl: 'defaultnotificationwindow-properties-mspp-interactivity-defaultpopu
 
 # DefaultNotificationWindow Properties
 
-The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
+The [DefaultNotificationWindow](/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows) type exposes the following members.
 
 ## Properties
 
@@ -1224,5 +1224,5 @@ Gets or sets a window's border style.
 
 ## See Also
 
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)<br/>
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+[DefaultNotificationWindow Class](/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows)<br/>
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)

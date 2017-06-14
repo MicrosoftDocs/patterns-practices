@@ -25,8 +25,8 @@ public static ObservableObject<IRegion> GetObservableRegion(
 ### Parameters
 
 *view*  
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
-The view that will host the region.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The view that will host the region.
 
 ### Return Value
 
@@ -52,8 +52,8 @@ Public Shared Function GetObservableRegion (
 ### Parameters
 
 *view*  
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
-The view that will host the region.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The view that will host the region.
 
 ### Return Value
 
