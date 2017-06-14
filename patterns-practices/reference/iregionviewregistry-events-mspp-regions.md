@@ -4,13 +4,12 @@ Title: 'IRegionViewRegistry Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegionViewRegistry'
 ms:mtpsurl: 'iregionviewregistry-events-mspp-regions.md'
 ---
-
+
 # IRegionViewRegistry Events
 
-The [IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry) type exposes the following members.
+The [IRegionViewRegistry](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions) type exposes the following members.
 
 ## Events
-
 
 <table>
 
@@ -24,7 +23,7 @@ The [IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.contentregistered">ContentRegistered</a></td>
+<td>[ContentRegistered](/patterns-practices/reference/iregionviewregistry-contentregistered-event-mspp-regions)</td>
 <td><div class="summary">
 Event triggered when a content is registered to a region name.
 </div></td>
@@ -33,5 +32,6 @@ Event triggered when a content is registered to a region name.
 </table>
 
 ## See Also
-[IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>
+
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
