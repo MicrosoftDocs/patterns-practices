@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionbehavior-methods-mspp-regions.md'
 
 # RegionBehavior Methods
 
-The [RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior) type exposes the following members.
+The [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -22,7 +22,7 @@ The [RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.pris
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Attach](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.attach)</td>
+<td>[Attach](/patterns-practices/reference/regionbehavior-attach-method-mspp-regions)</td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div></td>
@@ -69,7 +69,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[OnAttach](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach)</td>
+<td>[OnAttach](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions)</td>
 <td><div class="summary">
 Override this method to perform the logic after the behavior has been attached.
 </div></td>
@@ -87,5 +87,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

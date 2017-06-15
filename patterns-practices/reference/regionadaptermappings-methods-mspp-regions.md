@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionadaptermappings-methods-mspp-regions.md'
 
 # RegionAdapterMappings Methods
 
-The [RegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings) type exposes the following members.
+The [RegionAdapterMappings](/patterns-practices/reference/regionadaptermappings-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -46,7 +46,7 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetMapping](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings.getmapping(system.type))</td>
+<td>[GetMapping](/patterns-practices/reference/regionadaptermappings-getmapping-method-mspp-regions)</td>
 <td><div class="summary">
 Returns the adapter associated with the type provided.
 </div></td>
@@ -69,7 +69,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RegisterMapping](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings.registermapping(system.type%2cmicrosoft.practices.prism.regions.iregionadapter))</td>
+<td>[RegisterMapping](/patterns-practices/reference/regionadaptermappings-registermapping-method-mspp-regions)</td>
 <td><div class="summary">
 Registers the mapping between a type and an adapter.
 </div></td>
@@ -87,5 +87,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionAdapterMappings Class](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

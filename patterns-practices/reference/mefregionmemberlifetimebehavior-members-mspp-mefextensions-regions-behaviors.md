@@ -123,7 +123,7 @@ Returns a string that represents the current object.
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
-Returns **Truetrue* (**True** in Visual Basic) if the behavior is attached to a region, **Falsefalse** (**False** in Visual Basic) otherwise.
+Returns **Truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **Falsefalse** (**False** in Visual Basic) otherwise.
 </div>
 (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>

@@ -54,7 +54,7 @@ Adapts an [Selector](http://msdn.microsoft.com/en-us/library/ms595227) to an [IR
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[AttachBehaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter.attachbehaviors(microsoft.practices.prism.regions.iregion%2csystem.windows.controls.primitives.selector))</td>
+<td>[AttachBehaviors](/patterns-practices/reference/selectorregionadapter-attachbehaviors-method-mspp-regions)</td>
 <td><div class="summary">
 Attach new behaviors.
 </div>

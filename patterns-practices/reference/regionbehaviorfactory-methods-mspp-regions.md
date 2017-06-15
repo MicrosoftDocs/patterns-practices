@@ -22,21 +22,21 @@ The [RegionBehaviorFactory](/patterns-practices/reference/regionbehaviorfactory-
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddIfMissing](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.addifmissing(system.string%2csystem.type))</td>
+<td>[AddIfMissing](/patterns-practices/reference/regionbehaviorfactory-addifmissing-method-mspp-regions)</td>
 <td><div class="summary">
-Adds a particular type of RegionBehavior if it was not already registered. The behaviorKey string is used to check if the behavior is already present
+Adds a particular type of RegionBehavior if it was not already registered. The *behaviorKey* string is used to check if the behavior is already present
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ContainsKey](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.containskey(system.string))</td>
+<td>[ContainsKey](/patterns-practices/reference/regionbehaviorfactory-containskey-method-mspp-regions)</td>
 <td><div class="summary">
 Determines whether a behavior with the specified key already exists.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[CreateFromKey](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.createfromkey(system.string))</td>
+<td>[CreateFromKey](/patterns-practices/reference/regionbehaviorfactory-createfromkey-method-mspp-regions)</td>
 <td><div class="summary">
 Creates an instance of the behavior [Type](http://msdn.microsoft.com/en-us/library/42892f65) that is registered using the specified key.
 </div></td>
@@ -59,7 +59,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEnumerator](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.getenumerator)</td>
+<td>[GetEnumerator](/patterns-practices/reference/regionbehaviorfactory-getenumerator-method-mspp-regions)</td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div></td>
