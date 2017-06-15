@@ -41,6 +41,8 @@ The notification to be set as a DataContext in the HostWindow.
 
 Type: [System.Windows.Window](http://msdn2.microsoft.com/en-us/library/ms590112)
 
+The HostWindow
+
 ## See Also
 
 [PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)  

@@ -29,15 +29,14 @@ The type of data to pass.
 
 [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
-  [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
+[System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
 
-    Microsoft.Practices.Prism.PubSubEvents.DataEventArgs&lt;TData&gt;
 
 ## See Also
 
-DataEventArgs&lt;TData&gt; Members
-
+DataEventArgs&lt;TData&gt; Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  
+
 
 
 # DataEventArgs(Of TData) Class
@@ -66,12 +65,10 @@ The type of data to pass.
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
+[System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
 
-    Microsoft.Practices.Prism.PubSubEvents.DataEventArgs(Of TData)
 
 ## See Also
 
-DataEventArgs(Of TData) Members
-
+DataEventArgs(Of TData) Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  

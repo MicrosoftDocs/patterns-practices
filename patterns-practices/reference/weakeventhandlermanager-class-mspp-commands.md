@@ -33,4 +33,4 @@ Microsoft.Practices.Prism.Commands.WeakEventHandlerManager
 ## See Also
 
 [WeakEventHandlerManager Members](/patterns-practices/reference/weakeventhandlermanager-members-mspp-commands)  
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  
