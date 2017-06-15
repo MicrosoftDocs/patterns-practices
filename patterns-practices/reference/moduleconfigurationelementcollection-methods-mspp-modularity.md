@@ -11,9 +11,7 @@ The [ModuleConfigurationElementCollection](/patterns-practices/reference/modulec
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
