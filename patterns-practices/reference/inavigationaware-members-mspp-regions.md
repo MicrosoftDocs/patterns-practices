@@ -4,13 +4,12 @@ Title: 'INavigationAware Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.INavigationAware'
 ms:mtpsurl: 'inavigationaware-members-mspp-regions.md'
 ---
-
+
 # INavigationAware Members
 
-The [INavigationAware](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware) type exposes the following members.
+The [INavigationAware](/patterns-practices/reference/inavigationaware-interface-mspp-regions) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -24,21 +23,21 @@ The [INavigationAware](https://msdn.microsoft.com/library/microsoft.practices.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[IsNavigationTarget](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.isnavigationtarget(microsoft.practices.prism.regions.navigationcontext))</td>
+<td>[IsNavigationTarget](/patterns-practices/reference/inavigationaware-isnavigationtarget-method-mspp-regions)</td>
 <td><div class="summary">
 Called to determine if this instance can handle the navigation request.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[OnNavigatedFrom](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.onnavigatedfrom(microsoft.practices.prism.regions.navigationcontext))</td>
+<td>[OnNavigatedFrom](/patterns-practices/reference/inavigationaware-onnavigatedfrom-method-mspp-regions)</td>
 <td><div class="summary">
 Called when the implementer is being navigated away from.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[OnNavigatedTo](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.onnavigatedto(microsoft.practices.prism.regions.navigationcontext))</td>
+<td>[OnNavigatedTo](/patterns-practices/reference/inavigationaware-onnavigatedto-method-mspp-regions)</td>
 <td><div class="summary">
 Called when the implementer has been navigated to.
 </div></td>
@@ -47,5 +46,6 @@ Called when the implementer has been navigated to.
 </table>
 
 ## See Also
-[INavigationAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  
+
+[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -4,13 +4,12 @@ Title: 'IConfirmNavigationRequest Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IConfirmNavigationRequest'
 ms:mtpsurl: 'iconfirmnavigationrequest-members-mspp-regions.md'
 ---
-
+
 # IConfirmNavigationRequest Members
 
-The [IConfirmNavigationRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iconfirmnavigationrequest) type exposes the following members.
+The [IConfirmNavigationRequest](/patterns-practices/reference/iconfirmnavigationrequest-interface-mspp-regions) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -24,38 +23,38 @@ The [IConfirmNavigationRequest](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ConfirmNavigationRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iconfirmnavigationrequest.confirmnavigationrequest(microsoft.practices.prism.regions.navigationcontext%2csystem.action%7bsystem.boolean%7d))</td>
+<td>[ConfirmNavigationRequest](/patterns-practices/reference/iconfirmnavigationrequest-confirmnavigationrequest-method-mspp-regions)</td>
 <td><div class="summary">
 Determines whether this instance accepts being navigated away from.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[IsNavigationTarget](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.isnavigationtarget(microsoft.practices.prism.regions.navigationcontext))</td>
+<td>[IsNavigationTarget](/patterns-practices/reference/inavigationaware-isnavigationtarget-method-mspp-regions)</td>
 <td><div class="summary">
 Called to determine if this instance can handle the navigation request.
 </div>
-(Inherited from [INavigationAware](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware).)</td>
+(Inherited from [INavigationAware](/patterns-practices/reference/inavigationaware-interface-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[OnNavigatedFrom](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.onnavigatedfrom(microsoft.practices.prism.regions.navigationcontext))</td>
+<td>[OnNavigatedFrom](/patterns-practices/reference/inavigationaware-onnavigatedfrom-method-mspp-regions)</td>
 <td><div class="summary">
 Called when the implementer is being navigated away from.
 </div>
-(Inherited from [INavigationAware](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware).)</td>
+(Inherited from [INavigationAware](/patterns-practices/reference/inavigationaware-interface-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[OnNavigatedTo](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.onnavigatedto(microsoft.practices.prism.regions.navigationcontext))</td>
+<td>[OnNavigatedTo](/patterns-practices/reference/inavigationaware-onnavigatedto-method-mspp-regions)</td>
 <td><div class="summary">
 Called when the implementer has been navigated to.
 </div>
-(Inherited from [INavigationAware](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware).)</td>
+(Inherited from [INavigationAware](/patterns-practices/reference/inavigationaware-interface-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[IConfirmNavigationRequest Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iconfirmnavigationrequest)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  
+[IConfirmNavigationRequest Interface](/patterns-practices/reference/iconfirmnavigationrequest-interface-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
