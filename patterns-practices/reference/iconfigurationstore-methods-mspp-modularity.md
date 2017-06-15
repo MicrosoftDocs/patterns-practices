@@ -11,9 +11,7 @@ The [IConfigurationStore](/patterns-practices/reference/iconfigurationstore-inte
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
