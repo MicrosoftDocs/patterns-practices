@@ -4,7 +4,7 @@ Title: 'ObservableObject(T) Events (Microsoft.Practices.Prism)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'observableobject-t-events-mspp.md'
 ---
-
+
 # ObservableObject&lt;T&gt; Events
 
 The [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) type exposes the following members.
@@ -896,5 +896,6 @@ Occurs when the element is removed from within an element tree of loaded element
 </table>
 
 ## See Also
-[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)  
+
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  

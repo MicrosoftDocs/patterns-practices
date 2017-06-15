@@ -4,13 +4,12 @@ Title: 'IRegion Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegion'
 ms:mtpsurl: 'iregion-events-mspp-regions.md'
 ---
-
+
 # IRegion Events
 
-The [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) type exposes the following members.
+The [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) type exposes the following members.
 
 ## Events
-
 
 <table>
 
@@ -34,5 +33,6 @@ Occurs when a property value changes.
 </table>
 
 ## See Also
-[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  
+
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

@@ -23,7 +23,7 @@ The [ContentControlRegionAdapter](/patterns-practices/reference/contentcontrolre
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ContentControlRegionAdapter](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions).</td>
+<td>ContentControlRegionAdapter</td>
 <td><div class="summary">
 Initializes a new instance of [ContentControlRegionAdapter](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions).
 </div></td>
