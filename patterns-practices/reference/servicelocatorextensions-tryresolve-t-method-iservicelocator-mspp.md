@@ -26,16 +26,16 @@ where T : class
 
 *locator*
   
-Type: IServiceLocator
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator
 
-Locator to use in resolving.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Locator to use in resolving.
 
 ## Type Parameters
 
 
 *T* 
  
-Type to resolve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type to resolve.
 
 ### Return Value
 
@@ -80,16 +80,16 @@ Public Shared Function TryResolve(Of T As Class) (
 
 *locator*
   
-Type: IServiceLocator
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator
 
-Locator to use in resolving.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Locator to use in resolving.
 
 ## Type Parameters
 
 
 *T* 
  
-Type to resolve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type to resolve.
 
 ### Return Value
 
