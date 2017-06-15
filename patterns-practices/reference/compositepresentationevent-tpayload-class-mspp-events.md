@@ -4,8 +4,9 @@ Title: 'CompositePresentationEvent(TPayload) Class (Microsoft.Practices.Prism.Ev
 ms:assetid: 'T:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1'
 ms:mtpsurl: 'compositepresentationevent-tpayload-class-mspp-events.md'
 ---
-
-# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class
+
+
+# CompositePresentationEvent<TPayload> Class
 
 Defines a class that manages publication and subscription to events.
 
@@ -14,7 +15,18 @@ Defines a class that manages publication and subscription to events.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-[ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")\] public class CompositePresentationEvent&lt;TPayload&gt; : EventBase &lt;ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")&gt; Public Class CompositePresentationEvent(Of TPayload) Inherits EventBase
+
+```C#
+[ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")]
+public class CompositePresentationEvent<TPayload> : EventBase
+```
+
+```VB
+'Declaration
+<ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")> 
+Public Class CompositePresentationEvent(Of TPayload)
+	Inherits EventBase
+```
 ## Type Parameters
 
 
@@ -28,5 +40,6 @@ The type of message that will be passed to the subscribers.
     Microsoft.Practices.Prism.Events.CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)
 
 ## See Also
-[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.compositepresentationevent%601)  
+
+[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.compositepresentationevent%601)  
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)  
