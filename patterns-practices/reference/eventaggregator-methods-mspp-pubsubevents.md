@@ -13,7 +13,6 @@ The [EventAggregator](/patterns-practices/reference/eventaggregator-class-mspp-p
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

@@ -47,7 +47,7 @@ Checks if a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-inte
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div>
-(Inherited from [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;([KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)&lt;([String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)&gt;&gt;.)</td>
+(Inherited from [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)&lt;[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)&gt;&gt;.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -75,8 +75,7 @@ Returns an enumerator that iterates through a collection.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item](/patterns-practices/reference/iregionbehaviorcollection-item-property-mspp-regions
-)</td>
+<td>[Item](/patterns-practices/reference/iregionbehaviorcollection-item-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions
 ) with the specified key.
