@@ -8,7 +8,7 @@ ms:mtpsurl: 'dispatchereventsubscription-tpayload-members-mspp-events.md'
 
 # DispatcherEventSubscription&lt;TPayload&gt; Members
 
-The [ DispatcherEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601) type exposes the following members.
+The [ DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events) type exposes the following members.
 
 ## Constructors
 
@@ -25,7 +25,7 @@ The [ DispatcherEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/l
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[DispatcherEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601.)</td>
+<td>[DispatcherEventSubscription&lt;TPayload&gt;]</td>
 <td><div class="summary">
 Creates a new instance of BackgroundEventSubscription.
 </div></td>
@@ -65,7 +65,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>GetExecutionStrategy</td>
-<td>(Inherited from EventSubscription&lt;(Of &lt;([TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;)&gt;).)</td>
+<td>(Inherited from EventSubscription&lt;[TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -87,9 +87,9 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[InvokeAction](/patterns-practices/reference/dispatchereventsubscription-tpayload-invokeaction-method-mspp-events)</td>
 <td><div class="summary">
-Invokes the specified [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) asynchronously in the specified [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
+Invokes the specified [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) asynchronously in the specified [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
 </div>
-(Overrides EventSubscriptionInvokeAction(Action&lt;(Of &lt;(UTP&gt;)&gt;), UTP).)</td>
+(Overrides EventSubscriptionInvokeAction(Action&lt;UTP&gt;, UTP).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -115,9 +115,9 @@ Returns a string that represents the current object.
 
 |                                                                                                  | Name              | Description                                                                                                                                                         |
 |--------------------------------------------------------------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | Action            | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;). |
-| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | Filter            | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;)|
-| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | SubscriptionToken | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;)|
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | Action            | (Inherited from EventSubscription&lt;[TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;. |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | Filter            | (Inherited from EventSubscription&lt;[TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;|
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | SubscriptionToken | (Inherited from EventSubscription&lt;[TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;|
 
 ## See Also
 
