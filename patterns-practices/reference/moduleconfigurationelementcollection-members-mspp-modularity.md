@@ -468,7 +468,7 @@ Gets or sets the name for the [ConfigurationElement](http://msdn.microsoft.com/e
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CollectionType](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.collectiontype)</td>
+<td>[CollectionType](/patterns-practices/reference/moduleconfigurationelementcollection-collectiontype-property-mspp-modularity)</td>
 <td><div class="summary">
 Gets the type of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
@@ -500,7 +500,7 @@ Gets an [ElementInformation](http://msdn.microsoft.com/en-us/library/ms134413) o
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[ElementName](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.elementname)</td>
+<td>[ElementName](/patterns-practices/reference/moduleconfigurationelementcollection-elementname-property-mspp-modularity)</td>
 <td><div class="summary">
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 </div>
@@ -564,7 +564,7 @@ Gets or sets a property, attribute, or child element of this configuration eleme
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item(Int32)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.item(system.int32))</td>
+<td>[Item(Int32)](/patterns-practices/reference/moduleconfigurationelementcollection-item-property-mspp-modularity)</td>
 <td><div class="summary">
 Gets the [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity) located at the specified index in the collection.
 </div></td>
@@ -635,7 +635,7 @@ Gets an object used to synchronize access to the [ConfigurationElementCollection
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[ThrowOnDuplicate](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.throwonduplicate)</td>
+<td>[ThrowOnDuplicate](/patterns-practices/reference/moduleconfigurationelementcollection-throwonduplicate-property-mspp-modularity)</td>
 <td><div class="summary">
 Gets a value indicating whether an exception should be raised if a duplicate element is found. This property will always return true.
 </div>
@@ -647,4 +647,4 @@ Gets a value indicating whether an exception should be raised if a duplicate ele
 ## See Also
 
 [ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)  
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

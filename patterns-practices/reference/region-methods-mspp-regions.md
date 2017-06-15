@@ -7,7 +7,7 @@ ms:mtpsurl: 'region-methods-mspp-regions.md'
 
 # Region Methods
 
-The [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region) type exposes the following members.
+The [Region](/patterns-practices/reference/region-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -22,7 +22,7 @@ The [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.region
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Activate](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.activate(system.object))</td>
+<td>[Activate](/patterns-practices/reference/region-activate-method-mspp-regions)</td>
 <td><div class="summary">
 Marks the specified view as active.
 </div></td>
@@ -50,14 +50,14 @@ Adds a new view to the region.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Deactivate](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.deactivate(system.object))</td>
+<td>[Deactivate](/patterns-practices/reference/region-deactivate-method-mspp-regions)</td>
 <td><div class="summary">
 Marks the specified view as inactive.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[DefaultSortComparison](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.defaultsortcomparison)</td>
+<td>[DefaultSortComparison](/patterns-practices/reference/region-defaultsortcomparison-method-mspp-regions)</td>
 <td><div class="summary">
 The default sort algorithm.
 </div></td>
@@ -96,7 +96,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetView](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.getview(system.string))</td>
+<td>[GetView](/patterns-practices/reference/region-getview-method-mspp-regions)</td>
 <td><div class="summary">
 Returns the view instance that was added to the region using a specific name.
 </div></td>
@@ -111,7 +111,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Remove](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.remove(system.object))</td>
+<td>[Remove](/patterns-practices/reference/region-remove-method-mspp-regions)</td>
 <td><div class="summary">
 Removes the specified view from the region.
 </div></td>
@@ -160,7 +160,7 @@ Returns a string that represents the current object.
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
 </div>
-(Defined by [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions).)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -170,7 +170,7 @@ Initiates navigation to the target specified by the *target*.
 <div class="summary">
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div>
-(Defined by [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions).)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -180,7 +180,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
 </div>
-(Defined by [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions).)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -190,7 +190,7 @@ Initiates navigation to the target specified by the *target*.
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
 </div>
-(Defined by [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions).)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -200,7 +200,7 @@ Initiates navigation to the target specified by the *target*.
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
 </div>
-(Defined by [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions).)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -210,12 +210,12 @@ Initiates navigation to the target specified by the *target*.
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
 </div>
-(Defined by [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions).)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

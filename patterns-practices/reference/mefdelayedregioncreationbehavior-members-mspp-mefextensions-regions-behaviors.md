@@ -45,7 +45,7 @@ Initializes a new instance of the [MefDelayedRegionCreationBehavior](/patterns-p
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Attach](/patterns-practices/reference/delayedregioncreationbehavior-attach-method-mspp-regions-behaviors)</td>
 <td><div class="summary">
-Start monitoring the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) and the [TargetElement](/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors) to detect when the [TargetElement](/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors) becomes part of the Visual Tree. When that happens, the Region will be created and the behavior will [Detach()](/patterns-practices/reference/delayedregioncreationbehavior-detach-method-mspp-regions-behaviors).
+Start monitoring the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) and the [TargetElement](/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors) to detect when the [TargetElement](/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors) becomes part of the Visual Tree. When that happens, the Region will be created and the behavior will [Detach](/patterns-practices/reference/delayedregioncreationbehavior-detach-method-mspp-regions-behaviors).
 </div>
 (Inherited from [DelayedRegionCreationBehavior](/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors).)</td>
 </tr>

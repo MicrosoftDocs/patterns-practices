@@ -26,14 +26,14 @@ The [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interfac
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[CanLoadModuleType](/patterns-practices/reference/imoduletypeloader-canloadmoduletype-method-mspp-modularity)</td>
 <td><div class="summary">
-Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the moduleInfo.
+Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the *moduleInfo*.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[LoadModuleType](/patterns-practices/reference/imoduletypeloader-loadmoduletype-method-mspp-modularity)</td>
 <td><div class="summary">
-Retrieves the <i>moduleInfo</i>.
+Retrieves the *moduleInfo*.
 </div></td>
 </tr>
 </tbody>
