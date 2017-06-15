@@ -565,5 +565,5 @@ Occurs when the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) or
 
 ## See Also
 
-[InteractionRequestTrigger Class](/patterns-practices/reference/interactionrequesttrigger-class-mspp-interactivity-interactionrequest)<br />
+[InteractionRequestTrigger Class](/patterns-practices/reference/interactionrequesttrigger-class-mspp-interactivity-interactionrequest)  
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

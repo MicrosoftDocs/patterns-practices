@@ -23,9 +23,7 @@ The [MefServiceLocatorAdapter](/patterns-practices/reference/mefservicelocatorad
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>MefServiceLocatorAdapter</td>
-<td><div class="summary">
-Initializes a new instance of the [MefServiceLocatorAdapter](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions) class.
-</div></td>
+<td>Initializes a new instance of the [MefServiceLocatorAdapter](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions) class.</td>
 </tr>
 </tbody>
 </table>
@@ -44,34 +42,22 @@ Initializes a new instance of the [MefServiceLocatorAdapter](/patterns-practices
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[DoGetAllInstances](/patterns-practices/reference/mefservicelocatoradapter-dogetallinstances-method-mspp-mefextensions)</td>
-<td><div class="summary">
-Resolves the instance of the requested service.
-</div>
-(Overrides ServiceLocatorImplBaseDoGetAllInstances(Type).)</td>
+<td>Resolves the instance of the requested service.  (Overrides ServiceLocatorImplBaseDoGetAllInstances(Type).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[DoGetInstance](/patterns-practices/reference/mefservicelocatoradapter-dogetinstance-method-mspp-mefextensions)</td>
-<td><div class="summary">
-Resolves all the instances of the requested service.
-</div>
-(Overrides ServiceLocatorImplBaseDoGetInstance(Type, String).)</td>
+<td>Resolves all the instances of the requested service.  (Overrides ServiceLocatorImplBaseDoGetInstance(Type, String).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)</td>
-<td><div class="summary">
-Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
-</div>
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
+<td>Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).  (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)</td>
-<td><div class="summary">
-Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
-</div>
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
+<td>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.  (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -90,16 +76,13 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>GetAllInstances``1()()</td>
+<td>GetAllInstances``1()</td>
 <td>(Inherited from ServiceLocatorImplBase.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)</td>
-<td><div class="summary">
-Serves as a hash function for a particular type.
-</div>
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
+<td>Serves as a hash function for a particular type.  (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -129,26 +112,17 @@ Serves as a hash function for a particular type.
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
-<td><div class="summary">
-Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
-</div>
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
+<td>Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.  (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)</td>
-<td><div class="summary">
-Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
-</div>
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
+<td>Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).  (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)</td>
-<td><div class="summary">
-Returns a string that represents the current object.
-</div>
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
+<td>Returns a string that represents the current object.  (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 </tbody>
 </table>

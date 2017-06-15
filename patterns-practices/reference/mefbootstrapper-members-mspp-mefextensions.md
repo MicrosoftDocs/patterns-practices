@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefbootstrapper-members-mspp-mefextensions.md'
 
 # MefBootstrapper Members
 
-The [MefBootstrapper](/patterns-practices/reference/mefextensions.mefbootstrapper) type exposes the following members.
+The [MefBootstrapper](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions) type exposes the following members.
 
 ## Constructors
 

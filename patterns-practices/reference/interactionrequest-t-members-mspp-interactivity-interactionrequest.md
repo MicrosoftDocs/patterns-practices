@@ -22,7 +22,7 @@ The [InteractionRequest&lt;T&gt;](/patterns-practices/reference/interactionreque
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[InteractionRequest&lt;T&gt;]</td>
+<td>InteractionRequest&lt;T&gt;</td>
 <td><div class="summary">
 Initializes a new instance of the [InteractionRequest&lt;T&gt;](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest) class
 </div></td>
@@ -131,4 +131,3 @@ Fired when interaction is needed.
 
 [InteractionRequest&lt;T&gt; Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)  
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)  
-
