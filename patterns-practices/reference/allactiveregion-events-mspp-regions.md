@@ -5,7 +5,6 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
 ms:mtpsurl: 'allactiveregion-events-mspp-regions.md'
 ---
 
-
 # AllActiveRegion Events
 
 The [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions) type exposes the following members.
