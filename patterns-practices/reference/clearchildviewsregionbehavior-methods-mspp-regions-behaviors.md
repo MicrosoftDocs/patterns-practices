@@ -23,11 +23,11 @@ The [ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildview
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Attach](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.attach)</td>
+<td>[Attach](/patterns-practices/reference/regionbehavior-attach-method-mspp-regions)</td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div>
-(Inherited from [RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior).)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -47,7 +47,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[GetClearChildViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.getclearchildviews(system.windows.dependencyobject))</td>
+<td>[GetClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-getclearchildviews-method-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Gets the ClearChildViews attached property from a DependencyObject.
 </div></td>
@@ -82,13 +82,12 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Subscribes to the [Region](/patterns-practices/reference/region-class-mspp-regions)'s PropertyChanged method to monitor its RegionManager property.
 </div>
-(Overrides [RegionBehavior.OnAttach()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionbehavior.onattach).)</td>
+(Overrides [RegionBehavior.OnAttach()](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions).)</td>
 
-(Overrides [RegionBehavior..::.OnAttach()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[SetClearChildViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.setclearchildviews(system.windows.dependencyobject%2csystem.boolean))</td>
+<td>[SetClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-setclearchildviews-method-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Sets the ClearChildViews attached property in a DependencyObject.
 </div></td>
