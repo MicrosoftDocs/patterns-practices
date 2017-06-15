@@ -29,7 +29,7 @@ The [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-r
 <td><div class="summary">
 Marks the specified view as active.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -37,7 +37,7 @@ Marks the specified view as active.
 <td><div class="summary">
 Adds a new view to the region.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -45,7 +45,7 @@ Adds a new view to the region.
 <td><div class="summary">
 Adds a new view to the region.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -53,7 +53,7 @@ Adds a new view to the region.
 <td><div class="summary">
 Adds a new view to the region.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -101,7 +101,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td><div class="summary">
 Returns the view instance that was added to the region using a specific name.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -117,7 +117,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Removes the specified view from the region.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -125,7 +125,7 @@ Removes the specified view from the region.
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -133,7 +133,7 @@ Initiates navigation to the specified target.
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions.)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>

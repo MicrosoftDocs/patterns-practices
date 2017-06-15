@@ -12,7 +12,6 @@ The [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-cl
 ## Methods
  
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

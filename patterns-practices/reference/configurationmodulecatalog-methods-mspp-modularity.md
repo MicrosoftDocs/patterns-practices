@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ConfigurationModuleC
 ms:mtpsurl: 'configurationmodulecatalog-methods-mspp-modularity.md'
 ---
 
-
 # ConfigurationModuleCatalog Methods
 
 The [ConfigurationModuleCatalog](/patterns-practices/reference/configurationmodulecatalog-class-mspp-modularity) type exposes the following members.
@@ -13,7 +12,6 @@ The [ConfigurationModuleCatalog](/patterns-practices/reference/configurationmodu
 ## Methods
  
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

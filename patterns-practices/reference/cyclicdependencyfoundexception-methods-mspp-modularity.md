@@ -12,7 +12,6 @@ The [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdepende
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -91,7 +90,6 @@ Creates and returns a string representation of the current exception.
 ## Extension Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

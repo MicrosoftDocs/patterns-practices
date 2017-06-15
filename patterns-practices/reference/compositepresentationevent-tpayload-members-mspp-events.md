@@ -4,10 +4,11 @@ Title: 'CompositePresentationEvent(TPayload) Members (Microsoft.Practices.Prism.
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1'
 ms:mtpsurl: 'compositepresentationevent-tpayload-members-mspp-events.md'
 ---
-
-# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members
 
-The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) type exposes the following members.
+
+# CompositePresentationEvent&lt;TPayload&gt; Members
+
+The [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) type exposes the following members.
 
 ## Constructors
 
@@ -24,9 +25,9 @@ The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.mic
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601.)</td>
+<td>CompositePresentationEvent&lt;TPayload&gt;
 <td><div class="summary">
-Initializes a new instance of the [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) class
+Initializes a new instance of the [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) class
 </div></td>
 </tr>
 </tbody>
@@ -52,9 +53,9 @@ Initializes a new instance of the [CompositePresentationEvent&lt;(Of &lt;(TPaylo
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Contains(Action&lt;(Of &lt;(TPayload&gt;)&gt;))](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601.contains(system.action%7b%600%7d))</td>
+<td>[Contains(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events)</td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8).
+Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 </div></td>
 </tr>
 <tr class="odd">
@@ -109,42 +110,42 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Publish](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601.publish(%600))</td>
+<td>[Publish](/patterns-practices/reference/compositepresentationevent-tpayload-publish-method-mspp-events)</td>
 <td><div class="summary">
-Publishes the [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601).
+Publishes the [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events).
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;))](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601.subscribe(system.action%7b%600%7d))</td>
+<td>[Subscribe(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-mspp-events)</td>
 <td><div class="summary">
-Subscribes a delegate to an event that will be published on the PublisherThread. [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied action delegate.
+Subscribes a delegate to an event that will be published on the PublisherThread. [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied action delegate.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601.subscribe(system.action%7b%600%7d%2cmicrosoft.practices.prism.pubsubevents.threadoption))</td>
+<td>[Subscribe(Action&lt;TPayload&gt;, ThreadOption)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-mspp-events)</td>
 <td><div class="summary">
 Subscribes a delegate to an event. CompositePresentationEvent will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;), Boolean)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601.subscribe(system.action%7b%600%7d%2csystem.boolean))</td>
+<td>[Subscribe(Action&lt;TPayload&gt;, Boolean)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-boolean-mspp-events)</td>
 <td><div class="summary">
 Subscribes a delegate to an event that will be published on the PublisherThread.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption, Boolean)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601.subscribe(system.action%7b%600%7d%2cmicrosoft.practices.prism.pubsubevents.threadoption%2csystem.boolean))</td>
+<td>[Subscribe(Action&lt;TPayload&gt;, ThreadOption, Boolean)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-mspp-events)</td>
 <td><div class="summary">
 Subscribes a delegate to an event.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption, Boolean, Predicate&lt;(Of &lt;(TPayload&gt;)&gt;))](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601.subscribe(system.action%7b%600%7d%2cmicrosoft.practices.prism.pubsubevents.threadoption%2csystem.boolean%2csystem.predicate%7b%600%7d))</td>
+<td>[Subscribe(Action&lt;TPayload&gt;, ThreadOption, Boolean, Predicate&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-predicate-tpayload-mspp-events)</td>
 <td><div class="summary">
 Subscribes a delegate to an event.
 </div></td>
@@ -164,9 +165,9 @@ Returns a string that represents the current object.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Unsubscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;))](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601.unsubscribe(system.action%7b%600%7d))</td>
+<td>[Unsubscribe(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-unsubscribe-method-action-tpayload-mspp-events))</td>
 <td><div class="summary">
-Removes the first subscriber matching [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
+Removes the first subscriber matching [Action&lt;T&gt;(http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
 </div></td>
 </tr>
 </tbody>
@@ -181,5 +182,6 @@ Removes the first subscriber matching [Action&lt;(Of &lt;(T&gt;)&gt;)](http://ms
 | ![Public property](/patterns-practices/reference/images/pubproperty.gif)     | SynchronizationContext | (Inherited from EventBase.) |
 
 ## See Also
-[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)  
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)  
+
+[CompositePresentationEvent&lt;TPayload&gt; Class](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)  
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)  

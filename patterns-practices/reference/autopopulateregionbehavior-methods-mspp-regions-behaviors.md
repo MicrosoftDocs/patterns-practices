@@ -91,7 +91,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Attaches the AutoPopulateRegionBehavior to the Region.
 </div>
-(Overrides [RegionBehavior.OnAttach](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions.)</td>
+(Overrides [RegionBehavior.OnAttach()](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>

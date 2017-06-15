@@ -102,7 +102,7 @@ Raises this object's PropertyChanged event.
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[SetProperty&lt;T&gt;](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.setproperty)</td>
+<td>[SetProperty&lt;T&gt;](/patterns-practices/reference/bindablebase-setproperty-t-method-mspp-mvvm)</td>
 <td><div class="summary">
 Checks if a property already matches a desired value. Sets the property and notifies listeners only when necessary.
 </div></td>

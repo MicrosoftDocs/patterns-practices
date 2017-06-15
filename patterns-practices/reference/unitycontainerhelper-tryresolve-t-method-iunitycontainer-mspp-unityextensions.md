@@ -31,14 +31,14 @@ Public Shared Function TryResolve(Of T) (
 ### Parameters
 
 *container*  
-Type: IUnityContainer   
-The cointainer that will be used to resolve the type.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IUnityContainer   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cointainer that will be used to resolve the type.
 
 ## Type Parameters
 
 
 *T*  
-The type to resolve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type to resolve.
 
 ### Return Value
 

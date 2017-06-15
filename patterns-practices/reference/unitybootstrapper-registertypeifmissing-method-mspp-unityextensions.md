@@ -33,16 +33,16 @@ Protected Sub RegisterTypeIfMissing (
 ### Parameters
 
 *fromType*  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
-The interface type to register.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The interface type to register.
 
 *toType*  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
-The type implementing the interface.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type implementing the interface.
 
 *registerAsSingleton*     
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)   
-Registers the type as a singleton.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Registers the type as a singleton.
 
 ## See Also
 

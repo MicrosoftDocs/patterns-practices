@@ -22,17 +22,18 @@ public static Object TryResolve(
 ```
 ### Parameters
 *locator*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ype: IServiceLocator   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Locator to use in resolving.
 
 *type*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type to resolve.
 
 ### Return Value
 
-Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)   
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 T or null
+
 ### Usage Note
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type IServiceLocator. When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
@@ -40,6 +41,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 ## Remarks
 
  This will return null on any ActivationException.
+ 
 ## Exceptions
 
 | Exception                                                                             | Condition                                                                            |

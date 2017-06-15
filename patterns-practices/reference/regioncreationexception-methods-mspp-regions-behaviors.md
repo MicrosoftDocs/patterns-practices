@@ -42,9 +42,9 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetBaseException](http://msdn.microsoft.com/en-us/library/49kcee3b)</td>
 <td><div class="summary">
-When overridden in a derived class, returns the [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents) that is the root cause of one or more subsequent exceptions.
+When overridden in a derived class, returns the [Exception](/http://msdn2.microsoft.com/en-us/library/c18k6c59) that is the root cause of one or more subsequent exceptions.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](/http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -60,7 +60,7 @@ Serves as a hash function for a particular type.
 <td><div class="summary">
 When overridden in a derived class, sets the [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) with information about the exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](/http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -68,7 +68,7 @@ When overridden in a derived class, sets the [SerializationInfo](http://msdn.mic
 <td><div class="summary">
 Gets the runtime type of the current instance.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](/http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -84,7 +84,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Creates and returns a string representation of the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](/http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 </tbody>
 </table>
@@ -104,7 +104,7 @@ Creates and returns a string representation of the current exception.
 <tbody>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[GetRootException](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp))</td>
+<td>[GetRootException](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp)</td>
 <td><div class="summary">
 Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 </div>

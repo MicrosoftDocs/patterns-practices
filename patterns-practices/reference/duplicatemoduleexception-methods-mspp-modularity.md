@@ -11,9 +11,7 @@ The [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexce
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -91,9 +89,7 @@ Creates and returns a string representation of the current exception.
 
 ## Extension Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

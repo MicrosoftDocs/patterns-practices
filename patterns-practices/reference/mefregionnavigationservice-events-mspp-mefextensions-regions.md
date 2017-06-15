@@ -4,13 +4,13 @@ Title: 'MefRegionNavigationService Events (Microsoft.Practices.Prism.MefExtensio
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService'
 ms:mtpsurl: 'mefregionnavigationservice-events-mspp-mefextensions-regions.md'
 ---
-
+
+
 # MefRegionNavigationService Events
 
-The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) type exposes the following members.
+The [MefRegionNavigationService](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Events
-
 
 <table>
 
@@ -24,31 +24,32 @@ The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[Navigated](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigated)</td>
+<td>[Navigated](/patterns-practices/reference/regionnavigationservice-navigated-event-mspp-regions)</td>
 <td><div class="summary">
 Raised when the region is navigated to content.
 </div>
-(Inherited from [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice).)</td>
+(Inherited from [RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[Navigating](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigating)</td>
+<td>[Navigating](/patterns-practices/reference/regionnavigationservice-navigating-event-mspp-regions)</td>
 <td><div class="summary">
 Raised when the region is about to be navigated to content.
 </div>
-(Inherited from [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice).)</td>
+(Inherited from [RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[NavigationFailed](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigationfailed)</td>
+<td>[NavigationFailed](/patterns-practices/reference/regionnavigationservice-navigationfailed-event-mspp-regions)</td>
 <td><div class="summary">
 Raised when a navigation request fails.
 </div>
-(Inherited from [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice).)</td>
+(Inherited from [RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)  
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)  
+
+[MefRegionNavigationService Class](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions)  
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

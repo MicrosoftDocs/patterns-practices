@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ConfigurationStore'
 ms:mtpsurl: 'configurationstore-methods-mspp-modularity.md'
 ---
 
-
 # ConfigurationStore Methods
 
 The [ConfigurationStore](/patterns-practices/reference/configurationstore-class-mspp-modularity) type exposes the following members.
@@ -13,7 +12,6 @@ The [ConfigurationStore](/patterns-practices/reference/configurationstore-class-
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
