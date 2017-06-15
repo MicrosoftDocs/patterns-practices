@@ -97,7 +97,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Starts to monitor the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) to keep it in synch with the items of the [HostControl](/patterns-practices/reference/regionmanagerregistrationbehavior-hostcontrol-property-mspp-regions-behaviors).
 </div>
-(Overrides [RegionBehavior.OnAttach()](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions).)</td>
+(Overrides [RegionBehavior.OnAttach](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>

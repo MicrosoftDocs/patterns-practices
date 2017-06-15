@@ -31,14 +31,12 @@ Public Shared Function GetClearChildViews (
 ### Parameters
 
 *target*  
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
-
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
 The object from which to get the value.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 The value of the ClearChildViews attached property in the target specified.
 
 ## See Also

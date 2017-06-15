@@ -46,7 +46,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[GetClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-getclearchildviews-method-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Gets the ClearChildViews attached property from a DependencyObject.
@@ -86,7 +86,7 @@ Subscribes to the [Region](/patterns-practices/reference/region-class-mspp-regio
 
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[SetClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-setclearchildviews-method-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Sets the ClearChildViews attached property in a DependencyObject.

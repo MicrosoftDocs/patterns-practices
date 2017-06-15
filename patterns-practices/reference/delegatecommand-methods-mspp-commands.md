@@ -14,7 +14,11 @@ The [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-c
 
 
 <table>
-
+<colsgroup>
+<col width="80">
+<col>
+<col>
+</colsgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -70,14 +74,14 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[FromAsyncHandler(Func&lt;Task&gt;)](/patterns-practices/reference/delegatecommand-fromasynchandler-method-func-task-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[FromAsyncHandler(Func&lt;Task&gt;, Func&lt;Boolean&gt;)](/patterns-practices/reference/delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
