@@ -5,9 +5,8 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.ListDictionary\`2'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-members-mspp.md'
 ---
 
-
 # ListDictionary&lt;TKey, TValue&gt; Members
-The [ ListDictionary&lt;TKey, TValue&gt;](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp) type exposes the following members.
+The [ListDictionary&lt;TKey, TValue&gt;](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp) type exposes the following members.
 
 ## Constructors
 
@@ -190,6 +189,5 @@ Gets a shallow copy of all values in all lists.
 
 ## See Also
 
-[ ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
-
+[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  
