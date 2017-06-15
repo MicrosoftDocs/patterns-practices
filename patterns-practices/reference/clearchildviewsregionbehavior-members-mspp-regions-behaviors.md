@@ -182,10 +182,9 @@ This attached property can be defined on a view to indicate that regions defined
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions
 )</td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
+Returns <b>truetrue</b> (<b>True</b> in Visual Basic) if the behavior is attached to a region, <b>falsefalse</b> (<b>False</b> in Visual Basic) otherwise.
 </div>
-(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions
-).)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -202,12 +201,29 @@ Behavior's attached region.
 
 ## Attached Properties
 
+<table>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
+<td>[ClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-clearchildviews-attached-property-mspp-regions-behaviors)</td>
+<td>
 
-|                                                                                                           | Name                                                                                                                                      | Description |
-|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [ClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-clearchildviews-attached-property-mspp-regions-behaviors) |             |
+</td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 
 [ClearChildViewsRegionBehavior Class](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)  
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
+
+
