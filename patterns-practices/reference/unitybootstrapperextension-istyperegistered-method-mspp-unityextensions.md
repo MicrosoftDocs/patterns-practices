@@ -45,7 +45,7 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## Remarks
 
- In order to use this extension, you must first call AddNewExtension\`\`1(IUnityContainer) and specify UnityContainerExtension as the extension type.
+In order to use this extension, you must first call AddNewExtension``1(IUnityContainer) and specify UnityContainerExtension as the extension type.
 
 ## See Also
 
