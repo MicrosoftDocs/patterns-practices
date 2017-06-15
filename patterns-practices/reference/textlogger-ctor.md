@@ -23,7 +23,7 @@ ms:mtpsurl: 'textlogger-constructor-mspp-logging.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>TextLogger</td>
+<td>TextLogger()</td>
 <td><div class="summary">
 Initializes a new instance of [TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging) that writes to the console output.
 </div></td>

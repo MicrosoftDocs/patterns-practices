@@ -6,7 +6,7 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-mspp.md'
 ---
 
 
-# ListDictionary(Of TKey, TValue).Remove Method
+# ListDictionary&lt;Of TKey, TValue&gt;.Remove Method
 
 ## Overload List
 
@@ -47,6 +47,6 @@ Removes a value from the list with the given key.
 
 ## See Also
 
-[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
-[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-membe-mspp)  
+[ListDictionary&lt;Of TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
+[ListDictionary&lt;Of TKey, TValue&gt; Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

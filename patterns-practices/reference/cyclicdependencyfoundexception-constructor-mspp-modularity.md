@@ -23,7 +23,7 @@ ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>CyclicDependencyFoundException</td>
+<td>CyclicDependencyFoundException()</td>
 <td><div class="summary">
 Initializes a new instance of the [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) class.
 </div></td>
