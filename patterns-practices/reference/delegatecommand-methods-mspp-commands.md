@@ -14,7 +14,11 @@ The [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-c
 
 
 <table>
-
+<colsgroup>
+<col width="80">
+<col>
+<col>
+</colsgroup>
 <thead>
 <tr class="header">
 <th> </th>
