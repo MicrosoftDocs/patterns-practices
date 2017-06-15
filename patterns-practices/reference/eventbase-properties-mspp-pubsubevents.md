@@ -8,7 +8,7 @@ ms:mtpsurl: 'eventbase-properties-mspp-pubsubevents.md'
 
 # EventBase Properties
 
-The [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase) type exposes the following members.
+The [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) type exposes the following members.
 
 ## Properties
 
@@ -24,14 +24,14 @@ The [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase) typ
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Subscriptions](/patterns-practices/reference/mspp-mvvm-namespace.eventbase.subscriptions)</td>
+<td>[Subscriptions](/patterns-practices/reference/eventbase-subscriptions-property-mspp-pubsubevents)</td>
 <td><div class="summary">
 Gets the list of current subscriptions.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[SynchronizationContext](/patterns-practices/reference/mspp-mvvm-namespace.eventbase.synchronizationcontext)</td>
+<td>[SynchronizationContext](/patterns-practices/reference/eventbase-synchronizationcontext-property-mspp-pubsubevents)</td>
 <td><div class="summary">
 Allows the SynchronizationContext to be set by the EventAggregator for UI Thread Dispatching
 </div></td>
@@ -41,5 +41,5 @@ Allows the SynchronizationContext to be set by the EventAggregator for UI Thread
 
 ## See Also
 
-[EventBase Class](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)  
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
