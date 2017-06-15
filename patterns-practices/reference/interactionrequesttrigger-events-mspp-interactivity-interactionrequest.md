@@ -4,13 +4,12 @@ Title: 'InteractionRequestTrigger Events (Microsoft.Practices.Prism.Interactivit
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger'
 ms:mtpsurl: 'interactionrequesttrigger-events-mspp-interactivity-interactionrequest.md'
 ---
-
+
 # InteractionRequestTrigger Events
 
-The [InteractionRequestTrigger](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger) type exposes the following members.
+The [InteractionRequestTrigger](/patterns-practices/reference/interactionrequesttrigger-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Events
-
 
 <table>
 
@@ -39,5 +38,6 @@ Occurs when the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) or
 </table>
 
 ## See Also
-[InteractionRequestTrigger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)  
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)  
+
+[InteractionRequestTrigger Class](/patterns-practices/reference/interactionrequesttrigger-class-mspp-interactivity-interactionrequest)  
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)  
