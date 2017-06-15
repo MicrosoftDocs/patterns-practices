@@ -29,8 +29,8 @@ Public Overrides Sub Run (
 ### Parameters
 
 *runWithDefaultConfiguration*  
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)   
-If trueTruetruetrue (True in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If **truetrue** (**True** in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
 
 ## See Also
 
