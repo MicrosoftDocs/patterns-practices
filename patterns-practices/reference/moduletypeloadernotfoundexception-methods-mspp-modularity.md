@@ -61,7 +61,7 @@ Serves as a hash function for a particular type.
 <td><div class="summary">
 Sets the [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) with information about the exception.
 </div>
-(Inherited from [ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity.)</td>
+(Inherited from [ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
