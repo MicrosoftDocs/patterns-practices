@@ -7,7 +7,7 @@ ms:mtpsurl: 'itemscontrolregionadapter-methods-mspp-regions.md'
 
 # ItemsControlRegionAdapter Methods
 
-The [ItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter) type exposes the following members.
+The [ItemsControlRegionAdapter](/patterns-practices/reference/itemscontrolregionadapter-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -22,9 +22,9 @@ The [ItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[Adapt](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter.adapt(microsoft.practices.prism.regions.iregion%2csystem.windows.controls.itemscontrol))</td>
+<td>[Adapt](/patterns-practices/reference/itemscontrolregionadapter-adapt-method-mspp-regions)</td>
 <td><div class="summary">
-Adapts an [ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045) to an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
+Adapts an [ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045) to an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 </div>
 (Overrides [RegionAdapterBase&lt;T&gt;.Adapt(IRegion, T)](/patterns-practices/reference/regionadapterbase-t-adapt-method-mspp-regions).)</td>
 </tr>
@@ -40,15 +40,15 @@ Template method to attach new behaviors.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[AttachDefaultBehaviors](/patterns-practices/reference/regionadapterbase-t-attachdefaultbehaviors-method-mspp-regions)</td>
 <td><div class="summary">
-This method adds the default behaviors by using the [IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory) object.
+This method adds the default behaviors by using the [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions) object.
 </div>
 (Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[CreateRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter.createregion)</td>
+<td>[CreateRegion](/patterns-practices/reference/itemscontrolregionadapter-createregion-method-mspp-regions)</td>
 <td><div class="summary">
-Creates a new instance of [AllActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion).
+Creates a new instance of [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions).
 </div>
 (Overrides [RegionAdapterBase&lt;T&gt;.CreateRegion()](/patterns-practices/reference/regionadapterbase-t-createregion-method-mspp-regions).)</td>
 </tr>
@@ -88,7 +88,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Initialize](/patterns-practices/reference/regionadapterbase-t-initialize-method-mspp-regions)</td>
 <td><div class="summary">
-Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
+Adapts an object and binds it to a new [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 </div>
 (Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
@@ -113,5 +113,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ItemsControlRegionAdapter Class](/patterns-practices/reference/itemscontrolregionadapter-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
