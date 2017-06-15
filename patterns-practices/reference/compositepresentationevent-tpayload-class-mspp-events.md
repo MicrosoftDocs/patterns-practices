@@ -6,11 +6,11 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-class-mspp-events.md'
 ---
 
 
-# CompositePresentationEvent<TPayload> Class
+# CompositePresentationEvent&lt;TPayload&gt; Class
 
 Defines a class that manages publication and subscription to events.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
+**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -35,8 +35,8 @@ The type of message that will be passed to the subscribers.
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  EventBase
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+  EventBase  
     Microsoft.Practices.Prism.Events.CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)
 
 ## See Also
