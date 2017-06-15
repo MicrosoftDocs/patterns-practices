@@ -22,14 +22,14 @@ The [TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging) ty
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[TextLogger()](/patterns-practices/reference/textlogger-class-mspp-logging)</td>
+<td>TextLogger()</td>
 <td><div class="summary">
 Initializes a new instance of [TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging) that writes to the console output.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[TextLogger(TextWriter)](/patterns-practices/reference/textlogger-class-mspp-logging)</td>
+<td>TextLogger(TextWriter)</td>
 <td><div class="summary">
 Initializes a new instance of [TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging).
 </div></td>
@@ -123,5 +123,4 @@ Returns a string that represents the current object.
 ## See Also
 
 [TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)  
-
 [Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)  

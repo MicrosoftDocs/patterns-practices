@@ -4,7 +4,7 @@ Title: 'ModuleDependencyAttribute Methods (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute'
 ms:mtpsurl: 'moduledependencyattribute-methods-mspp-modularity.md'
 ---
-
+
 # ModuleDependencyAttribute Methods
 
 The [ModuleDependencyAttribute](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity) type exposes the following members.
@@ -12,7 +12,6 @@ The [ModuleDependencyAttribute](/patterns-practices/reference/moduledependencyat
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -73,5 +72,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ModuleDependencyAttribute Class](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity)  
+
+[ModuleDependencyAttribute Class](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

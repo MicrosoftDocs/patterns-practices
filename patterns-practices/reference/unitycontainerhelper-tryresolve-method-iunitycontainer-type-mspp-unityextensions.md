@@ -32,17 +32,17 @@ Public Shared Function TryResolve (
 ### Parameters
 
 *container*  
-Type: IUnityContainer   
-The cointainer that will be used to resolve the type.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IUnityContainer   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cointainer that will be used to resolve the type.
 
 *typeToResolve*  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
-The type to resolve.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type to resolve.
 
 ### Return Value
 
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)   
-The instance of typeToResolve built up by the container.
+The instance of *typeToResolve* built up by the container.
 
 ### Usage Note
 

@@ -23,9 +23,8 @@ The [DownloadedPartCatalogCollection](/patterns-practices/reference/downloadedpa
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>DownloadedPartCatalogCollection</td>
-<td><div class="summary">
-Initializes a new instance of the [DownloadedPartCatalogCollection](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity) class
-</div></td>
+<td>Initializes a new instance of the [DownloadedPartCatalogCollection](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity) class
+</td>
 </tr>
 </tbody>
 </table>

@@ -29,16 +29,19 @@ public DispatcherEventSubscription(
 *actionReference*
 
    Type: IDelegateReference
+
    A reference to a delegate of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 *filterReference*
 
    Type: IDelegateReference
+
    A reference to a delegate of type [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 *dispatcher*
 
    Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](/patterns-practices/reference/idispatcherfacade-interface-mspp-events)
+
    The dispatcher to use when executing the *actionReference* delegate.
 
 ## Exceptions
@@ -52,13 +55,13 @@ public DispatcherEventSubscription(
 </thead>
 <tbody>
 <tr class="odd">
-<td>[System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)</td>
-<td>When actionReference or are **Nothinga** null reference (**Nothing** in Visual Basic).
+<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
+<td>When <i>actionReference</i> or are <b>null</b>a null reference (<b>Nothing</b> in Visual Basic).
 </td>
 </tr>
 <tr class="even">
-<td>[System.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114)</td>
-<td>When the target of actionReference is not of type [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8), or the target of filterReference is not of type [Predicate&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/bfcke1bz).
+<td>[System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)</td>
+<td>When the target of <i>actionReference</i> is not of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8), or the target of <i>filterReference</i> is not of type [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 </tr>
 </tbody>
 </table>
@@ -94,16 +97,19 @@ Public Sub New (
 *actionReference*
 
    Type: IDelegateReference
+
    A reference to a delegate of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*
 
    Type: IDelegateReference
+
    A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 *dispatcher*
 
    Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](/patterns-practices/reference/idispatcherfacade-interface-mspp-events)
+
    The dispatcher to use when executing the *actionReference* delegate.
 
 ## Exceptions
@@ -117,13 +123,13 @@ Public Sub New (
 </thead>
 <tbody>
 <tr class="odd">
-<td>[System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)</td>
-<td>When actionReference or are **Nothinga** null reference (**Nothing** in Visual Basic).
+<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
+<td>When <i>actionReference</i> or are <b>Nothing</b>a null reference (<b>Nothing</b> in Visual Basic).
 </td>
 </tr>
 <tr class="even">
-<td>[System.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114)</td>
-<td>When the target of actionReference is not of type [Action(Of T)](http://msdn2.microsoft.com/en-us/library/018hxwa8), or the target of filterReference is not of type [Predicate(Of T)](http://msdn2.microsoft.com/en-us/library/bfcke1bz).
+<td>[System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)</td>
+<td>When the target of <i>actionReference</i> is not of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8), or the target of <i>filterReference</i> is not of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 </tr>
 </tbody>
 </table>

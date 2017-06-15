@@ -26,9 +26,7 @@ The [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregion
 <th>Description</th>
 </tr>
 <tr>
-<td>
-
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [Attach](/patterns-practices/reference/regionbehavior-attach-method-mspp-regions)
@@ -39,9 +37,7 @@ Attaches the behavior to the region.
 </div> (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 <tr>
-<td>
-
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)
@@ -50,9 +46,7 @@ Attaches the behavior to the region.
 <div>Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr>
-<td>
-
-![Protected method](/patterns-practices/reference/images/protmethod.gif)
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 [Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)
@@ -61,9 +55,7 @@ Attaches the behavior to the region.
 <div>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr>
-<td>
-
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)
@@ -72,34 +64,25 @@ Attaches the behavior to the region.
 <div>Serves as a hash function for a particular type. </div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr>
-<td>
-
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
-<td>
-[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)
+<td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)
 </td>
 <td>
 <div>Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr>
-<td>
-
-![Protected method](/patterns-practices/reference/images/protmethod.gif)
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
-<td>
-[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)
+<td>[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)
 </td>
 <td>
 <div>Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr>
-<td>
-
-![Protected method](/patterns-practices/reference/images/protmethod.gif)
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
-<td>
-[OnAttach](/patterns-practices/reference/syncregioncontextwithhostbehavior-onattach-method-mspp-regions-behaviors)
+<td>[OnAttach](/patterns-practices/reference/syncregioncontextwithhostbehavior-onattach-method-mspp-regions-behaviors)
 </td>
 <td>
 <div>
@@ -107,12 +90,9 @@ Override this method to perform the logic after the behavior has been attached.
 </div> (Overrides [RegionBehavior](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions).)</td>
 </tr>
 <tr>
-<td>
-
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
-<td>
-[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)
+<td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)
 </td>
 <td>
 <div>Returns a string that represents the current object.</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>

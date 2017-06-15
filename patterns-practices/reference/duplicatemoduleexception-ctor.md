@@ -23,7 +23,7 @@ ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>DuplicateModuleException</td>
+<td>DuplicateModuleException()</td>
 <td><div class="summary">
 Initializes a new instance of the [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) class.
 </div></td>

@@ -11,9 +11,7 @@ The [DirectoryModuleCatalog](/patterns-practices/reference/directorymodulecatalo
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
