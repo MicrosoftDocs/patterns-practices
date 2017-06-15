@@ -46,7 +46,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[GetClearChildViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.getclearchildviews(system.windows.dependencyobject))</td>
 <td><div class="summary">
 Gets the ClearChildViews attached property from a DependencyObject.
@@ -87,7 +87,7 @@ Subscribes to the [Region](/patterns-practices/reference/region-class-mspp-regio
 (Overrides [RegionBehavior..::.OnAttach()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach).)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[SetClearChildViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.setclearchildviews(system.windows.dependencyobject%2csystem.boolean))</td>
 <td><div class="summary">
 Sets the ClearChildViews attached property in a DependencyObject.
