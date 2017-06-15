@@ -14,7 +14,7 @@ The [MefFileModuleTypeLoader](/patterns-practices/reference/meffilemoduletypeloa
 <table>
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -23,9 +23,7 @@ The [MefFileModuleTypeLoader](/patterns-practices/reference/meffilemoduletypeloa
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>MefFileModuleTypeLoader</td>
-<td><div class="summary">
-Initializes a new instance of the MefFileModuleTypeLoader class. This instance is used to load requested module types.
-</div></td>
+<td>Initializes a new instance of the MefFileModuleTypeLoader class. This instance is used to load requested module types.</td>
 </tr>
 </tbody>
 </table>
@@ -35,7 +33,7 @@ Initializes a new instance of the MefFileModuleTypeLoader class. This instance i
 <table>
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -44,63 +42,47 @@ Initializes a new instance of the MefFileModuleTypeLoader class. This instance i
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[CanLoadModuleType](/patterns-practices/reference/meffilemoduletypeloader-canloadmoduletype-method-mspp-mefextensions-modularity)</td>
-<td><div class="summary">
-Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the moduleInfo. Returns true if the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property starts with &quot;file://&quot;, because this indicates that the file is a local file.
-</div></td>
+<td>Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the moduleInfo. Returns true if the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property starts with &quot;file://&quot;, because this indicates that the file is a local file.</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)</td>
-<td><div class="summary">
-Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
-</div>
+<td>Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)</td>
-<td><div class="summary">
-Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
-</div>
+<td>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)</td>
-<td><div class="summary">
-Serves as a hash function for a particular type.
-</div>
+<td>Serves as a hash function for a particular type.
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
-<td><div class="summary">
-Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
-</div>
+<td>Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[LoadModuleType](/patterns-practices/reference/meffilemoduletypeloader-loadmoduletype-method-mspp-mefextensions-modularity)</td>
-<td><div class="summary">
-Retrieves the moduleInfo.
-</div></td>
+<td>Retrieves the moduleInfo.</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)</td>
-<td><div class="summary">
-Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
-</div>
+<td>Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)</td>
-<td><div class="summary">
-Returns a string that represents the current object.
-</div>
+<td>Returns a string that represents the current object.
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 </tbody>
@@ -111,7 +93,7 @@ Returns a string that represents the current object.
 <table>
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -120,16 +102,12 @@ Returns a string that represents the current object.
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td>[LoadModuleCompleted](/patterns-practices/reference/meffilemoduletypeloader-loadmodulecompleted-event-mspp-mefextensions-modularity)</td>
-<td><div class="summary">
-Raised when a module is loaded or fails to load.
-</div></td>
+<td>Raised when a module is loaded or fails to load.</td>
 </tr>
 <tr class="even">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td>[ModuleDownloadProgressChanged](/patterns-practices/reference/meffilemoduletypeloader-moduledownloadprogresschanged-event-mspp-mefextensions-modularity)</td>
-<td><div class="summary">
-Raised repeatedly to provide progress as modules are loaded in the background.
-</div></td>
+<td>Raised repeatedly to provide progress as modules are loaded in the background.</td>
 </tr>
 </tbody>
 </table>
@@ -137,4 +115,4 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 ## See Also
 
 [MefFileModuleTypeLoader Class](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)  
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mefextensions.modularity)  
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)  
