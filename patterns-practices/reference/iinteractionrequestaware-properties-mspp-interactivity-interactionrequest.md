@@ -12,8 +12,6 @@ The [IInteractionRequestAware](/patterns-practices/reference/iinteractionrequest
 
 ## Properties
 
-The [IInteractionRequestAware](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest) type exposes the following members.
-
 <table>
 <thead>
 <tr class="header">
