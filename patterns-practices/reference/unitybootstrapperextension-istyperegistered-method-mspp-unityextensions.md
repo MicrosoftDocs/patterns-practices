@@ -31,17 +31,17 @@ Public Shared Function IsTypeRegistered (
 ### Parameters
 
 *container*  
-Type: IUnityContainer   
-The container to check if the type was registered in.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IUnityContainer   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The container to check if the type was registered in.
 
 *type*  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
-The type to check if it was registered.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type to check if it was registered.
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)   
-trueTruetruetrue (True in Visual Basic) if the type was registered with the container.
+**truetrue** (**True** in Visual Basic) if the type was registered with the container.
 
 ## Remarks
 
