@@ -24,8 +24,7 @@ public CommandBehaviorBase(
 ### Parameters
 
 *targetObject*  
-Type: [T](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)
-
+Type: [T](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)  
 The target object the behavior is attached to.
 
 ## See Also
@@ -54,8 +53,7 @@ Public Sub New (
 ### Parameters
 
 *targetObject*  
-Type: [T](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)
-
+Type: [T](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)  
 The target object the behavior is attached to.
 
 ## See Also

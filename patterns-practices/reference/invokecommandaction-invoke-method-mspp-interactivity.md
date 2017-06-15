@@ -30,8 +30,7 @@ Protected Overrides Sub Invoke (
 ### Parameters
 
 *parameter*  
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 This parameter is passed to the command; the CommandParameter specified in the CommandParameterProperty is used for command invocation if not null.
 
 ## See Also

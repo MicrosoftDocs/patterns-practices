@@ -24,9 +24,8 @@ Gets the referenced [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)  
 A [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) instance if the target is valid; otherwise **null**a null reference (**Nothing** in Visual Basic).
 
-
 ```VB
-   'Declaration
+'Declaration
 ReadOnly Property Target As Delegate
 	Get
 ```

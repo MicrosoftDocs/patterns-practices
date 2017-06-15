@@ -39,6 +39,6 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [Subs
 
 ## See Also
 
-[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents(v=pandp.50))  
+[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 SubscriptionToken Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

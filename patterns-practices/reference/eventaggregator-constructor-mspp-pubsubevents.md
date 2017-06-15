@@ -14,6 +14,7 @@ Initializes a new instance of the [EventAggregator](/patterns-practices/referenc
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```C#
 public EventAggregator()
 ```
@@ -25,6 +26,5 @@ Public Sub New
 ## See Also
 
 [EventAggregator Class](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)  
-EventAggregator Members
-
+EventAggregator Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

@@ -175,7 +175,7 @@ Gets a collection of [CommandBinding](http://msdn.microsoft.com/en-us/library/ms
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Confirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow.confirmation)</td>
 <td><div class="summary">
-Sets or gets the [IConfirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation) shown by this window./&gt;
+Sets or gets the [IConfirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation) shown by this window.
 </div></td>
 </tr>
 <tr class="even">
@@ -262,7 +262,7 @@ Gets the size that this element computed during the measure pass of the layout p
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[DialogResult](http://msdn.microsoft.com/en-us/library/ms588776)</td>
 <td><div class="summary">
-Gets or sets the dialog result value, which is the value that is returned from the [ShowDialog()()()](http://msdn.microsoft.com/en-us/library/ms599715) method.
+Gets or sets the dialog result value, which is the value that is returned from the [ShowDialog](http://msdn.microsoft.com/en-us/library/ms599715) method.
 </div>
 (Inherited from [Window](http://msdn.microsoft.com/en-us/library/ms590112).)</td>
 </tr>
@@ -350,7 +350,7 @@ Gets or sets the weight or thickness of the specified font.
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[ForceCursor](http://msdn.microsoft.com/en-us/library/ms600879)</td>
 <td><div class="summary">
-Gets or sets a value that indicates whether this [Cursor](http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a> should force the user interface (UI) to render the cursor as declared by the [Cursor](http://msdn.microsoft.com/en-us/library/ms600874) property.
+Gets or sets a value that indicates whether this [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)should force the user interface (UI) to render the cursor as declared by the [Cursor](http://msdn.microsoft.com/en-us/library/ms600874) property.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -502,7 +502,7 @@ Gets or sets a value that declares whether this element can possibly be returned
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsInitialized](http://msdn.microsoft.com/en-us/library/ms600884)</td>
 <td><div class="summary">
-Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its [EndInit()()()](http://msdn.microsoft.com/en-us/library/ms598118) method called.
+Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its [EndInit](http://msdn.microsoft.com/en-us/library/ms598118) method called.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -1057,7 +1057,7 @@ Gets or sets the [BitmapEffectInput](http://msdn.microsoft.com/en-us/library/ms6
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>[VisualBitmapScalingMode](http://msdn.microsoft.com/en-us/library/aa347237)</td>
 <td><div class="summary">
-Gets or sets the [BitmapScalingMode](http://msdn.microsoft.com/en-us/library/aa347304) for the [Visual}(http://msdn.microsoft.com/en-us/library/ms635637).
+Gets or sets the [BitmapScalingMode](http://msdn.microsoft.com/en-us/library/aa347304) for the [Visual](http://msdn.microsoft.com/en-us/library/ms635637).
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>

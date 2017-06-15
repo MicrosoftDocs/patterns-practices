@@ -16,7 +16,7 @@ Factory method to create a new instance of [DelegateCommand&lt;T&gt;](/patterns-
 ## Syntax
 
 ```C#
-    public static DelegateCommand<T> FromAsyncHandler(
+public static DelegateCommand<T> FromAsyncHandler(
 	Func<T, Task> executeMethod
 )
 ```
@@ -52,7 +52,7 @@ Factory method to create a new instance of [DelegateCommand(Of T)](/patterns-pra
 ## Syntax
 
 ```VB
-    'Declaration
+'Declaration
 Public Shared Function FromAsyncHandler ( 
 	executeMethod As Func(Of T, Task)
 ) As DelegateCommand(Of T)

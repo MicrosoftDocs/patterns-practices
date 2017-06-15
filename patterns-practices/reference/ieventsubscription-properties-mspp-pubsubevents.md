@@ -7,7 +7,7 @@ ms:mtpsurl: 'ieventsubscription-properties-mspp-pubsubevents.md'
 
 # IEventSubscription Properties
 
-The [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription) type exposes the following members.
+The [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents) type exposes the following members.
 
 ## Properties
 

@@ -46,5 +46,5 @@ Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 ## See Also
 
 [DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)  
-DelegateReference Members
+DelegateReference Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
