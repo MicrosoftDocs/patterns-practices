@@ -94,7 +94,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[ForwardValues](/patterns-practices/reference/moduleinfogroup-forwardvalues-method-mspp-modularity)</td>
 <td><div class="summary">
-Forwards [InitializationMode](/patterns-practices/reference/moduleinfogroup-initializationmode-property-mspp-modularity) and [Ref](/patterns-practices/reference/moduleinfogroup-ref-property-mspp-modularity) properties from this [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) to moduleInfo.
+Forwards [InitializationMode](/patterns-practices/reference/moduleinfogroup-initializationmode-property-mspp-modularity) and [Ref](/patterns-practices/reference/moduleinfogroup-ref-property-mspp-modularity) properties from this [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) to *moduleInfo*.
 </div></td>
 </tr>
 <tr class="even">
@@ -131,14 +131,14 @@ Determines the index of a specific item in the [ModuleInfoGroup](/patterns-pract
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[IndexOf(ModuleInfo)](/patterns-practices/reference/moduleinfogroup-indexof-method-mspp-modularity)</td>
 <td><div class="summary">
-Determines the index of a specific item in the [IList&lt;T&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6).
+Determines the index of a specific item in the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6).
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Insert(Int32, ModuleInfo)](/patterns-practices/reference/moduleinfogroup-insert-method-mspp-modularity)</td>
 <td><div class="summary">
-Inserts an item to the [IList&lt;T&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6) at the specified index.
+Inserts an item to the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6) at the specified index.
 </div></td>
 </tr>
 <tr class="even">
@@ -167,7 +167,7 @@ Removes the first occurrence of a specific object from the [ModuleInfoGroup](/pa
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[RemoveAt](/patterns-practices/reference/moduleinfogroup-removeat-method-mspp-modularity)</td>
 <td><div class="summary">
-Removes the [IList&lt;T&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6) item at the specified index.
+Removes the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6) item at the specified index.
 </div></td>
 </tr>
 <tr class="even">
@@ -196,7 +196,7 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[AddModule(Type, array&lt;String&gt;)](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)</td>
+<td>[AddModule(Type, String())](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)</td>
 <td>Overloaded.
 <div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
@@ -205,7 +205,7 @@ Adds a new module that is statically referenced to the specified module info gro
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[AddModule(String, Type, array&lt;String&gt;)](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)</td>
+<td>[AddModule(String, Type, String())](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)</td>
 <td>Overloaded.
 <div class="summary">
 Adds a new module that is statically referenced to the specified module info group.

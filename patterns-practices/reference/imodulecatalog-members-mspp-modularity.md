@@ -33,14 +33,14 @@ Adds a [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modulari
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[CompleteListWithDependencies](/patterns-practices/reference/imodulecatalog-completelistwithdependencies-method-mspp-modularity)</td>
 <td><div class="summary">
-Returns the collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in modules, but also all the modules they depend on.
+Returns the collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in *modules*, but also all the modules they depend on.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetDependentModules](/patterns-practices/reference/imodulecatalog-getdependentmodules-method-mspp-modularity)</td>
 <td><div class="summary">
-Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that moduleInfo depends on.
+Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that *moduleInfo* depends on.
 </div></td>
 </tr>
 <tr class="even">

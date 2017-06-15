@@ -25,7 +25,7 @@ The [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduled
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleDependencyConfigurationElement()</td>
+<td>ModuleDependencyConfigurationElement</td>
 <td><div class="summary">
 Initializes a new instance of [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity).
 </div></td>
@@ -209,7 +209,7 @@ Resets the internal state of the [ConfigurationElement](http://msdn.microsoft.co
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[ResetModified](http://msdn.microsoft.com/en-us/library/47ezy87t)</td>
 <td><div class="summary">
-Resets the value of the [IsModified()()()](http://msdn.microsoft.com/en-us/library/cc19b3s9) method to false when implemented in a derived class.
+Resets the value of the [IsModified](http://msdn.microsoft.com/en-us/library/cc19b3s9) method to false when implemented in a derived class.
 </div>
 (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
@@ -241,7 +241,7 @@ Sets a property to the specified value.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[SetReadOnly](http://msdn.microsoft.com/en-us/library/ms134139)</td>
 <td><div class="summary">
-Sets the [IsReadOnly()()()](http://msdn.microsoft.com/en-us/library/ms134129) property for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object and all subelements.
+Sets the [IsReadOnly](http://msdn.microsoft.com/en-us/library/ms134129) property for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object and all subelements.
 </div>
 (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
