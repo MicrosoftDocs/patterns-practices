@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IAssemblyResolver'
 ms:mtpsurl: 'iassemblyresolver-methods-mspp-modularity.md'
 ---
 
-
 # IAssemblyResolver Methods
 
 The [IAssemblyResolver](/patterns-practices/reference/iassemblyresolver-interface-mspp-modularity) type exposes the following members.
@@ -13,7 +12,6 @@ The [IAssemblyResolver](/patterns-practices/reference/iassemblyresolver-interfac
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
