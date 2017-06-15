@@ -4,7 +4,8 @@ Title: 'BackgroundEventSubscription(TPayload) Methods (Microsoft.Practices.Prism
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1'
 ms:mtpsurl: 'backgroundeventsubscription-tpayload-methods-mspp-pubsubevents.md'
 ---
-
+
+
 # BackgroundEventSubscription&lt;TPayload&gt; Methods
 
 The [BackgroundEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents) type exposes the following members.
@@ -39,11 +40,12 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetExecutionStrategy](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.getexecutionstrategy)</td>
+<td>[GetExecutionStrategy](/patterns-practices/reference/eventsubscription-tpayload-getexecutionstrategy-method-mspp-pubsubevents)</td>
 <td><div class="summary">
 Gets the execution strategy to publish this event.
 </div>
-(Inherited from [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601).)</td>
+(Inherited from [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents).)
+</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -63,11 +65,13 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[InvokeAction](/patterns-practices/reference/mspp-mvvm-namespace.backgroundeventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600))</td>
+<td>[InvokeAction](/patterns-practices/reference/backgroundeventsubscription-tpayload-invokeaction-method-mspp-pubsubevents)</td>
 <td><div class="summary">
-Invokes the specified [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) in an asynchronous thread by using a [ThreadPool](http://msdn.microsoft.com/en-us/library/y5htx827).
+Invokes the specified [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) in an asynchronous thread by using a [ThreadPool](http://msdn.microsoft.com/en-us/library/y5htx827).
 </div>
-(Overrides [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)..::.InvokeAction(Action&lt;(Of &lt;(TPayload&gt;)&gt;), TPayload)](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)).)</td>
+(Overrides [EventSubscription&lt;TPayload&gt;.InvokeAction(Action&lt;TPayload&gt;, TPayload).](/patterns-practices/reference/eventsubscription-tpayload-invokeaction-method-mspp-pubsubevents
+))
+</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -89,5 +93,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[BackgroundEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)  
+
+[BackgroundEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
