@@ -27,7 +27,7 @@ The [IRegionNavigationContentLoader](/patterns-practices/reference/iregionnaviga
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[LoadContent](/patterns-practices/reference/iregionnavigationcontentloader-loadcontent-method-mspp-regions)</a></td>
 <td><div class="summary">
-Gets the content to which the navigation request represented by navigationContext applies.
+Gets the content to which the navigation request represented by <em>navigationContext</em> applies.
 </div></td>
 </tr>
 </tbody>
