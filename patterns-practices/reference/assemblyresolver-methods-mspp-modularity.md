@@ -4,16 +4,14 @@ Title: 'AssemblyResolver Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.AssemblyResolver'
 ms:mtpsurl: 'assemblyresolver-methods-mspp-modularity.md'
 ---
-
+
 # AssemblyResolver Methods
 
-The [AssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver) type exposes the following members.
+The [AssemblyResolver](/patterns-practices/reference/assemblyresolver-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,16 +22,16 @@ The [AssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Dispose()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver.dispose)</td>
+<td>[Dispose()()()](/patterns-practices/reference/assemblyresolver-dispose-method-mspp-modularity)</td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[Dispose(Boolean)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver.dispose(system.boolean))</td>
+<td>[Dispose(Boolean)](/patterns-practices/reference/assemblyresolver-dispose-method-boolean-mspp-modularity)</td>
 <td><div class="summary">
-Disposes the associated [AssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver).
+Disposes the associated [AssemblyResolver](/patterns-practices/reference/assemblyresolver-class-mspp-modularity).
 </div></td>
 </tr>
 <tr class="odd">
@@ -70,7 +68,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[LoadAssemblyFrom](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver.loadassemblyfrom(system.string))</td>
+<td>[LoadAssemblyFrom](/patterns-practices/reference/assemblyresolver-loadassemblyfrom-method-mspp-modularity)</td>
 <td><div class="summary">
 Registers the specified assembly and resolves the types in it when the AppDomain requests for it.
 </div></td>
@@ -95,5 +93,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)  
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  
+
+[AssemblyResolver Class](/patterns-practices/reference/assemblyresolver-class-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
