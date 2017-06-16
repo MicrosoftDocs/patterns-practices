@@ -48,6 +48,7 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | Thrown if _region_ or _regionCollection_ is **null**a null reference (**Nothing** in Visual Basic)..                                                                                                                      |
 | [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)     | Thrown if _regionName_ and _region_'s name do not match and the _region_[Name](/patterns-practices/reference/iregion-name-property-mspp-regions) is not **null**a null reference (**Nothing** in Visual Basic). |
 
+
 ```VB
 'Declaration
 <ExtensionAttribute> 
