@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionManager(
 ms:mtpsurl: 'regionmanager-setregionmanager-method-mspp-regions.md'
 ---
 
-
 # RegionManager.SetRegionManager Method
 
 Sets the [RegionManagerProperty](/patterns-practices/reference/regionmanager-regionmanagerproperty-field-mspp-regions) attached property.
@@ -32,16 +31,12 @@ Public Shared Sub SetRegionManager (
 
 ### Parameters
 
-*target*
-
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
-
+*target*  
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
 The target element.
 
-*value*
-
-Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
-
+*value*  
+Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The value.
 
 ## See Also

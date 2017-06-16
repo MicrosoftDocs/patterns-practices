@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.Request
 ms:mtpsurl: 'regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions.md'
 ---
 
-
 # RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, String)
 
 Navigates the specified region manager.
