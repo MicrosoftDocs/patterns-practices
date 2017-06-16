@@ -35,8 +35,7 @@ Public Shared Sub SetRegionContext (
 Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
 The target element.
 
-*value*
-
+*value*  
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The value.
 
