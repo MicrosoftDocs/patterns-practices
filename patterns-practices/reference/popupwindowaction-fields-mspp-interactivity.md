@@ -13,7 +13,7 @@ The [PopupWindowAction](/patterns-practices/reference/mspp-interactivity-namespa
 
 <table>
 <colgroup>
-<col width="150">
+<col width="100">
 <col>
 <col>
 </colgroup>
