@@ -28,8 +28,7 @@ Public Property IsActive As Boolean
 
 ### Property Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **Truetrue** (**True** in Visual Basic) if the object is active; otherwise **Falsefalse** (**False** in Visual Basic).
 
 ### Implements
