@@ -12,7 +12,6 @@ The [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp
 ## Properties
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

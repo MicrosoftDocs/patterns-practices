@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAt
 ms:mtpsurl: 'moduleexportattribute-initializationmode-property-mspp-mefextensions-modularity.md'
 ---
 
-
 # ModuleExportAttribute.InitializationMode Property
 
 Gets or sets when the module should have Initialize() called.
@@ -19,6 +18,7 @@ Gets or sets when the module should have Initialize() called.
 ```C#
 public InitializationMode InitializationMode { get; set; }
 ```
+
 ```VB
 'Declaration
 Public Property InitializationMode As InitializationMode
@@ -29,6 +29,7 @@ Public Property InitializationMode As InitializationMode
 ### Property Value
 
 Type: [InitializationMode](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity)
+
 ### Implements
 
 [IModuleExport.InitializationMode](/patterns-practices/reference/imoduleexport-initializationmode-property-mspp-mefextensions-modularity)

@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
 ms:mtpsurl: 'iregioncollection-properties-mspp-regions.md'
 ---
 
-
 # IRegionCollection Properties
 
 The [IRegionCollection](/patterns-practices/reference/iregioncollection-interface-mspp-regions) type exposes the following members.
@@ -13,7 +12,6 @@ The [IRegionCollection](/patterns-practices/reference/iregioncollection-interfac
 ## Properties
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -33,12 +31,6 @@ Gets the IRegion with the name received as index.
 </table>
 
 ## See Also
-<<<<<<< HEAD
 
-[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)
-
+[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-=======
-[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
->>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

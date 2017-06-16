@@ -24,6 +24,7 @@ InitializationMode InitializationMode { get; }
 ReadOnly Property InitializationMode As InitializationMode
 	Get
 ```
+
 ### Property Value
 
 Type: [InitializationMode](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity)  
