@@ -4,13 +4,12 @@ Title: 'IModuleTypeLoader Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader'
 ms:mtpsurl: 'imoduletypeloader-events-mspp-modularity.md'
 ---
-
+
 # IModuleTypeLoader Events
 
-The [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader) type exposes the following members.
+The [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity) type exposes the following members.
 
 ## Events
-
 
 <table>
 
@@ -24,14 +23,14 @@ The [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.p
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[LoadModuleCompleted](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmodulecompleted)</td>
+<td>[LoadModuleCompleted](/patterns-practices/reference/imoduletypeloader-loadmodulecompleted-event-mspp-modularity)</td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[ModuleDownloadProgressChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.moduledownloadprogresschanged)</td>
+<td>[ModuleDownloadProgressChanged](/patterns-practices/reference/imoduletypeloader-moduledownloadprogresschanged-event-mspp-modularity)</td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are downloaded in the background.
 </div></td>
@@ -40,5 +39,6 @@ Raised repeatedly to provide progress as modules are downloaded in the backgroun
 </table>
 
 ## See Also
-[IModuleTypeLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)  
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  
+
+[IModuleTypeLoader Interface](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

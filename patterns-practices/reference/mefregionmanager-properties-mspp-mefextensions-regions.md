@@ -17,7 +17,6 @@ The [MefRegionManager](/patterns-practices/reference/mefregionmanager-class-mspp
 <col width="40%" />
 <col width="40%" />
 </colgroup>
-
 <tbody>
 <tr>
 <th>
@@ -27,12 +26,9 @@ The [MefRegionManager](/patterns-practices/reference/mefregionmanager-class-mspp
 <th>Description</th>
 </tr>
 <tr>
-<td>
-
-![Public property](/patterns-practices/reference/images/pubproperty.gif)
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
-<td>
-[Regions](/patterns-practices/reference/regionmanager-regions-property-mspp-regions)
+<td>[Regions](/patterns-practices/reference/regionmanager-regions-property-mspp-regions)
 </td>
 <td>
 <div>

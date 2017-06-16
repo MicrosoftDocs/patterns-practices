@@ -8,7 +8,7 @@ ms:mtpsurl: 'observableobject-t-properties-mspp.md'
 
 # ObservableObject&lt;T&gt; Properties
 
-The [ObservableObject&lt;T&gt;](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) type exposes the following members.
+The [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) type exposes the following members.
 
 ## Properties
 
@@ -332,7 +332,7 @@ Gets or sets a value that declares whether this element can possibly be returned
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsInitialized](http://msdn.microsoft.com/en-us/library/ms600884)</td>
 <td><div class="summary">
-Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its [EndInit()()()](http://msdn.microsoft.com/en-us/library/ms598118) method called.
+Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its [EndInit()](http://msdn.microsoft.com/en-us/library/ms598118) method called.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -902,12 +902,6 @@ Gets or sets the width of the element.
 </table>
 
 ## See Also
-<<<<<<< HEAD
 
-[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
-=======
-[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)  
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  
->>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

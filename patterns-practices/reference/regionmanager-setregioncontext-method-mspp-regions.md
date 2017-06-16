@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionContext(
 ms:mtpsurl: 'regionmanager-setregioncontext-method-mspp-regions.md'
 ---
 
-
 # RegionManager.SetRegionContext Method
 
 Sets the [RegionContextProperty](/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions) attached property.
@@ -32,16 +31,13 @@ Public Shared Sub SetRegionContext (
 
 ### Parameters
 
-*target*
-
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
-
+*target*  
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
 The target element.
 
 *value*
 
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The value.
 
 ## See Also

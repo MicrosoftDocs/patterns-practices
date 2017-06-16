@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.GetRegionManager(
 ms:mtpsurl: 'regionmanager-getregionmanager-method-mspp-regions.md'
 ---
 
-
 # RegionManager.GetRegionManager Method
 
 Gets the value of the [RegionNameProperty](/patterns-practices/reference/regionmanager-regionnameproperty-field-mspp-regions) attached property.
@@ -30,17 +29,14 @@ Public Shared Function GetRegionManager (
 
 ### Parameters
 
-*target*
-
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
-
-The target element.
+*target*  
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
+The target element.  
 
 ### Return Value
 
-Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
-
-The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) attached to the *target* element.
+Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
+The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) attached to the *target* element.  
 
 ## See Also
 

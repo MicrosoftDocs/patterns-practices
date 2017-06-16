@@ -35,7 +35,6 @@ The candidate navigation target as determined by [GetContractFromNavigationConte
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;  
 An enumerable of candidate objects from the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
-
 ```VB
 'Declaration
 Protected Overridable Function GetCandidatesFromRegion ( 

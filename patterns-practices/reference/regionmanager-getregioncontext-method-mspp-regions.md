@@ -4,6 +4,7 @@ Title: 'RegionManager.GetRegionContext Method (Microsoft.Practices.Prism.Regions
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.GetRegionContext(System.Windows.DependencyObject)'
 ms:mtpsurl: 'regionmanager-getregioncontext-method-mspp-regions.md'
 ---
+
 # RegionManager.GetRegionContext Method
 
 Gets the value of the [RegionContextProperty](/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions) attached property.
@@ -13,6 +14,7 @@ Gets the value of the [RegionContextProperty](/patterns-practices/reference/regi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public static Object GetRegionContext(
 	DependencyObject target
@@ -42,4 +44,3 @@ The region context to pass to the contained views.
 [RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)  
 [RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
-

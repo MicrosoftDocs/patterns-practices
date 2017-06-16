@@ -52,7 +52,7 @@ Clears the errors for a property.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ClearErrors(TProperty)(Expression&lt;Func&lt;TProperty&gt;&gt;)](/patterns-practices/reference/errorscontainer-t-clearerrors-tproperty-method-expression-func-tproperty-mspp-viewmodel)/td>
+<td>[ClearErrors(TProperty)(Expression&lt;Func&lt;TProperty&gt;&gt;)](/patterns-practices/reference/errorscontainer-t-clearerrors-tproperty-method-expression-func-tproperty-mspp-viewmodel)</td>
 <td><div class="summary">
 Clears the errors for the property indicated by the property expression.
 </div></td>

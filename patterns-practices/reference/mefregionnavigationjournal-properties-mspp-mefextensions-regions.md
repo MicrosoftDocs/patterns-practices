@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefReg
 ms:mtpsurl: 'mefregionnavigationjournal-properties-mspp-mefextensions-regions.md'
 ---
 
-
 # MefRegionNavigationJournal Properties
 
 The [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions) type exposes the following members.
@@ -13,7 +12,6 @@ The [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigati
 ## Properties
  
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

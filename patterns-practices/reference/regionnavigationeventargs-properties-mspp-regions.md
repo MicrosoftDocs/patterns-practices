@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationEven
 ms:mtpsurl: 'regionnavigationeventargs-properties-mspp-regions.md'
 ---
 
-
 # RegionNavigationEventArgs Properties
 
 The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

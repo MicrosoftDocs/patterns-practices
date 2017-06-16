@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.CreateShell'
 ms:mtpsurl: 'bootstrapper-createshell-method-mspp.md'
 ---
 
-
 # Bootstrapper.CreateShell Method
 
 Creates the shell or main window of the application.
@@ -19,7 +18,6 @@ Creates the shell or main window of the application.
 ```C#
 protected abstract DependencyObject CreateShell()
 ``` 
-
 ```VB
 'Declaration
 Protected MustOverride Function CreateShell As DependencyObject

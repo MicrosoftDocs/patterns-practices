@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ItemsControlRegionAd
 ms:mtpsurl: 'itemscontrolregionadapter-properties-mspp-regions.md'
 ---
 
-
 # ItemsControlRegionAdapter Properties
 
 The [ItemsControlRegionAdapter](/patterns-practices/reference/itemscontrolregionadapter-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

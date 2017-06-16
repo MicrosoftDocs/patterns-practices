@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ViewSortHintAttribut
 ms:mtpsurl: 'viewsorthintattribute-properties-mspp-regions.md'
 ---
 
-
 # ViewSortHintAttribute Properties
 
 The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions) type exposes the following members.
@@ -41,12 +40,6 @@ When implemented in a derived class, gets a unique identifier for this [Attribut
 </table>
 
 ## See Also
-<<<<<<< HEAD
 
-[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)
-
+[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-=======
-[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
->>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.NavigationContext'
 ms:mtpsurl: 'navigationcontext-properties-mspp-regions.md'
 ---
 
-
 # NavigationContext Properties
 
 The [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
