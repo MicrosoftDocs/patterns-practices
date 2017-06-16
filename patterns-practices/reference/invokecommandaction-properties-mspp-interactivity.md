@@ -42,14 +42,14 @@ Gets a value that indicates whether the object can be made unmodifiable.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Command](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.command)</td>
+<td>[Command](/patterns-practices/reference/invokecommandaction-command-property-mspp-interactivity)</td>
 <td><div class="summary">
 Gets or sets the command to execute when invoked.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CommandParameter](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameter)</td>
+<td>[CommandParameter](/patterns-practices/reference/invokecommandaction-commandparameter-property-mspp-interactivity)</td>
 <td><div class="summary">
 Gets or sets the command parameter to supply on command execution.
 </div></td>
@@ -101,7 +101,7 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[TriggerParameterPath](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpath)</td>
+<td>[TriggerParameterPath](/patterns-practices/reference/invokecommandaction-triggerparameterpath-property-mspp-interactivity)</td>
 <td><div class="summary">
 Gets or sets the TriggerParameterPath value.
 </div></td>

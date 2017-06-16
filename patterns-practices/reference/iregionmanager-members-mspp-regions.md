@@ -145,7 +145,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, Uri, Action&lt;NavigationResult&gt;), NavigationParameters)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions
+<td>[RequestNavigate(String, Uri, Action&lt;NavigationResult&gt;, NavigationParameters)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions
 )</td>
 <td>Overloaded.
 <div class="summary">

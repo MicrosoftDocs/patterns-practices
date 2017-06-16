@@ -13,7 +13,6 @@ The [EventAggregator](/patterns-practices/reference/eventaggregator-class-mspp-p
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -40,7 +39,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEvent(Of TEventType)](//patterns-practices/reference/eventaggregator-getevent-teventtype-method-mspp-pubsubevents)</td>
+<td>[GetEvent(Of TEventType)](/patterns-practices/reference/eventaggregator-getevent-teventtype-method-mspp-pubsubevents)</td>
 <td><div class="summary">
 Gets the single instance of the event managed by this EventAggregator. Multiple calls to this method with the same TEventType returns the same event instance.
 </div></td>
