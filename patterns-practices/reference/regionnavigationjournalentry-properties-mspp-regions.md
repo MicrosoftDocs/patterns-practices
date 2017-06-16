@@ -12,7 +12,6 @@ The [RegionNavigationJournalEntry](/patterns-practices/reference/regionnavigatio
 ## Properties
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
