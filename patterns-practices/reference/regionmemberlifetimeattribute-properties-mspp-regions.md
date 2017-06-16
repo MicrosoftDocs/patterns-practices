@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionMemberLifetime
 ms:mtpsurl: 'regionmemberlifetimeattribute-properties-mspp-regions.md'
 ---
 
-
 # RegionMemberLifetimeAttribute Properties
 
 The [RegionMemberLifetimeAttribute](/patterns-practices/reference/regionmemberlifetimeattribute-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
