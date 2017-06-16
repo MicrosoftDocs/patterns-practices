@@ -28,7 +28,8 @@ Protected Property Logger As ILoggerFacade
 
 ### Property Value
 
-Type: [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)  
+Type: [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)
+
 A [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) instance.
 
 ## See Also
