@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationFail
 ms:mtpsurl: 'regionnavigationfailedeventargs-properties-mspp-regions.md'
 ---
 
-
 # RegionNavigationFailedEventArgs Properties
 
 The [RegionNavigationFailedEventArgs](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

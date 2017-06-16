@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1
 ms:mtpsurl: 'regionadapterbase-t-properties-mspp-regions.md'
 ---
 
-
 # RegionAdapterBase&lt;T&gt; Properties
 
 The [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions) type exposes the following members.
@@ -13,7 +12,6 @@ The [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase
 ## Properties
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
