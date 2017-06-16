@@ -16,12 +16,13 @@ Checks if a property already matches a desired value. Sets the property and noti
 ## Syntax
 
 ```C#
-    protected virtual bool SetProperty<T>(
+protected virtual bool SetProperty<T>(
 	ref T storage,
 	T value,
 	string propertyName = null
 )
 ```
+
 ### Parameters
 
 *storage*  
@@ -58,13 +59,14 @@ Checks if a property already matches a desired value. Sets the property and noti
 ## Syntax
 
 ```VB
-    'Declaration
+'Declaration
 Protected Overridable Function SetProperty(Of T) ( 
 	ByRef storage As T,
 	value As T,
 	Optional propertyName As String = Nothing
 ) As Boolean
 ```
+
 ### Parameters
 
 *storage*  

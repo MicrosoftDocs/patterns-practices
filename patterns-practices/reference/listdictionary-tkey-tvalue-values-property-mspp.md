@@ -21,7 +21,7 @@ public IList<TValue> Values { get; }
 
 ### Property Value
 
-Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)&lt;[TValue](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)&gt;  
+Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)&lt;[TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)&gt;  
 List of values.
 
 ## See Also
@@ -30,7 +30,7 @@ List of values.
 [ListDictionary&lt;TKey, TValue&gt; Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  
 
-# ListDictionary&lt;TKey, TValue&gt;.Values Property
+# ListDictionary(Of TKey, TValue).Values Property
 
 Gets a shallow copy of all values in all lists.
 
@@ -48,7 +48,7 @@ Public ReadOnly Property Values As IList(Of TValue)
 
 ### Property Value
 
-Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)(Of [TValue](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602))  
+Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)(Of [TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp))  
 List of values.
 
 ## See Also

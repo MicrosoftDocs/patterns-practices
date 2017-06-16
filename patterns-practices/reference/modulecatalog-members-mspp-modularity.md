@@ -105,7 +105,7 @@ Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-msp
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[CompleteListWithDependencies](/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity)</td>
 <td><div class="summary">
-Returns a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in modules, but also all the modules they depend on.
+Returns a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in *modules*, but also all the modules they depend on.
 </div></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetDependentModules](/patterns-practices/reference/modulecatalog-getdependentmodules-method-mspp-modularity)</td>
 <td><div class="summary">
-Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that moduleInfo depends on.
+Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that *moduleInfo* depends on.
 </div></td>
 </tr>
 <tr class="odd">
@@ -244,7 +244,7 @@ Ensures that there are no dependencies between modules on different groups.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[ValidateDependencies](/patterns-practices/reference/modulecatalog-validatedependencies-method-mspp-modularity)</td>
 <td><div class="summary">
-Ensures that all the dependencies within modules refer to [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s within that list.
+Ensures that all the dependencies within *modules* refer to [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s within that list.
 </div></td>
 </tr>
 <tr class="even">
@@ -302,7 +302,7 @@ Gets the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-m
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Items](/patterns-practices/reference/modulecatalog-items-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets the items in the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog). This property is mainly used to add [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)s or [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s through XAML.
+Gets the items in the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity). This property is mainly used to add [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)s or [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s through XAML.
 </div></td>
 </tr>
 <tr class="even">
@@ -325,4 +325,4 @@ Gets or sets a value that remembers whether the [ModuleCatalog](/patterns-practi
 ## See Also
 
 [ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

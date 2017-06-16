@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionMemberLifetim
 ms:mtpsurl: 'iregionmemberlifetime-properties-mspp-regions.md'
 ---
 
-
 # IRegionMemberLifetime Properties
 
 The [IRegionMemberLifetime](/patterns-practices/reference/iregionmemberlifetime-interface-mspp-regions) type exposes the following members.
@@ -13,7 +12,6 @@ The [IRegionMemberLifetime](/patterns-practices/reference/iregionmemberlifetime-
 ## Properties
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

@@ -11,7 +11,7 @@ The behavior key.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
-**Version:** 5.0.0.0 (5.0.0.0)
+**Version:** 5.0.0.0 (5.0.0.0)  
 
 ## Syntax
 

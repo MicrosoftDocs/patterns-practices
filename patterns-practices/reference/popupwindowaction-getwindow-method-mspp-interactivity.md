@@ -30,8 +30,7 @@ Protected Overridable Function GetWindow (
 ### Parameters
 
 *notification*  
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest)
-
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest)  
 The notification to be set as a DataContext in the window.
 
 ### Return Value

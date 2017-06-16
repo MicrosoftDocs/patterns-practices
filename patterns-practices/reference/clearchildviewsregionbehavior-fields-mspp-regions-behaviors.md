@@ -7,13 +7,11 @@ ms:mtpsurl: 'clearchildviewsregionbehavior-fields-mspp-regions-behaviors.md'
 
 # ClearChildViewsRegionBehavior Fields
 
-The [ClearChildViewsRegionBehavior](/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior) type exposes the following members.
+The [ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Fields
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,14 +22,14 @@ The [ClearChildViewsRegionBehavior](/patterns-practices/reference/mspp-regions-n
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[BehaviorKey](/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior.behaviorkey)</td>
+<td>[BehaviorKey](/patterns-practices/reference/clearchildviewsregionbehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 The behavior key.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[ClearChildViewsProperty](/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior.clearchildviewsproperty)</td>
+<td>[ClearChildViewsProperty](/patterns-practices/reference/clearchildviewsregionbehavior-clearchildviewsproperty-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 This attached property can be defined on a view to indicate that regions defined in it must be removed from the region manager when the parent view gets removed from a region.
 </div></td>
@@ -41,5 +39,5 @@ This attached property can be defined on a view to indicate that regions defined
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior)  
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-namespace.behaviors)
+[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)  

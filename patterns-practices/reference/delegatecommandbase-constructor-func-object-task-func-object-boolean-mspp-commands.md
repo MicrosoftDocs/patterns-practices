@@ -41,8 +41,7 @@ The [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) t
 
 [DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
 [DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)  
-DelegateCommandBase Overload
-
+DelegateCommandBase Overload  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  
 
 
@@ -82,6 +81,5 @@ The [Func(Of T, TResult)](http://msdn.microsoft.com/en-us/library/bb549151) to i
 
 [DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
 [DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)  
-DelegateCommandBase Overload
-
+DelegateCommandBase Overload  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  

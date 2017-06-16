@@ -30,10 +30,8 @@ Property Parameters As NavigationParameters
 
 Type: [NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)
 
-See Also
+## See Also
 
-[IRegionNavigationJournalEntry Interface](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)
-
-[IRegionNavigationJournalEntry Members](/patterns-practices/reference/iregionnavigationjournalentry-members-mspp-regions)
-
+[IRegionNavigationJournalEntry Interface](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)  
+[IRegionNavigationJournalEntry Members](/patterns-practices/reference/iregionnavigationjournalentry-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

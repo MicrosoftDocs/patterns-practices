@@ -27,7 +27,7 @@ The [IModuleManager](/patterns-practices/reference/imodulemanager-interface-mspp
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[LoadModule](/patterns-practices/reference/imodulemanager-loadmodule-method-mspp-modularity)</td>
 <td><div class="summary">
-Loads and initializes the module on the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) with the name moduleName.
+Loads and initializes the module on the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) with the name *moduleName*.
 </div></td>
 </tr>
 <tr class="even">

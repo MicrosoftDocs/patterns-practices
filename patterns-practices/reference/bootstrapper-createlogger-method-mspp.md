@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.CreateLogger'
 ms:mtpsurl: 'bootstrapper-createlogger-method-mspp.md'
 ---
 
-
 # Bootstrapper.CreateLogger Method
 
 Create the [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) used by the bootstrapper.
@@ -19,7 +18,6 @@ Create the [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface
 ```C#
 protected virtual ILoggerFacade CreateLogger()
 ```
-
 ```VB
 'Declaration
 Protected Overridable Function CreateLogger As ILoggerFacade

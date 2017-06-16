@@ -16,7 +16,7 @@ Invokes the handlers
 ## Syntax
 
 ```C#
-    public static void CallWeakReferenceHandlers(
+public static void CallWeakReferenceHandlers(
 	Object sender,
 	List<WeakReference> handlers
 )
@@ -33,7 +33,7 @@ Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/
 ## Syntax
 
 ```VB
-    'Declaration
+'Declaration
 Public Shared Sub CallWeakReferenceHandlers ( 
 	sender As Object,
 	handlers As List(Of WeakReference)

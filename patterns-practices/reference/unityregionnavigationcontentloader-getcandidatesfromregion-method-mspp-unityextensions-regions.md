@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavi
 ms:mtpsurl: 'unityregionnavigationcontentloader-getcandidatesfromregion-method-mspp-unityextensions-regions.md'
 ---
 
-
 # UnityRegionNavigationContentLoader.GetCandidatesFromRegion Method
 
 Returns the set of candidates that may satisfiy this navigation request.
@@ -26,19 +25,16 @@ protected override IEnumerable<Object> GetCandidatesFromRegion(
 ### Parameters
 
 *region*  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The region containing items that may satisfy the navigation request.
 
 *candidateNavigationContract*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The candidate navigation target.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
-
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;  
 An enumerable of candidate objects from the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
 ## Syntax
@@ -54,19 +50,16 @@ Protected Overrides Function GetCandidatesFromRegion (
 ### Parameters
 
 *region*  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The region containing items that may satisfy the navigation request.
 
 *candidateNavigationContract*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The candidate navigation target.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
-
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))  
 An enumerable of candidate objects from the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
 ## See Also

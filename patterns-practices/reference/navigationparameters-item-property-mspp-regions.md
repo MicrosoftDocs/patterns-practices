@@ -9,7 +9,7 @@ ms:mtpsurl: 'navigationparameters-item-property-mspp-regions.md'
 
 Gets the [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) with the specified key.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -28,8 +28,7 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ### Return Value
 
-Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The value for the specified key, or **null**a null reference (**Nothing** in Visual Basic) if the query does not contain such a key.
 
 ```VB
@@ -47,12 +46,11 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ### Return Value
 
-Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The value for the specified key, or **Nothing**a null reference (**Nothing** in Visual Basic) if the query does not contain such a key.
 
 ## See Also
 
 [NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 [NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

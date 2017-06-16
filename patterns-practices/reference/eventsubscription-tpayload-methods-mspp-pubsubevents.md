@@ -103,6 +103,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)
-
+[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)

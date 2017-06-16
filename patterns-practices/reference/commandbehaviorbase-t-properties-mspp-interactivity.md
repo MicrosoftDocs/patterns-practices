@@ -27,21 +27,21 @@ The [CommandBehaviorBase&lt;T&gt;](/patterns-practices/reference/commandbehavior
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Command](https://msdn.microsoft.com/en-us/library/dn736180(v=pandp.50))</td>
+<td>[Command](/patterns-practices/reference/commandbehaviorbase-t-command-property-mspp-interactivity)</td>
 <td><div class="summary">
 Corresponding command to be execute and monitored for [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106)
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CommandParameter](https://msdn.microsoft.com/en-us/library/dn683970(v=pandp.50))</td>
+<td>[CommandParameter](/patterns-practices/reference/commandbehaviorbase-t-commandparameter-property-mspp-interactivity)</td>
 <td><div class="summary">
 The parameter to supply the command during execution
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[TargetObject](https://msdn.microsoft.com/en-us/library/dn736268(v=pandp.50))</td>
+<td>[TargetObject](/patterns-practices/reference/commandbehaviorbase-t-targetobject-property-mspp-interactivity)</td>
 <td><div class="summary">
 Object to which this behavior is attached.
 </div></td>

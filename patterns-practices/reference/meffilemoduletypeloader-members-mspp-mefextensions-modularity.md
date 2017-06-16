@@ -42,7 +42,7 @@ The [MefFileModuleTypeLoader](/patterns-practices/reference/meffilemoduletypeloa
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[CanLoadModuleType](/patterns-practices/reference/meffilemoduletypeloader-canloadmoduletype-method-mspp-mefextensions-modularity)</td>
-<td>Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the moduleInfo. Returns true if the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property starts with &quot;file://&quot;, because this indicates that the file is a local file.</td>
+<td>Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the <i>moduleInfo</i>. Returns true if the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property starts with &quot;file://&quot;, because this indicates that the file is a local file.</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -71,7 +71,7 @@ The [MefFileModuleTypeLoader](/patterns-practices/reference/meffilemoduletypeloa
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[LoadModuleType](/patterns-practices/reference/meffilemoduletypeloader-loadmoduletype-method-mspp-mefextensions-modularity)</td>
-<td>Retrieves the moduleInfo.</td>
+<td>Retrieves the <i>moduleInfo</i>.</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>

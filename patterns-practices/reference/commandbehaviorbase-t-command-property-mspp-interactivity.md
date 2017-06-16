@@ -39,7 +39,7 @@ Corresponding command to be execute and monitored for [CanExecuteChanged](http:/
 
 ## Syntax
 
-```C#  
+```VB  
 'Declaration
 Public Property Command As ICommand
 	Get

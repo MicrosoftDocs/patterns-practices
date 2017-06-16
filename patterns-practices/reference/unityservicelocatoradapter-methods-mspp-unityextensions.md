@@ -96,6 +96,7 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td>GetInstance&#96;&#96;1()</td>
 <td>GetInstance&#96;1()</td>
 <td>(Inherited from ServiceLocatorImplBase.)</td>
 </tr>
@@ -138,7 +139,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-dogetinstance-method-mspp-unityextensions
-)  
-[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace
-)  
+[UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-dogetinstance-method-mspp-unityextensions)  
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

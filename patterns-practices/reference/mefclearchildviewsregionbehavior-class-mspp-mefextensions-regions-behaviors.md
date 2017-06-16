@@ -29,15 +29,12 @@ This allows the MefBootstrapper to provide this class as a default implementatio
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-[Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)  
 Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior
 
 ## See Also
 
-[MefClearChildViewsRegionBehavior Members](/patterns-practices/reference/mefclearchildviewsregionbehavior-members-mspp-mefextensions-regions-behaviors)  
+[MefClearChildViewsRegionBehavior Members](/patterns-practices/reference/mefclearchildviewsregionbehavior-members-mspp-mefextensions-regions-behaviors)   
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)  

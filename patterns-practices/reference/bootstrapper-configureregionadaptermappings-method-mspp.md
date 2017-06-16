@@ -18,7 +18,6 @@ Configures the default region adapter mappings to use in the application, in ord
 ```C#
 protected virtual RegionAdapterMappings ConfigureRegionAdapterMappings()
 ```
-
 ```VB
 'Declaration
 Protected Overridable Function ConfigureRegionAdapterMappings As RegionAdapterMappings

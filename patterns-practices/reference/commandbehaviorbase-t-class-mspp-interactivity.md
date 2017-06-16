@@ -21,8 +21,7 @@ where T : UIElement
 ```
 ### Type Parameters
 
-*T*
-
+*T*  
 The target object must derive from Control
 
 ## Remarks
@@ -31,8 +30,7 @@ CommandBehaviorBase can be used to provide new behaviors for commands.
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase&lt;T&gt;
 
 ## See Also
@@ -56,8 +54,7 @@ Public Class CommandBehaviorBase(Of T As UIElement)
 ```
 ### Type Parameters
 
-*T*
-
+*T*  
 The target object must derive from Control
 
 ## Remarks
@@ -66,8 +63,7 @@ CommandBehaviorBase can be used to provide new behaviors for commands.
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase(Of T)
 
 ## See Also

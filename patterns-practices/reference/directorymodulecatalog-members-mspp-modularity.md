@@ -108,7 +108,7 @@ Creates a new child domain and copies the evidence from a parent domain.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[CompleteListWithDependencies](/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity)</td>
 <td><div class="summary">
-Returns a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in modules, but also all the modules they depend on.
+Returns a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in *modules*, but also all the modules they depend on.
 </div>
 (Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
@@ -140,7 +140,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetDependentModules](/patterns-practices/reference/modulecatalog-getdependentmodules-method-mspp-modularity)</td>
 <td><div class="summary">
-Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that moduleInfo depends on.
+Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that *moduleInfo* depends on.
 </div>
 (Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>
@@ -182,7 +182,7 @@ Initializes the catalog, which may load and validate the modules.
 <td><div class="summary">
 Drives the main logic of building the child domain and searching for the assemblies.
 </div>
-(Overrides [ModuleCatalog.InnerLoad()](/patterns-practices/reference/modulecatalog-innerload-method-mspp-modularity).)</td>
+(Overrides [ModuleCatalog.InnerLoad](/patterns-practices/reference/modulecatalog-innerload-method-mspp-modularity).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -204,7 +204,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[Sort](/patterns-practices/reference/modulecatalog-sort-method-mspp-modularity)</td>
 <td><div class="summary">
-Sorts a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s. This method is called by [CompleteListWithDependencies(IEnumerable&lt;ModuleInfo&gt;)](/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity) to return a sorted list.
+Sorts a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s. This method is called by [CompleteListWithDependencies(IEnumerable(Of ModuleInfo))](/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity) to return a sorted list.
 </div>
 (Inherited from [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).)</td>
 </tr>

@@ -29,8 +29,7 @@ Public NotInheritable Class PropertySupport
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 Microsoft.Practices.Prism.Mvvm.PropertySupport
 
 ## See Also

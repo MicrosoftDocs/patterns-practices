@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ItemMetadata'
 ms:mtpsurl: 'itemmetadata-properties-mspp-regions.md'
 ---
 
-
 # ItemMetadata Properties
 
 The [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

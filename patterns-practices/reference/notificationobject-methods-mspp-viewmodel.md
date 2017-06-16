@@ -97,5 +97,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)  
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)  
+[NotificationObject Class](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)    
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)  

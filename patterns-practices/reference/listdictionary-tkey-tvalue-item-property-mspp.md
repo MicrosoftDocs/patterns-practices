@@ -24,8 +24,8 @@ public IList<TValue> this[
 ### Parameters
 
 *key*    
-Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
-The key of the list to access.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The key of the list to access.
 
 ### Return Value
 
@@ -64,8 +64,8 @@ Public Default Property Item (
 ### Parameters
 
 *key*    
-Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
-The key of the list to access.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The key of the list to access.
 
 ### Return Value
 

@@ -4,15 +4,14 @@ Title: 'MefRegionNavigationJournalEntry Properties (Microsoft.Practices.Prism.Me
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry'
 ms:mtpsurl: 'mefregionnavigationjournalentry-properties-mspp-mefextensions-regions.md'
 ---
-
+
 # MefRegionNavigationJournalEntry Properties
 
-The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry) type exposes the following members.
+The [MefRegionNavigationJournalEntry](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Properties
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,23 +22,24 @@ The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microso
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Parameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters)</td>
+<td>[Parameters](/patterns-practices/reference/regionnavigationjournalentry-parameters-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
 </div>
-(Inherited from [RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry).)</td>
+(Inherited from [RegionNavigationJournalEntry](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.uri)</td>
+<td>[Uri](/patterns-practices/reference/regionnavigationjournalentry-uri-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the URI.
 </div>
-(Inherited from [RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry).)</td>
+(Inherited from [RegionNavigationJournalEntry](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)  
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)  
+
+[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)  
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  

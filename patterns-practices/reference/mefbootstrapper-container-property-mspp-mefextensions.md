@@ -18,6 +18,7 @@ Gets or sets the default [CompositionContainer](http://msdn.microsoft.com/en-us/
 ```C#
 protected CompositionContainer Container { get; set; }
 ```
+
 ```VB
 'Declaration
 Protected Property Container As CompositionContainer

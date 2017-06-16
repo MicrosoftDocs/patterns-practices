@@ -26,6 +26,5 @@ Public Interface IEventSubscription
 
 ## See Also
 
-IEventSubscription Members
-
-[IEventSubscription Members](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-pubsubevents-namespace)
+IEventSubscription Members  
+[IEventSubscription Members](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-pubsubevents-namespace)  

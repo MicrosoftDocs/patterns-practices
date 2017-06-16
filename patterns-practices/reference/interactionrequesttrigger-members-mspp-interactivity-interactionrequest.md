@@ -299,7 +299,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Called after the trigger is attached to an AssociatedObject.
 </div>
-(Overrides EventTriggerBaseOnAttached()()().)</td>
+(Overrides EventTriggerBaseOnAttached().)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -315,7 +315,7 @@ Called when the current [Freezable](http://msdn.microsoft.com/en-us/library/ms60
 <td><div class="summary">
 Called when the trigger is being dettached from its AssociatedObject, but before it has actually occurred.
 </div>
-(Overrides EventTriggerBaseOnDetaching()()().)</td>
+(Overrides EventTriggerBaseOnDetaching().)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -349,7 +349,7 @@ Overrides the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms58930
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>OnSourceChanged</td>
-<td>(Inherited from EventTriggerBase&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;).)</td>
+<td>(Inherited from EventTriggerBase&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -419,7 +419,7 @@ Enforces that the calling thread has access to this [DispatcherObject](http://ms
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[WritePostscript](http://msdn.microsoft.com/en-us/library/ms557762)</td>
 <td><div class="summary">
-Raises the [Changed](http://msdn.microsoft.com/en-us/library/ms596566) event for the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) and invokes its [OnChanged()()()](http://msdn.microsoft.com/en-us/library/ms557749) method. Classes that derive from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) should call this method at the end of any API that modifies class members that are not stored as dependency properties.
+Raises the [Changed](http://msdn.microsoft.com/en-us/library/ms596566) event for the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) and invokes its [OnChanged()](http://msdn.microsoft.com/en-us/library/ms557749) method. Classes that derive from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) should call this method at the end of any API that modifies class members that are not stored as dependency properties.
 </div>
 (Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)</td>
 </tr>
@@ -516,7 +516,7 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>Source</td>
-<td>(Inherited from EventTriggerBase&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;).)</td>
+<td>(Inherited from EventTriggerBase&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>

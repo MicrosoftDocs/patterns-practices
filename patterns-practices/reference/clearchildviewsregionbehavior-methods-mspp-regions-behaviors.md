@@ -83,7 +83,6 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 Subscribes to the [Region](/patterns-practices/reference/region-class-mspp-regions)'s PropertyChanged method to monitor its RegionManager property.
 </div>
 (Overrides [RegionBehavior.OnAttach()](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions).)</td>
-
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>

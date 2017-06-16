@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionbehaviorcollection-methods-mspp-regions.md'
 
 # RegionBehaviorCollection Methods
 
-The [RegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection) type exposes the following members.
+The [RegionBehaviorCollection](/patterns-practices/reference/regionbehaviorcollection-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -22,16 +22,16 @@ The [RegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.prac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Add](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.add(system.string%2cmicrosoft.practices.prism.regions.iregionbehavior))</td>
+<td>[Add](/patterns-practices/reference/regionbehaviorcollection-add-method-mspp-regions)</td>
 <td><div class="summary">
-Adds a [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) to the collection, using the specified key as an indexer.
+Adds a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) to the collection, using the specified key as an indexer.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ContainsKey](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.containskey(system.string))</td>
+<td>[ContainsKey](/patterns-practices/reference/regionbehaviorcollection-containskey-method-mspp-regions)</td>
 <td><div class="summary">
-Checks if a [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) with the specified key is already present.
+Checks if a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) with the specified key is already present.
 </div></td>
 </tr>
 <tr class="odd">
@@ -52,7 +52,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEnumerator](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.getenumerator)</td>
+<td>[GetEnumerator]/patterns-practices/reference/regionbehaviorcollection-getenumerator-method-mspp-regions)</td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div></td>
@@ -94,5 +94,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionBehaviorCollection Class](/patterns-practices/reference/regionbehaviorcollection-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

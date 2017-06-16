@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.SingleActiveRegion'
 ms:mtpsurl: 'singleactiveregion-properties-mspp-regions.md'
 ---
 
-
 # SingleActiveRegion Properties
 
 The [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions) type exposes the following members.
@@ -98,12 +97,6 @@ Gets a readonly view of the collection of views in the region.
 </table>
 
 ## See Also
-<<<<<<< HEAD
 
-[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)
-
+[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-=======
-[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
->>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

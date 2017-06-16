@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionBehavior'
 ms:mtpsurl: 'regionbehavior-properties-mspp-regions.md'
 ---
 
-
 # RegionBehavior Properties
 
 The [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

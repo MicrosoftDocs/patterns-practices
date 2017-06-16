@@ -24,7 +24,7 @@ The [ RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbas
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[Adapt](/patterns-practices/reference/regionadapterbase-t-adapt-method-mspp-regions)</td>
 <td><div class="summary">
-Template method to adapt the object to an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
+Template method to adapt the object to an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 </div></td>
 </tr>
 <tr class="even">
@@ -38,14 +38,14 @@ Template method to attach new behaviors.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[AttachDefaultBehaviors](/patterns-practices/reference/regionadapterbase-t-attachdefaultbehaviors-method-mspp-regions)</td>
 <td><div class="summary">
-This method adds the default behaviors by using the [IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory) object.
+This method adds the default behaviors by using the [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions) object.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[CreateRegion](/patterns-practices/reference/regionadapterbase-t-createregion-method-mspp-regions)</td>
 <td><div class="summary">
-Template method to create a new instance of [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) that will be used to adapt the object.
+Template method to create a new instance of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that will be used to adapt the object.
 </div></td>
 </tr>
 <tr class="odd">
@@ -84,7 +84,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Initialize](/patterns-practices/reference/regionadapterbase-t-initialize-method-mspp-regions)</td>
 <td><div class="summary">
-Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
+Adapts an object and binds it to a new [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 </div></td>
 </tr>
 <tr class="even">
@@ -109,4 +109,4 @@ Returns a string that represents the current object.
 ## See Also
 
 [RegionAdapterBase&lt;T&gt; Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

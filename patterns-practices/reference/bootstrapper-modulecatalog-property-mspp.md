@@ -28,8 +28,7 @@ Protected Property ModuleCatalog As IModuleCatalog
 
 ### Property Value
 
-Type: [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)
-
+Type: [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)  
 The default [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) instance.
 
 ## See Also

@@ -17,7 +17,6 @@ The [IRegionNavigationService](/patterns-practices/reference/iregionnavigationse
 <col width="40%" />
 <col width="40%" />
 </colgroup>
-
 <tbody>
 <tr>
 <th>
@@ -27,13 +26,9 @@ The [IRegionNavigationService](/patterns-practices/reference/iregionnavigationse
 <th>Description</th>
 </tr>
 <tr>
- <td>
-
-![Public property](/patterns-practices/reference/images/pubproperty.gif)
-
+ <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)
  </td>
- <td>
-[Journal](/patterns-practices/reference/iregionnavigationservice-journal-property-mspp-regions)
+ <td>[Journal](/patterns-practices/reference/iregionnavigationservice-journal-property-mspp-regions)
  </td>
  <td>
 <div>
@@ -42,12 +37,9 @@ Gets the journal.
  </td>
 </tr>
 <tr>
- <td>
-
-![Public property](/patterns-practices/reference/images/pubproperty.gif)
+ <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)
  </td>
- <td>
-[Region](/patterns-practices/reference/iregionnavigationservice-region-property-mspp-regions)
+ <td>[Region](/patterns-practices/reference/iregionnavigationservice-region-property-mspp-regions)
  </td>
  <td>
 <div>

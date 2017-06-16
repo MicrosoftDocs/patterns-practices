@@ -26,20 +26,11 @@ Public Property AssemblyFile As String Get Set
 
 ### Property Value
 
-Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The assembly file.
 
 ## See Also
-<<<<<<< HEAD
 
-[ModuleConfigurationElement Class](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)
-
-[ModuleConfigurationElement Members](/patterns-practices/reference/moduleconfigurationelement-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-=======
-[ModuleConfigurationElement Class](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)  
+[ModuleConfigurationElement Class](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)  
 [ModuleConfigurationElement Members](/patterns-practices/reference/moduleconfigurationelement-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
->>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

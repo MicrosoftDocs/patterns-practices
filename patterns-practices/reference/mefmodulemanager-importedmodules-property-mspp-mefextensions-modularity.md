@@ -18,6 +18,7 @@ Gets or sets the modules to be imported.
 ```C#
 protected IEnumerable<Lazy<IModule, IModuleExport>> ImportedModules { get; set; }
 ```
+
 ### Property Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Lazy](http://msdn.microsoft.com/en-us/library/dd986615)&lt;[IModule](/patterns-practices/reference/imodule-interface-mspp-modularity), [IModuleExport](/patterns-practices/reference/imoduleexport-interface-mspp-mefextensions-modularity)&gt;&gt;

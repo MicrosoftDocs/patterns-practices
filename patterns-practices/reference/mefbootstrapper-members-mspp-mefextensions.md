@@ -242,21 +242,21 @@ Returns a string that represents the current object.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected property](/patterns-practices/reference/images/pubproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>[AggregateCatalog](/patterns-practices/reference/mefbootstrapper-aggregatecatalog-property-mspp-mefextensions)</td>
 <td><div class="summary">
 Gets or sets the default [AggregateCatalog](/patterns-practices/reference/mefbootstrapper-aggregatecatalog-property-mspp-mefextensions) for the application.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected property](/patterns-practices/reference/images/pubproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>[Container](/patterns-practices/reference/mefbootstrapper-container-property-mspp-mefextensions)</td>
 <td><div class="summary">
 Gets or sets the default [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553) for the application.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected property](/patterns-practices/reference/images/pubproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>[Logger](/patterns-practices/reference/bootstrapper-logger-property-mspp)</td>
 <td><div class="summary">
 Gets the [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) for the application.
@@ -264,7 +264,7 @@ Gets the [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-m
 (Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="even">
-<td>![Protected property](/patterns-practices/reference/images/pubproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>[ModuleCatalog](/patterns-practices/reference/bootstrapper-modulecatalog-property-mspp)</td>
 <td><div class="summary">
 Gets the default [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) for the application.
@@ -272,7 +272,7 @@ Gets the default [IModuleCatalog](/patterns-practices/reference/imodulecatalog-i
 (Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="odd">
-<td>![Protected property](/patterns-practices/reference/images/pubproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>[Shell](/patterns-practices/reference/bootstrapper-shell-property-mspp)</td>
 <td><div class="summary">
 Gets the shell user interface

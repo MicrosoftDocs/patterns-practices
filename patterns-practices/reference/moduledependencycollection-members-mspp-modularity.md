@@ -161,7 +161,7 @@ Copies the contents of the [ConfigurationElementCollection](http://msdn.microsof
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[CreateNewElement](/patterns-practices/reference/moduledependencycollection-createnewelement-method-mspp-modularity)</td>
 <td><div class="summary">
-Creates a new [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement).
+Creates a new [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity).
 </div>
 (Overrides [ConfigurationElementCollection.CreateNewElement](http://msdn.microsoft.com/en-us/library/ak7z48w8).)</td>
 </tr>
@@ -447,7 +447,7 @@ Gets or sets the name for the [ConfigurationElement](http://msdn.microsoft.com/e
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CollectionType](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.collectiontype)</td>
+<td>[CollectionType](/patterns-practices/reference/moduledependencycollection-collectiontype-property-mspp-modularity)</td>
 <td><div class="summary">
 Gets the type of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
@@ -479,7 +479,7 @@ Gets an [ElementInformation](http://msdn.microsoft.com/en-us/library/ms134413) o
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[ElementName](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.elementname)</td>
+<td>[ElementName](/patterns-practices/reference/moduledependencycollection-elementname-property-mspp-modularity)</td>
 <td><div class="summary">
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 </div>
@@ -543,9 +543,9 @@ Gets or sets a property, attribute, or child element of this configuration eleme
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item(Int32)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.item(system.int32))</td>
+<td>[Item(Int32)](/patterns-practices/reference/moduledependencycollection-item-property-int32-mspp-modularity)</td>
 <td><div class="summary">
-Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) located at the specified index in the collection.
+Gets the [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) located at the specified index in the collection.
 </div></td>
 </tr>
 <tr class="even">

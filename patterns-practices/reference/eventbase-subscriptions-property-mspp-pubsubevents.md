@@ -21,8 +21,7 @@ protected ICollection<IEventSubscription> Subscriptions { get; }
 
 ### Property Value
 
-Type: [ICollection](http://msdn.microsoft.com/en-us/library/92t2ye13)&lt;[IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)&gt;
-
+Type: [ICollection](http://msdn.microsoft.com/en-us/library/92t2ye13)&lt;[IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)&gt;  
 The current subscribers.
 
 ## Syntax
@@ -35,8 +34,7 @@ Protected ReadOnly Property Subscriptions As ICollection(Of IEventSubscription)
 
 ### Property Value
 
-Type: [ICollection](http://msdn.microsoft.com/en-us/library/92t2ye13)(Of [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents))
-
+Type: [ICollection](http://msdn.microsoft.com/en-us/library/92t2ye13)(Of [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents))  
 The current subscribers.
 
 
@@ -44,6 +42,5 @@ The current subscribers.
 ## See Also
 
 [EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
-EventBase Members
-
+EventBase Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

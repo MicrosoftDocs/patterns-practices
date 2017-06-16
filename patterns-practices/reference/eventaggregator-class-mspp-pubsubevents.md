@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.EventAggregator'
 ms:mtpsurl: 'eventaggregator-class-mspp-pubsubevents.md'
 ---
 
-
 # EventAggregator Class
 
 Implements [IEventAggregator](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents).
@@ -28,12 +27,10 @@ Public Class EventAggregator
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 Microsoft.Practices.Prism.PubSubEvents.EventAggregator
 
 ## See Also
 
-EventAggregator Members
-
+EventAggregator Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

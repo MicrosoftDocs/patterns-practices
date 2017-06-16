@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureServiceLocator'
 ms:mtpsurl: 'bootstrapper-configureservicelocator-method-mspp.md'
 ---
 
-
 # Bootstrapper.ConfigureServiceLocator Method
 
 Configures the LocatorProvider for the ServiceLocator.
@@ -19,7 +18,6 @@ Configures the LocatorProvider for the ServiceLocator.
 ```C#
 protected abstract void ConfigureServiceLocator()
 ```
-
 ```VB
 'Declaration
 Protected MustOverride Sub ConfigureServiceLocator

@@ -28,8 +28,7 @@ An [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz) or **n
 ## See Also
 
 [EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)  
-EventSubscription&lt;TPayload&gt; Members
-
+EventSubscription&lt;TPayload&gt; Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
 
 
@@ -57,7 +56,6 @@ An [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz) or **Noth
 
 ## See Also
 
-[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)  
-EventSubscription&lt;TPayload&gt; Members
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[EventSubscription(Of TPayload) Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)  
+EventSubscription(Of TPayload) Members  
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  
