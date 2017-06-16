@@ -5,8 +5,7 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.Request
 ms:mtpsurl: 'regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions.md'
 ---
 
-
-# RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, Uri, Action &lt;NavigationResult&gt;)
+# RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, Uri, Action&lt;NavigationResult&gt;)
 
 Navigates the specified region manager.
 
@@ -27,40 +26,20 @@ public static void RequestNavigate(
 
 ### Parameters
 
-*regionManager*
-
-Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
-
+*regionManager*  
+Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The regionmanager that this extension method effects.
 
 *regionName*  
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the region to call Navigate on.
 
 *source*  
-
-Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
-
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)  
 The URI of the content to display.
 
-*navigationCallback* 
-
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;
-
-The navigation callback.
-
-### Usage Note
-
-In Visual Basic and C#, you can call this method as an instance method on any object of type [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](https://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
-
-## See Also
-
-[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)  
-[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)  
-[RequestNavigate Overload](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
+*navigationCallback*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;  The navigation callback.
 
 # RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, Uri, Action (Of (NavigationResult))
 
@@ -85,28 +64,20 @@ Public Shared Sub RequestNavigate (
 
 ### Parameters
 
-*regionManager*
-
-Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
-
+*regionManager*  
+Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The regionmanager that this extension method effects.
 
 *regionName*  
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the region to call Navigate on.
 
 *source*  
-
-Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
-
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)  
 The URI of the content to display.
 
-*navigationCallback*
-
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of ([NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)))
-
+*navigationCallback*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of ([NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)))  
 The navigation callback.
 
 ### Usage Note

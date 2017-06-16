@@ -30,16 +30,13 @@ Protected Overridable Function GetContractFromNavigationContext (
 
 ### Parameters
 
-*navigationContext*
-
- Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
- 
- The navigation contract.
+*navigationContext*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
+The navigation contract.
 
 ### Return Value
 
-Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The candidate contract to seek within the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) and to use, if not found, when resolving from the container.
 
 ## See Also
