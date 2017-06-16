@@ -29,10 +29,8 @@ Public Sub New (
 
 ### Parameters
 
-*unityContainer*
-
-Type: IUnityContainer
-
+*unityContainer*  
+Type: IUnityContainer  
 The IUnityContainer that will be used by the [DoGetInstance(Type, String)](/patterns-practices/reference/unityservicelocatoradapter-dogetinstance-method-mspp-unityextensions) and [DoGetAllInstances(Type)](/patterns-practices/reference/unityservicelocatoradapter-dogetallinstances-method-mspp-unityextensions) methods.
 
 ## See Also

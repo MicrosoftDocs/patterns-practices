@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.RegisterComma
 ms:mtpsurl: 'compositecommand-registercommand-method-mspp-commands.md'
 ---
 
-
 # CompositeCommand.RegisterCommand Method
 
 Adds a command to the collection and signs up for the [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106) event of it.
@@ -31,8 +30,7 @@ Public Overridable Sub RegisterCommand (
 ### Parameters
 
 *command*  
-Type: [System.Windows.Input.ICommand](http://msdn.microsoft.com/en-us/library/ms616869)
-
+Type: [System.Windows.Input.ICommand](http://msdn.microsoft.com/en-us/library/ms616869)  
 The command to register.
 
 ## Remarks

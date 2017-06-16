@@ -35,7 +35,7 @@ Returns **truetrue** (**True** in Visual Basic) if the command can execute. **fa
 
 Determines if the command can execute with the provided parameter by invoking the [Func(Of T, TResult)](http://msdn.microsoft.com/en-us/library/bb549151) supplied during construction.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)  
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 

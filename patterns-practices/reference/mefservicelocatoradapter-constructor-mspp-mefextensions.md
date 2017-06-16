@@ -29,10 +29,8 @@ Public Sub New (
 
 #### Parameters
 
-*compositionContainer*
-
-Type: [System.ComponentModel.Composition.Hosting.CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553)
-
+*compositionContainer*  
+Type: [System.ComponentModel.Composition.Hosting.CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553)  
 The MEF composition container.
 
 ## See Also

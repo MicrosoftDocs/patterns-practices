@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.\#ctor(Sys
 ms:mtpsurl: 'errorscontainer-t-constructor-mspp-viewmodel.md'
 ---
 
-
 # ErrorsContainer&lt;T&gt; Constructor
 
 Initializes a new instance of the [ErrorsContainer&lt;T&gt;](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel) class.
@@ -23,10 +22,8 @@ public ErrorsContainer(
 ```
 ### Parameters
 
-*raiseErrorsChanged*
-
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;
-
+*raiseErrorsChanged*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;  
 The action that invoked if when errors are added for an object./&gt; event.
 
 ## See Also
@@ -53,10 +50,8 @@ Public Sub New (
 ```
 ### Parameters
 
-*raiseErrorsChanged*
-
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf))
-
+*raiseErrorsChanged*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf))  
 The action that invoked if when errors are added for an object./&gt; event.
 
 ## See Also

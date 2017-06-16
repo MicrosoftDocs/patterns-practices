@@ -30,7 +30,7 @@ The action to execute.
 
 *argument*  
 Type: [TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)  
-The payload to pass action while invoking it.
+The payload to pass *action* while invoking it.
 
 ## See Also
 
@@ -64,7 +64,7 @@ The action to execute.
 
 *argument*  
 Type: [TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)  
-The payload to pass action while invoking it.
+The payload to pass *action* while invoking it.
 
 ## See Also
 
