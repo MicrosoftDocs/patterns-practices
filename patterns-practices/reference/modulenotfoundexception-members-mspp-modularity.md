@@ -25,7 +25,7 @@ The [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexcept
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleNotFoundException()</td>
+<td>ModuleNotFoundException</td>
 <td><div class="summary">
 Initializes a new instance of the [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) class.
 </div></td>
@@ -165,7 +165,7 @@ Creates and returns a string representation of the current exception.
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
 <td>[GetRootException](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp)</td>
 <td><div class="summary">
-Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
+Looks at all the inner exceptions of the *exception* parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 </div>
 (Defined by [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp).)</td>
 </tr>
@@ -274,7 +274,7 @@ Gets the method that throws the current exception.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected event](/patterns-practices/reference/images/protevent.gif)</td>
+<td>![Protected event](/patterns-practices/reference/images/protected-event.gif)</td>
 <td>[SerializeObjectState](http://msdn.microsoft.com/en-us/library/ee332915)</td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.

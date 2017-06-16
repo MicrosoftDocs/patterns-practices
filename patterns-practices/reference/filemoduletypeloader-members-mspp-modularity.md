@@ -8,7 +8,7 @@ ms:mtpsurl: 'filemoduletypeloader-members-mspp-modularity.md'
 
 # FileModuleTypeLoader Members
 
-The [FileModuleTypeLoader]() type exposes the following members.
+The [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -62,7 +62,7 @@ Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-m
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Dispose()](/patterns-practices/reference/filemoduletypeloader-dispose)</td>
+<td>[Dispose](/patterns-practices/reference/filemoduletypeloader-dispose)</td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>

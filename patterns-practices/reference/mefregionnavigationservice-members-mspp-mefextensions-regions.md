@@ -8,7 +8,7 @@ ms:mtpsurl: 'mefregionnavigationservice-members-mspp-mefextensions-regions.md'
 
 # MefRegionNavigationService Members
 
-The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) type exposes the following members.
+The [MefRegionNavigationService](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Constructors
 
