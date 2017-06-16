@@ -13,6 +13,11 @@ The [PropertySupport](/patterns-practices/reference/propertysupport-class-mspp-m
 ## Methods
 
 <table>
+<colgroup>
+<col width="100">
+<col>
+<col>
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -22,7 +27,7 @@ The [PropertySupport](/patterns-practices/reference/propertysupport-class-mspp-m
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[ExtractPropertyName(Of T)](/patterns-practices/reference/propertysupport-extractpropertyname-t-method-mspp-mvvm)</td>
 <td><div class="summary">
 Extracts the property name from a property expression.
