@@ -24,7 +24,7 @@ The [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modul
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleCatalog</td>
+<td>ModuleCatalog()</td>
 <td><div class="summary">
 Initializes a new instance of the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) class.
 </div></td>
@@ -43,7 +43,11 @@ Initializes a new instance of the [ModuleCatalog](/patterns-practices/reference/
 
 
 <table>
-
+<colgroup>
+<col width="150">
+<col>
+<col>
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -68,35 +72,35 @@ Adds a [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modulari
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddModule(Type, String())](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)</td>
+<td>[AddModule(Type, String[])](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)</td>
 <td><div class="summary">
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddModule(String, String, String())](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)</td>
+<td>[AddModule(String, String, String[])](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)</td>
 <td><div class="summary">
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddModule(Type, InitializationMode, String())](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)</td>
+<td>[AddModule(Type, InitializationMode, String[])](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)</td>
 <td><div class="summary">
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddModule(String, String, InitializationMode, String())](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)</td>
+<td>[AddModule(String, String, InitializationMode, String[])](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)</td>
 <td><div class="summary">
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[AddModule(String, String, String, InitializationMode, String())](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)</td>
+<td>[AddModule(String, String, String, InitializationMode, String[])](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)</td>
 <td><div class="summary">
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
 </div></td>

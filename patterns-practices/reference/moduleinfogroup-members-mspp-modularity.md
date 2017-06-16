@@ -196,7 +196,7 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[AddModule(Type, String())](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)</td>
+<td>[AddModule(Type, String[])](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)</td>
 <td>Overloaded.
 <div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
@@ -205,7 +205,7 @@ Adds a new module that is statically referenced to the specified module info gro
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[AddModule(String, Type, String())](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)</td>
+<td>[AddModule(String, Type, String[])](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)</td>
 <td>Overloaded.
 <div class="summary">
 Adds a new module that is statically referenced to the specified module info group.

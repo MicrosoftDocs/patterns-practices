@@ -61,7 +61,7 @@ Template method to attach new behaviors.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[AttachDefaultBehaviors](/patterns-practices/reference/regionadapterbase-t-attachdefaultbehaviors-method-mspp-regions)</td>
 <td><div class="summary">
-This method adds the default behaviors by using the [IRegionBehaviorFactory](/patterns-practices/reference/iregion-interface-mspp-regionsbehaviorfactory) object.
+This method adds the default behaviors by using the [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions) object.
 </div>
 (Inherited from [RegionAdapterBase(Of T)](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
