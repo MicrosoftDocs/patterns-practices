@@ -4,10 +4,11 @@ Title: 'ModuleDependencyCollection Properties (Microsoft.Practices.Prism.Modular
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection'
 ms:mtpsurl: 'moduledependencycollection-properties-mspp-modularity.md'
 ---
-
+
+
 # ModuleDependencyCollection Properties
 
-The [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection) type exposes the following members.
+The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -39,7 +40,7 @@ Gets or sets the name for the [ConfigurationElement](http://msdn.microsoft.com/e
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CollectionType](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.collectiontype)</td>
+<td>[CollectionType](/patterns-practices/reference/moduledependencycollection-collectiontype-property-mspp-modularity)</td>
 <td><div class="summary">
 Gets the type of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
@@ -71,7 +72,7 @@ Gets an [ElementInformation](http://msdn.microsoft.com/en-us/library/ms134413) o
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[ElementName](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.elementname)</td>
+<td>[ElementName](/patterns-practices/reference/moduledependencycollection-elementname-property-mspp-modularity)</td>
 <td><div class="summary">
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 </div>
@@ -119,7 +120,7 @@ Gets a value indicating whether access to the collection is synchronized.
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Item[([(ConfigurationProperty])])](http://msdn.microsoft.com/en-us/library/es150ftc)</td>
+<td>[Item(ConfigurationProperty)](http://msdn.microsoft.com/en-us/library/es150ftc)</td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
@@ -127,7 +128,7 @@ Gets or sets a property or attribute of this configuration element.
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Item[([(String])])](http://msdn.microsoft.com/en-us/library/c8693ks1)</td>
+<td>[Item(String)](http://msdn.microsoft.com/en-us/library/c8693ks1)</td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
@@ -135,7 +136,7 @@ Gets or sets a property, attribute, or child element of this configuration eleme
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item[([(Int32])])](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.item(system.int32))</td>
+<td>[Item(Int32)](/patterns-practices/reference/moduledependencycollection-item-property-mspp-modularity)</td>
 <td><div class="summary">
 Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) located at the specified index in the collection.
 </div></td>
@@ -216,5 +217,6 @@ Gets a value indicating whether an attempt to add a duplicate [ConfigurationElem
 </table>
 
 ## See Also
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)  
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  
+
+[ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
