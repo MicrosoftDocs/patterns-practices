@@ -4,7 +4,8 @@ Title: 'ModuleInfo.InitializationMode Property (Microsoft.Practices.Prism.Modula
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.InitializationMode'
 ms:mtpsurl: 'moduleinfo-initializationmode-property-mspp-modularity.md'
 ---
-
+
+
 # ModuleInfo.InitializationMode Property
 
 Specifies on which stage the Module will be initialized.
