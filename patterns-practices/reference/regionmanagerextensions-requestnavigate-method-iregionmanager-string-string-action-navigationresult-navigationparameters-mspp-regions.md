@@ -16,7 +16,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 ## Syntax
 
 ```C#
-	public static void RequestNavigate(
+public static void RequestNavigate(
 	this IRegionManager regionManager,
 	string regionName,
 	string target,
@@ -27,28 +27,23 @@ This method allows an IRegionManager to locate a specified region and navigate i
 
 ### Parameters
 
-*regionManager*
-
+*regionManager*  
 Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The IRegionManager instance that is extended by this method.
 
 *regionName*  
-
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the region where the navigation will occur.
 
 *target*  
-
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 A string that represents the target where the region will navigate.
 
 *navigationCallback*  
-
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)>  
 The navigation callback that will be executed after the navigation is completed.
 
-*navigationParameters*
-
+*navigationParameters*  
 Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 An instance of NavigationParameters, which holds a collection of object parameters.
 
@@ -63,9 +58,9 @@ This method allows an IRegionManager to locate a specified region and navigate i
 ## Syntax
 
 ```VB
-	'Declaration
-	<ExtensionAttribute> 
-	Public Shared Sub RequestNavigate ( 
+'Declaration
+<ExtensionAttribute> 
+Public Shared Sub RequestNavigate ( 
 	regionManager As IRegionManager,
 	regionName As String,
 	target As String,
@@ -76,28 +71,23 @@ This method allows an IRegionManager to locate a specified region and navigate i
 
 ### Parameters
 
-*regionManager*
-
+*regionManager*  
 Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The IRegionManager instance that is extended by this method.
 
-*regionName*
-
+*regionName*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the region where the navigation will occur.
 
-*target*
-
+*target*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 A string that represents the target where the region will navigate.
 
-*navigationCallback*
-
+*navigationCallback*  
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions))  
 The navigation callback that will be executed after the navigation is completed.
 
-*navigationParameters*
-
+*navigationParameters*  
 Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 An instance of NavigationParameters, which holds a collection of object parameters.
 

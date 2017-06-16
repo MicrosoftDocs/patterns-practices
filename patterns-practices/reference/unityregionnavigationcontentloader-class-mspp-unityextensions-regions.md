@@ -10,7 +10,7 @@ ms:mtpsurl: 'unityregionnavigationcontentloader-class-mspp-unityextensions-regio
 Specialization of the default RegionNavigationContentLoader that queries the corresponding IUnityContainer to obtain the name of the view's type registered for the contract name. 
 
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)  
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/mspp-unityextensions-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -26,13 +26,11 @@ Public Class UnityRegionNavigationContentLoader
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-[Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions)  
 Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader
 
 ## See Also
 
 [UnityRegionNavigationContentLoader Members](/patterns-practices/reference/unityregionnavigationcontentloader-members-mspp-unityextensions-regions)  
-[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)  
+[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/mspp-unityextensions-regions-namespace)  

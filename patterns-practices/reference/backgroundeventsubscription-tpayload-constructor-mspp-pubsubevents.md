@@ -24,15 +24,12 @@ public BackgroundEventSubscription(
 
 ### Parameters
 
-*actionReference*
-
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
-
+*actionReference*  
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)  
 A reference to a delegate of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*  
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
-
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)  
 A reference to a delegate of type [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 ## Exceptions
@@ -45,8 +42,7 @@ A reference to a delegate of type [Predicate&lt;T&gt;](http://msdn.microsoft.com
 ## See Also
 
 [BackgroundEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)  
-BackgroundEventSubscription&lt;TPayload&gt; Members
-
+BackgroundEventSubscription&lt;TPayload&gt; Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
 
 # BackgroundEventSubscription(Of TPayload) Constructor
@@ -69,15 +65,12 @@ Public Sub New (
 
 ### Parameters
 
-*actionReference*
-
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
-
+*actionReference*  
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)  
 A reference to a delegate of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*  
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
-
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)  
 A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 ## Exceptions
@@ -90,6 +83,5 @@ A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en
 ## See Also
 
 [BackgroundEventSubscription(Of TPayload)  Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)  
-BackgroundEventSubscription(Of TPayload)  Members
-
+BackgroundEventSubscription(Of TPayload)  Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

@@ -26,16 +26,13 @@ The type to use for the generic [Action&lt;T&gt;](http://msdn.microsoft.com/en-u
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 [Microsoft.Practices.Prism.PubSubEvents.EventSubscription](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)&lt;TPayload&gt;
-
 Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription&lt;TPayload&gt;
 
 ## See Also
 
-DispatcherEventSubscription&lt;TPayload&gt; Members
-
+DispatcherEventSubscription&lt;TPayload&gt; Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
 
 # DispatcherEventSubscription(Of TPayload) Class
@@ -61,14 +58,11 @@ The type to use for the generic [Action(Of T)](http://msdn.microsoft.com/en-us/l
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-[Microsoft.Practices.Prism.PubSubEvents.EventSubscription](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)(Of TPayload)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.PubSubEvents.EventSubscription](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)(Of TPayload)  
 Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription(Of TPayload)
 
 ## See Also
 
-DispatcherEventSubscription(Of TPayload) Members
-
+DispatcherEventSubscription(Of TPayload) Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

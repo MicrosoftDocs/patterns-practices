@@ -25,12 +25,12 @@ The [UpdateRegionsException](/patterns-practices/reference/updateregionsexceptio
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected event](/patterns-practices/reference/images/protevent.gif)</td>
+<td>![Protected event](/patterns-practices/reference/images/protected-event.gif)</td>
 <td>[SerializeObjectState](http://msdn.microsoft.com/en-us/library/ee332915)</td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 </tbody>
 </table>
@@ -38,4 +38,4 @@ Occurs when an exception is serialized to create an exception state object that 
 ## See Also
 
 [UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace ](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)
+[Microsoft.Practices.Prism.Regions Namespace ](/patterns-practices/reference/mspp-regions-namespace)

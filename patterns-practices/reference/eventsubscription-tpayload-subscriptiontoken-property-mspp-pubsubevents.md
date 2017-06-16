@@ -20,8 +20,7 @@ public SubscriptionToken SubscriptionToken { get; set; }
 ```
 
 #### Property Value
-Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
-
+Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 A token that identifies this [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
 #### Implements
@@ -30,8 +29,7 @@ A token that identifies this [IEventSubscription](/patterns-practices/reference/
 ## See Also
 
 [EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)  
-EventSubscription&lt;TPayload&gt; Members
-
+EventSubscription&lt;TPayload&gt; Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
 
 # EventSubscription(Of TPayload).SubscriptionToken Property
@@ -52,8 +50,7 @@ Public Property SubscriptionToken As SubscriptionToken
 ```
 
 #### Property Value
-Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
-
+Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 A token that identifies this [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
 #### Implements
@@ -62,6 +59,5 @@ A token that identifies this [IEventSubscription](/patterns-practices/reference/
 ## See Also
 
 [EventSubscription(Of TPayload) Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)  
-EventSubscription(Of TPayload) Members
-
+EventSubscription(Of TPayload) Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

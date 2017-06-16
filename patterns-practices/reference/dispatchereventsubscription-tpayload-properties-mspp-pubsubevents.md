@@ -50,7 +50,7 @@ The [DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents)</td>
 <td><div class="summary">
-Gets or sets a [SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents) that identifies this [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription).
+Gets or sets a [SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents) that identifies this [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).
 </div>
 (Inherited from [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents).)</td>
 </tr>

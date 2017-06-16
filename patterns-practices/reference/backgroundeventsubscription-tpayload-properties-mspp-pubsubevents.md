@@ -45,7 +45,7 @@ Gets the target [Predicate(Of T)](http://msdn2.microsoft.com/en-us/library/bfcke
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents)</td>
 <td><div class="summary">
-Gets or sets a [SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents) that identifies this [IEventSubscription](https://msdn.microsoft.com/en-us/library/dn736140(v=pandp.50)).
+Gets or sets a [SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents) that identifies this [IEventSubscription](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents).
 </div>
 (Inherited from [EventSubscription(Of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents).)</td>
 </tr>

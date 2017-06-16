@@ -26,6 +26,5 @@ Public Interface IEventAggregator
 
 ## See Also
 
-IEventAggregator Members
-
+IEventAggregator Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
