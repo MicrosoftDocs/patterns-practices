@@ -23,7 +23,7 @@ ms:mtpsurl: 'modularityexception-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModularityException</td>
+<td>ModularityException()</td>
 <td><div class="summary">
 Initializes a new instance of the [ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity) class.
 </div></td>
