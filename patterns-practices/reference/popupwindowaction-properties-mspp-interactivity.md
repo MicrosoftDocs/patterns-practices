@@ -4,7 +4,8 @@ Title: 'PopupWindowAction Properties (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
 ms:mtpsurl: 'popupwindowaction-properties-mspp-interactivity.md'
 ---
-
+
+
 # PopupWindowAction Properties
 
 The [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity) type exposes the following members.
@@ -25,12 +26,12 @@ The [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-ms
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>AssociatedObject</td>
-<td>(Inherited from TriggerAction(Of [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)).)</td>
+<td>(Inherited from TriggerAction(Of [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>AssociatedObjectTypeConstraint</td>
-<td>(Inherited from TriggerAction(Of [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)).)</td>
+<td>(Inherited from TriggerAction(Of [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -42,7 +43,7 @@ Gets a value that indicates whether the object can be made unmodifiable.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CenterOverAssociatedObject](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobject)</td>
+<td>[CenterOverAssociatedObject](/patterns-practices/reference/popupwindowaction-centeroverassociatedobject-property-mspp-interactivity)</td>
 <td><div class="summary">
 Gets or sets if the window will be initially shown centered over the view that raised the interaction request or not.
 </div></td>
@@ -86,7 +87,7 @@ Gets a value that indicates whether the object is currently modifiable.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[IsModal](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.ismodal)</td>
+<td>[IsModal](/patterns-practices/reference/popupwindowaction-ismodal-property-mspp-interactivity)</td>
 <td><div class="summary">
 Gets or sets if the window will be modal or not.
 </div></td>
@@ -101,7 +102,7 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[WindowContent](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.windowcontent)</td>
+<td>[WindowContent](/patterns-practices/reference/popupwindowaction-windowcontent-property-mspp-interactivity)</td>
 <td><div class="summary">
 Gets or sets the content of the window.
 </div></td>

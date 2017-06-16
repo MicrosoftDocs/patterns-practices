@@ -22,21 +22,21 @@ public static string ExtractPropertyName<T>(
 )
 ```
 
-### Parameters
+#### Parameters
 
 *propertyExpression*
 
-Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;
+Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;&gt;
 
 The property expression (e.g. p =&gt; p.PropertyName)
 
-## Type Parameters
+### Type Parameters
 
 *T*
 
 The object type containing the property specified in the expression.
 
-### Return Value
+#### Return Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
@@ -54,7 +54,7 @@ The name of the property.
 <tbody>
 <tr class="odd">
 <td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
-<td>Thrown if the propertyExpression is null.</td>
+<td>Thrown if the <i>propertyExpression</i> is null.</td>
 </tr>
 <tr class="even">
 <td>[System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)</td>
@@ -91,7 +91,7 @@ Public Shared Function ExtractPropertyName(Of T) (
 ) As String
 ```
 
-### Parameters
+#### Parameters
 
 *propertyExpression*
 
@@ -99,13 +99,13 @@ Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/libra
 
 The property expression (e.g. p =&gt; p.PropertyName)
 
-## Type Parameters
+### Type Parameters
 
 *T*
 
 The object type containing the property specified in the expression.
 
-### Return Value
+#### Return Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
@@ -123,7 +123,7 @@ The name of the property.
 <tbody>
 <tr class="odd">
 <td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
-<td>Thrown if the propertyExpression is null.</td>
+<td>Thrown if the <i>propertyExpression</i> is null.</td>
 </tr>
 <tr class="even">
 <td>[System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)</td>
@@ -135,7 +135,7 @@ Or, the property is static.</td>
 </tbody>
 </table>
 
-## See Also
+## See Also	
 
 [PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-mvvm)  
 [PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-mvvm)  
