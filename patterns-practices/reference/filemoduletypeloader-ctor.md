@@ -23,7 +23,7 @@ ms:mtpsurl: 'filemoduletypeloader-constructor-iassemblyresolver-mspp-modularity.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>FileModuleTypeLoader</td>
+<td>FileModuleTypeLoader()</td>
 <td><div class="summary">
 Initializes a new instance of the [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity) class.
 </div></td>

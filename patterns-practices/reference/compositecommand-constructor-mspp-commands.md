@@ -23,7 +23,7 @@ ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>CompositeCommand</td>
+<td>CompositeCommand()</td>
 <td><div class="summary">
 Initializes a new instance of [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands).
 </div></td>

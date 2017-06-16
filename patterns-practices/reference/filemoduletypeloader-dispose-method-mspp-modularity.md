@@ -21,7 +21,7 @@ ms:mtpsurl: 'filemoduletypeloader-dispose-method-boolean-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Dispose](/patterns-practices/reference/filemoduletypeloader-dispose)</td>
+<td>[Dispose()](/patterns-practices/reference/filemoduletypeloader-dispose)</td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>

@@ -6,7 +6,7 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-class-mspp.md'
 ---
 
 
-# ListDictionary<TKey, TValue> Class
+# ListDictionary&lt;TKey, TValue&gt; Class
 
 A dictionary of lists.
 
