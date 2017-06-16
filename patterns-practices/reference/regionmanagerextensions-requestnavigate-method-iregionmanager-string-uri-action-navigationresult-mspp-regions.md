@@ -39,7 +39,8 @@ Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The URI of the content to display.
 
 *navigationCallback*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;  The navigation callback.
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;  
+The navigation callback.
 
 # RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, Uri, Action (Of (NavigationResult))
 
