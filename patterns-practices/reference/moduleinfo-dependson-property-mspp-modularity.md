@@ -40,5 +40,5 @@ The list of modules that this module depends upon.
 ## See Also
 
 [ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
-[ModuleInfo Members](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
+[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
