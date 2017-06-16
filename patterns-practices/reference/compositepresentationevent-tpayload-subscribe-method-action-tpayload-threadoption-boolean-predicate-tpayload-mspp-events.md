@@ -23,33 +23,32 @@ public virtual SubscriptionToken Subscribe(
 	Predicate<TPayload> filter
 )
 ```
-### Parameters
+
+### Parameters
 
 *action*
       
-    Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)<[TPayload])(compositepresentationevent-tpayload-class-mspp-events)>
-    The delegate that gets executed when the event is published.
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)&gt;<br/>
+The delegate that gets executed when the event is published.
 
 *threadOption*
 
-    Type: ThreadOption
-    Specifies on which thread to receive the delegate callback.
+Type: ThreadOption<br/>
+Specifies on which thread to receive the delegate callback.
 
 *keepSubscriberReferenceAlive*
 
-    Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-    When **truetrue** (**True** in Visual Basic), the [CompositePresentationEvent<TPayload>](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) keeps a reference to the subscriber so it does not get garbage collected.
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+When **truetrue** (**True** in Visual Basic), the [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) keeps a reference to the subscriber so it does not get garbage collected.
 
 *filter*
 
-    Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)<[TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)>
-
-    Filter to evaluate if the subscriber should receive the event.
+Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)<[TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)><br/>
+Filter to evaluate if the subscriber should receive the event.
 
 ### Return Value
 
-Type: SubscriptionToken
-
+Type: SubscriptionToken<br/>
 A SubscriptionToken that uniquely identifies the added subscription.
 
 ## Remarks
@@ -82,32 +81,32 @@ Public Overridable Function Subscribe (
 	filter As Predicate(Of TPayload)
 ) As SubscriptionToken
 ```
-### Parameters
+
+### Parameters
 
 *action*
       
-    Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events))
-    The delegate that gets executed when the event is published.
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events))<br/>
+The delegate that gets executed when the event is published.
 
 *threadOption*
 
-    Type: ThreadOption
-    Specifies on which thread to receive the delegate callback.
+Type: ThreadOption<br/>
+Specifies on which thread to receive the delegate callback.
 
 *keepSubscriberReferenceAlive*
 
-    Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-    When trueTruetruetrue (True in Visual Basic), the [CompositePresentationEvent(Of (TPayload))](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) keeps a reference to the subscriber so it does not get garbage collected.
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+When trueTruetruetrue (True in Visual Basic), the [CompositePresentationEvent(Of TPayload)](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) keeps a reference to the subscriber so it does not get garbage collected.
 
 *filter*
 
-    Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)(Of [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events))
-    Filter to evaluate if the subscriber should receive the event.
+Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)(Of [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events))<br/>
+Filter to evaluate if the subscriber should receive the event.
 
 ### Return Value
 
-Type: SubscriptionToken
-
+Type: SubscriptionToken<br/>
 A SubscriptionToken that uniquely identifies the added subscription.
 
 ## Remarks

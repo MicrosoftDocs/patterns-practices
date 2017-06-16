@@ -4,7 +4,8 @@ Title: 'NavigationParameters Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationParameters.\#ctor'
 ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 ---
-# NavigationParameters Constructor
+
+# NavigationParameters Constructor
 
 Initializes a new instance of the [NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions) class.
 
@@ -24,8 +25,8 @@ Public Sub New
 ```
 
 ## See Also
-[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
-[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)  
-NavigationParameters Overload
 
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)  
+NavigationParameters Overload<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

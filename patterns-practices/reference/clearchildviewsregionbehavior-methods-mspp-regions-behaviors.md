@@ -84,7 +84,7 @@ Subscribes to the [Region](/patterns-practices/reference/region-class-mspp-regio
 </div>
 (Overrides [RegionBehavior.OnAttach()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionbehavior.onattach).)</td>
 
-(Overrides [RegionBehavior..::.OnAttach()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach).)</td>
+(Overrides [RegionBehavior..::.OnAttach()](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
