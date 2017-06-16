@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.CreateModuleCatalog'
 ms:mtpsurl: 'bootstrapper-createmodulecatalog-method-mspp.md'
 ---
 
-
 # Bootstrapper.CreateModuleCatalog Method
 
 Creates the [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) used by Prism.
@@ -19,7 +18,6 @@ Creates the [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interf
 ```C#
 protected virtual IModuleCatalog CreateModuleCatalog()
 ```
-
 ```VB
 'Declaration
 Protected Overridable Function CreateModuleCatalog As IModuleCatalog
