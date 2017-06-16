@@ -12,7 +12,11 @@ The [PopupWindowAction](/patterns-practices/reference/mspp-interactivity-namespa
 ## Fields
 
 <table>
-
+<colgroup>
+<col width="150">
+<col>
+<col>
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
