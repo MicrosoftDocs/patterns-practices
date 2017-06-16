@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.IModuleExport.
 ms:mtpsurl: 'imoduleexport-moduletype-property-mspp-mefextensions-modularity.md'
 ---
 
-
 # IModuleExport.ModuleType Property
 
 Gets the type of the module.

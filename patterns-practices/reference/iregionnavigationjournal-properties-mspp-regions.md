@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionNavigationJou
 ms:mtpsurl: 'iregionnavigationjournal-properties-mspp-regions.md'
 ---
 
-
 # IRegionNavigationJournal Properties
 
 The [IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjournal-properties-mspp-regions) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

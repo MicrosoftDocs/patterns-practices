@@ -18,6 +18,7 @@ Gets or sets the type loaders used by the module manager.
 ```C#
 public override IEnumerable<IModuleTypeLoader> ModuleTypeLoaders { get; set; }
 ```
+
 ### Property Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity)&gt;
