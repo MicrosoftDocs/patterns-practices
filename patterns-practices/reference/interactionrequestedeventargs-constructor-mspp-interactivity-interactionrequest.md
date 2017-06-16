@@ -10,7 +10,8 @@ ms:mtpsurl: 'interactionrequestedeventargs-constructor-mspp-interactivity-intera
 Constructs a new instance of [InteractionRequestedEventArgs](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) 
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
