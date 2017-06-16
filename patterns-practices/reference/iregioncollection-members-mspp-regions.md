@@ -12,7 +12,7 @@ The [IRegionCollection](/patterns-practices/reference/iregioncollection-interfac
 ## Methods
 
 
-<table>
+<table style="width:100%;">
 
 <thead>
 <tr class="header">
@@ -72,7 +72,7 @@ Removes a [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions
 ## Extension Methods
 
 
-<table>
+<table style="width:100%;">
 
 <thead>
 <tr class="header">
@@ -98,7 +98,7 @@ Adds a region to the regionmanager with the name received as argument.
 ## Properties
 
 
-<table>
+<table style="width:100%;">
 
 <thead>
 <tr class="header">
@@ -122,7 +122,7 @@ Gets the IRegion with the name received as index.
 ## Events
 
 
-<table>
+<table style="width:100%;">
 
 <thead>
 <tr class="header">
