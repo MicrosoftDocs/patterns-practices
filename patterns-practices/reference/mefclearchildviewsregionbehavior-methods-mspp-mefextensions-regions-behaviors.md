@@ -24,11 +24,11 @@ The [MefClearChildViewsRegionBehavior](/patterns-practices/reference/mefclearchi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Attach](/patterns-practices/reference/mspp-regions-namespace.regionbehavior.attach)</td>
+<td>[Attach](/patterns-practices/reference/regionbehavior-attach-method-mspp-regions)</td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div>
-(Inherited from [RegionBehavior](/patterns-practices/reference/mspp-regions-namespace.regionbehavior).)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -72,11 +72,11 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[OnAttach](/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior.onattach)</td>
+<td>[OnAttach](/patterns-practices/reference/clearchildviewsregionbehavior-onattach-method-mspp-regions-behaviors)</td>
 <td><div class="summary">
-Subscribes to the [Region](/patterns-practices/reference/mspp-regions-namespace.region)'s PropertyChanged method to monitor its RegionManager property.
+Subscribes to the [Region](/patterns-practices/reference/region-class-mspp-regions)'s PropertyChanged method to monitor its RegionManager property.
 </div>
-(Inherited from [ClearChildViewsRegionBehavior](/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior).)</td>
+(Inherited from [ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
