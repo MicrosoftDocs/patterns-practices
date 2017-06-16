@@ -17,7 +17,6 @@ The [MefRegionManager](/patterns-practices/reference/mefregionmanager-class-mspp
 <col width="40%" />
 <col width="40%" />
 </colgroup>
-
 <tbody>
 <tr>
 <th>
