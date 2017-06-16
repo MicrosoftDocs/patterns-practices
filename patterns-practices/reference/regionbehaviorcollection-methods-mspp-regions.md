@@ -52,7 +52,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEnumerator]/patterns-practices/reference/regionbehaviorcollection-getenumerator-method-mspp-regions)</td>
+<td>[GetEnumerator](/patterns-practices/reference/regionbehaviorcollection-getenumerator-method-mspp-regions)</td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div></td>

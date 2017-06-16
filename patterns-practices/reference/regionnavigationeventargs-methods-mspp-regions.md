@@ -22,7 +22,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 </tr>
 <tr>
 <td>
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)
@@ -42,7 +42,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 </tr>
 <tr>
 <td>
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+![Public method](/patterns-practices/reference/images/public-method.gif))
 </td>
 <td>
 [GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)
@@ -52,7 +52,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 </tr>
 <tr>
 <td>
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)
@@ -72,7 +72,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 </tr>
 <tr>
 <td>
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)
