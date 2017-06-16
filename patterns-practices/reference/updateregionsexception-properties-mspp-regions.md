@@ -12,7 +12,6 @@ The [UpdateRegionsException](/patterns-practices/reference/updateregionsexceptio
 
 ## Properties
 
-
 <table>
 
 <thead>
@@ -29,7 +28,7 @@ The [UpdateRegionsException](/patterns-practices/reference/updateregionsexceptio
 <td><div class="summary">
 Gets a collection of key/value pairs that provide additional user-defined information about the exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -37,7 +36,7 @@ Gets a collection of key/value pairs that provide additional user-defined inform
 <td><div class="summary">
 Gets or sets a link to the help file associated with this exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -45,15 +44,15 @@ Gets or sets a link to the help file associated with this exception.
 <td><div class="summary">
 Gets or sets HRESULT, a coded numerical value that is assigned to a specific exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[InnerException](http://msdn.microsoft.com/en-us/library/902sca80)</td>
 <td><div class="summary">
-Gets the [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents) instance that caused the current exception.
+Gets the [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59) instance that caused the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -61,7 +60,7 @@ Gets the [Exception](/patterns-practices/reference/ieventsubscription-interface-
 <td><div class="summary">
 Gets a message that describes the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -69,7 +68,7 @@ Gets a message that describes the current exception.
 <td><div class="summary">
 Gets or sets the name of the application or the object that causes the error.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -77,7 +76,7 @@ Gets or sets the name of the application or the object that causes the error.
 <td><div class="summary">
 Gets a string representation of the immediate frames on the call stack.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -85,7 +84,7 @@ Gets a string representation of the immediate frames on the call stack.
 <td><div class="summary">
 Gets the method that throws the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 </tbody>
 </table>

@@ -21,8 +21,7 @@ public IList<ICommand> RegisteredCommands { get; }
 
 ### Property Value
 
-Type: [IList](http://msdn2.microsoft.com/en-us/library/5y536ey6)&lt;[ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)&gt;
-
+Type: [IList](http://msdn2.microsoft.com/en-us/library/5y536ey6)&lt;[ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)&gt;  
 A list of registered commands.
 
 ```VB
@@ -33,8 +32,7 @@ Public ReadOnly Property RegisteredCommands As IList(Of ICommand)
 
 ### Property Value
 
-Type: [IList](http://msdn2.microsoft.com/en-us/library/5y536ey6)(Of [ICommand](http://msdn2.microsoft.com/en-us/library/ms616869))
-
+Type: [IList](http://msdn2.microsoft.com/en-us/library/5y536ey6)(Of [ICommand](http://msdn2.microsoft.com/en-us/library/ms616869))  
 A list of registered commands.
 
 ## Remarks
