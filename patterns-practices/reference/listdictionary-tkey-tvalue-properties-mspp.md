@@ -8,7 +8,7 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-properties-mspp.md'
 
 # ListDictionary(Of TKey, TValue) Properties
 
-The [ListDictionary(Of TKey, TValue)](/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest) type exposes the following members.
+The [ListDictionary(Of TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp) type exposes the following members.
 
 ## Properties
 
@@ -56,5 +56,5 @@ Gets a shallow copy of all values in all lists.
 
 ## See Also
 
-[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest)  
+[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)  
