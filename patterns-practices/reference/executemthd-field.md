@@ -21,8 +21,6 @@ protected readonly Func<Object, Task> _executeMethod
 
 Type: [Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;
 
-## Syntax
-
 ```VB  
 'Declaration
 Protected ReadOnly _executeMethod As Func(Of Object, Task)

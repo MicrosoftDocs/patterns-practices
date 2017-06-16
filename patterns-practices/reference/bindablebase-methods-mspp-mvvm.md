@@ -12,7 +12,6 @@ The [BindableBase](/patterns-practices/reference/bindablebase-class-mspp-mvvm) t
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

@@ -44,8 +44,6 @@ Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 Default list size.
 
 
-## Syntax
-
 ```VB  
 'Declaration
 Public Shared Sub AddWeakReferenceHandler ( 

@@ -27,13 +27,13 @@ public DispatcherEventSubscription(
 
 *actionReference*  
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference)
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
 
 A reference to a delegate of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference)
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
 
 A reference to a delegate of type [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
@@ -53,8 +53,7 @@ The synchronization context to use for UI thread dispatching.
 ## See Also
 
 [DispatcherEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)  
-DispatcherEventSubscription&lt;TPayload&gt; Members
-
+DispatcherEventSubscription&lt;TPayload&gt; Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  
 
 # DispatcherEventSubscription(Of TPayload) Constructor
@@ -62,7 +61,8 @@ DispatcherEventSubscription&lt;TPayload&gt; Members
 Creates a new instance of [BackgroundEventSubscription(Of TPayload)](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)  
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
+**Version:** 1.0.0.0 (1.0.0.0)  
 
 ## Syntax
 
@@ -79,13 +79,13 @@ Public Sub New (
 
 *actionReference*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference)
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
 
 A reference to a delegate of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference* 
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference)
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
 
 A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
@@ -105,6 +105,5 @@ The synchronization context to use for UI thread dispatching.
 ## See Also
 
 [DispatcherEventSubscription(Of TPayload) Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)  
-DispatcherEventSubscription(Of TPayload) Members
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+DispatcherEventSubscription(Of TPayload) Members  
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  
