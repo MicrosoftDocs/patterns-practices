@@ -8,10 +8,10 @@ ms:mtpsurl: 'bindablebase-members-mspp-mvvm.md'
 
 # BindableBase Members
 
-The [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
+The [BindableBase](/patterns-practices/reference/bindablebase-class-mspp-mvvm) type exposes the following members.
+
 
 ## Constructors
-
 
 <table>
 
@@ -27,7 +27,7 @@ The [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>BindableBase</td>
 <td><div class="summary">
-Initializes a new instance of the [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase) class
+Initializes a new instance of the [BindableBase](/patterns-practices/reference/bindablebase-class-mspp-mvvm) class
 </div></td>
 </tr>
 </tbody>
@@ -88,14 +88,14 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[OnPropertyChanged(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(system.string))</td>
+<td>[OnPropertyChanged(String)](/patterns-practices/reference/bindablebase-onpropertychanged-method-mspp-mvvm)</td>
 <td><div class="summary">
 Notifies listeners that a property value has changed.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[OnPropertyChanged&lt;T&gt;(Expression&lt;Func&lt;T&gt;&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged)</td>
+<td>[OnPropertyChanged&lt;T&gt;(Expression&lt;Func&lt;T&gt;&gt;)](/patterns-practices/reference/bindablebase-onpropertychanged-method-mspp-mvvm)</td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
@@ -133,7 +133,7 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[PropertyChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.propertychanged)</td>
+<td>[PropertyChanged](/patterns-practices/reference/bindablebase-propertychanged-event-mspp-mvvm)</td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div></td>
@@ -143,5 +143,5 @@ Occurs when a property value changes.
 
 ## See Also
 
-[BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)  
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)  
+[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)  
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  
