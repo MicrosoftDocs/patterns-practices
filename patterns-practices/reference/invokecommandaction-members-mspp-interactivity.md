@@ -418,7 +418,7 @@ Enforces that the calling thread has access to this [DispatcherObject](http://ms
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[WritePostscript](http://msdn.microsoft.com/en-us/library/ms557762)</td>
 <td><div class="summary">
-Raises the [Changed](http://msdn.microsoft.com/en-us/library/ms596566) event for the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) and invokes its [OnChanged()()()](http://msdn.microsoft.com/en-us/library/ms557749) method. Classes that derive from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) should call this method at the end of any API that modifies class members that are not stored as dependency properties.
+Raises the [Changed](http://msdn.microsoft.com/en-us/library/ms596566) event for the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) and invokes its [OnChanged()](http://msdn.microsoft.com/en-us/library/ms557749) method. Classes that derive from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) should call this method at the end of any API that modifies class members that are not stored as dependency properties.
 </div>
 (Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)</td>
 </tr>
@@ -447,14 +447,14 @@ Verifies that the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) 
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[CommandParameterProperty](/patterns-practices/reference/invokecommandaction-commandparameterproperty-field-mspp-interactivity)</td>
 <td><div class="summary">
 Dependency property identifying the command parameter to supply on command execution.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[CommandProperty](/patterns-practices/reference/invokecommandaction-commandproperty-field-mspp-interactivity
 )</td>
 <td><div class="summary">
@@ -462,7 +462,7 @@ Dependency property identifying the command to execute when invoked.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[TriggerParameterPathProperty](/patterns-practices/reference/invokecommandaction-triggerparameterpathproperty-field-mspp-interactivity
 )</td>
 <td><div class="summary">

@@ -8,7 +8,7 @@ ms:mtpsurl: 'dataeventargs-tdata-methods-mspp-pubsubevents.md'
 
 # DataEventArgs(Of TData) Methods
 
-The [DataEventArgs(Of TData)](/patterns-practices/reference/mspp-mvvm-namespace.dataeventargs) type exposes the following members.
+The [DataEventArgs(Of TData)](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -57,9 +57,9 @@ Serves as a hash function for a particular type.
 <td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 
 <td><div class="summary">
-Gets the [Type]("http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
+Gets the [Type](https://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
-(Inherited from [Object]("http://msdn.microsoft.com/en-us/library/e5kfa45b).</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).</td>
 </tr>
 <tr class="odd">
 
@@ -86,5 +86,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[DataEventArgs(Of TData) Class](/patterns-practices/reference/mspp-mvvm-namespace.dataeventargs)  
+[DataEventArgs(Of TData) Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  

@@ -41,8 +41,7 @@ The payload to pass action while invoking it.
 ## See Also
 
 [BackgroundEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)  
-BackgroundEventSubscription&lt;TPayload&gt; Members
-
+BackgroundEventSubscription&lt;TPayload&gt; Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  
 
 
@@ -82,6 +81,5 @@ The payload to pass action while invoking it.
 ## See Also
 
 [BackgroundEventSubscription(Of TPayload) Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)  
-BackgroundEventSubscription(Of TPayload) Members
-
+BackgroundEventSubscription(Of TPayload) Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  
