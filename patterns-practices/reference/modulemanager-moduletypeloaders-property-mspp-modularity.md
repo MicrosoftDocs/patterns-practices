@@ -4,6 +4,7 @@ Title: 'ModuleManager.ModuleTypeLoaders Property (Microsoft.Practices.Prism.Modu
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleManager.ModuleTypeLoaders'
 ms:mtpsurl: 'modulemanager-moduletypeloaders-property-mspp-modularity.md'
 ---
+
 # ModuleManager.ModuleTypeLoaders Property
 
 Returns the list of registered [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity) instances that will be used to load the types of modules.
@@ -40,4 +41,3 @@ The module type loaders.
 [ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)  
 [ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
-

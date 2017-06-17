@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionViewRegistry.GetContents(
 ms:mtpsurl: 'regionviewregistry-getcontents-method-mspp-regions.md'
 ---
 
-
 # RegionViewRegistry.GetContents Method
 
 Returns the contents registered for a region.
@@ -32,9 +31,11 @@ Name of the region which content is being requested.
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;  
 Collection of contents registered for the region.
+
 ### Implements
 
 [IRegionViewRegistry.GetContents(String)](/patterns-practices/reference/iregionviewregistry-getcontents-method-mspp-regions)
+
 
 ```VB
 'Declaration
@@ -53,6 +54,7 @@ Name of the region which content is being requested.
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))  
 Collection of contents registered for the region.
+
 ### Implements
 
 [IRegionViewRegistry.GetContents(String)](/patterns-practices/reference/iregionviewregistry-getcontents-method-mspp-regions)

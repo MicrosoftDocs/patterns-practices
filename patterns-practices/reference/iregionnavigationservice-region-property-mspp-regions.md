@@ -19,8 +19,6 @@ Gets or sets the region owning this service.
 IRegion Region { get; set; }
 ```
 
-## Syntax
-
 ```VB
 'Declaration
 Property Region As IRegion

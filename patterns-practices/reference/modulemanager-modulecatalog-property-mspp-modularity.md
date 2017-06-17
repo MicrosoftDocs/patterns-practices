@@ -4,6 +4,7 @@ Title: 'ModuleManager.ModuleCatalog Property (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleManager.ModuleCatalog'
 ms:mtpsurl: 'modulemanager-modulecatalog-property-mspp-modularity.md'
 ---
+
 # ModuleManager.ModuleCatalog Property
 
 The module catalog specified in the constructor.
@@ -33,4 +34,3 @@ Type: [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-ms
 [ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)  
 [ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
-

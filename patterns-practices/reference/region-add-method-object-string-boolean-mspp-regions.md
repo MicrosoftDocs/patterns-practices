@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Add(System.Object,System
 ms:mtpsurl: 'region-add-method-mspp-regions.md'
 ---
 
-
 # Region.Add Method (Object, String, Boolean)
 
 Adds a new view to the region.
@@ -42,6 +41,7 @@ When **truetrue** (**True** in Visual Basic), the added view will receive a new 
 
 Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) that is set on the view if it is a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).
+
 ### Implements
 
 [IRegion.Add(Object, String, Boolean)](/patterns-practices/reference/iregion-add-method-object-string-boolean-mspp-regions)
@@ -73,6 +73,7 @@ When **Truetrue** (**True** in Visual Basic), the added view will receive a new 
 
 Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) that is set on the view if it is a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).
+
 ### Implements
 
 [IRegion.Add(Object, String, Boolean)](/patterns-practices/reference/iregion-add-method-object-string-boolean-mspp-regions)

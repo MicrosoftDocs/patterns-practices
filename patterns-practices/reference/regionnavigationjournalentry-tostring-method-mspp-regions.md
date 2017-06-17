@@ -32,4 +32,3 @@ A [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) that represents thi
 [RegionNavigationJournalEntry Class](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)  
 [RegionNavigationJournalEntry Members](/patterns-practices/reference/regionnavigationjournalentry-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
-

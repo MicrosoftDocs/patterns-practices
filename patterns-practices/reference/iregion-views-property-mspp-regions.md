@@ -14,6 +14,7 @@ Gets a readonly view of the collection of views in the region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 IViewsCollection Views { get; }
 ```
@@ -26,8 +27,8 @@ ReadOnly Property Views As IViewsCollection
 
 ### Property Value
 
-Type: [IViewsCollection](/patterns-practices/reference/mspp-regions-namespace.iviewscollection)  
-An [IViewsCollection](/patterns-practices/reference/mspp-regions-namespace.iviewscollection) of all the added views.
+Type: [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions)  
+An [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions) of all the added views.
 
 ## See Also
 

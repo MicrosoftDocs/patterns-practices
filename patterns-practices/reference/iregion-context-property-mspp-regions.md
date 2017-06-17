@@ -14,6 +14,7 @@ Gets or sets a context for the region. This value can be used by the user to sha
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 Object Context { get; set; }
 ```
@@ -25,7 +26,6 @@ Property Context As Object
 	Set
 ```
 
-Object Context { get; set; }Property Context As Object Get Set
 ### Property Value
 
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
