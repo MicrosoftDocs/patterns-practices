@@ -23,7 +23,7 @@ The [NavigationParameters](/patterns-practices/reference/navigationparameters-cl
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Add](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.add(system.string%2csystem.object))</td>
+<td>[Add](/patterns-practices/reference/navigationparameters-add-method-mspp-regions)</td>
 <td><div class="summary">
 Adds the specified key and value.
 </div></td>
@@ -46,7 +46,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEnumerator](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.getenumerator)</td>
+<td>[GetEnumerator](/patterns-practices/reference/navigationparameters-getenumerator-method-mspp-regions)</td>
 <td><div class="summary">
 Gets the enumerator.
 </div></td>
@@ -77,7 +77,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ToString](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.tostring)</td>
+<td>[ToString](/patterns-practices/reference/navigationparameters-tostring-method-mspp-regions)</td>
 <td><div class="summary">
 Converts the list of key value pairs to a query string.
 </div>

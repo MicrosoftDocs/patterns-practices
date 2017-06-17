@@ -21,7 +21,7 @@ ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>NavigationParameters()</td>
+<td>NavigationParameters</td>
 <td><div class="summary">
 Initializes a new instance of the [NavigationParameters](/patterns-practices/reference/mspp-regions-namespace.navigationparameters) class.
 </div></td>
