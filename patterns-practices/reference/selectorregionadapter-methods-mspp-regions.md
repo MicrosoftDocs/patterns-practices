@@ -28,7 +28,7 @@ The [SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-
 <td><div class="summary">
 Adapts an [Selector](http://msdn.microsoft.com/en-us/library/ms595227) to an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 </div>
-(Overrides [RegionAdapterBase&lt;T&lgt;.Adapt(IRegion, T)](/patterns-practices/reference/regionadapterbase-t-adapt-method-mspp-regions).)</td>
+(Overrides [RegionAdapterBase&lt;T&gt;.Adapt(IRegion, T)](/patterns-practices/reference/regionadapterbase-t-adapt-method-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -114,12 +114,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-<<<<<<< HEAD
 
-[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-=======
-[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)  
+[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
->>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8
