@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionCollection.Item(System.S
 ms:mtpsurl: 'iregioncollection-item-property-mspp-regions.md'
 ---
 
-
 # IRegionCollection.Item Property
 
 Gets the IRegion with the name received as index.

@@ -14,9 +14,20 @@ Gets or sets the [IRegionManager](/patterns-practices/reference/iregionmanager-i
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 IRegionManager RegionManager { get; set; }
 ```
+
+# IRegion.RegionManager Property
+
+Gets or sets the [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) that will be passed to the views when adding them to the region, unless the view is added by specifying createRegionManagerScope as **Truetrue** (**True** in Visual Basic).
+
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
 
 ```VB
 'Declaration

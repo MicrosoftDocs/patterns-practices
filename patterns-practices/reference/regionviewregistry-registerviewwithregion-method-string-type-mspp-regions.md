@@ -4,6 +4,7 @@ Title: 'RegionViewRegistry.RegisterViewWithRegion Method (String, Type) (Microso
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionViewRegistry.RegisterViewWithRegion(System.String,System.Type)'
 ms:mtpsurl: 'regionviewregistry-registerviewwithregion-method-mspp-regions.md'
 ---
+
 # RegionViewRegistry.RegisterViewWithRegion Method (String, Type)
 
 Registers a content type with a region name.
@@ -13,6 +14,7 @@ Registers a content type with a region name.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public void RegisterViewWithRegion(
 	string regionName,
@@ -48,4 +50,3 @@ Content type to be registered for the *regionName*.
 [RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)  
 [RegisterViewWithRegion Overload](/patterns-practices/reference/regionviewregistry-registerviewwithregion-method-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
-

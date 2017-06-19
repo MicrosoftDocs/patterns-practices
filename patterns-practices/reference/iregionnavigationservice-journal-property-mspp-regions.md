@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationService.Journa
 ms:mtpsurl: 'iregionnavigationservice-journal-property-mspp-regions.md'
 ---
 
-
 # IRegionNavigationService.Journal Property
 
 Gets the journal.
@@ -19,6 +18,7 @@ Gets the journal.
 ```C#
 IRegionNavigationJournal Journal { get; }
 ```
+
 ```VB
 'Declaration
 ReadOnly Property Journal As IRegionNavigationJournal
@@ -27,20 +27,11 @@ ReadOnly Property Journal As IRegionNavigationJournal
 
 ### Property Value
 
-Type: [IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)
-
+Type: [IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)  
 The journal.
 
 ## See Also
-<<<<<<< HEAD
 
-[IRegionNavigationService Interface](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)
-
-[IRegionNavigationService Members](/patterns-practices/reference/iregionnavigationservice-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-=======
-[IRegionNavigationService Interface](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)  
+[IRegionNavigationService Interface](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)  
 [IRegionNavigationService Members](/patterns-practices/reference/iregionnavigationservice-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
->>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

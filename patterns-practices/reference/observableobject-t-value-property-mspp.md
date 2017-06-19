@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.ObservableObject\`1.Value'
 ms:mtpsurl: 'observableobject-t-value-property-mspp.md'
 ---
 
-
 # ObservableObject&lt;T&gt;.Value Property
 
 The value that's wrapped inside the ObservableObject.

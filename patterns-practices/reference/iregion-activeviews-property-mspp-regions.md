@@ -14,6 +14,7 @@ Gets a readonly view of the collection of all the active views in the region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 IViewsCollection ActiveViews { get; }
 ```
