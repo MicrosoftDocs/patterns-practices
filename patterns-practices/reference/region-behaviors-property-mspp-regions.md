@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Behaviors'
 ms:mtpsurl: 'region-behaviors-property-mspp-regions.md'
 ---
 
-
 # Region.Behaviors Property
 
 Gets the collection of [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)s that can extend the behavior of regions.
@@ -15,9 +14,11 @@ Gets the collection of [IRegionBehavior](/patterns-practices/reference/iregionbe
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public IRegionBehaviorCollection Behaviors { get; }
 ```
+
 ```VB
 'Declaration
 Public ReadOnly Property Behaviors As IRegionBehaviorCollection
@@ -27,6 +28,7 @@ Public ReadOnly Property Behaviors As IRegionBehaviorCollection
 ### Property Value
 
 Type: [IRegionBehaviorCollection](/patterns-practices/reference/iregionbehaviorcollection-interface-mspp-regions)  
+
 ### Implements
 
 [IRegion.Behaviors](/patterns-practices/reference/iregion-behaviors-property-mspp-regions)
