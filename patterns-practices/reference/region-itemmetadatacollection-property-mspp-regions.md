@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.ItemMetadataCollection'
 ms:mtpsurl: 'region-itemmetadatacollection-property-mspp-regions.md'
 ---
 
-
 # Region.ItemMetadataCollection Property
 
 Gets the collection with all the views along with their metadata.
