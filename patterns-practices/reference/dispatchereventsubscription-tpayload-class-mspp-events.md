@@ -36,7 +36,7 @@ The type to use for the generic [Action&lt;T&gt;](http://msdn.microsoft.com/en-u
 
 [DispatcherEventSubscription&lt;TPayload&gt; Members](/patterns-practices/reference/dispatchereventsubscription-tpayload-members-mspp-events)  
 [Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)  
-----------------------------
+
 
 # DispatcherEventSubscription(Of TPayload) Class
 
