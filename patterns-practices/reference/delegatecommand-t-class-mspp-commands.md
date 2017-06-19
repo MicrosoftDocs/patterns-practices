@@ -46,15 +46,14 @@ private bool CanSubmit(int? customerId)
 ```
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft-Practices-Prism-Commands-DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)
-    Microsoft.Practices.Prism.Commands.DelegateCommand&lt;T&gt;
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft-Practices-Prism-Commands-DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
+Microsoft.Practices.Prism.Commands.DelegateCommand&lt;T&gt;
 
 ## See Also
 
 [DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  
--------------------
 
 # DelegateCommand(Of T) Class
 
@@ -98,9 +97,9 @@ private bool CanSubmit(int? customerId)
 ```
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft-Practices-Prism-Commands-DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)
-    Microsoft.Practices.Prism.Commands.DelegateCommand(Of T)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft-Practices-Prism-Commands-DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
+Microsoft.Practices.Prism.Commands.DelegateCommand(Of T)
 
 ## See Also
 
