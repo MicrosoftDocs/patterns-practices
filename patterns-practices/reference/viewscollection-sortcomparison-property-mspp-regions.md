@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ViewsCollection.SortComparison'
 ms:mtpsurl: 'viewscollection-sortcomparison-property-mspp-regions.md'
 ---
 
-
 # ViewsCollection.SortComparison Property
 
 Gets or sets the comparison used to sort the views.
@@ -15,6 +14,7 @@ Gets or sets the comparison used to sort the views.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public Comparison<Object> SortComparison { get; set; }
 ```
