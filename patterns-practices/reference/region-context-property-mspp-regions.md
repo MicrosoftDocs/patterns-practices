@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Context'
 ms:mtpsurl: 'region-context-property-mspp-regions.md'
 ---
 
-
 # Region.Context Property
 
 Gets or sets a context for the region. This value can be used by the user to share context with the views.
@@ -15,9 +14,11 @@ Gets or sets a context for the region. This value can be used by the user to sha
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public Object Context { get; set; }
 ```
+
 ```VB
 'Declaration
 Public Property Context As Object
@@ -28,7 +29,8 @@ Public Property Context As Object
 ### Property Value
 
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-The context value to be shared.  
+The context value to be shared. 
+ 
 ### Implements
 
 [IRegion.Context](/patterns-practices/reference/iregion-context-property-mspp-regions)
