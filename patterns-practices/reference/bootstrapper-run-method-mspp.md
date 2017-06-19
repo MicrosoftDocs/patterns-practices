@@ -22,7 +22,7 @@ ms:mtpsurl: 'bootstrapper-run-method-boolean-mspp.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Run](/patterns-practices/reference/run-mthd)</td>
+<td>[Run()](/patterns-practices/reference/run-mthd)</td>
 <td><div class="summary">
 Runs the bootstrapper process.
 </div></td>

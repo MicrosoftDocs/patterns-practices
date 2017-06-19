@@ -35,8 +35,7 @@ Protected Function CreateDefaultWindow (
 
 *notification*
   
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest)
-
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest)<br/>
 The INotification or IConfirmation parameter to show.
 
 ### Return Value

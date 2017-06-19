@@ -4,6 +4,7 @@ Title: 'RegionNavigationContentLoader.LoadContent Method (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.LoadContent(Microsoft.Practices.Prism.Regions.IRegion,Microsoft.Practices.Prism.Regions.NavigationContext)'
 ms:mtpsurl: 'regionnavigationcontentloader-loadcontent-method-mspp-regions.md'
 ---
+
 # RegionNavigationContentLoader.LoadContent Method
 
 Gets the view to which the navigation request represented by *navigationContext* applies.
@@ -13,6 +14,7 @@ Gets the view to which the navigation request represented by *navigationContext*
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public Object LoadContent(
 	IRegion region,
@@ -42,13 +44,14 @@ The context representing the navigation request.
 
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The view to be the target of the navigation request.
+
 ### Implements
 
 [IRegionNavigationContentLoader.LoadContent(IRegion, NavigationContext)](/patterns-practices/reference/iregionnavigationcontentloader-loadcontent-method-mspp-regions)
 
 ## Remarks
 
- If none of the views in the region can be the target of the navigation request, a new view is created and added to the region.
+If none of the views in the region can be the target of the navigation request, a new view is created and added to the region.
 
 ## Exceptions
 
@@ -61,4 +64,3 @@ The view to be the target of the navigation request.
 [RegionNavigationContentLoader Class](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions)  
 [RegionNavigationContentLoader Members](/patterns-practices/reference/regionnavigationcontentloader-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
-

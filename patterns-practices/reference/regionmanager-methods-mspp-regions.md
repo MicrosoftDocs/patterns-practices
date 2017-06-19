@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionmanager-methods-mspp-regions.md'
 
 # RegionManager Methods
 
-The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager) type exposes the following members.
+The [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -22,7 +22,7 @@ The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[CreateRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.createregionmanager)</td>
+<td>[CreateRegionManager](/patterns-practices/reference/regionmanager-createregionmanager-method-mspp-regions)</td>
 <td><div class="summary">
 Creates a new region manager.
 </div></td>
@@ -53,30 +53,30 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[GetObservableRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.getobservableregion(system.windows.dependencyobject))</td>
+<td>[GetObservableRegion](/patterns-practices/reference/regionmanager-getobservableregion-method-mspp-regions)</td>
 <td><div class="summary">
-Returns an [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) wrapper that can hold an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion). Using this wrapper you can detect when an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) has been created by the [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions). If the [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) wrapper does not yet exist, a new wrapper will be created. When the region gets created and assigned to the wrapper, you can use the [PropertyChanged](/patterns-practices/reference/observableobject-t-class-mspp.propertychanged) event to get notified of that change.
+Returns an [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) wrapper that can hold an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions). Using this wrapper you can detect when an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) has been created by the [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions). If the [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) wrapper does not yet exist, a new wrapper will be created. When the region gets created and assigned to the wrapper, you can use the [PropertyChanged](/patterns-practices/reference/observableobject-t-class-mspp.propertychanged) event to get notified of that change.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[GetRegionContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.getregioncontext(system.windows.dependencyobject))</td>
+<td>[GetRegionContext](/patterns-practices/reference/regionmanager-getregioncontext-method-mspp-regions)</td>
 <td><div class="summary">
-Gets the value of the [RegionContextProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regioncontextproperty) attached property.
+Gets the value of the [RegionContextProperty](/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions) attached property.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[GetRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.getregionmanager(system.windows.dependencyobject))</td>
+<td>[GetRegionManager](/patterns-practices/reference/regionmanager-getregionmanager-method-mspp-regions)</td>
 <td><div class="summary">
-Gets the value of the [RegionNameProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionnameproperty) attached property.
+Gets the value of the [RegionNameProperty](/patterns-practices/reference/regionmanager-regionnameproperty-field-mspp-regions) attached property.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[GetRegionName](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.getregionname(system.windows.dependencyobject))</td>
+<td>[GetRegionName](/patterns-practices/reference/regionmanager-getregionname-method-mspp-regions)</td>
 <td><div class="summary">
-Gets the value for the [RegionNameProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionnameproperty) attached property.
+Gets the value for the [RegionNameProperty](/patterns-practices/reference/regionmanager-regionnameproperty-field-mspp-regions) attached property.
 </div></td>
 </tr>
 <tr class="odd">
@@ -97,23 +97,23 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[SetRegionContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.setregioncontext(system.windows.dependencyobject%2csystem.object))</td>
+<td>[SetRegionContext](/patterns-practices/reference/regionmanager-setregioncontext-method-mspp-regions)</td>
 <td><div class="summary">
-Sets the [RegionContextProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regioncontextproperty) attached property.
+Sets the [RegionContextProperty](/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions) attached property.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[SetRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.setregionmanager(system.windows.dependencyobject%2cmicrosoft.practices.prism.regions.iregionmanager))</td>
+<td>[SetRegionManager](/patterns-practices/reference/regionmanager-setregionmanager-method-mspp-regions)</td>
 <td><div class="summary">
-Sets the [RegionManagerProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanagerproperty) attached property.
+Sets the [RegionManagerProperty](/patterns-practices/reference/regionmanager-regionmanagerproperty-field-mspp-regions) attached property.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[SetRegionName](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.setregionname(system.windows.dependencyobject%2csystem.string))</td>
+<td>[SetRegionName](/patterns-practices/reference/regionmanager-setregionname-method-mspp-regions)</td>
 <td><div class="summary">
-Sets the [RegionNameProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionnameproperty) attached property.
+Sets the [RegionNameProperty](/patterns-practices/reference/regionmanager-regionnameproperty-field-mspp-regions) attached property.
 </div></td>
 </tr>
 <tr class="even">
@@ -126,7 +126,7 @@ Returns a string that represents the current object.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[UpdateRegions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.updateregions)</td>
+<td>[UpdateRegions](/patterns-practices/reference/regionmanager-updateregions-method-mspp-regions)</td>
 <td><div class="summary">
 Notifies attached behaviors to update the region managers appropriatelly if needed to.
 </div></td>
@@ -147,11 +147,11 @@ Notifies attached behaviors to update the region managers appropriatelly if need
 <tbody>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[AddToRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.addtoregion(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.object))</td>
+<td>[AddToRegion](/patterns-practices/reference/regionmanagerextensions-addtoregion-method-mspp-regions)</td>
 <td><div class="summary">
 Add a view to the Views collection of a Region. Note that the region must already exist in this regionmanager.
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -160,7 +160,7 @@ Add a view to the Views collection of a Region. Note that the region must alread
 <div class="summary">
 Associate a view with a region, by registering a type. When the region get's displayed this type will be resolved using the ServiceLocator into a concrete instance. The instance will be added to the Views collection of the region
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -169,7 +169,7 @@ Associate a view with a region, by registering a type. When the region get's dis
 <div class="summary">
 Associate a view with a region, using a delegate to resolve a concreate instance of the view. When the region get's displayed, this delelgate will be called and the result will be added to the views collection of the region.
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -178,7 +178,7 @@ Associate a view with a region, using a delegate to resolve a concreate instance
 <div class="summary">
 Navigates the specified region manager.
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -187,7 +187,7 @@ Navigates the specified region manager.
 <div class="summary">
 Navigates the specified region manager.
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -196,7 +196,7 @@ Navigates the specified region manager.
 <div class="summary">
 Navigates the specified region manager.
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -205,7 +205,7 @@ Navigates the specified region manager.
 <div class="summary">
 Navigates the specified region manager.
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -214,7 +214,7 @@ Navigates the specified region manager.
 <div class="summary">
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target Uri, passing an instance of NavigationParameters, which holds a collection of object parameters.
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -223,7 +223,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 <div class="summary">
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target string, passing an instance of NavigationParameters, which holds a collection of object parameters.
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -232,7 +232,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 <div class="summary">
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target Uri, passing a navigation callback and an instance of NavigationParameters, which holds a collection of object parameters.
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
@@ -241,12 +241,12 @@ This method allows an IRegionManager to locate a specified region and navigate i
 <div class="summary">
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target string, passing a navigation callback and an instance of NavigationParameters, which holds a collection of object parameters.
 </div>
-(Defined by [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions).)</td>
+(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanager-class-mspp-regionsextensions).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

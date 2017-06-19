@@ -14,6 +14,7 @@ Gets a value that indicates whether there is at least one entry in the back navi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 bool CanGoBack { get; }
 ```

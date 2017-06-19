@@ -31,10 +31,8 @@ This allows the MefBootstrapper to provide this class as a default implementatio
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-[Microsoft.Practices.Prism.Regions.RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.Regions.RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)  
 Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService
 
 ## See Also

@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehavior
 ms:mtpsurl: 'mefregionbehaviorfactory-class-mspp-mefextensions-regions.md'
 ---
 
-
 # MefRegionBehaviorFactory Class
 
 Exports the RegionBehaviorFactory using the Managed Extensibility Framework (MEF).
@@ -28,13 +27,13 @@ Public Class MefRegionBehaviorFactory
 
 ## Remarks
 
-&nbsp;&nbsp;This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
+This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionBehaviorFactory](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.Regions.RegionBehaviorFactory](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions)  
+Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory
 
 ## See Also
 

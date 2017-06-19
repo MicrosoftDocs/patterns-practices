@@ -4,6 +4,7 @@ Title: 'ModulesConfigurationSection.Modules Property (Microsoft.Practices.Prism.
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection.Modules'
 ms:mtpsurl: 'modulesconfigurationsection-modules-property-mspp-modularity.md'
 ---
+
 # ModulesConfigurationSection.Modules Property
 
 Gets or sets the collection of modules configuration.
@@ -35,4 +36,3 @@ A [ModuleConfigurationElementCollection](/patterns-practices/reference/modulecon
 [ModulesConfigurationSection Class](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)  
 [ModulesConfigurationSection Members](/patterns-practices/reference/modulesconfigurationsection-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
-

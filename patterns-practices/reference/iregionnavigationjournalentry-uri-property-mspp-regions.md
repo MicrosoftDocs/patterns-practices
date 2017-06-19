@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry.U
 ms:mtpsurl: 'iregionnavigationjournalentry-uri-property-mspp-regions.md'
 ---
 
-
 # IRegionNavigationJournalEntry.Uri Property
 
 Gets or sets the URI.

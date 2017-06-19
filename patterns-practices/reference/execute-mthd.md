@@ -30,7 +30,7 @@ Executes the command.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[Execute(Object)](/patterns-practices/reference/delegatecommandbase-execute-method-mspp-commands)</td>
 <td><div class="summary">
-Executes the command with the provided parameter by invoking the [Action&lt;T&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) supplied during construction.
+Executes the command with the provided parameter by invoking the [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8) supplied during construction.
 </div>
 (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>
 </tr>

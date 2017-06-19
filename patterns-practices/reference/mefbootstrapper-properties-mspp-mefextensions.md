@@ -54,7 +54,7 @@ Gets the default [IModuleCatalog](/patterns-practices/reference/imodulecatalog-i
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Shell[(/patterns-practices/reference/bootstrapper-shell-property-mspp)</td>
+<td>[Shell](/patterns-practices/reference/bootstrapper-shell-property-mspp)</td>
 <td><div class="summary">
 Gets the shell user interface
 </div>

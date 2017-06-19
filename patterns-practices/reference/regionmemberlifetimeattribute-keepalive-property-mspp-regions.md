@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute.K
 ms:mtpsurl: 'regionmemberlifetimeattribute-keepalive-property-mspp-regions.md'
 ---
 
-
 # RegionMemberLifetimeAttribute.KeepAlive Property
 
 Determines if the region member should be kept-alive when deactivated.
@@ -15,15 +14,18 @@ Determines if the region member should be kept-alive when deactivated.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public bool KeepAlive { get; set; }
 ```
+
 ```VB
 'Declaration
 Public Property KeepAlive As Boolean
 	Get
 	Set
 ```
+
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)

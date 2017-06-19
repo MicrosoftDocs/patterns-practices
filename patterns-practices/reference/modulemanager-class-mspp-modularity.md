@@ -10,8 +10,6 @@ ms:mtpsurl: 'modulemanager-class-mspp-modularity.md'
 
 Component responsible for coordinating the modules' type loading and module initialization process.
 
-Component responsible for coordinating the modules' type loading and module initialization process.
-
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -32,8 +30,8 @@ Public Class ModuleManager
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-Microsoft.Practices.Prism.Modularity.ModuleManager
-[Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager](/patterns-practices/reference/mefmodulemanager-class-mspp-mefextensions-modularity)
+  Microsoft.Practices.Prism.Modularity.ModuleManager  
+    [Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager](/patterns-practices/reference/mefmodulemanager-class-mspp-mefextensions-modularity)
 
 ## See Also
 

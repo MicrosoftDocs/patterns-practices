@@ -14,6 +14,7 @@ Gets or sets the navigation service.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 IRegionNavigationService NavigationService { get; set; }
 ```

@@ -25,10 +25,8 @@ The [MefClearChildViewsRegionBehavior](/patterns-practices/reference/mefclearchi
 
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 
-<td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions
-)</td>
-<td><div class="summary">
-Returns **truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **falsefalse** (**False** in Visual Basic) otherwise.
+<td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
+<td><div class="summary">Returns **truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **falsefalse** (**False** in Visual Basic) otherwise.
 </div>
 (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
@@ -47,5 +45,5 @@ Behavior's attached region.
 
 ## See Also
 
-[MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)  
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)  
+[MefClearChildViewsRegionBehavior Class](/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors)  
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)  

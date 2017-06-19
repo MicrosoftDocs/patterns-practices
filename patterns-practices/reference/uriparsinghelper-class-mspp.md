@@ -10,7 +10,7 @@ ms:mtpsurl: 'uriparsinghelper-class-mspp.md'
 
 Helper class for parsing [Uri](http://msdn.microsoft.com/en-us/library/txt7706a) instances.
 
-*mspp-*Namespace:** [Microsoft-Practices-Prism](https://msdn-microsoft-com/library/microsoft-practices-prism-namespace)  
+**Namespace:** [Microsoft-Practices-Prism](/patterns-practices/reference/mspp-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -31,4 +31,4 @@ Public NotInheritable Class UriParsingHelper
 ## See Also
 
 [UriParsingHelper Members](/patterns-practices/reference/uriparsinghelper-members-mspp)  
-[mspp-Microsoft-Practices-Prism Namespace](https://msdn-microsoft-com/library/microsoft-practices-prism-namespace)  
+[mspp-Microsoft-Practices-Prism Namespace](/patterns-practices/reference/mspp-namespace)  

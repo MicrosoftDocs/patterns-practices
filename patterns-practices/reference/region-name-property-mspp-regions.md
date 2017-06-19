@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Name'
 ms:mtpsurl: 'region-name-property-mspp-regions.md'
 ---
 
-
 # Region.Name Property
 
 Gets the name of the region that uniequely identifies the region within a [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions).
@@ -15,9 +14,11 @@ Gets the name of the region that uniequely identifies the region within a [IRegi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public string Name { get; set; }
 ```
+
 ```VB
 'Declaration
 Public Property Name As String
@@ -29,6 +30,7 @@ Public Property Name As String
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the region.  
+
 ### Implements
 
 [IRegion.Name](/patterns-practices/reference/iregion-name-property-mspp-regions)

@@ -15,7 +15,7 @@ Exports the RegionNavigationJournalEntry using the Managed Extensibility Framewo
 
 ## Syntax
 
-```c#
+```C#
 public class MefRegionNavigationJournalEntry : RegionNavigationJournalEntry
 ```
 
@@ -27,13 +27,13 @@ Public Class MefRegionNavigationJournalEntry
 
 ## Remarks
 
-&nbsp;&nbsp;This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
+This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry
+[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)  
+Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry
 
 ## See Also
 

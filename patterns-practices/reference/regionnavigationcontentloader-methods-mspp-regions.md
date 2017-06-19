@@ -77,7 +77,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[LoadContent](/patterns-practices/reference/regionnavigationcontentloader-loadcontent-method-mspp-regions)</td>
 <td><div class="summary">
-Gets the view to which the navigation request represented by navigationContext applies.
+Gets the view to which the navigation request represented by *navigationContext* applies.
 </div></td>
 </tr>
 <tr class="odd">

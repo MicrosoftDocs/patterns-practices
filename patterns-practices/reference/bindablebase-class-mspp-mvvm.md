@@ -30,7 +30,7 @@ Public MustInherit Class BindableBase
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  Microsoft.Practices.Prism.Mvvm.BindableBase
+  Microsoft.Practices.Prism.Mvvm.BindableBase
 
 ## See Also
 

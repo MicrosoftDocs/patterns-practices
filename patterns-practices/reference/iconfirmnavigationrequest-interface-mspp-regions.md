@@ -18,9 +18,6 @@ Provides a way for objects involved in navigation to determine if a navigation r
 ```C#
 public interface IConfirmNavigationRequest : INavigationAware
 ```
-
-## Syntax
-
 ```VB
 'Declaration
 Public Interface IConfirmNavigationRequest
@@ -30,4 +27,4 @@ Public Interface IConfirmNavigationRequest
 ## See Also
 
 [IConfirmNavigationRequest Members](/patterns-practices/reference/iconfirmnavigationrequest-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -23,12 +23,12 @@ public DependencyObject HostControl { get; set; }
 
 Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
 A [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) is attached to. This is usually a [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714) that is part of the tree.
+
 ### Implements
 
 [IHostAwareRegionBehavior.HostControl](/patterns-practices/reference/ihostawareregionbehavior-hostcontrol-property-mspp-regions-behaviors)
 
 ## Exceptions
-
 
 | Exception | Condition |
 |---|---|
@@ -45,12 +45,12 @@ Public Property HostControl As DependencyObject
 
 Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
 A [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) is attached to. This is usually a [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714) that is part of the tree.
+
 ### Implements
 
 [IHostAwareRegionBehavior.HostControl](/patterns-practices/reference/ihostawareregionbehavior-hostcontrol-property-mspp-regions-behaviors)
 
 ## Exceptions
-
 
 | Exception | Condition |
 |---|---|

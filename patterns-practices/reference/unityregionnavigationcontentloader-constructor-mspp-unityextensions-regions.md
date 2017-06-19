@@ -22,8 +22,6 @@ public UnityRegionNavigationContentLoader(
 )
 ```
 
-## Syntax
-
 ```VB
 'Declaration
 Public Sub New ( 
@@ -31,16 +29,15 @@ Public Sub New (
 	container As IUnityContainer
 )
 ```
-### Parameters
+
+### Parameters
 
 *serviceLocator*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IServiceLocator used to create the instance of the view from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 *container*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IUnityContainer
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IUnityContainer<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IUnityContainer where the views are registered.
 
 ## See Also
