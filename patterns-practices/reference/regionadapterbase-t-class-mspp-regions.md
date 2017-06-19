@@ -64,7 +64,7 @@ Type of object to adapt.
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 Microsoft.Practices.Prism.Regions.RegionAdapterBase(Of T)  
 [Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)  
-[Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter](itemscontrolregionadapter-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter](/patterns-practices/reference/itemscontrolregionadapter-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)  
 
 ## See Also
