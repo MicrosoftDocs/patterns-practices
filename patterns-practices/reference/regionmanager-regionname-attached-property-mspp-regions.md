@@ -12,9 +12,11 @@ ms:mtpsurl: 'regionmanager-regionname-attached-property-mspp-regions.md'
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 See GetRegionName, SetRegionName
 ```
+
 ```VB
 'Declaration
 See GetRegionName, SetRegionName

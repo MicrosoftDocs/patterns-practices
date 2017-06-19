@@ -18,6 +18,7 @@ Gets a value that indicates whether there is at least one entry in the forward n
 ```C#
 public bool CanGoForward { get; }
 ```
+
 ```VB
 'Declaration
 Public ReadOnly Property CanGoForward As Boolean

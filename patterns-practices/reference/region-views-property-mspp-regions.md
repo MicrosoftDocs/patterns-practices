@@ -24,6 +24,7 @@ public virtual IViewsCollection Views { get; }
 Public Overridable ReadOnly Property Views As IViewsCollection
 	Get
 ```
+
 ### Property Value
 
 Type: [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions)   

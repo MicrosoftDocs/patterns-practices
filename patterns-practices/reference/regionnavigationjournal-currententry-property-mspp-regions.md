@@ -18,11 +18,13 @@ Gets the current navigation entry of the content that is currently displayed.
 ```C#
 public IRegionNavigationJournalEntry CurrentEntry { get; }
 ```
+
 ```VB
 'Declaration
 Public ReadOnly Property CurrentEntry As IRegionNavigationJournalEntry
 	Get
 ```
+
 ### Property Value
 
 Type: [IRegionNavigationJournalEntry](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)  

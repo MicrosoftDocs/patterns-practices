@@ -18,12 +18,14 @@ Gets or sets the target that implements INavigate.
 ```C#
 public INavigateAsync NavigationTarget { get; set; }
 ```
+
 ```VB
 'Declaration
 Public Property NavigationTarget As INavigateAsync
 	Get
 	Set
 ```
+
 ### Property Value
 
 Type: [INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp-regions)  

@@ -14,9 +14,11 @@ Gets the navigation context.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public NavigationContext NavigationContext { get; }
 ```
+
 ```VB
 'Declaration
 Public ReadOnly Property NavigationContext As NavigationContext

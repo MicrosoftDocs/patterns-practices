@@ -28,6 +28,7 @@ Type: [Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http:
 Public ReadOnly Property GetView As Func(Of Object)
 	Get
 ```
+
 ### Property Value
 
 Type: [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))

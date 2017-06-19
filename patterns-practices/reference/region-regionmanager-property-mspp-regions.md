@@ -25,6 +25,7 @@ Public Property RegionManager As IRegionManager
 	Get
 	Set
 ```
+
 ### Property Value
 
 Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)   

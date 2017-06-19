@@ -14,6 +14,7 @@ Gets the error.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public Exception Error { get; }
 ```

@@ -18,11 +18,13 @@ Gets a value that indicates whether there is at least one entry in the back navi
 ```C#
 public bool CanGoBack { get; }
 ```
+
 ```VB
 'Declaration
 Public ReadOnly Property CanGoBack As Boolean
 	Get
 ```
+
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  

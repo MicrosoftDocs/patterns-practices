@@ -12,13 +12,16 @@ ms:mtpsurl: 'regionmanager-constructor-mspp-regions.md'
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 See GetRegionManager, SetRegionManager
 ```
+
 ```VB
 'Declaration
 See GetRegionManager, SetRegionManager
 ```
+
 ### Property Value
 
 Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)

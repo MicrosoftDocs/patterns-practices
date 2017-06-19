@@ -24,6 +24,7 @@ public string Hint { get; }
 Public ReadOnly Property Hint As String
 	Get
 ```
+
 ### Property Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)   

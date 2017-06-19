@@ -14,9 +14,11 @@ Gets the navigation URI
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public Uri Uri { get; }
 ```
+
 ```VB
 'Declaration
 Public ReadOnly Property Uri As Uri
@@ -30,7 +32,7 @@ The URI.
 
 ## Remarks
 
- This is a convenience accessor around NavigationContext.Uri.
+&nbsp;&nbsp;&nbsp;&nbsp;This is a convenience accessor around NavigationContext.Uri.
 
 ## See Also
 
