@@ -13,6 +13,11 @@ The [PropertySupport](/patterns-practices/reference/propertysupport-class-mspp-m
 ## Methods
 
 <table>
+<colgroup>
+<col width="100">
+<col>
+<col>
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
