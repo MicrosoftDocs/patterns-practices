@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleIniti
 ms:mtpsurl: 'mefmoduleinitializer-class-mspp-mefextensions-modularity.md'
 ---
 
-
 # MefModuleInitializer Class
 
 Exports the ModuleInitializer using the Managed Extensibility Framework (MEF).

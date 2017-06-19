@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionmanager-class-mspp-mefextensions-regions.md'
 
 # MefRegionManager Class
 
-Exports the RegionManager using the Managed Extensibility Framework (MEF). 
+Exports the RegionManager using the Managed Extensibility Framework (MEF).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
@@ -27,13 +27,13 @@ Public Class MefRegionManager
 
 ## Remarks
 
-&nbsp;&nbsp;This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used. 
+This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used. 
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManage
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.Regions.RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions)  
+Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager
 
 ## See Also
 

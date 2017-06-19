@@ -33,7 +33,7 @@ This allows the MefBootstrapper to provide this class as a default implementatio
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions)  
-Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoade
+Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader
 
 ## See Also
 
