@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.SortComparison'
 ms:mtpsurl: 'region-sortcomparison-property-mspp-regions.md'
 ---
 
-
 # Region.SortComparison Property
 
 Gets or sets the comparison used to sort the views.
@@ -15,13 +14,15 @@ Gets or sets the comparison used to sort the views.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public Comparison<Object> SortComparison { get; set; }
 ```
 ### Property Value
 
-Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
+Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;  
 The comparison to use.
+
 ### Implements
 
 [IRegion.SortComparison](/patterns-practices/reference/iregion-sortcomparison-property-mspp-regions)
@@ -34,8 +35,9 @@ Public Property SortComparison As Comparison(Of Object)
 ```
 ### Property Value
 
-Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
+Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))  
 The comparison to use.
+
 ### Implements
 
 [IRegion.SortComparison](/patterns-practices/reference/iregion-sortcomparison-property-mspp-regions)
@@ -43,5 +45,5 @@ The comparison to use.
 ## See Also
 
 [Region Class](/patterns-practices/reference/region-class-mspp-regions)  
-[Region Class](/patterns-practices/reference/region-members-mspp-regions)  
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
