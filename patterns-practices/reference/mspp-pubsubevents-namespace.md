@@ -24,14 +24,14 @@ ms:mtpsurl: 'mspp-pubsubevents-namespace.md'
 <tbody>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[BackgroundEventSubscription&lt;TPayload&gt;](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md)</td>
+<td>[BackgroundEventSubscription(of TPayload)](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md)</td>
 <td><div class="summary">
-Extends [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a background thread.
+Extends [EventSubscription(of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a background thread.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[DataEventArgs&lt;TData&gt;](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)</td>
+<td>[DataEventArgs(of TData)](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)</td>
 <td><div class="summary">
 Generic arguments class to pass to event handlers that need to receive data.
 </div></td>
@@ -45,9 +45,9 @@ Represents a reference to a [Delegate](http://msdn.microsoft.com/en-us/library/y
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)</td>
+<td>[DispatcherEventSubscription(of TPayload)](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)</td>
 <td><div class="summary">
-Extends [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a specific [SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f).
+Extends [EventSubscription(of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a specific [SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f).
 </div></td>
 </tr>
 <tr class="odd">
@@ -66,14 +66,14 @@ Defines a base class to publish and subscribe to events.
 </tr>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)</td>
+<td>[EventSubscription(of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)</td>
 <td><div class="summary">
 Provides a way to retrieve a [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) to execute an action depending on the value of a second filter predicate that returns true if the action should execute.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)</td>
+<td>[PubSubEvent(of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)</td>
 <td><div class="summary">
 Defines a class that manages publication and subscription to events.
 </div></td>
@@ -142,7 +142,7 @@ Defines a contract for an event subscription to be used by [EventBase](/patterns
 <td>![Public enumeration](/patterns-practices/reference/images/pubenumeration.gif)</td>
 <td>[ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)</td>
 <td><div class="summary">
-Specifies on which thread a [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) subscriber will be called.
+Specifies on which thread a [PubSubEvent(of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) subscriber will be called.
 </div></td>
 </tr>
 </tbody>

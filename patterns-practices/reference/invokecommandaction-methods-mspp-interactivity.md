@@ -4,7 +4,8 @@ Title: 'InvokeCommandAction Methods (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction'
 ms:mtpsurl: 'invokecommandaction-methods-mspp-interactivity.md'
 ---
-
+
+
 # InvokeCommandAction Methods
 
 The [InvokeCommandAction](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity) type exposes the following members.
@@ -254,7 +255,7 @@ Re-evaluates the effective value for the specified dependency property
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[Invoke](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.invoke(system.object))</td>
+<td>[Invoke](/patterns-practices/reference/invokecommandaction-invoke-method-mspp-interactivity)</td>
 <td><div class="summary">
 Executes the command
 </div>
@@ -262,7 +263,7 @@ Executes the command
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[InvokeAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.invokeaction(system.object))</td>
+<td>[InvokeAction](/patterns-practices/reference/invokecommandaction-invokeaction-method-mspp-interactivity)</td>
 <td><div class="summary">
 Public wrapper of the Invoke method.
 </div></td>
@@ -277,7 +278,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[OnAttached](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.onattached)</td>
+<td>[OnAttached](/patterns-practices/reference/invokecommandaction-onattached-method-mspp-interactivity)</td>
 <td><div class="summary">
 This method is called after the behavior is attached. It updates the command behavior's Command and CommandParameter properties if necessary.
 </div>
@@ -293,11 +294,11 @@ Called when the current [Freezable](http://msdn.microsoft.com/en-us/library/ms60
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[OnDetaching](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.ondetaching)</td>
+<td>[OnDetaching](/patterns-practices/reference/invokecommandaction-ondetaching-method-mspp-interactivity)</td>
 <td><div class="summary">
 Sets the Command and CommandParameter properties to null.
 </div>
-(Overrides TriggerActionOnDetaching()()().)</td>
+(Overrides TriggerActionOnDetaching.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -407,5 +408,6 @@ Verifies that the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) 
 </table>
 
 ## See Also
-[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)  
+
+[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)  
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)  
