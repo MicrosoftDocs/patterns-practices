@@ -21,7 +21,7 @@ public class SelectorRegionAdapter : RegionAdapterBase<Selector>
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)&lt;[Selector](http://msdn.microsoft.com/en-us/library/ms595227)&gt;  
+  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)&lt;[Selector](http://msdn.microsoft.com/en-us/library/ms595227)&gt;  
     Microsoft.Practices.Prism.Regions.SelectorRegionAdapter  
       [Microsoft-Practices-Prism-MefExtensions-Regions-MefSelectorRegionAdapter](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)
 
@@ -34,7 +34,7 @@ Public Class SelectorRegionAdapter
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)(Of [Selector](http://msdn.microsoft.com/en-us/library/ms595227))  
+  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)(Of [Selector](http://msdn.microsoft.com/en-us/library/ms595227))  
     Microsoft.Practices.Prism.Regions.SelectorRegionAdapter  
       [Microsoft-Practices-Prism-MefExtensions-Regions-MefSelectorRegionAdapter](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)
 
