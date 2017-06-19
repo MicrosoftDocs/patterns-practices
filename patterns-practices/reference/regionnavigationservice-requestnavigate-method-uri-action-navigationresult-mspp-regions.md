@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationService.Request
 ms:mtpsurl: 'regionnavigationservice-requestnavigate-method-mspp-regions.md'
 ---
 
-
 # RegionNavigationService.RequestNavigate Method (Uri, Action&lt;NavigationResult&gt;)
 
 Initiates navigation to the specified target.

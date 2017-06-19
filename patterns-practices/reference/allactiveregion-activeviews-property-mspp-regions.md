@@ -4,6 +4,7 @@ Title: 'AllActiveRegion.ActiveViews Property (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.AllActiveRegion.ActiveViews'
 ms:mtpsurl: 'allactiveregion-activeviews-property-mspp-regions.md'
 ---
+
 # AllActiveRegion.ActiveViews Property
 
 Gets a readonly view of the collection of all the active views in the region. These are all the added views.
@@ -28,6 +29,7 @@ Public Overrides ReadOnly Property ActiveViews As IViewsCollection
 
 Type: [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions)  
 An [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions) of all the active views.
+
 ### Implements
 
 [IRegion.ActiveViews](/patterns-practices/reference/iregion-activeviews-property-mspp-regions)
@@ -37,4 +39,3 @@ An [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-m
 [AllActiveRegion Class](/patterns-practices/reference/allactiveregion-class-mspp-regions)  
 [AllActiveRegion Members](/patterns-practices/reference/allactiveregion-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
-

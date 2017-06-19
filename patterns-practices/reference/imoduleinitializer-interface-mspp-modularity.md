@@ -16,11 +16,11 @@ Declares a service which initializes the modules into the application.
 ## Syntax
 
 ```C#
-    public interface IModuleInitializer
+public interface IModuleInitializer
 ```
 
 ```VB
-    'Declaration
+'Declaration
 public interface IModuleInitializer
 ```
 

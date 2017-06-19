@@ -76,7 +76,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RegisterViewWithRegion(String, Func(Of Object))](/patterns-practices/reference/regionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions)</td>
+<td>[RegisterViewWithRegion(String, Func&lt;Object&gt;)](/patterns-practices/reference/regionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions)</td>
 <td><div class="summary">
 Registers a delegate that can be used to retrieve the content associated with a region name.
 </div></td>

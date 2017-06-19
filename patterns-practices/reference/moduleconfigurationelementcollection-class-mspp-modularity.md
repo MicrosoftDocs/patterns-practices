@@ -28,9 +28,9 @@ Public Class ModuleConfigurationElementCollection
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [System.Configuration.ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)  
-    [System.Configuration.ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et)  
-      Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection
+&nbsp;&nbsp;[System.Configuration.ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)  
+&nbsp;&nbsp;&nbsp;&nbsp;[System.Configuration.ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection
 
 ## See Also
 

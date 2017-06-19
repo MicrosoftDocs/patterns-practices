@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationService.Journal
 ms:mtpsurl: 'regionnavigationservice-journal-property-mspp-regions.md'
 ---
 
-
 # RegionNavigationService.Journal Property
 
 Gets the journal.

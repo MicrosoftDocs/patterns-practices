@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs
 ms:mtpsurl: 'regionnavigationfailedeventargs-uri-property-mspp-regions.md'
 ---
 
-
 # RegionNavigationFailedEventArgs.Uri Property
 
 Gets the navigation URI
@@ -15,6 +14,7 @@ Gets the navigation URI
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public Uri Uri { get; }
 ```
@@ -31,7 +31,7 @@ The URI.
 
 ## Remarks
 
- This is a convenience accessor around NavigationContext.Uri.
+&nbsp;&nbsp;&nbsp;&nbsp;This is a convenience accessor around NavigationContext.Uri.
 
 ## See Also
 

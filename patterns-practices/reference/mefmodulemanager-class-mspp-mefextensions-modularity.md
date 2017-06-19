@@ -5,10 +5,7 @@ ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManag
 ms:mtpsurl: 'mefmodulemanager-class-mspp-mefextensions-modularity.md'
 ---
 
-
 # MefModuleManager Class
-
-Component responsible for coordinating the modules' type loading and module initialization process.
 
 Component responsible for coordinating the modules' type loading and module initialization process.
 

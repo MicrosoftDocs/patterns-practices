@@ -27,19 +27,16 @@ public SubscriptionToken Subscribe(
 ### Parameters
 
 *action*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events.md&gt;
-
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events.md)&gt;<br/>
 The delegate that gets executed when the event is raised.
 
 *threadOption*  
-Type: ThreadOption
-
+Type: ThreadOption<br/>
 Specifies on which thread to receive the delegate callback.
 
 ### Return Value
 
-Type: SubscriptionToken
-
+Type: SubscriptionToken<br/>
 A SubscriptionToken that uniquely identifies the added subscription.
 
 ## Remarks
@@ -76,19 +73,16 @@ Public Function Subscribe (
 ### Parameters
 
 *action*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events))
-
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events))<br/>
 The delegate that gets executed when the event is raised.
 
 *threadOption*  
-Type: ThreadOption
-
+Type: ThreadOption<br/>
 Specifies on which thread to receive the delegate callback.
 
 ### Return Value
 
-Type: SubscriptionToken
-
+Type: SubscriptionToken<br/>
 A SubscriptionToken that uniquely identifies the added subscription.
 
 ## Remarks

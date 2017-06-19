@@ -10,8 +10,6 @@ ms:mtpsurl: 'updateregionsexception-class-mspp-regions.md'
 
 Represents errors that occured during the regions' update.
 
-Represents errors that occured during the regions' update.
-
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -31,7 +29,7 @@ Public Class UpdateRegionsException
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)  
+  [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)  
     Microsoft.Practices.Prism.Regions.UpdateRegionsException
 
 ## See Also

@@ -13,9 +13,12 @@ Navigates to the most recent entry in the forward navigation history, or does no
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public void GoForward()
 ```
+
+[IRegionNavigationJournal.GoForward()](/patterns-practices/reference/iregionnavigationjournal-goforward-method-mspp-regions)
 
 ```VB
 'Declaration
@@ -31,4 +34,3 @@ Public Sub GoForward
 [RegionNavigationJournal Class](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)  
 [RegionNavigationJournal Members](/patterns-practices/reference/regionnavigationjournal-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
-

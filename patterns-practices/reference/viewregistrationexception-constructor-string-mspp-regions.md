@@ -30,14 +30,12 @@ Public Sub New (
 ### Parameters
 
 _message_  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)  
 The exception message.
 
 ## See Also
 
 [ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)  
 [ViewRegistrationException Members](/patterns-practices/reference/viewregistrationexception-members-mspp-regions)  
-ViewRegistrationException Overload
-
+ViewRegistrationException Overload  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

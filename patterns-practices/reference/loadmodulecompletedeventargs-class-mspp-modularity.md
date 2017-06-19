@@ -28,8 +28,8 @@ Public Class LoadModuleCompletedEventArgs
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)  
-    Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs
+&nbsp;&nbsp;[System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)  
+&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs
 
 ## See Also
 

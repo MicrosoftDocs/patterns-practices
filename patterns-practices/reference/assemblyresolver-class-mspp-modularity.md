@@ -28,8 +28,8 @@ Public Class AssemblyResolver
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.AssemblyResolver
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+Microsoft.Practices.Prism.Modularity.AssemblyResolver
 
 ## See Also
 

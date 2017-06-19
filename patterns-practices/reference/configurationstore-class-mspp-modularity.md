@@ -27,8 +27,8 @@ Public Class ConfigurationStore
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.ConfigurationStore
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+Microsoft.Practices.Prism.Modularity.ConfigurationStore
 
 ## See Also
 

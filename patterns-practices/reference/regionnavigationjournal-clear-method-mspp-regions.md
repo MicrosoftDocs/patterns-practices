@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournal.Clear'
 ms:mtpsurl: 'regionnavigationjournal-clear-method-mspp-regions.md'
 ---
 
-
 # RegionNavigationJournal.Clear Method
 
 Clears the journal of current, back, and forward navigation histories.
@@ -22,7 +21,6 @@ public void Clear()
 ### Implements
 
 [IRegionNavigationJournal.Clear()](/patterns-practices/reference/iregionnavigationjournal-clear-method-mspp-regions)
-
 
 ```VB
 'Declaration

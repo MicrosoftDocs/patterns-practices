@@ -33,7 +33,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RequestNavigate(Uri, Action(NavigationResult), NavigationParameters)](/patterns-practices/reference/mspp-regions-namespace.inavigateasync.requestnavigate)</td>
+<td>[RequestNavigate(Uri, Action(NavigationResult), NavigationParameters)](/patterns-practices/reference/inavigateasync-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions)</td>
 <td><div class="summary">
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div>

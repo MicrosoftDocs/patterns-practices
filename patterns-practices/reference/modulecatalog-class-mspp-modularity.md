@@ -31,9 +31,9 @@ Public Class ModuleCatalog
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Modularity.ModuleCatalog  
-    [Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog](/patterns-practices/reference/configurationmodulecatalog-class-mspp-modularity)  
-    [Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog](/patterns-practices/reference/directorymodulecatalog-class-mspp-modularity)
+&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.ModuleCatalog  
+&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog](/patterns-practices/reference/configurationmodulecatalog-class-mspp-modularity)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog](/patterns-practices/reference/directorymodulecatalog-class-mspp-modularity)
 
 ## See Also
 

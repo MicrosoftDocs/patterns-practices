@@ -29,10 +29,8 @@ Public Sub New (
 
 ### Parameters
 
-*message*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*message*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The message that describes the error.
 
 ## See Also
@@ -41,7 +39,6 @@ The message that describes the error.
 )  
 [UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions
 )  
-UpdateRegionsException Overload
-
+UpdateRegionsException Overload  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace
 )  

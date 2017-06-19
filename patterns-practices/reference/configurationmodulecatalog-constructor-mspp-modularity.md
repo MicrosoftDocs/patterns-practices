@@ -26,6 +26,6 @@ Public Sub New
 
 ## See Also
 
-[ConfigurationModuleCatalog Class](/patterns-practices/reference/configurationstore-class-mspp-modularity)  
-[ConfigurationModuleCatalog Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)  
+[ConfigurationModuleCatalog Class](/patterns-practices/reference/configurationmodulecatalog-class-mspp-modularity)  
+[ConfigurationModuleCatalog Members](/patterns-practices/reference/configurationmodulecatalog-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

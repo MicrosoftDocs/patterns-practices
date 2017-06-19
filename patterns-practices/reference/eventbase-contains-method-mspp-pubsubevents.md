@@ -7,10 +7,11 @@ ms:mtpsurl: 'eventbase-contains-method-mspp-pubsubevents.md'
 
 # EventBase.Contains Method
 
-Returns **Truetrue** (**True** in Visual Basic) if there is a subscriber matching [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
+Returns **truetrue** (**True** in Visual Basic) if there is a subscriber matching [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -44,6 +45,5 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 ## See Also
 
 [EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
-EventBase Members
-
+EventBase Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

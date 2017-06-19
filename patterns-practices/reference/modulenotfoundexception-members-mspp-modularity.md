@@ -25,7 +25,7 @@ The [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexcept
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleNotFoundException</td>
+<td>ModuleNotFoundException()</td>
 <td><div class="summary">
 Initializes a new instance of the [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) class.
 </div></td>

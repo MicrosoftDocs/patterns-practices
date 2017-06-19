@@ -29,6 +29,7 @@ Public Property Region As IRegion
 ### Property Value
 
 Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
+
 ### Implements
 
 [IRegionBehavior.Region](/patterns-practices/reference/iregionbehavior-region-property-mspp-regions)

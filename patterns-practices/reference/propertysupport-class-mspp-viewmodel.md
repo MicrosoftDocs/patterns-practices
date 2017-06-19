@@ -4,7 +4,7 @@ Title: 'PropertySupport Class (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ViewModel.PropertySupport'
 ms:mtpsurl: 'propertysupport-class-mspp-viewmodel.md'
 ---
-
+
 # PropertySupport Class
 
 Provides support for extracting property information based on a property expression.
@@ -28,9 +28,8 @@ Public NotInheritable Class PropertySupport
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-  Microsoft.Practices.Prism.ViewModel.PropertySupport
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+Microsoft.Practices.Prism.ViewModel.PropertySupport
 
 ## See Also
 

@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationEventArgs.Navig
 ms:mtpsurl: 'regionnavigationeventargs-navigationcontext-property-mspp-regions.md'
 ---
 
-
 # RegionNavigationEventArgs.NavigationContext Property
 
 Gets the navigation context.
@@ -15,9 +14,11 @@ Gets the navigation context.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public NavigationContext NavigationContext { get; }
 ```
+
 ```VB
 'Declaration
 Public ReadOnly Property NavigationContext As NavigationContext

@@ -25,7 +25,5 @@ Public Sub New
 ## See Also
 
 [MefEventAggregator Class](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events)  
-
 [MefEventAggregator Members](/patterns-practices/reference/mefeventaggregator-members-mspp-mefextensions-events)  
-
 [Microsoft.Practices.Prism.MefExtensions.Events Namespace](/patterns-practices/reference/mspp-mefextensions-events-namespace)  
