@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ViewSortHintAttribute.Hint'
 ms:mtpsurl: 'viewsorthintattribute-hint-property-mspp-regions.md'
 ---
 
-
 # ViewSortHintAttribute.Hint Property
 
 Gets the hint.
@@ -15,9 +14,11 @@ Gets the hint.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public string Hint { get; }
 ```
+
 ```VB
 'Declaration
 Public ReadOnly Property Hint As String
