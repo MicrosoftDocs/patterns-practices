@@ -39,8 +39,7 @@ The payload to pass action while invoking it.
 ## See Also
 
 [DispatcherEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)  
-DispatcherEventSubscription&lt;TPayload&gt; Members
-
+DispatcherEventSubscription&lt;TPayload&gt; Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
 
 
@@ -81,6 +80,5 @@ The payload to pass action while invoking it.
 ## See Also
 
 [DispatcherEventSubscription(Of TPayload) Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)  
-DispatcherEventSubscription(Of TPayload) Members
-
+DispatcherEventSubscription(Of TPayload) Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  

@@ -26,8 +26,7 @@ The [MefClearChildViewsRegionBehavior](/patterns-practices/reference/mefclearchi
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
-<td><div class="summary">
-Returns <b>truetrue</b> (<b>True</b> in Visual Basic) if the behavior is attached to a region, <b>falsefalse</b> (<b>False</b> in Visual Basic) otherwise.
+<td><div class="summary">Returns **truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **falsefalse** (**False** in Visual Basic) otherwise.
 </div>
 (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
