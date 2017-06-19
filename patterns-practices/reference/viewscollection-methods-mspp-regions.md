@@ -4,10 +4,11 @@ Title: 'ViewsCollection Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.ViewsCollection'
 ms:mtpsurl: 'viewscollection-methods-mspp-regions.md'
 ---
-
+
+
 # ViewsCollection Methods
 
-The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) type exposes the following members.
+The [ViewsCollection]/patterns-practices/reference/viewscollection-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -23,7 +24,7 @@ The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Contains](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.contains(system.object))</td>
+<td>[Contains](/patterns-practices/reference/viewscollection-contains-method-mspp-regions)</td>
 <td><div class="summary">
 Determines whether the collection contains a specific value.
 </div></td>
@@ -46,7 +47,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEnumerator](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.getenumerator)</td>
+<td>[GetEnumerator](/patterns-practices/reference/viewscollection-getenumerator-method-mspp-regions)</td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div></td>
@@ -87,5 +88,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  
+
+[ViewsCollection Class]/patterns-practices/reference/viewscollection-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

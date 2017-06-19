@@ -25,12 +25,10 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
 ### Type Parameters
 
 *TKey*
-	
-	The key to use for lists.
+    The key to use for lists.
 	
 *TValue*
-       	
-	The type of the value held by lists.
+    The type of the value held by lists.
 
 ## Inheritance Hierarchy
 
@@ -63,12 +61,10 @@ Public NotInheritable Class ListDictionary(Of TKey, TValue)
 ### Type Parameters
 
 *TKey*
-	
 	The key to use for lists.
 	
 *TValue*
-       	
-	The type of the value held by lists.
+    The type of the value held by lists.
 
 ## Inheritance Hierarchy
 

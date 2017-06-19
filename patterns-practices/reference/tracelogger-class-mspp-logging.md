@@ -17,13 +17,13 @@ Implementation of [ILoggerFacade](/patterns-practices/reference/iloggerfacade-in
 ## Syntax
 
 ```C#
-public class TextLogger : ILoggerFacade, IDisposable
+public class TraceLogger : ILoggerFacade
 ```
 
 ```VB
 'Declaration
-Public Class TextLogger
-	Implements ILoggerFacade, IDisposable
+Public Class TraceLogger
+	Implements ILoggerFacade
 ```
 
 ## Inheritance Hierarchy
