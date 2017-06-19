@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute.K
 ms:mtpsurl: 'regionmemberlifetimeattribute-keepalive-property-mspp-regions.md'
 ---
 
-
 # RegionMemberLifetimeAttribute.KeepAlive Property
 
 Determines if the region member should be kept-alive when deactivated.
