@@ -30,8 +30,7 @@ Public Overridable Sub UnregisterCommand (
 
 ### Parameters
 
-*command*
-
+*command*  
 Type: [System.Windows.Input.ICommand](http://msdn.microsoft.com/en-us/library/ms616869)  
 The command to unregister.
 

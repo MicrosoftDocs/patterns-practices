@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewSortHintAttribute.\#ctor(Sy
 ms:mtpsurl: 'viewsorthintattribute-constructor-mspp-regions.md'
 ---
 
-
 # ViewSortHintAttribute Constructor
 
 Initializes a new instance of the [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions) class.
@@ -29,10 +28,8 @@ Public Sub New (
 ```
 ### Parameters
 
-*hint*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*hint*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The hint to use for sorting.
 
 ## See Also

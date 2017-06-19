@@ -9,7 +9,7 @@ ms:mtpsurl: 'eventbase-unsubscribe-method-mspp-pubsubevents.md'
 
 Removes the subscriber matching the [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)  
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
@@ -37,4 +37,4 @@ The [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-ms
 
 [EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
 EventBase Members  
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

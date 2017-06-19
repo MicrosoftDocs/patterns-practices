@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundExcepti
 ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
 
-
 # CyclicDependencyFoundException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance of the [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) class with the serialization data.
@@ -33,22 +32,17 @@ Protected Sub New (
 
 ### Parameters
 
-*info*
-
-Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
-
+*info*  
+Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)  
 Holds the serialized object data about the exception being thrown.
 
-*context*
-
-Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
-
+*context*  
+Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)  
 Contains contextual information about the source or destination.
 
 ## See Also
 
 [CyclicDependencyFoundException Class](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)  
 [CyclicDependencyFoundException Members](/patterns-practices/reference/cyclicdependencyfoundexception-members-mspp-modularity)  
-CyclicDependencyFoundException Overload
-
+CyclicDependencyFoundException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

@@ -23,28 +23,22 @@ public static Collection<T> AddRange<T>(
 ```
 ### Parameters
 
-*collection*
-
-Type: [System.Collections.ObjectModel.Collection](http://msdn.microsoft.com/en-us/library/ms132397)&lt;T&gt;
-
+*collection*  
+Type: [System.Collections.ObjectModel.Collection](http://msdn.microsoft.com/en-us/library/ms132397)&lt;T&gt;  
 The collection to add items to.
 
-*items*
-
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;T&gt;
-
+*items*  
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;T&gt;  
 The items to add to the collection.
 
 ### Type Parameters
 
-*T*
-
+*T*  
 Type of objects within the collection.
 
 ### Return Value
 
-Type: [Collection](http://msdn.microsoft.com/en-us/library/ms132397)&lt;T&gt;
-
+Type: [Collection](http://msdn.microsoft.com/en-us/library/ms132397)&lt;T&gt;  
 The collection.
 
 ### Usage Note
@@ -86,27 +80,21 @@ Public Shared Function AddRange(Of T) (
 ### Parameters
 
 *collection*  
-
-Type: [System.Collections.ObjectModel.Collection](http://msdn.microsoft.com/en-us/library/ms132397)(Of T)
-
+Type: [System.Collections.ObjectModel.Collection](http://msdn.microsoft.com/en-us/library/ms132397)(Of T)  
 The collection to add items to.
 
 *items*  
-
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of T)
-
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of T)  
 The items to add to the collection.
 
 ### Type Parameters
 
-*T* 
-
+*T*  
 Type of objects within the collection.
 
 ### Return Value
 
-Type: [Collection](http://msdn.microsoft.com/en-us/library/ms132397)(Of T)
-
+Type: [Collection](http://msdn.microsoft.com/en-us/library/ms132397)(Of T)  
 The collection.
 
 ### Usage Note

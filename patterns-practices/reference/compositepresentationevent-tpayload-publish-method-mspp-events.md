@@ -25,9 +25,7 @@ public virtual void Publish(
 ### Parameters
 
 *payload*  
-
-Type: [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
-
+Type: [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)  
 Message to pass to the subscribers.
 
 ## See Also
@@ -56,9 +54,7 @@ Public Overridable Sub Publish (
 ### Parameters
 
 *payload*  
-
-Type: [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
-
+Type: [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)  
 Message to pass to the subscribers.
 
 ## See Also

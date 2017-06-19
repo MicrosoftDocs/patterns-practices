@@ -33,6 +33,7 @@ Initializes a new instance of the [CompositePresentationEvent(Of TPayload)](/pat
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
+## Syntax
 
 ```VB
 'Declaration

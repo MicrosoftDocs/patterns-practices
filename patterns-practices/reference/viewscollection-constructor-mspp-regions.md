@@ -24,16 +24,12 @@ public ViewsCollection(
 
 ### Parameters
 
-*list*
-
-Type: [System.Collections.ObjectModel.ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions)&gt;
-
+*list*  
+Type: [System.Collections.ObjectModel.ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions)&gt;  
 The list to wrap and filter.
 
-*filter*
-
-Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;[ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions)&gt;
-
+*filter*  
+Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;[ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions)&gt;  
 A predicate to filter the list collection.
 
 ## Syntax
@@ -48,16 +44,12 @@ Public Sub New (
 
 ### Parameters
 
-*list*
-
-Type: [System.Collections.ObjectModel.ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)(Of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions))
-
+*list*  
+Type: [System.Collections.ObjectModel.ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)(Of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions))  
 The list to wrap and filter.
 
-*filter*
-
-Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)(Of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions))
-
+*filter*  
+Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)(Of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions))  
 A predicate to filter the list collection.
 
 ## See Also

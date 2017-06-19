@@ -24,14 +24,12 @@ public virtual bool Contains(
 ### Parameters
 
 *subscriber*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)&gt;
-
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)&gt;  
 The [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **truetrue** (**True** in Visual Basic) if there is an [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) that matches; otherwise **falsefalse** (**False** in Visual Basic).
 
 ## See Also
@@ -61,14 +59,12 @@ Public Overridable Function Contains (
 ### Parameters
 
 *subscriber*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events))
-
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events))  
 The [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **Truetrue** (**True** in Visual Basic) if there is an [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) that matches; otherwise **falsefalse** (**False** in Visual Basic).
 
 ## See Also

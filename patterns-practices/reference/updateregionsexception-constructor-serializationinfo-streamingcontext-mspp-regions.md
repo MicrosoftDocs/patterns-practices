@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor(S
 ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
 
-
 # UpdateRegionsException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with serialized data.
@@ -31,22 +30,17 @@ Protected Sub New (
 ```
 ### Parameters
 
-_info_
-
-Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
-
+_info_  
+Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)  
 The [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) that holds the serialized object data about the exception being thrown.
 
-_context_
-
-Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
-
+_context_  
+Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)  
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
 ## See Also
 
 [UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)  
 [UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)  
-UpdateRegionsException Overload
-
+UpdateRegionsException Overload  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

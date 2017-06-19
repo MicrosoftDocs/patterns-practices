@@ -32,19 +32,16 @@ Public Sub New (
 ### Parameters
 
 *message*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The error message that explains the reason for the exception.
 
 *inner*  
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
-
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
 The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified.
 
 ## See Also
 
 [UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)  
 [UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)  
-UpdateRegionsException Overload
-
+UpdateRegionsException Overload  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
