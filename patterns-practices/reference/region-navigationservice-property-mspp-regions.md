@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.NavigationService'
 ms:mtpsurl: 'region-navigationservice-property-mspp-regions.md'
 ---
 
-
 # Region.NavigationService Property
 
 Gets the navigation service.
@@ -15,9 +14,11 @@ Gets the navigation service.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public IRegionNavigationService NavigationService { get; set; }
 ```
+
 ```VB
 'Declaration
 Public Property NavigationService As IRegionNavigationService
@@ -36,5 +37,5 @@ The navigation service.
 ## See Also
 
 [Region Class](/patterns-practices/reference/region-class-mspp-regions)  
-[Region Class](/patterns-practices/reference/region-members-mspp-regions)  
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

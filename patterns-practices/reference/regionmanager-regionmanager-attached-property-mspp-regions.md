@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionManager.RegionManager'
 ms:mtpsurl: 'regionmanager-constructor-mspp-regions.md'
 ---
 
-
 # RegionManager.RegionManager Attached Property
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
@@ -13,13 +12,16 @@ ms:mtpsurl: 'regionmanager-constructor-mspp-regions.md'
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 See GetRegionManager, SetRegionManager
 ```
+
 ```VB
 'Declaration
 See GetRegionManager, SetRegionManager
 ```
+
 ### Property Value
 
 Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)

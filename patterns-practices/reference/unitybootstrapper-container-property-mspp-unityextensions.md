@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Conta
 ms:mtpsurl: 'unitybootstrapper-container-property-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapper.Container Property
 
 Gets the default IUnityContainer for the application.
@@ -15,15 +14,18 @@ Gets the default IUnityContainer for the application.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public IUnityContainer Container { get; protected set; }
 ```
+
 ```VB
 'Declaration
 Public Property Container As IUnityContainer
 	Get
 	Protected Set
 ```
+
 ### Property Value
 
 Type: IUnityContainer   
