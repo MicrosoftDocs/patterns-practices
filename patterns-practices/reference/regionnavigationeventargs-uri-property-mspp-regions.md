@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationEventArgs.Uri'
 ms:mtpsurl: 'regionnavigationeventargs-uri-property-mspp-regions.md'
 ---
 
-
 # RegionNavigationEventArgs.Uri Property
 
 Gets the navigation URI
