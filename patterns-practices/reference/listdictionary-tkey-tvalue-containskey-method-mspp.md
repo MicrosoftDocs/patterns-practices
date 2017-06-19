@@ -24,14 +24,12 @@ public bool ContainsKey(
 ### Parameters
 
 *key*  
-Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
-
+Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
 The key to locate.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 true if the dictionary contains the given key; otherwise, false.
 ### Implements
 
@@ -63,14 +61,12 @@ Public Function ContainsKey (
 ### Parameters
 
 *key*  
-Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
-
+Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
 The key to locate.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 true if the dictionary contains the given key; otherwise, false.
 ### Implements
 

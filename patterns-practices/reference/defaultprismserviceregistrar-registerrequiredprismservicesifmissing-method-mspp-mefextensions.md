@@ -31,9 +31,7 @@ Public Shared Function RegisterRequiredPrismServicesIfMissing (
 ### Parameters
 
 *aggregateCatalog*  
-
-Type: [System.ComponentModel.Composition.Hosting.AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
-   
+Type: [System.ComponentModel.Composition.Hosting.AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)     
 The [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165) to register the required types in, if they are not already registered.
 
 ### Return Value

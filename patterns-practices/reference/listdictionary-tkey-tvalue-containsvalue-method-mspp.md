@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.ContainsValue(\`1)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-containsvalue-method-mspp.md'
 ---
 
-
 # ListDictionary&lt;TKey, TValue&gt;.ContainsValue Method
 
 Determines whether the dictionary contains the specified value.
@@ -24,16 +23,13 @@ public bool ContainsValue(
 
 ### Parameters
 
-*value*
-
-Type: [TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
-
+*value*  
+Type: [TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
 The value to locate.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 true if the dictionary contains the value in any list; otherwise, false.
 
 ## See Also
@@ -61,15 +57,12 @@ Public Function ContainsValue (
 
 ### Parameters
 
-*value*
-
-Type: [TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
-
+*value*  
+Type: [TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
 The value to locate.
 
 ### Return Value
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 true if the dictionary contains the value in any list; otherwise, false.
 
 ## See Also
