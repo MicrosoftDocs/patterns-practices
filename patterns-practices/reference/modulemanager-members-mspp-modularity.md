@@ -48,7 +48,7 @@ Initializes an instance of the [ModuleManager](/patterns-practices/reference/mod
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Dispose](/patterns-practices/reference/modulemanager-dispose-method-mspp-modularity)</td>
+<td>[Dispose()](/patterns-practices/reference/modulemanager-dispose-method-mspp-modularity)</td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>

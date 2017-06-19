@@ -25,7 +25,7 @@ The [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurati
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleConfigurationElement</td>
+<td>ModuleConfigurationElement()</td>
 <td><div class="summary">
 Initializes a new instance of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity).
 </div></td>
