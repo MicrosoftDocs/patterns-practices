@@ -28,21 +28,14 @@ Public MustInherit Class RegionBehavior
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-Microsoft.Practices.Prism.Regions.RegionBehavior
-
-[Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior](/patterns-practices/reference/regionmanagerregistrationbehavior-class-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+Microsoft.Practices.Prism.Regions.RegionBehavior  
+[Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior](/patterns-practices/reference/regionmanagerregistrationbehavior-class-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)  
 
 ## See Also
 
