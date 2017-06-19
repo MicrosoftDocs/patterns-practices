@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs.GetView
 ms:mtpsurl: 'viewregisteredeventargs-getview-property-mspp-regions.md'
 ---
 
-
 # ViewRegisteredEventArgs.GetView Property
 
 Gets the content which was registered.
@@ -15,6 +14,7 @@ Gets the content which was registered.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public Func<Object> GetView { get; }
 ```
