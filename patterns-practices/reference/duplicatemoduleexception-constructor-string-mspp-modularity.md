@@ -35,6 +35,5 @@ The exception message.
 
 [DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)  
 [DuplicateModuleException Members](/patterns-practices/reference/duplicatemoduleexception-members-mspp-modularity)  
-DuplicateModuleException Overload
-
+DuplicateModuleException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

@@ -43,6 +43,5 @@ The inner exception.
 
 [ModuleInitializeException Class](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)  
 [ModuleInitializeException Members](/patterns-practices/reference/moduleinitializeexception-members-mspp-modularity)  
-ModuleInitializeException Overload
-
+ModuleInitializeException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

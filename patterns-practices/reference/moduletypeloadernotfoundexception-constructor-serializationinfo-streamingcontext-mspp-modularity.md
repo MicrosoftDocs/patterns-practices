@@ -43,6 +43,5 @@ The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that co
 
 [ModuleTypeLoaderNotFoundException Class](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)  
 [ModuleTypeLoaderNotFoundException Members](/patterns-practices/reference/moduletypeloadernotfoundexception-members-mspp-modularity)  
-ModuleTypeLoaderNotFoundException Overload
-
+ModuleTypeLoaderNotFoundException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

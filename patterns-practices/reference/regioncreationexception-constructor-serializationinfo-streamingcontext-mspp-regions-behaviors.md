@@ -48,8 +48,5 @@ The [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) that h
 
 [RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)  
 [RegionCreationException Members](/patterns-practices/reference/regioncreationexception-members-mspp-regions-behaviors)  
-RegionCreationException Overload
-
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)  
+RegionCreationException Overload  
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)  

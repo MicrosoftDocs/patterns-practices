@@ -65,6 +65,5 @@ This attribute specifies whether the module is loaded at startup.
 
 [ModuleConfigurationElement Class](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)  
 [ModuleConfigurationElement Members](/patterns-practices/reference/moduleconfigurationelement-members-mspp-modularity)  
-ModuleConfigurationElement Overload
-
+ModuleConfigurationElement Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

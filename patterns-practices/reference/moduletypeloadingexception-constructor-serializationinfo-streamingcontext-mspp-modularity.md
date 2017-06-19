@@ -43,5 +43,5 @@ The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that co
 
 [ModuleTypeLoadingException Class](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity)  
 [ModuleTypeLoadingException Members](/patterns-practices/reference/moduletypeloadingexception-members-mspp-modularity)  
-ModuleTypeLoadingException Overload
+ModuleTypeLoadingException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

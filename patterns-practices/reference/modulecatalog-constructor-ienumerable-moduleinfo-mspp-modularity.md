@@ -27,6 +27,13 @@ Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/l
 
 The initial list of modules.
 
+## See Also
+
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)  
+ModuleCatalog Overload  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
+
 
 
 # ModuleCatalog Constructor (IEnumerable(Of ModuleInfo))
@@ -47,7 +54,7 @@ Public Sub New ( modules As IEnumerable(Of ModuleInfo) )
 
 *modules*
 
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo))
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity))
 
 The initial list of modules.
 
@@ -55,6 +62,5 @@ The initial list of modules.
 
 [ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
 [ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)  
-ModuleCatalog Overload
-
+ModuleCatalog Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

@@ -38,8 +38,7 @@ The initial set of [ModuleConfigurationElement](/patterns-practices/reference/mo
 
 [ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)  
 [ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)  
-ModuleConfigurationElementCollection Overload
-
+ModuleConfigurationElementCollection Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)  
 
 
@@ -78,6 +77,5 @@ The initial set of [ModuleConfigurationElement](/patterns-practices/reference/mo
 
 [ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)  
 [ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)  
-ModuleConfigurationElementCollection Overload
-
+ModuleConfigurationElementCollection Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)  

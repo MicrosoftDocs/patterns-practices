@@ -22,6 +22,17 @@ public ModuleTypeLoadingException(
 )
 ```
 
+### Parameters
+
+*message*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+The error message that explains the reason for the exception.
+
+
+*exception*  
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
+The exception that is the cause of the current exception, or a **null**a null reference (**Nothing** in Visual Basic) reference if no inner exception is specified.
+
 ```VB
 'Declaration
 Public Sub New ( 
@@ -45,6 +56,5 @@ The exception that is the cause of the current exception, or a **Nothing**a null
 
 [ModuleTypeLoadingException Class](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity)  
 [ModuleTypeLoadingException Members](/patterns-practices/reference/moduletypeloadingexception-members-mspp-modularity)  
-ModuleTypeLoadingException Overload
-
+ModuleTypeLoadingException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

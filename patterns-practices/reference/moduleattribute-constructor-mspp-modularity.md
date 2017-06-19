@@ -8,9 +8,9 @@ ms:mtpsurl: 'moduleattribute-constructor-mspp-modularity.md'
 
 # ModuleAttribute Constructor
 
-Initializes a new instance of the [ModuleAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute) class
+Initializes a new instance of the [ModuleAttribute](/patterns-practices/reference/moduleattribute-class-mspp-modularity) class
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -27,6 +27,6 @@ Public Sub New
 
 ## See Also
 
-[ModuleAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute)  
-[ModuleAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleattribute)  
+[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-modularity)  
+[ModuleAttribute Members](/patterns-practices/reference/moduleattribute-members-mspp-modularity)  modulecatalog-constructor-mspp-modularity  
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  

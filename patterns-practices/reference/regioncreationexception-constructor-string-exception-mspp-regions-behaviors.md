@@ -43,6 +43,5 @@ The exception that is the cause of the current exception, or a null reference (N
 
 [RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)  
 [RegionCreationException Members](/patterns-practices/reference/regioncreationexception-members-mspp-regions-behaviors)  
-RegionCreationException Overload
-
+RegionCreationException Overload  
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)  

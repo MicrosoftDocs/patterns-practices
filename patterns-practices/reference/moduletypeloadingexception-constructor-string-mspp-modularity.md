@@ -38,6 +38,5 @@ The message that describes the error.
 
 [ModuleTypeLoadingException Class](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity)  
 [ModuleTypeLoadingException Members](/patterns-practices/reference/moduletypeloadingexception-members-mspp-modularity)  
-ModuleTypeLoadingException Overload
-
+ModuleTypeLoadingException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

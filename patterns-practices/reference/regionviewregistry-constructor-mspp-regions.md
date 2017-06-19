@@ -29,7 +29,7 @@ Public Sub New (
 
 ### Parameters
 
-_locator_
+*locator*
 
 Type: IServiceLocator
 

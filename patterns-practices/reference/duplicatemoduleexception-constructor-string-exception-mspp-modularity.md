@@ -8,9 +8,9 @@ ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 
 # DuplicateModuleException Constructor (String, Exception)
 
-Initializes a new instance of the [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) class.
+Initializes a new instance of the [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -47,8 +47,7 @@ The inner exception.
 
 ## See Also
 
-[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)  
-[DuplicateModuleException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.duplicatemoduleexception)  
-DuplicateModuleException Overload
-
+[DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)  
+[DuplicateModuleException Members](/patterns-practices/reference/duplicatemoduleexception-members-mspp-modularity)  
+DuplicateModuleException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  
