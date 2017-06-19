@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader'
 ms:mtpsurl: 'regionnavigationcontentloader-class-mspp-regions.md'
 ---
 
-
 # RegionNavigationContentLoader Class
 
 Implementation of [IRegionNavigationContentLoader](/patterns-practices/reference/iregionnavigationcontentloader-interface-mspp-regions) that relies on a IServiceLocator to create new views when necessary.
@@ -26,9 +25,9 @@ Public Class UnityRegionNavigationContentLoader
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader  
-    [Microsoft-Practices-Prism-MefExtensions-Regions-MefRegionNavigationContentLoader](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions)  
-     Microsoft-Practices-Prism-UnityExtensions-Regions-UnityRegionNavigationContentLoader
+Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader  
+[Microsoft-Practices-Prism-MefExtensions-Regions-MefRegionNavigationContentLoader](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions)  
+[Microsoft-Practices-Prism-UnityExtensions-Regions-UnityRegionNavigationContentLoader](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions)
 
 ## See Also
 
