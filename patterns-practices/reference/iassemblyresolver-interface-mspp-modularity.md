@@ -16,7 +16,7 @@ Interface for classes that are responsible for resolving and loading assembly fi
 ## Syntax
 
 ```C#
-    public interface IAssemblyResolver
+public interface IAssemblyResolver
 ```
 
 ```VB

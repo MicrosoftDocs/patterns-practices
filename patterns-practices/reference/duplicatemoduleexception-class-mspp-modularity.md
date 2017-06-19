@@ -32,7 +32,7 @@ Public Class DuplicateModuleException
 
 
 &nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-&nbsp;&nbsp;&nbsp;&nbsp;[System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)  
+&nbsp;&nbsp;&nbsp;&nbsp;[System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.DuplicateModuleException
 

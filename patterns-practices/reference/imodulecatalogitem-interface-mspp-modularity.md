@@ -17,14 +17,12 @@ Marker interface that allows both [ModuleInfoGroup](/patterns-practices/referenc
 ## Syntax
 
 ```C#
-    public interface IModuleCatalogItem
-```
-
-```VB
-    'Declaration
 public interface IModuleCatalogItem
 ```
-
+```VB
+'Declaration
+public interface IModuleCatalogItem
+```
 
 ## See Also
 
