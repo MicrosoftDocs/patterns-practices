@@ -14,6 +14,7 @@ Describe the Managed Extensibility Framework export of an IModule.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public interface IModuleExport
 ```
