@@ -27,7 +27,7 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 [ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)  
 [ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)  
 [Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)  
-----------------------
+
 
 # ErrorsContainer(Of T).HasErrors Property
 
