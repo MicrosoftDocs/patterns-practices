@@ -24,8 +24,6 @@ Public Interface IRegionNavigationService
 	Inherits INavigateAsync
 ```
 
-public interface IRegionNavigationService : INavigateAsyncPublic Interface IRegionNavigationService Inherits INavigateAsync
-
 ## See Also
 
 [IRegionNavigationService Members](/patterns-practices/reference/iregionnavigationservice-members-mspp-regions)  

@@ -23,8 +23,6 @@ public interface IRegionNavigationContentLoader
 Public Interface IRegionNavigationContentLoader
 ```
 
-public interface IRegionNavigationContentLoaderPublic Interface IRegionNavigationContentLoader
-
 ## See Also
 
 [IRegionNavigationContentLoader Members](/patterns-practices/reference/iregionnavigationcontentloader-members-mspp-regions)  
