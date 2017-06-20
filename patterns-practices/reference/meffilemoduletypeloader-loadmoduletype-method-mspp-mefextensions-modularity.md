@@ -31,9 +31,7 @@ Public Overridable Sub LoadModuleType (
 ### Parameters
 
 *moduleInfo*  
-
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
-
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 Module that should have it's type loaded.
 
 ### Implements

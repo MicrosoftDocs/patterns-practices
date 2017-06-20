@@ -29,7 +29,7 @@ Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interact
 The context for the interaction request.
 
 _callback_  
-Type: [System.Action](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)&lt;[T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)&gt;  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)&gt;  
 The callback to execute when the interaction is completed.
 
 ## See Also
@@ -64,7 +64,7 @@ Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interact
 The context for the interaction request.
 
 _callback_  
-Type: [System.Action](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)(Of [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest))  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest))  
 The callback to execute when the interaction is completed.
 
 ## See Also
