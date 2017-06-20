@@ -10,7 +10,11 @@ ms:mtpsurl: 'navigationasyncextensions-methods-mspp-regions.md'
 ## Methods
 
 <table>
-
+<colgroup>
+<col width="150">
+<col>
+<col>
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>

@@ -12,6 +12,11 @@ The [Region](/patterns-practices/reference/region-class-mspp-regions) type expos
 ## Methods
 
 <table>
+<colgroup>
+<col width="150">
+<col>
+<col>
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>

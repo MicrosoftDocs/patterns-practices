@@ -56,5 +56,6 @@ Called when the implementer has been navigated to.
 </table>
 
 ## See Also
-[IConfirmNavigationRequest Interface](/patterns-practices/reference/iconfirmnavigationrequest-interface-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+
+[IConfirmNavigationRequest Interface](/patterns-practices/reference/iconfirmnavigationrequest-interface-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
