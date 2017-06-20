@@ -95,7 +95,7 @@ This raises the [IsActiveChanged](/patterns-practices/reference/delegatecommandb
 Raises [CanExecuteChanged](/patterns-practices/reference/delegatecommandbase-canexecutechanged-event-mspp-commands) on the UI thread so every command invoker can requery to check if the command can execute.
 <div>
 <h3>Remarks</h3>
-Note that this will trigger the execution of [CanExecute(Object)]((/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands)) once for each invoker.
+Note that this will trigger the execution of [CanExecute(Object)](/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands) once for each invoker.
 </div>
 </div></td>
 </tr>
