@@ -230,14 +230,14 @@ Enforces that the calling thread has access to this [DispatcherObject](http://ms
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[IsActiveProperty](/patterns-practices/reference/itemmetadata-isactiveproperty-field-mspp-regions)</td>
 <td><div class="summary">
 Value indicating whether the wrapped item is considered active.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[NameProperty](/patterns-practices/reference/itemmetadata-nameproperty-field-mspp-regions)</td>
 <td><div class="summary">
 The name of the wrapped item.
