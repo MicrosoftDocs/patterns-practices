@@ -24,6 +24,8 @@ event EventHandler<InteractionRequestedEventArgs> Raised
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[InteractionRequestedEventArgs](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)&gt;
 
+## Syntax
+
 ```VB
 'Declaration
 Event Raised As EventHandler(Of InteractionRequestedEventArgs)

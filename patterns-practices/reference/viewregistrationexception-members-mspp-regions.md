@@ -224,7 +224,7 @@ Gets a string representation of the immediate frames on the call stack.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><[TargetSite](http://msdn.microsoft.com/en-us/library/2wchw354)</td>
+<td>[TargetSite](http://msdn.microsoft.com/en-us/library/2wchw354)</td>
 <td><div class="summary">
 Gets the method that throws the current exception.
 </div>

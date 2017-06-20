@@ -28,7 +28,7 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[TryResolve&lt;T&gt;(IServiceLocator)](/patterns-practices/reference/servicelocatorextensions-tryresolve-t-method-iservicelocator-mspp)</td>
+<td>[TryResolve(Of T)(IServiceLocator)](/patterns-practices/reference/servicelocatorextensions-tryresolve-t-method-iservicelocator-mspp)</td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>
