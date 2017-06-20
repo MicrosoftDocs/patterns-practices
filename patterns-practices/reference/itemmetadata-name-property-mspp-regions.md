@@ -14,6 +14,7 @@ Gets or sets a name for the wrapped item.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public string Name { get; set; }
 ```

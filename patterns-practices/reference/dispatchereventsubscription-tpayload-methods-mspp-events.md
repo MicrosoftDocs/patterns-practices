@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.DispatcherEventSubscript
 ms:mtpsurl: 'dispatchereventsubscription-tpayload-methods-mspp-events.md'
 ---
 
-
 # DispatcherEventSubscription&lt;TPayload&gt; Methods
 
 The [DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events) type exposes the following members.

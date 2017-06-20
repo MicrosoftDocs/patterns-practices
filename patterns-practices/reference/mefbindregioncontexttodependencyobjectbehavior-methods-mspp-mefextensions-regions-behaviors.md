@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors
 ms:mtpsurl: 'mefbindregioncontexttodependencyobjectbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
 
-
 # MefBindRegionContextToDependencyObjectBehavior Methods
 
 The [MefBindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
@@ -84,4 +83,4 @@ Returns a string that represents the current object.
 ## See Also
 
 [MefBindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors)  
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)  	
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)  

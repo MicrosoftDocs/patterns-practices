@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
 ms:mtpsurl: 'compositecommand-methods-mspp-commands.md'
 ---
 
-
 # CompositeCommand Methods
 
 The [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands) type exposes the following members.

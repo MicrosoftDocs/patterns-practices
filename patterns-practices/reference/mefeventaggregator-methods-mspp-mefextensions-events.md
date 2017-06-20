@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Events.MefEventAg
 ms:mtpsurl: 'mefeventaggregator-methods-mspp-mefextensions-events.md'
 ---
 
-
 # MefEventAggregator Methods
 
 The [MefEventAggregator](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events) type exposes the following members.

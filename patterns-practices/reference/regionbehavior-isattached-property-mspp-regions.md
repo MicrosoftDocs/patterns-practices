@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionBehavior.IsAttached'
 ms:mtpsurl: 'regionbehavior-isattached-property-mspp-regions.md'
 ---
 
-
 # RegionBehavior.IsAttached Property
 
 Returns **truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **falsefalse** (**False** in Visual Basic) otherwise.
@@ -15,14 +14,12 @@ Returns **truetrue** (**True** in Visual Basic) if the behavior is attached to a
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public bool IsAttached { get; }
 ```
 
-### Property Value
-
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+# RegionBehavior.IsAttached Property
 
 Returns **Truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **Falsefalse** (**False** in Visual Basic) otherwise.
 
