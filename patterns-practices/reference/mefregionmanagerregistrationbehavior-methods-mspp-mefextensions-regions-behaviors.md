@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors
 ms:mtpsurl: 'mefregionmanagerregistrationbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
 
-
 # MefRegionManagerRegistrationBehavior Methods
 
 The [MefRegionManagerRegistrationBehavior](/patterns-practices/reference/mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

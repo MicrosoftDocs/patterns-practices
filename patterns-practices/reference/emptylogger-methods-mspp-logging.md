@@ -4,10 +4,10 @@ Title: 'EmptyLogger Methods (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Logging.EmptyLogger'
 ms:mtpsurl: 'emptylogger-methods-mspp-logging.md'
 ---
-
+
 # EmptyLogger Methods
 
-The [EmptyLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger) type exposes the following members.
+The [EmptyLogger](/patterns-practices/reference/emptylogger-class-mspp-logging) type exposes the following members.
 
 ## Methods
 
@@ -55,7 +55,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Log](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger.log(system.string%2cmicrosoft.practices.prism.logging.category%2cmicrosoft.practices.prism.logging.priority))</td>
+<td>[Log](/patterns-practices/reference/emptylogger-log-method-mspp-logging)</td>
 <td><div class="summary">
 This method does nothing.
 </div></td>
@@ -80,5 +80,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[EmptyLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger)  
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)  
+
+[EmptyLogger Class](/patterns-practices/reference/emptylogger-class-mspp-logging)  
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)  

@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ExceptionExtensions'
 ms:mtpsurl: 'exceptionextensions-methods-mspp.md'
 ---
 
-
 # ExceptionExtensions Methods
 
 The [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp) type exposes the following members.

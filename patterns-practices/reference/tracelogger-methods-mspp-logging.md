@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Logging.TraceLogger'
 ms:mtpsurl: 'tracelogger-methods-mspp-logging.md'
 ---
 
-
 # TraceLogger Methods
 
 The [TraceLogger](/patterns-practices/reference/tracelogger-class-mspp-logging) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

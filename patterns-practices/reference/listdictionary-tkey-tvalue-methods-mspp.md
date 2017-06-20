@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ListDictionary\`2'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-methods-mspp.md'
 ---
 
-
 # ListDictionary&lt;TKey, TValue&gt; Methods
 
 The [ListDictionary&lt;TKey, TValue&gt;](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
