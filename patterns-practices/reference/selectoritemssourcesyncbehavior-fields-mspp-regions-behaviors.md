@@ -4,16 +4,14 @@ Title: 'SelectorItemsSourceSyncBehavior Fields (Microsoft.Practices.Prism.Region
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior'
 ms:mtpsurl: 'selectoritemssourcesyncbehavior-fields-mspp-regions-behaviors.md'
 ---
-
+
 # SelectorItemsSourceSyncBehavior Fields
 
-The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior) type exposes the following members.
+The [SelectorItemsSourceSyncBehavior](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Fields
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,8 +21,8 @@ The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microso
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[BehaviorKey](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.behaviorkey)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
+<td>[BehaviorKey](/patterns-practices/reference/selectoritemssourcesyncbehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collection of RegionsBehaviors.
 </div></td>
@@ -33,5 +31,6 @@ Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collectio
 </table>
 
 ## See Also
-[SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)  
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)  
+
+[SelectorItemsSourceSyncBehavior Class](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

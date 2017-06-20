@@ -5,16 +5,13 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAw
 ms:mtpsurl: 'regionactiveawarebehavior-fields-mspp-regions-behaviors.md'
 ---
 
-
 # RegionActiveAwareBehavior Fields
 
 The [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Fields
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,7 +21,7 @@ The [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawareb
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[BehaviorKey](/patterns-practices/reference/regionactiveawarebehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Name that identifies the [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors) behavior in a collection of [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions).

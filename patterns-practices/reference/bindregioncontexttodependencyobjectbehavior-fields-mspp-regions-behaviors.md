@@ -5,7 +5,6 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionCont
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-fields-mspp-regions-behaviors.md'
 ---
 
-
 # BindRegionContextToDependencyObjectBehavior Fields
 
 The [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors) type exposes the following members.
@@ -13,7 +12,6 @@ The [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/
 ## Fields
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,7 +21,7 @@ The [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[BehaviorKey](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 The key of this behavior.
