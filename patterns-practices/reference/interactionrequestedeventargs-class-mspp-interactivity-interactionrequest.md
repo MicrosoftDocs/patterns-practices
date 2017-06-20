@@ -16,7 +16,7 @@ Event args for the [Raised](/patterns-practices/reference/iinteractionrequest-ra
 
 ## Syntax
 
-```C#
+```C# 
 public class InteractionRequestedEventArgs : EventArgs
 ```
 ```VB

@@ -107,7 +107,7 @@ Creates and returns a string representation of the current exception.
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
 <td>[GetRootException](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp)</td>
 <td><div class="summary">
-Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
+Looks at all the inner exceptions of the *exception* parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 </div>
 (Defined by [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp).)</td>
 </tr>

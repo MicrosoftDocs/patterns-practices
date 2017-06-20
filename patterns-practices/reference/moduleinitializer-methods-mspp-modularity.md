@@ -102,12 +102,5 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-<<<<<<< HEAD
-
-[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-=======
-[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)  
+[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
->>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8
