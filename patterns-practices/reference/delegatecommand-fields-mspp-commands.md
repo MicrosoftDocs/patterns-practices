@@ -11,13 +11,26 @@ The [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-c
 
 ## Fields
 
-The [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) type exposes the following members.
-
-|                                                                                                | Name                                                                                                                        | Description                                                                                                                  |
-||-|--|
-| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_canExecuteMethod](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase._canexecutemethod) | (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase).) |
-| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_executeMethod](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase._executemethod)       | (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase).) |
-
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[_canExecuteMethod](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase._canexecutemethod)</td>
+<td>(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase).)</td>
+</tr>
+<tr class="even">
+<td>[_executeMethod](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase._executemethod)
+</td>
+<td>(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase).)</td>
+</tr>
+</tbody>
+</table> 
 ## See Also
 
 [DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)  

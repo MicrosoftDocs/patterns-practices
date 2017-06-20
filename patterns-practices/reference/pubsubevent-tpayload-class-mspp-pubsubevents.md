@@ -27,13 +27,16 @@ The type of message that will be passed to the subscribers.
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-[Microsoft.Practices.Prism.PubSubEvents.EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.PubSubEvents.EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)  
 Microsoft.Practices.Prism.PubSubEvents.PubSubEvent&lt;TPayload&gt;
 
-# PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class
+## See Also
+
+PubSubEvent&lt;TPayload&gt; Members  
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+
+# PubSubEvent(Of TPayload) Class
 
 Defines a class that manages publication and subscription to events.
 
@@ -56,13 +59,11 @@ The type of message that will be passed to the subscribers.
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-[Microsoft.Practices.Prism.PubSubEvents.EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.PubSubEvents.EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)  
 Microsoft.Practices.Prism.PubSubEvents.PubSubEvent(Of TPayload)
 
 ## See Also
 
-[PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.pubsubevent%601)  
+PubSubEvent(Of TPayload) Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
