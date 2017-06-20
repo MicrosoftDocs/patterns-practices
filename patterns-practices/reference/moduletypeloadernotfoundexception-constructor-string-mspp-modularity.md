@@ -41,6 +41,5 @@ The message that describes the error.
 
 [ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)  
 [ModuleTypeLoaderNotFoundException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception_members)  
-ModuleTypeLoaderNotFoundException Overload
-
+ModuleTypeLoaderNotFoundException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  

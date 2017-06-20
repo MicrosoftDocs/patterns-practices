@@ -461,7 +461,7 @@ Verifies that the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) 
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[CenterOverAssociatedObjectProperty](/patterns-practices/reference/popupwindowaction-centeroverassociatedobjectproperty-field-mspp-interactivity
 )</td>
 <td><div class="summary">
@@ -469,7 +469,7 @@ Determines if the content should be initially shown centered over the view that 
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[IsModalProperty](/patterns-practices/reference/popupwindowaction-ismodalproperty-field-mspp-interactivity
 )</td>
 <td><div class="summary">
@@ -477,7 +477,7 @@ Determines if the content should be shown in a modal window or not.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[WindowContentProperty](/patterns-practices/reference/popupwindowaction-windowcontentproperty-field-mspp-interactivity
 )</td>
 <td><div class="summary">
@@ -503,12 +503,12 @@ The content of the child window to display as part of the popup.
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>AssociatedObject</td>
-<td>(Inherited from TriggerAction&lt;(Of &lt;([FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)&gt;)&gt;).)</td>
+<td>(Inherited from TriggerAction&lt;[FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)&gt;.)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>AssociatedObjectTypeConstraint</td>
-<td>(Inherited from TriggerAction&lt;(Of &lt;([FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)&gt;)&gt;).)</td>
+<td>(Inherited from TriggerAction&lt;[FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)&gt;.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>

@@ -47,8 +47,7 @@ The modules this instance depends on.
 
 [ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 [ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)  
-ModuleInfo Overload
-
+ModuleInfo Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
 
 
@@ -96,6 +95,5 @@ The modules this instance depends on.
 
 [ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 [ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)  
-ModuleInfo Overload
-
+ModuleInfo Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

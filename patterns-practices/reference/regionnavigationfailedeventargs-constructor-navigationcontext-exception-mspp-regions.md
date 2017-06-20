@@ -33,14 +33,14 @@ Public Sub New (
 
 ### Parameters
 
-_navigationContext_
+*navigationContext*
 
 Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
 
 The navigation context.
 
 
-_error_
+*error*
 
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
@@ -50,6 +50,5 @@ The error.
 
 [RegionNavigationFailedEventArgs Class](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions)  
 [RegionNavigationFailedEventArgs Members](/patterns-practices/reference/regionnavigationfailedeventargs-members-mspp-regions)  
-RegionNavigationFailedEventArgs Overload
-
+RegionNavigationFailedEventArgs Overload  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

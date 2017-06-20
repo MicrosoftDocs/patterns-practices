@@ -36,6 +36,13 @@ Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;[Bo
 
 The result.
 
+## See Also
+
+[NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)  
+[NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)  
+NavigationResult Overload  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+
 
 
 # NavigationResult Constructor (NavigationContext, Nullable(Of Boolean))
@@ -74,6 +81,5 @@ The result.
 
 [NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)  
 [NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)  
-NavigationResult Overload
-
+NavigationResult Overload  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

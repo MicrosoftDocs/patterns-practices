@@ -44,6 +44,5 @@ The error message that explains the reason for the exception.
 
 [ModuleTypeLoadingException Class](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity)  
 [ModuleTypeLoadingException Members](/patterns-practices/reference/moduletypeloadingexception-members-mspp-modularity)  
-ModuleTypeLoadingException Overload
-
+ModuleTypeLoadingException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
