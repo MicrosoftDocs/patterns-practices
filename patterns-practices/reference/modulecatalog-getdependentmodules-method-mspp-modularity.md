@@ -22,13 +22,13 @@ public virtual IEnumerable<ModuleInfo> GetDependentModules(
 ```
 ### Parameters
 
-moduleInfo  
+*moduleInfo*  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)   
 The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to get the
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;([ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;   
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;   
 An enumeration of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) that *moduleInfo* depends on.
 
 ### Implements
@@ -37,7 +37,7 @@ An enumeration of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-ms
 
 ## Remarks
 
- If the [ModuleCatalog](/patterns-practices/reference/imodulecatalog-getdependentmodules-method-mspp-modularity) was not yet validated, this method will call [Validate()](/patterns-practices/reference/modulecatalog-validate-method-mspp-modularity).
+ If the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) was not yet validated, this method will call [Validate()](/patterns-practices/reference/modulecatalog-validate-method-mspp-modularity).
 
 
 ```VB
@@ -49,13 +49,13 @@ Public Overridable Function GetDependentModules (
 
 ### Parameters
 
-moduleInfo  
+*moduleInfo*  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)   
 The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to get the
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0) (Of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity))   
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity))   
 An enumeration of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) that *moduleInfo* depends on.
 
 ### Implements
@@ -64,7 +64,7 @@ An enumeration of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-ms
 
 ## Remarks
 
- If the [ModuleCatalog](/patterns-practices/reference/imodulecatalog-getdependentmodules-method-mspp-modularity) was not yet validated, this method will call [Validate](/patterns-practices/reference/modulecatalog-validate-method-mspp-modularity).
+ If the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) was not yet validated, this method will call [Validate](/patterns-practices/reference/modulecatalog-validate-method-mspp-modularity).
 
 ## See Also
 

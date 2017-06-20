@@ -21,8 +21,7 @@ public IEnumerator<ModuleInfo> GetEnumerator()
 
 ### Return Value
 
-Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;
-
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;  
 A [IEnumerator&lt;T&gt;](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 
 ### Implements
@@ -37,8 +36,7 @@ Public Function GetEnumerator As IEnumerator(Of ModuleInfo)
 
 ### Return Value
 
-Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity))
-
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity))  
 A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 
 ### Implements
