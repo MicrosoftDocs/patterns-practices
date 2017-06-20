@@ -4,17 +4,25 @@ Title: 'ViewsCollection.CollectionChanged Event (Microsoft.Practices.Prism.Regio
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.ViewsCollection.CollectionChanged'
 ms:mtpsurl: 'viewscollection-collectionchanged-event-mspp-regions.md'
 ---
-
+
+
 # ViewsCollection.CollectionChanged Event
 
 Occurs when the collection changes.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public event NotifyCollectionChangedEventHandler CollectionChangedPublic Event CollectionChanged As NotifyCollectionChangedEventHandler
+```C#
+public event NotifyCollectionChangedEventHandler CollectionChanged
+```
+```VB
+'Declaration
+Public Event CollectionChanged As NotifyCollectionChangedEventHandler
+```
+
 ### Value
 
 Type: [System.Collections.Specialized.NotifyCollectionChangedEventHandler](http://msdn.microsoft.com/en-us/library/ms628284)
@@ -23,6 +31,7 @@ Type: [System.Collections.Specialized.NotifyCollectionChangedEventHandler](http:
 [INotifyCollectionChanged.CollectionChanged](http://msdn.microsoft.com/en-us/library/ms653382)
 
 ## See Also
-[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)  
-[ViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewscollection)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  
+
+[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)  
+[ViewsCollection Members](/patterns-practices/reference/viewscollection-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
