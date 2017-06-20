@@ -1650,7 +1650,11 @@ Enforces that the calling thread has access to this [DispatcherObject](http://ms
 
 
 <table>
-
+<colgroup>
+<col width="150">
+<col>
+<col>
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
