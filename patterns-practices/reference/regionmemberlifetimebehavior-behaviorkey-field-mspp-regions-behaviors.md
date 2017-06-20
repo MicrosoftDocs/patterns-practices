@@ -5,7 +5,6 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeB
 ms:mtpsurl: 'regionmemberlifetimebehavior-behaviorkey-field-mspp-regions-behaviors.md'
 ---
 
-
 # RegionMemberLifetimeBehavior.BehaviorKey Field
 
 The key for this behavior.

@@ -5,7 +5,6 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSy
 ms:mtpsurl: 'selectoritemssourcesyncbehavior-behaviorkey-field-mspp-regions-behaviors.md'
 ---
 
-
 # SelectorItemsSourceSyncBehavior.BehaviorKey Field
 
 Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collection of RegionsBehaviors.
