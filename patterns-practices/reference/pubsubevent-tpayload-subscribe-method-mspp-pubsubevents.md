@@ -40,7 +40,7 @@ Subscribes a delegate to an event. PubSubEvent will maintain a [WeakReference](h
 <td>[Subscribe(Action(Of TPayload), Boolean)](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-action-tpayload-boolean-mspp-pubsubevents
 )</td>
 <td><div class="summary">
-Subscribes a delegate to an event that will be published on the [PublisherThread](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.threadoption(v=pandp.50)).
+Subscribes a delegate to an event that will be published on the [PublisherThread](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents).
 </div></td>
 </tr>
 <tr class="even">

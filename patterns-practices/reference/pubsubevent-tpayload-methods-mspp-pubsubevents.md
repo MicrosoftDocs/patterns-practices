@@ -8,7 +8,7 @@ ms:mtpsurl: 'pubsubevent-tpayload-methods-mspp-pubsubevents.md'
 
 # PubSubEvent&lt;TPayload&gt; Methods
 
-The [PubSubEvent(Of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) type exposes the following members.
+The [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -26,16 +26,16 @@ The [PubSubEvent(Of TPayload)](/patterns-practices/reference/pubsubevent-tpayloa
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Contains(Action&lt;TPayload&gt;)](/patterns-practices/reference/pubsubevent-tpayload-contains-method-action-tpayload-mspp-pubsubevents)</td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
+Returns <b>truetrue</b> (<b>True</b> in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Contains(SubscriptionToken)](/patterns-practices/reference/mspp-mvvm-namespace.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken))</td>
+<td>[Contains(SubscriptionToken)](/patterns-practices/reference/eventbase-contains-method-mspp-pubsubevents)</td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken).
+Returns <b>truetrue</b> (<b>True</b> in Visual Basic) if there is a subscriber matching [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
 </div>
-(Inherited from [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase).)</td>
+(Inherited from [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -73,17 +73,17 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[InternalPublish](/patterns-practices/reference/eventbase-internalpublish-method-mspp-pubsubevents)</td>
 <td><div class="summary">
-Calls all the execution strategies exposed by the list of [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription).
+Calls all the execution strategies exposed by the list of [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).
 </div>
-(Inherited from [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase).)</td>
+(Inherited from [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[InternalSubscribe](/patterns-practices/reference/eventbase-internalsubscribe-method-mspp-pubsubevents)</td>
 <td><div class="summary">
-Adds the specified [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription) to the subscribers' collection.
+Adds the specified [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents) to the subscribers' collection.
 </div>
-(Inherited from [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase).)</td>
+(Inherited from [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -95,7 +95,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Publish](https://msdn.microsoft.com/en-us/library/dn683930(v=pandp.50))</td>
+<td>[Publish](/patterns-practices/reference/pubsubevent-tpayload-publish-method-mspp-pubsubevents)</td>
 <td><div class="summary">
 Publishes the [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents).
 </div></td>
@@ -118,7 +118,7 @@ Subscribes a delegate to an event. PubSubEvent will maintain a [WeakReference](h
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Subscribe(Action&lt;TPayload&gt;, Boolean)](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-action-tpayload-boolean-mspp-pubsubevents)</td>
 <td><div class="summary">
-Subscribes a delegate to an event that will be published on the [PublisherThread](/patterns-practices/reference/mspp-mvvm-namespace.threadoption).
+Subscribes a delegate to an event that will be published on the [PublisherThread](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents).
 </div></td>
 </tr>
 <tr class="even">
@@ -152,11 +152,11 @@ Removes the first subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.co
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Unsubscribe(SubscriptionToken)](/patterns-practices/reference/mspp-mvvm-namespace.eventbase.unsubscribe(microsoft.practices.prism.pubsubevents.subscriptiontoken))</td>
+<td>[Unsubscribe(SubscriptionToken)](/patterns-practices/reference/eventbase-unsubscribe-method-mspp-pubsubevents)</td>
 <td><div class="summary">
-Removes the subscriber matching the [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken).
+Removes the subscriber matching the [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
 </div>
-(Inherited from [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase).)</td>
+(Inherited from [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents).)</td>
 </tr>
 </tbody>
 </table>
