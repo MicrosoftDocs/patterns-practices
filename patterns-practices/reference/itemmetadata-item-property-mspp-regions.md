@@ -19,8 +19,6 @@ Gets the wrapped item.
 public Object Item { get; }
 ```
 
-## Syntax
-
 ```VB
 'Declaration
 Public ReadOnly Property Item As Object
@@ -29,8 +27,7 @@ Public ReadOnly Property Item As Object
 
 ### Property Value
 
-Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The wrapped item.
 
 ## See Also

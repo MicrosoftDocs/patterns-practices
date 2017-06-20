@@ -14,13 +14,15 @@ Gets the result.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public Nullable<bool> Result { get; }
 ```
+
 ### Property Value
 
 Type: [Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;[Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;  
-
+The result.
 
 ```VB
 'Declaration

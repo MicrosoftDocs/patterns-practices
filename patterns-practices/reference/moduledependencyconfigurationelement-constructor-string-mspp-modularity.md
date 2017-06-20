@@ -37,6 +37,5 @@ A module name.
 
 [ModuleDependencyConfigurationElement Class](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)  
 [ModuleDependencyConfigurationElement Members](/patterns-practices/reference/moduledependencyconfigurationelement-members-mspp-modularity)  
-ModuleDependencyConfigurationElement Overload
-
+ModuleDependencyConfigurationElement Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

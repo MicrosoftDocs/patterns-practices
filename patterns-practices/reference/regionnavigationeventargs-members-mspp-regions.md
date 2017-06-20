@@ -23,9 +23,6 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 <tbody>
 <tr class="odd">
 
-<td><img src="images/public-method.gif" title="Public method" /></td>
-<td>RegionNavigationEventArgs</td>
-
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>RegionNavigationEventArgs</td>
 

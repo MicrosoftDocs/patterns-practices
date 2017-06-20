@@ -42,7 +42,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 </tr>
 <tr>
 <td>
-![Public method](/patterns-practices/reference/images/public-method.gif))
+![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)

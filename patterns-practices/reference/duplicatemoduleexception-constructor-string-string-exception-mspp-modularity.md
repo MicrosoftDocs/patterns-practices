@@ -17,11 +17,20 @@ Initializes a new instance of the [DuplicateModuleException](/patterns-practices
 ## Syntax
 
 ```C#
-public DuplicateModuleException( string moduleName, string message, Exception innerException )
+public DuplicateModuleException(
+	string moduleName,
+	string message,
+	Exception innerException
+)
 ```
 
 ```VB
-Public Sub New ( moduleName As String, message As String, innerException As Exception )
+'Declaration
+Public Sub New ( 
+	moduleName As String,
+	message As String,
+	innerException As Exception
+)
 ```
 
 ### Parameters
@@ -51,6 +60,5 @@ The exception that is the cause of the current exception, or a null reference (N
 
 [DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)  
 [DuplicateModuleException Members](/patterns-practices/reference/duplicatemoduleexception-members-mspp-modularity)  
-DuplicateModuleException Overload
-
+DuplicateModuleException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

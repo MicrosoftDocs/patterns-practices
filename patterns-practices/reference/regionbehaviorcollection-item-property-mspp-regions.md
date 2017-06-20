@@ -14,6 +14,7 @@ Gets the [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interfa
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public IRegionBehavior this[
 	string key
@@ -30,7 +31,7 @@ Public ReadOnly Default Property Item (
 
 ### Parameters
 
-key  
+*key*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ### Property Value

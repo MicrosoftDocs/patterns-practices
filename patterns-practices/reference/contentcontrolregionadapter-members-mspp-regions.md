@@ -61,7 +61,7 @@ Template method to attach new behaviors.
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[AttachDefaultBehaviors](/patterns-practices/reference/regionadapterbase-t-attachdefaultbehaviors-method-mspp-regions))</td>
+<td>[AttachDefaultBehaviors](/patterns-practices/reference/regionadapterbase-t-attachdefaultbehaviors-method-mspp-regions)</td>
 <td><div class="summary">
 This method adds the default behaviors by using the [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions) object.
 </div>
@@ -159,5 +159,5 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 
 ## See Also
 
-[ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

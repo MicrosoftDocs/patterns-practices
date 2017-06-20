@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.DelegateCommand'
 ms:mtpsurl: 'delegatecommand-methods-mspp-commands.md'
 ---
 
-
 # DelegateCommand Methods
 
 The [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) type exposes the following members.
 
 ## Methods
-
 
 <table>
 <colsgroup>

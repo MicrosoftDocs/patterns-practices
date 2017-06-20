@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionManager.RegionContext'
 ms:mtpsurl: 'regionmanager-regioncontext-attached-property-mspp-regions.md'
 ---
 
-
 # RegionManager.RegionContext Attached Property
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  

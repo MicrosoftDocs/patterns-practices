@@ -17,12 +17,18 @@ Initializes a new instance of the [LoadModuleCompletedEventArgs](/patterns-pract
 ## Syntax
 
 ```C#
-public LoadModuleCompletedEventArgs( ModuleInfo moduleInfo, Exception error )
+public LoadModuleCompletedEventArgs(
+	ModuleInfo moduleInfo,
+	Exception error
+)
 ```
 
 ```VB
 'Declaration
-Public Sub New ( moduleInfo As ModuleInfo, error As Exception )
+Public Sub New ( 
+	moduleInfo As ModuleInfo,
+	error As Exception
+)
 ```
 
 ### Parameters
@@ -37,9 +43,6 @@ The module info.
 *error*
 
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
-
-error  
-Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
 Any error that occurred during the call.
 

@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors
 ms:mtpsurl: 'mefdelayedregioncreationbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
 
-
 # MefDelayedRegionCreationBehavior Methods
 
 The [MefDelayedRegionCreationBehavior](/patterns-practices/reference/mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

@@ -21,8 +21,7 @@ public ModulesConfigurationSection RetrieveModuleConfigurationSection()
 
 ### Return Value
 
-Type: [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)
-
+Type: [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)  
 A [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity) instance.
 
 ### Implements
@@ -39,8 +38,7 @@ Public Function RetrieveModuleConfigurationSection As ModulesConfigurationSectio
 
 ### Return Value
 
-Type: [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)
-
+Type: [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)  
 A [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity) instance.
 
 ### Implements

@@ -31,14 +31,12 @@ Protected Overrides Function ModuleNeedsRetrieval (
 ### Parameters
 
 *moduleInfo*  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
-
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 Module that is being checked if needs retrieval.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 True if the module needs to be retrieved. Otherwise, false.
 
 ## See Also

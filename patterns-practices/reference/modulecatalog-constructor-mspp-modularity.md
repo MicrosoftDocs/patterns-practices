@@ -29,6 +29,5 @@ Public Sub New
 
 [ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
 [ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)  
-ModuleCatalog Overload
-
+ModuleCatalog Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

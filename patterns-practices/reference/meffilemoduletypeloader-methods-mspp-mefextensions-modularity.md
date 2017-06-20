@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFil
 ms:mtpsurl: 'meffilemoduletypeloader-methods-mspp-mefextensions-modularity.md'
 ---
 
-
 # MefFileModuleTypeLoader Methods
 
 The [MefFileModuleTypeLoader](/patterns-practices/reference/meffilemoduletypeloader-class-mspp-mefextensions-modularity) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

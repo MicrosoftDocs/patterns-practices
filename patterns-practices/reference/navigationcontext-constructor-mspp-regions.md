@@ -23,7 +23,7 @@ ms:mtpsurl: 'navigationcontext-constructor-iregionnavigationservice-uri-mspp-reg
 <tr class="odd">
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[NavigationContext(IRegionNavigationService, Uri)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)</td>
+<td>NavigationContext(IRegionNavigationService, Uri)</td>
 
 <td><div class="summary">
 Initializes a new instance of the [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) class for a region name and a [Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions).
@@ -32,7 +32,7 @@ Initializes a new instance of the [NavigationContext](/patterns-practices/refere
 <tr class="even">
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[NavigationContext(IRegionNavigationService, Uri, NavigationParameters)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)</td>
+<td>NavigationContext(IRegionNavigationService, Uri, NavigationParameters)</td>
 
 <td><div class="summary">
 Initializes a new instance of the [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) class for a region name and a [Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions).

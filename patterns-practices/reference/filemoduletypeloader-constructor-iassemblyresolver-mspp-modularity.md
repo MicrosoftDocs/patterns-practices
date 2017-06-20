@@ -17,11 +17,16 @@ Initializes a new instance of the [FileModuleTypeLoader](/patterns-practices/ref
 ## Syntax
 
 ```C#
-public FileModuleTypeLoader( IAssemblyResolver assemblyResolver )
+public FileModuleTypeLoader(
+	IAssemblyResolver assemblyResolver
+)
 ```
 
 ```VB
-Public Sub New ( assemblyResolver As IAssemblyResolver )
+'Declaration
+Public Sub New ( 
+	assemblyResolver As IAssemblyResolver
+)
 ```
 
 
@@ -37,6 +42,5 @@ The assembly resolver.
 
 [FileModuleTypeLoader Class](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity)  
 [FileModuleTypeLoader Members](/patterns-practices/reference/filemoduletypeloader-members-mspp-modularity)  
-FileModuleTypeLoader Overload
-
+FileModuleTypeLoader Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

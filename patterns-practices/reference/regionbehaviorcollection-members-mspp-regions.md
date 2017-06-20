@@ -22,9 +22,6 @@ The [RegionBehaviorCollection](/patterns-practices/reference/regionbehaviorcolle
 <tbody>
 <tr class="odd">
 
-<td><img src="images/public-method.gif" title="Public method" /></td>
-<td>RegionBehaviorCollection</td>
-
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>RegionBehaviorCollection</td>
 

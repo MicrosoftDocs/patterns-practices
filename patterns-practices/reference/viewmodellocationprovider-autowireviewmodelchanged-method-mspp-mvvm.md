@@ -31,8 +31,7 @@ Public Shared Sub AutoWireViewModelChanged (
 
 *view*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Mvvm.IView](/patterns-practices/reference/mspp-mvvm-namespace.iview)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Mvvm.IView](/patterns-practices/reference/mspp-mvvm-namespace.iview)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The dependency object, typically a view.
 
 ## See Also

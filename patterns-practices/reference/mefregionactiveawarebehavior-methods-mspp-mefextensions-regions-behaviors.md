@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors
 ms:mtpsurl: 'mefregionactiveawarebehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
 
-
 # MefRegionActiveAwareBehavior Methods
 
 The [MefRegionActiveAwareBehavior](/patterns-practices/reference/mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.

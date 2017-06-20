@@ -17,11 +17,18 @@ Initializes a new instance with serialized data.
 ## Syntax
 
 ```C#
-protected ModularityException( SerializationInfo info, StreamingContext context )
+protected ModularityException(
+	SerializationInfo info,
+	StreamingContext context
+)
 ```
 
 ```VB
-Protected Sub New ( info As SerializationInfo, context As StreamingContext )
+'Declaration
+Protected Sub New ( 
+	info As SerializationInfo,
+	context As StreamingContext
+)
 ```
 
 ### Parameters
@@ -42,6 +49,5 @@ The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that co
 
 [ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)  
 [ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)  
-ModularityException Overload
-
+ModularityException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

@@ -19,6 +19,16 @@ Identifies the RegionManager attached property.
 ```C#
 public static readonly DependencyProperty RegionManagerProperty
 ```
+
+### Field Value
+
+Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
+
+## Remarks
+
+When a control has both the [RegionNameProperty](/patterns-practices/reference/regionmanager-regionnameproperty-field-mspp-regions) and RegionManagerProperty attached properties set to a value different than **null**a null reference (**Nothing** in Visual Basic) and there is a [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapping registered for the control, it will create and adapt a new region for that control, and register it in the [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) with the specified region name.
+
+
 ```VB
 'Declaration
 Public Shared ReadOnly RegionManagerProperty As DependencyProperty
@@ -30,7 +40,7 @@ Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 ## Remarks
 
-When a control has both the [RegionNameProperty](/patterns-practices/reference/regionmanager-regionnameproperty-field-mspp-regions) and RegionManagerProperty attached properties set to a value different than **null**a null reference (**Nothing** in Visual Basic) and there is a [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapping registered for the control, it will create and adapt a new region for that control, and register it in the [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) with the specified region name.
+When a control has both the [RegionNameProperty](/patterns-practices/reference/regionmanager-regionnameproperty-field-mspp-regions) and RegionManagerProperty attached properties set to a value different than **Nothing**a null reference (**Nothing** in Visual Basic) and there is a [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapping registered for the control, it will create and adapt a new region for that control, and register it in the [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) with the specified region name.
 
 ## See Also
 

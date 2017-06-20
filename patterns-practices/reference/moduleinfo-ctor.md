@@ -10,8 +10,7 @@ ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 
 Initializes a new empty instance of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -29,6 +28,5 @@ Public Sub New
 
 [ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 [ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)  
-ModuleInfo Overload
-
+ModuleInfo Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

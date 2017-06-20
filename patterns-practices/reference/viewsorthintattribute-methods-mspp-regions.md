@@ -26,7 +26,7 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 <tr>
 <td>
 
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [Equals](http://msdn.microsoft.com/en-us/library/09ds241w)
@@ -37,7 +37,7 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 <tr>
 <td>
 
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [GetHashCode](http://msdn.microsoft.com/en-us/library/365e1bxs)
@@ -48,7 +48,7 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 <tr>
 <td>
 
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)
@@ -59,7 +59,7 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 <tr>
 <td>
 
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [IsDefaultAttribute](http://msdn.microsoft.com/en-us/library/tbkb5x6t)
@@ -70,7 +70,7 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 <tr>
 <td>
 
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [Match](http://msdn.microsoft.com/en-us/library/wy7chz44)
@@ -81,7 +81,7 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 <tr>
 <td>
 
-![](/patterns-practices/reference/images/public-method.gif "Public method")
+![Public method](/patterns-practices/reference/images/public-method.gif)
 </td>
 <td>
 [ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)
