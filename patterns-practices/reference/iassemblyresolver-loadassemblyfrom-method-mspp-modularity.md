@@ -35,8 +35,6 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[IAssemblyResolver Interface](/patterns-practices/reference/iassemblyresolver-interface-mspp-modularity) 
-
-[IAssemblyResolver Members](/patterns-practices/reference/iassemblyresolver-members-mspp-modularity) 
- 
+[IAssemblyResolver Interface](/patterns-practices/reference/iassemblyresolver-interface-mspp-modularity)  
+[IAssemblyResolver Members](/patterns-practices/reference/iassemblyresolver-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

@@ -23,16 +23,13 @@ public bool Remove(
 
 ### Parameters
 
-*item*
-
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
-
+*item*  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 The object to remove from the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 true if *item* was successfully removed from the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity); otherwise, false. This method also returns false if *item* is not found in the original [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
 
 ### Implements
@@ -49,16 +46,13 @@ Public Function Remove (
 
 ### Parameters
 
-*item*
-
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
-
+*item*  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 The object to remove from the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 true if *item* was successfully removed from the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity); otherwise, false. This method also returns false if *item* is not found in the original [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
 
 ### Implements

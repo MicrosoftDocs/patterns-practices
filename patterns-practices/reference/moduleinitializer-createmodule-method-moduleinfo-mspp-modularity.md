@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.CreateModu
 ms:mtpsurl: 'moduleinitializer-createmodule-method-moduleinfo-mspp-modularity.md'
 ---
 
-
 # ModuleInitializer.CreateModule Method (ModuleInfo)
 
 Uses the container to resolve a new [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
@@ -31,14 +30,12 @@ Protected Overridable Function CreateModule (
 ### Parameters
 
 *moduleInfo*  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
-
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 The module to create.
 
 ### Return Value
 
-Type: [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity)
-
+Type: [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity)  
 A new instance of the module specified by *moduleInfo*.
 
 ## See Also

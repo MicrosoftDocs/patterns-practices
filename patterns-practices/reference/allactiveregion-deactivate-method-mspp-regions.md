@@ -30,10 +30,8 @@ Public Overrides Sub Deactivate (
 
 ### Parameters
 
-*view*
-
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+*view*  
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The view to deactivate.
 
 ### Implements

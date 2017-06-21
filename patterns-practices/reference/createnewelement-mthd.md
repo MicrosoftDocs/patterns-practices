@@ -26,8 +26,7 @@ Protected Overrides Function CreateNewElement As ConfigurationElement
 
 ### Return Value
 
-Type: [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)
-
+Type: [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)  
 A [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity).
 
 ## See Also
