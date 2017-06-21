@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory'
 ms:mtpsurl: 'iregionbehaviorfactory-methods-mspp-regions.md'
 ---
 
-
 # IRegionBehaviorFactory Methods
 
 The [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

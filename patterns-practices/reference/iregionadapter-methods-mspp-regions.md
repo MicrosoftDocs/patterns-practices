@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionAdapter'
 ms:mtpsurl: 'iregionadapter-methods-mspp-regions.md'
 ---
 
-
 # IRegionAdapter Methods
 
 The [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

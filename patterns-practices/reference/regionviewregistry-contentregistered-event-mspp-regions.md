@@ -27,8 +27,6 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt
 
 [IRegionViewRegistry.ContentRegistered](/patterns-practices/reference/iregionviewregistry-contentregistered-event-mspp-regions)
 
-## Syntax
-
 ```VB
 'Declaration
 Public Event ContentRegistered As EventHandler(Of ViewRegisteredEventArgs)
@@ -46,4 +44,4 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)( O
 
 [RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)  
 [RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

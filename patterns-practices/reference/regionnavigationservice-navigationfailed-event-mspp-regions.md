@@ -5,7 +5,6 @@ ms:assetid: 'E:Microsoft.Practices.Prism.Regions.RegionNavigationService.Navigat
 ms:mtpsurl: 'regionnavigationservice-navigationfailed-event-mspp-regions.md'
 ---
 
-
 # RegionNavigationService.NavigationFailed Event
 
 Raised when a navigation request fails.
@@ -23,11 +22,11 @@ public event EventHandler<RegionNavigationFailedEventArgs> NavigationFailed
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[RegionNavigationFailedEventArgs](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions)&gt;  
+
 ### Implements
 
 [IRegionNavigationService.NavigationFailed](/patterns-practices/reference/iregionnavigationservice-navigationfailed-event-mspp-regions)
 
-## Syntax
 ```VB
 'Declaration
 Public Event NavigationFailed As EventHandler(Of RegionNavigationFailedEventArgs)
@@ -36,13 +35,13 @@ Public Event NavigationFailed As EventHandler(Of RegionNavigationFailedEventArgs
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationFailedEventArgs](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions))  
+
 ### Implements
 
 [IRegionNavigationService.NavigationFailed](/patterns-practices/reference/iregionnavigationservice-navigationfailed-event-mspp-regions)
-
 
 ## See Also
 
 [RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)  
 [RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

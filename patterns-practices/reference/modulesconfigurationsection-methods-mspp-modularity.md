@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModulesConfiguration
 ms:mtpsurl: 'modulesconfigurationsection-methods-mspp-modularity.md'
 ---
 
-
 # ModulesConfigurationSection Methods
 
 The [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

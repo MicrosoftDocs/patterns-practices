@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefCon
 ms:mtpsurl: 'mefcontentcontrolregionadapter-properties-mspp-mefextensions-regions.md'
 ---
 
-
 # MefContentControlRegionAdapter Properties
 
 The [MefContentControlRegionAdapter](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions) type exposes the following members.

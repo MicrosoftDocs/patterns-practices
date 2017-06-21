@@ -5,7 +5,6 @@ ms:assetid: 'E:Microsoft.Practices.Prism.Regions.Region.PropertyChanged'
 ms:mtpsurl: 'region-propertychanged-event-mspp-regions.md'
 ---
 
-
 # Region.PropertyChanged Event
 
 Occurs when a property value changes.
@@ -28,6 +27,7 @@ Public Event PropertyChanged As PropertyChangedEventHandler
 ### Value
 
 Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.com/en-us/library/hyza7z75)
+
 ### Implements
 
 [INotifyPropertyChanged.PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)

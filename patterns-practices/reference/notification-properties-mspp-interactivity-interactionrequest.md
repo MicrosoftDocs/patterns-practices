@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionReq
 ms:mtpsurl: 'notification-properties-mspp-interactivity-interactionrequest.md'
 ---
 
-
 # Notification Properties
 
 The [Notification](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest) type exposes the following members.
