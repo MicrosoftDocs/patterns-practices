@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.INavigationAware'
 ms:mtpsurl: 'inavigationaware-methods-mspp-regions.md'
 ---
 
-
 # INavigationAware Methods
 
 The [INavigationAware](/patterns-practices/reference/inavigationaware-interface-mspp-regions) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -50,4 +48,4 @@ Called when the implementer has been navigated to.
 ## See Also
 
 [INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleNotFoundExcept
 ms:mtpsurl: 'modulenotfoundexception-methods-mspp-modularity.md'
 ---
 
-
 # ModuleNotFoundException Methods
 
 The [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -91,7 +89,6 @@ Creates and returns a string representation of the current exception.
 </table>
 
 ## Extension Methods
-
 
 <table>
 

@@ -5,7 +5,6 @@ ms:assetid: 'E:Microsoft.Practices.Prism.Regions.RegionNavigationService.Navigat
 ms:mtpsurl: 'regionnavigationservice-navigating-event-mspp-regions.md'
 ---
 
-
 # RegionNavigationService.Navigating Event
 
 Raised when the region is about to be navigated to content.
@@ -28,8 +27,6 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt
 [IRegionNavigationService.Navigating](/patterns-practices/reference/iregionnavigationservice-navigating-event-mspp-regions)
 
 
-## Syntax
-
 ```VB
 'Declaration
 Public Event Navigating As EventHandler(Of RegionNavigationEventArgs)
@@ -42,10 +39,8 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of
 
 [IRegionNavigationService.Navigating](/patterns-practices/reference/iregionnavigationservice-navigating-event-mspp-regions)
 
-
-
 ## See Also
 
 [RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)  
 [RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

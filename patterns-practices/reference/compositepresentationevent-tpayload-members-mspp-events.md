@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Events.CompositePresentation
 ms:mtpsurl: 'compositepresentationevent-tpayload-members-mspp-events.md'
 ---
 
-
 # CompositePresentationEvent&lt;TPayload&gt; Members
 
 The [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 
@@ -34,7 +32,6 @@ Initializes a new instance of the [CompositePresentationEvent&lt;TPayload&gt;](/
 </table>
 
 ## Methods
-
 
 <table>
 
@@ -167,7 +164,7 @@ Returns a string that represents the current object.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Unsubscribe(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-unsubscribe-method-action-tpayload-mspp-events))</td>
 <td><div class="summary">
-Removes the first subscriber matching [Action&lt;T&gt;(http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
+Removes the first subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
 </div></td>
 </tr>
 </tbody>

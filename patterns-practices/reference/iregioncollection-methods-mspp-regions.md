@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
 ms:mtpsurl: 'iregioncollection-methods-mspp-regions.md'
 ---
 
-
 # IRegionCollection Methods
 
 The [IRegionCollection](/patterns-practices/reference/iregioncollection-interface-mspp-regions) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -64,7 +62,6 @@ Removes a [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions
 </table>
 
 ## Extension Methods
-
 
 <table>
 

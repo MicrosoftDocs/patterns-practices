@@ -5,13 +5,11 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.ListDictionary\`2'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-properties-mspp.md'
 ---
 
-
 # ListDictionary(Of TKey, TValue) Properties
 
 The [ListDictionary(Of TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp) type exposes the following members.
 
 ## Properties
-
 
 <table>
 

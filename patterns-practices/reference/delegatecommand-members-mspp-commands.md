@@ -82,7 +82,7 @@ Executes the command.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[Execute(Object)](/patterns-practices/reference/delegatecommandbase-execute-method-mspp-commands)</td>
 <td><div class="summary">
-Executes the command with the provided parameter by invoking the [Action&lt;(T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) supplied during construction.
+Executes the command with the provided parameter by invoking the [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) supplied during construction.
 </div>
 (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>
 </tr>
@@ -95,14 +95,14 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[FromAsyncHandler(Func&lt;Task&gt;)](/patterns-practices/reference/delegatecommand-fromasynchandler-method-func-task-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[FromAsyncHandler(Func&lt;Task&gt;, Func&lt;Boolean&gt;)](/patterns-practices/reference/delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
@@ -176,8 +176,8 @@ Returns a string that represents the current object.
 
 |                                                                                                | Name                                                                                                                        | Description |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------|
-| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_canExecuteMethod](/patterns-practices/reference/canexecutemthd-field) |      (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)       |
-| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_executeMethod](/patterns-practices/reference/executemthd-field)       |       (Inherited from  [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)      |
+|               | [\_canExecuteMethod](/patterns-practices/reference/canexecutemthd-field) |      (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)       |
+|               | [\_executeMethod](/patterns-practices/reference/executemthd-field)       |       (Inherited from  [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)      |
 ## Properties
 
 <table>

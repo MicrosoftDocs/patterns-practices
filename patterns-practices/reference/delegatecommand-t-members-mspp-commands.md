@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Commands.DelegateCommand\`1'
 ms:mtpsurl: 'delegatecommand-t-members-mspp-commands.md'
 ---
 
-
 # DelegateCommand&lt;T&gt; Members
 
 The [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 
@@ -25,14 +23,14 @@ The [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-c
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[DelegateCommand&lt;T&gt;(Action&lt;T&gt;)](/patterns-practices/reference/delegatecommand-t-constructor-action-t-mspp-commands)</td>
+<td>DelegateCommand&lt;T&gt;(Action&lt;T&gt;)</td>
 <td><div class="summary">
 Initializes a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[DelegateCommand&lt;T&gt;(Action&lt;T&gt;), Func&lt;T, Boolean&gt;)](/patterns-practices/reference/delegatecommand-t-constructor-action-t-func-t-boolean-mspp-commands)</td>
+<td>DelegateCommand&lt;T&gt;(Action&lt;T&gt;, Func&lt;T, Boolean&gt;)</td>
 <td><div class="summary">
 Initializes a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
 </div></td>
@@ -41,7 +39,6 @@ Initializes a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/ref
 </table>
 
 ## Methods
-
 
 <table>
 
@@ -100,14 +97,14 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[FromAsyncHandler(Func&lt;T, Task&gt;)](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-func-t-task-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands) from an awaitable handler method.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[FromAsyncHandler(Func&lt;T, Task&gt;, Func&lt;T, Boolean&gt;)](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-func-t-task-func-t-boolean-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands) from an awaitable handler method.
@@ -181,11 +178,10 @@ Returns a string that represents the current object.
 
 |                                                                                                | Name                                                                                                                        | Description                                                                                                                  |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_canExecuteMethod](/patterns-practices/reference/canexecutemthd-field) | (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).) |
-| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_executeMethod](/patterns-practices/reference/executemthd-field)       | (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).) |
+|            | [\_canExecuteMethod](/patterns-practices/reference/canexecutemthd-field) | (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).) |
+|            | [\_executeMethod](/patterns-practices/reference/executemthd-field)       | (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).) |
 
 ## Properties
-
 
 <table>
 
@@ -209,7 +205,6 @@ Gets or sets a value indicating whether the object is active.
 </table>
 
 ## Events
-
 
 <table>
 

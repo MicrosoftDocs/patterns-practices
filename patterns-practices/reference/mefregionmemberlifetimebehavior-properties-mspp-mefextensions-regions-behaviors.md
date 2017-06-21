@@ -5,13 +5,11 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behavi
 ms:mtpsurl: 'mefregionmemberlifetimebehavior-properties-mspp-mefextensions-regions-behaviors.md'
 ---
 
-
 # MefRegionMemberLifetimeBehavior Properties
 
 The [MefRegionMemberLifetimeBehavior](/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Properties
-
 
 <table>
 <thead>
@@ -26,7 +24,7 @@ The [MefRegionMemberLifetimeBehavior](/patterns-practices/reference/mefregionmem
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
-Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>Falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
+Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
 </div>
 (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
