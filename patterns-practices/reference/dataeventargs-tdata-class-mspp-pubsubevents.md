@@ -22,13 +22,11 @@ public class DataEventArgs<TData> : EventArgs
 ## Type Parameters
 
 *TData*  
-
 The type of data to pass.
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-
+[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)  
 [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
 
 
@@ -58,13 +56,11 @@ Public Class DataEventArgs(Of TData)
 ## Type Parameters
 
 *TData*  
-
 The type of data to pass.
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
 
 

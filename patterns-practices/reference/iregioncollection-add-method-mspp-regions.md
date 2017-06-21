@@ -30,10 +30,8 @@ Sub Add (
 
 ### Parameters
 
-*region*
-  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+*region*  
+Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 Region to be added to the collection.
 
 ## See Also

@@ -39,27 +39,19 @@ Public Shared Sub RequestNavigate (
 ### Parameters
 
 *regionManager*  
-
-Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
-
+Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The IRegionManager instance that is extended by this method.
 
 *regionName*  
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the region where the navigation will occur.
 
 *target*  
-
-Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
-
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)  
 A Uri that represents the target where the region will navigate.
 
 *navigationParameters*  
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)
-
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 An instance of NavigationParameters, which holds a collection of object parameters.
 
 ### Usage Note

@@ -20,6 +20,17 @@ Object GetView(
 	string viewName
 )
 ```
+
+### Parameters
+
+*viewName*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he name used when adding the view to the region.
+
+### Return Value  
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+Returns the named view or **null**a null reference (**Nothing** in Visual Basic) if the view with viewName does not exist in the current region.
+
 ```VB
 'Declaration
 Function GetView ( 
@@ -29,17 +40,13 @@ Function GetView (
 
 ### Parameters
 
-*viewName*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*viewName*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he name used when adding the view to the region.
 
-### Return Value
-
-Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-Returns the named view or **null**a null reference (**Nothing** in Visual Basic) if the view with viewName does not exist in the current region.
+### Return Value  
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+Returns the named view or **Nothing**a null reference (**Nothing** in Visual Basic) if the view with *viewName* does not exist in the current region.
 
 ## See Also
 

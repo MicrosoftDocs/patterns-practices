@@ -30,10 +30,8 @@ Sub RecordNavigation (
 
 ### Parameters
 
-*entry*
-
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)
-
+*entry*  
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)  
 The entry to record.
 
 ## See Also

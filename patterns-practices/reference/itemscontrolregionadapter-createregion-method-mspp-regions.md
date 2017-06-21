@@ -24,10 +24,8 @@ protected override IRegion CreateRegion()
 Protected Overrides Function CreateRegion As IRegion
 ```
 
-### Return Value
-
-Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+### Return Value  
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 A new instance of [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions).
 
 ## See Also

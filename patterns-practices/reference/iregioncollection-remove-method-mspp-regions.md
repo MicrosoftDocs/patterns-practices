@@ -21,6 +21,16 @@ bool Remove(
 )
 ```
 
+### Parameters
+
+*regionName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+Name of the region to be removed.
+
+### Return Value  
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+**truetrue** (**True** in Visual Basic) if the region was removed from the collection, otherwise **falsefalse** (**False** in Visual Basic).
+
 ```VB
 'Declaration
 Function Remove ( 
@@ -30,16 +40,12 @@ Function Remove (
 
 ### Parameters
 
-*regionName*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*regionName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 Name of the region to be removed.
 
-### Return Value
-
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+### Return Value  
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **Truetrue** (**True** in Visual Basic) if the region was removed from the collection, otherwise **Falsefalse** (**False** in Visual Basic).
 
 ## See Also

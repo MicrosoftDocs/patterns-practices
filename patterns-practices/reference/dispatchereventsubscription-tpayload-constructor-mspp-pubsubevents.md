@@ -27,20 +27,17 @@ public DispatcherEventSubscription(
 
 *actionReference*  
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
-
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)  
 A reference to a delegate of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
-
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)  
 A reference to a delegate of type [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 *context*
 
-Type: [System.Threading.SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f)
-
+Type: [System.Threading.SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f)  
 The synchronization context to use for UI thread dispatching.
 
 ## Exceptions
@@ -79,20 +76,17 @@ Public Sub New (
 
 *actionReference*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
-
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)  
 A reference to a delegate of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference* 
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
-
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)  
 A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 *context*
 
-Type: [System.Threading.SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f)
-
+Type: [System.Threading.SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f)  
 The synchronization context to use for UI thread dispatching.
 
 ## Exceptions

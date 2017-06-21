@@ -24,21 +24,17 @@ public void ClearErrors<TProperty>(
 
 ### Parameters
 
-*propertyExpression*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;TProperty&gt;&gt;
-
+*propertyExpression*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;TProperty&gt;&gt;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The expression indicating a property.
 	
 ### Type Parameters
 
-*TProperty*
+*TProperty*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The property type.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The property type.
-
-## Examples
-
-container.ClearErrors(()=&gt;SomeProperty);
+## Examples  
+container.ClearErrors(()=&gt;SomeProperty);  
 
 ## See Also
 
@@ -68,20 +64,16 @@ Public Sub ClearErrors(Of TProperty) (
 ### Parameters
 
 *propertyExpression*  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of TProperty))
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of TProperty))  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The expression indicating a property.
 
 ### Type Parameters
 
-*TProperty*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The property type.
+*TProperty*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The property type.  
 
 ## Examples
-
-container.ClearErrors(()=&gt;SomeProperty);
+container.ClearErrors(()=&gt;SomeProperty);  
 
 ## See Also
 

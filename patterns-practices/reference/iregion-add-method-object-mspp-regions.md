@@ -30,13 +30,13 @@ Function Add (
 
 ### Parameters
 
-*view*  </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)</br>
+*view*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The view to add.
 
 ### Return Value
 
-Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)</br>
+Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) that is set on the view if it is a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309). It will be the current region manager when using this overload.
 
 ## See Also
