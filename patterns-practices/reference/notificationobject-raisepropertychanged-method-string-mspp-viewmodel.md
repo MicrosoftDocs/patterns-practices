@@ -30,10 +30,8 @@ Protected Overridable Sub RaisePropertyChanged (
 
 ### Parameters
 
-*propertyName*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*propertyName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The property that has a new value.
 
 ## See Also
