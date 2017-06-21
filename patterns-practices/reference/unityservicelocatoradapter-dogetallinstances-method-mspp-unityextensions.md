@@ -1,4 +1,4 @@
-﻿---
+---
 TOCTitle: DoGetAllInstances Method
 Title: 'UnityServiceLocatorAdapter.DoGetAllInstances Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter.DoGetAllInstances(System.Type)'
@@ -51,8 +51,6 @@ Sequence of service instance objects.
 
 ## See Also
 
-[UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions)
-
-[UnityServiceLocatorAdapter Members](/patterns-practices/reference/unityservicelocatoradapter-members-mspp-unityextensions)
-
+[UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions)  
+[UnityServiceLocatorAdapter Members](/patterns-practices/reference/unityservicelocatoradapter-members-mspp-unityextensions)  
 [Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)
