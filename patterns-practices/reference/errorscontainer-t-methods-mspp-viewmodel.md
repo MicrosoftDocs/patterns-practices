@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1'
 ms:mtpsurl: 'errorscontainer-t-methods-mspp-viewmodel.md'
 ---
 
-
 # ErrorsContainer&lt;T&gt; Methods
 
 The [ErrorsContainer&lt;T&gt;](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel

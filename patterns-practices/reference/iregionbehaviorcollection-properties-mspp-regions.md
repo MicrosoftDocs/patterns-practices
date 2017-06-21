@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionBehaviorColle
 ms:mtpsurl: 'iregionbehaviorcollection-properties-mspp-regions.md'
 ---
 
-
 # IRegionBehaviorCollection Properties
 
 The [IRegionBehaviorCollection](/patterns-practices/reference/iregionbehaviorcollection-interface-mspp-regions) type exposes the following members.

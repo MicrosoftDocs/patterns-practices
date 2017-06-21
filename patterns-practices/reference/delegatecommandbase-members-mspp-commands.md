@@ -23,7 +23,7 @@ The [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-clas
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>DelegateCommandBase(Action&lt;Object&gt;, Func&lt;Object, Boolean&gt;</td>
+<td>DelegateCommandBase(Action&lt;Object&gt;, Func&lt;Object, Boolean&gt;)</td>
 <td><div class="summary">
 Creates a new instance of a [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands
 ), specifying both the execute action and the can execute function.

@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ViewModel.PropertySupport'
 ms:mtpsurl: 'propertysupport-methods-mspp-viewmodel.md'
 ---
 
-
 # PropertySupport Methods
 
 The [PropertySupport](/patterns-practices/reference/propertysupport-class-mspp-viewmodel) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -24,7 +22,7 @@ The [PropertySupport](/patterns-practices/reference/propertysupport-class-mspp-v
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[ExtractPropertyName&lt;T&gt;](/patterns-practices/reference/propertysupport-extractpropertyname-t-method-mspp-viewmodel)</td>
 <td><div class="summary">
 Extracts the property name from a property expression.

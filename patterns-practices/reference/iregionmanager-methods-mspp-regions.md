@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionManager'
 ms:mtpsurl: 'iregionmanager-methods-mspp-regions.md'
 ---
 
-
 # IRegionManager Methods
 
 The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -34,7 +32,6 @@ Creates a new region manager.
 </table>
 
 ## Extension Methods
-
 
 <table>
 
