@@ -25,8 +25,7 @@ Protected MustOverride Function CreateShell As DependencyObject
 
 ### Return Value
 
-Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
-
+Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
 The shell of the application.
 
 ## Remarks
