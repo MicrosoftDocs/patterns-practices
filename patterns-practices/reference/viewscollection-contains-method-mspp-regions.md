@@ -29,16 +29,13 @@ Public Function Contains (
 ```
 ### Parameters
 
-*value* 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+*value*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object to locate in the collection.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **truetrue** (**True** in Visual Basic) if *value* is found in the collection; otherwise, **falsefalse** (**False** in Visual Basic).
 
 ### Implements
