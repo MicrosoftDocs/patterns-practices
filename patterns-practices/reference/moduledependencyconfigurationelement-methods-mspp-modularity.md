@@ -211,7 +211,7 @@ Sets a property to the specified value.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[SetReadOnly](http://msdn.microsoft.com/en-us/library/ms134139)</td>
 <td><div class="summary">
-Sets the [IsReadOnly()()()](http://msdn.microsoft.com/en-us/library/ms134129) property for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object and all subelements.
+Sets the [IsReadOnly()](http://msdn.microsoft.com/en-us/library/ms134129) property for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object and all subelements.
 </div>
 (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
