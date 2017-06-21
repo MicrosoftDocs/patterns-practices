@@ -53,7 +53,8 @@ Defines a class that manages publication and subscription to events.
 Public Class CompositePresentationEvent(Of TPayload)
 	Inherits EventBase
 ```
-## Type Parameters
+
+### Type Parameters
 
 *TPayload*  
 The type of message that will be passed to the subscribers.
@@ -67,4 +68,4 @@ Microsoft.Practices.Prism.Events.CompositePresentationEvent(Of TPayload)
 ## See Also
 
 [CompositePresentationEvent(Of TPayload) Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)  
-[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)  
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)

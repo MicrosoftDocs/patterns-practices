@@ -30,7 +30,7 @@ The constructor deliberately prevents the use of value types. Because ICommand t
 
 Instead, callers should support a value type by using a nullable value type and checking the HasValue property before using the Value property.
 
-## Examples
+### Examples
 
 ```
 public MyClass()
@@ -47,7 +47,7 @@ private bool CanSubmit(int? customerId)
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-[Microsoft-Practices-Prism-Commands-DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
+[Microsoft.Practices.Prism.Commands.DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
 Microsoft.Practices.Prism.Commands.DelegateCommand&lt;T&gt;
 
 ## See Also
@@ -83,7 +83,7 @@ The constructor deliberately prevents the use of value types. Because ICommand t
 
 Instead, callers should support a value type by using a nullable value type and checking the HasValue property before using the Value property.
 
-## Examples
+### Examples
 
 ```
 public MyClass()
@@ -100,7 +100,7 @@ private bool CanSubmit(int? customerId)
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-[Microsoft-Practices-Prism-Commands-DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
+[Microsoft.Practices.Prism.Commands.DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
 Microsoft.Practices.Prism.Commands.DelegateCommand(Of T)
 
 ## See Also
