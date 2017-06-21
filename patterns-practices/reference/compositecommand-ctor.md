@@ -25,6 +25,5 @@ Public Sub New
 ## See Also
 [CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)  
 [CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)  
-CompositeCommand Overload
-
+CompositeCommand Overload  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

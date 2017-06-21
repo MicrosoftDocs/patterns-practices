@@ -80,7 +80,7 @@ Configures the default region adapter mappings to use in the application, in ord
 <td><div class="summary">
 Configures the LocatorProvider for the ServiceLocator.
 </div>
-(Overrides [Bootstrapper.ConfigureServiceLocator()](/patterns-practices/reference/bootstrapper-configureservicelocator-method-mspp).)</td>
+(Overrides [Bootstrapper.ConfigureServiceLocator](/patterns-practices/reference/bootstrapper-configureservicelocator-method-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -151,7 +151,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td><div class="summary">
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
 </div>
-(Overrides [Bootstrapper.InitializeModules()](/patterns-practices/reference/bootstrapper-initializemodules-method-mspp).)</td>
+(Overrides [Bootstrapper.InitializeModules](/patterns-practices/reference/bootstrapper-initializemodules-method-mspp).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -175,7 +175,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Registers in the IUnityContainer the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp).
 </div>
-(Overrides [Bootstrapper.RegisterFrameworkExceptionTypes()](/patterns-practices/reference/bootstrapper-registerframeworkexceptiontypes-method-mspp).)</td>
+(Overrides [Bootstrapper.RegisterFrameworkExceptionTypes](/patterns-practices/reference/bootstrapper-registerframeworkexceptiontypes-method-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -186,7 +186,7 @@ Registers a type in the container only if that type was not already registered.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Run()](/patterns-practices/reference/run-mthd)</td>
+<td>[Run](/patterns-practices/reference/run-mthd)</td>
 <td><div class="summary">
 Runs the bootstrapper process.
 </div>
