@@ -10,7 +10,7 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-class-mspp-events.md'
 
 Defines a class that manages publication and subscription to events.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)  
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -21,25 +21,57 @@ Defines a class that manages publication and subscription to events.
 public class CompositePresentationEvent<TPayload> : EventBase
 ```
 
+## Type Parameters
+
+
+<i>TPayload</i>  
+The type of message that will be passed to the subscribers.
+
+
+## Inheritance Hierarchy
+
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+EventBase  
+Microsoft.Practices.Prism.Events.CompositePresentationEvent&lt;TPayload&gt;  
+
+## See Also
+
+[CompositePresentationEvent&lt;TPayload&gt; Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)  
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)  
+
+
+# CompositePresentationEvent(Of TPayload) Class
+
+Defines a class that manages publication and subscription to events.
+
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
 ```VB
 'Declaration
 <ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")> 
 Public Class CompositePresentationEvent(Of TPayload)
 	Inherits EventBase
 ```
+
 ## Type Parameters
 
 
-TPayload  
+<i>TPayload</i>  
 The type of message that will be passed to the subscribers.
+
 
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  EventBase  
-    Microsoft.Practices.Prism.Events.CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)
+EventBase  
+Microsoft.Practices.Prism.Events.CompositePresentationEvent(Of TPayload)  
 
 ## See Also
 
-[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.compositepresentationevent%601)  
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)  
+[CompositePresentationEvent(Of TPayload) Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)  
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)  
+

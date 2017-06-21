@@ -22,9 +22,6 @@ public event EventHandler<ModuleDownloadProgressChangedEventArgs> ModuleDownload
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity)&gt;
 
-### Implements
-
-[IModuleManager.ModuleDownloadProgressChanged](/patterns-practices/reference/imodulemanager-moduledownloadprogresschanged-event-mspp-modularity)
 
 ## Syntax
 

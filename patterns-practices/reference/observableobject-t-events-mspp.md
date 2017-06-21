@@ -679,7 +679,7 @@ Occurs when a finger is raised off of the screen while the finger is over this e
 </tr>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[PropertyChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601.propertychanged)</td>
+<td>[PropertyChanged](/patterns-practices/reference/observableobject-t-propertychanged-event-mspp)</td>
 <td><div class="summary">
 Event that gets invoked when the Value property changes.
 </div></td>
