@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Commands.DelegateCommand'
 ms:mtpsurl: 'delegatecommand-class-mspp-commands.md'
 ---
 
-
 # DelegateCommand Class
 
 An [ICommand](http://msdn.microsoft.com/en-us/library/ms616869) whose delegates do not take any parameters for [Execute()](/patterns-practices/reference/delegatecommand-execute-method-mspp-commands) and [CanExecute()](/patterns-practices/reference/delegatecommand-canexecute-method-mspp-commands).
@@ -18,9 +17,11 @@ An [ICommand](http://msdn.microsoft.com/en-us/library/ms616869) whose delegates 
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```C#
 public class DelegateCommand : DelegateCommandBase
 ```
+
 ```VB
 'Declaration
 Public Class DelegateCommand
@@ -30,7 +31,7 @@ Public Class DelegateCommand
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)   
-  [Microsoft.Practices.Prism.Commands.DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  
+[Microsoft-Practices-Prism-Commands-DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)   
 Microsoft.Practices.Prism.Commands.DelegateCommand
 
 ## See Also

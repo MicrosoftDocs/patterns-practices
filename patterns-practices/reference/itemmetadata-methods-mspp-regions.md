@@ -7,7 +7,7 @@ ms:mtpsurl: 'itemmetadata-methods-mspp-regions.md'
 
 # ItemMetadata Methods
 
-The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
+The [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -110,9 +110,9 @@ Re-evaluates the effective value for the specified dependency property
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[InvokeMetadataChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.invokemetadatachanged)</td>
+<td>[InvokeMetadataChanged](/patterns-practices/reference/itemmetadata-invokemetadatachanged-method-mspp-regions)</td>
 <td><div class="summary">
-Explicitly invokes [MetadataChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.metadatachanged) to notify listeners.
+Explicitly invokes [MetadataChanged](/patterns-practices/reference/itemmetadata-metadatachanged-event-mspp-regions) to notify listeners.
 </div></td>
 </tr>
 <tr class="odd">
@@ -192,5 +192,5 @@ Enforces that the calling thread has access to this [DispatcherObject](http://ms
 
 ## See Also
 
-[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

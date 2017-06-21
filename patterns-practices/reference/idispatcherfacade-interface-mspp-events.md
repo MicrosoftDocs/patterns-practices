@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Events.IDispatcherFacade'
 ms:mtpsurl: 'idispatcherfacade-interface-mspp-events.md'
 ---
 
-
 # IDispatcherFacade Interface
 
 Defines the interface for invoking methods through a Dispatcher Facade
@@ -20,6 +19,7 @@ Defines the interface for invoking methods through a Dispatcher Facade
 [ObsoleteAttribute]
 public interface IDispatcherFacade
 ```
+
 ```VB
 'Declaration
 <ObsoleteAttribute> 

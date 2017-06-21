@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDownloadPro
 ms:mtpsurl: 'moduledownloadprogresschangedeventargs-properties-mspp-modularity.md'
 ---
 
-
 # ModuleDownloadProgressChangedEventArgs Properties
 
 The [ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

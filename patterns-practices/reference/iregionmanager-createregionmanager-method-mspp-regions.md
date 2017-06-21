@@ -24,10 +24,8 @@ IRegionManager CreateRegionManager()
 Function CreateRegionManager As IRegionManager
 ```
 
-### Return Value
-
-Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
-
+### Return Value  
+Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 A new region manager that can be used as a different scope from the current region manager.
 
 ## See Also

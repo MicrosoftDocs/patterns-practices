@@ -8,9 +8,8 @@ ms:mtpsurl: 'delegatecommand-constructor-action-func-boolean-mspp-commands.md'
 # DelegateCommand Constructor
 
 ## Overload List
- 
-<table>
 
+<table>
 <thead>
 <tr class="header">
 <th> </th>

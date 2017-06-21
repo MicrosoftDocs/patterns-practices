@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.E
 ms:mtpsurl: 'moduledependencycollection-elementname-property-mspp-modularity.md'
 ---
 
-
 # ModuleDependencyCollection.ElementName Property
 
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
@@ -19,6 +18,7 @@ Gets the name used to identify this collection of elements in the configuration 
 ```C#
 protected override string ElementName { get; }
 ```
+
 ```VB
 'Declaration
 Protected Overrides ReadOnly Property ElementName As String
@@ -34,4 +34,4 @@ The name of the collection; otherwise, an empty string.
 
 [ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)  
 [ModuleDependencyCollection Members](/patterns-practices/reference/moduledependencycollection-members-mspp-modularity)  
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

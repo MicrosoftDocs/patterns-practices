@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.CollectionExtensions'
 ms:mtpsurl: 'collectionextensions-class-mspp.md'
 ---
 
-
 # CollectionExtensions Class
 
 Class that provides extension methods to Collection
@@ -19,6 +18,7 @@ Class that provides extension methods to Collection
 ```C#
 public static class CollectionExtensions
 ```
+
 ```VB
 'Declaration
 <ExtensionAttribute> 

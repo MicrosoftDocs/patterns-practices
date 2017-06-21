@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionmanagerregistrationbehavior-class-mspp-regions-behaviors.md'
 
 # RegionManagerRegistrationBehavior Class
 
-Subscribes to a static event from the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) in order to register the target [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) in a [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) when one is available on the host control by walking up the tree and finding a control whose [RegionManagerProperty](/patterns-practices/reference/regionmanager-regionmanagerproperty-field-mspp-regions) property is not **null**a null reference (**Nothing** in Visual Basic).
+Subscribes to a static event from the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) in order to register the target [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) in a [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) when one is available on the host control by walking up the tree and finding a control whose [RegionManagerProperty](/patterns-practices/reference/regionmanager-regionmanagerproperty-field-mspp-regions) property is not **Nothing** a null reference (**Nothing** in Visual Basic).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  

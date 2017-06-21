@@ -27,7 +27,7 @@ Extends [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/events
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/> 
-[Microsoft.Practices.Prism.PubSubEvents.EventSubscription](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)&lt;TPayload&gt;)
+[Microsoft.Practices.Prism.PubSubEvents.EventSubscription](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)&lt;TPayload&gt;  
 Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription&lt;TPayload&gt;
 
 ## See Also
@@ -59,7 +59,7 @@ Extends [EventSubscription(Of TPayload)](/eventsubscription-tpayload-class-mspp-
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-[Microsoft.Practices.Prism.PubSubEvents.EventSubscription](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)(Of TPayload)
+[Microsoft.Practices.Prism.PubSubEvents.EventSubscription](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)(Of TPayload)  
 Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription(Of TPayload)
 
 ## See Also

@@ -30,19 +30,12 @@ Function ContainsKey ( _
 
 ### Parameters
 
-*key* 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*key*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The key to use to find a particular [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions).
 
-### Return Value
-
+### Return Value  
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
-
-### Implements
-
-[IRegionBehaviorCollection.ContainsKey(String)](/patterns-practices/reference/iregionbehaviorcollection-containskey-method-mspp-regions)
 
 ## See Also
 

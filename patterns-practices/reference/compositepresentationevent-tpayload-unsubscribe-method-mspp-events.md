@@ -5,13 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Events.CompositePresentationEven
 ms:mtpsurl: 'compositepresentationevent-tpayload-unsubscribe-method-mspp-events.md'
 ---
 
-
 # CompositePresentationEvent&lt;TPayload&gt;.Unsubscribe Method
 
 ## Overload List
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

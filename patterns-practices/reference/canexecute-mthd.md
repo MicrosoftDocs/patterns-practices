@@ -5,7 +5,6 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand.CanExec
 ms:mtpsurl: 'canexecute-mthd.md'
 ---
 
-
 # DelegateCommand.CanExecute Method
 
 ## Overload List
@@ -30,7 +29,6 @@ Determines if the command can be executed.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[CanExecute(Object)](/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands)</td>
 <td><div class="summary">
-	
 Determines if the command can execute with the provided parameter by invoking the [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) supplied during construction.
 </div>
 (Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>

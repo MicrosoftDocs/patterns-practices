@@ -21,7 +21,8 @@ public sealed class ModuleDependencyAttribute : Attribute
 ```
 ```VB
 'Declaration
-Public NotInheritable Class ModuleDependencyAttribute Inherits Attribute
+Public NotInheritable Class ModuleDependencyAttribute
+	Inherits Attribute
 ```
 
 ## Inheritance Hierarchy

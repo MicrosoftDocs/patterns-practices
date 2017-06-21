@@ -31,10 +31,8 @@ Public Shared Sub SetDefaultViewTypeToViewModelTypeResolver (
 
 ### Parameters
 
-*viewTypeToViewModelTypeResolver*
-
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of ([Type](http://msdn.microsoft.com/en-us/library/42892f65), [Type](http://msdn.microsoft.com/en-us/library/42892f65)))
-
+*viewTypeToViewModelTypeResolver*  
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of ([Type](http://msdn.microsoft.com/en-us/library/42892f65), [Type](http://msdn.microsoft.com/en-us/library/42892f65)))  
 The view type to view model type resolver.
 
 ## See Also

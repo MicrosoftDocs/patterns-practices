@@ -18,7 +18,6 @@ Occurs when metadata on the item changes.
 ```C#
 public event EventHandler MetadataChanged
 ```
-## Syntax
 
 ```VB
 'Declaration

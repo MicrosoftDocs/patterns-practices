@@ -11,9 +11,7 @@ The [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modul
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

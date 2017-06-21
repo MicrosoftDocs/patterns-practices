@@ -43,10 +43,7 @@ When **Truetrue** (**True** in Visual Basic), it is being called from the Dispos
 ## See Also
 
 [FileModuleTypeLoader Class](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity)  
-
-[FileModuleTypeLoader Members](/patterns-practices/reference/filemoduletypeloader-members-mspp-modularity) 
-
+[FileModuleTypeLoader Members](/patterns-practices/reference/filemoduletypeloader-members-mspp-modularity)  
 [Dispose Overload](/patterns-practices/reference/filemoduletypeloader-dispose-method-mspp-modularity)  
-
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
 

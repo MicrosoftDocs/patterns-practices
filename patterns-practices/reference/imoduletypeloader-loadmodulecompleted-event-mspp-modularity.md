@@ -25,6 +25,7 @@ event EventHandler<LoadModuleCompletedEventArgs> LoadModuleCompleted
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)&gt;
 
+## Syntax
 
 ```VB
 'Declaration

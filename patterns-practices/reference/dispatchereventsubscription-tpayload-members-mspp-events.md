@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Events.DispatcherEventSubscr
 ms:mtpsurl: 'dispatchereventsubscription-tpayload-members-mspp-events.md'
 ---
 
-
 # DispatcherEventSubscription&lt;TPayload&gt; Members
 
 The [ DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 
@@ -25,7 +23,7 @@ The [ DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/referenc
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[DispatcherEventSubscription&lt;TPayload&gt;]</td>
+<td>DispatcherEventSubscription&lt;TPayload&gt;</td>
 <td><div class="summary">
 Creates a new instance of BackgroundEventSubscription.
 </div></td>
@@ -34,7 +32,6 @@ Creates a new instance of BackgroundEventSubscription.
 </table>
 
 ## Methods
-
 
 <table>
 

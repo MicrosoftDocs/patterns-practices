@@ -40,8 +40,7 @@ The [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modul
 
 ## See Also
 
-[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) 
-
+[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)  
 [IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
 

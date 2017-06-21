@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyC
 ms:mtpsurl: 'moduledependencycollection-properties-mspp-modularity.md'
 ---
 
-
 # ModuleDependencyCollection Properties
 
 The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity) type exposes the following members.
@@ -13,7 +12,6 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ## Properties
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

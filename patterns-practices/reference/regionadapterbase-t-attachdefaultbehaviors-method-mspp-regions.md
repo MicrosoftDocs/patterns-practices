@@ -25,11 +25,11 @@ protected virtual void AttachDefaultBehaviors(
 
 ### Parameters
 
-_region_  
+*region*  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The region being used.
 
-_regionTarget_  
+*regionTarget*  
 Type: [T](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The object to adapt.
 
@@ -60,11 +60,11 @@ Protected Overridable Sub AttachDefaultBehaviors (
 
 ### Parameters
 
-_region_  
+*region*  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The region being used.
 
-_regionTarget_  
+*regionTarget*  
 Type: [T](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The object to adapt.
 

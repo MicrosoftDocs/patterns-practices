@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegion'
 ms:mtpsurl: 'iregion-methods-mspp-regions.md'
 ---
 
-
 # IRegion Methods
 
 The [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -93,7 +91,6 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 
 ## Extension Methods
 
-
 <table>
 
 <thead>
@@ -109,7 +106,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 <td>[RequestNavigate(String)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
-Initiates navigation to the target specified by the target.
+Initiates navigation to the target specified by the *target*.
 </div>
 (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions.)</td>
 </tr>
@@ -127,7 +124,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 <td>[RequestNavigate(String, Action(Of NavigationResult))](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
-Initiates navigation to the target specified by the target.
+Initiates navigation to the target specified by the *target*.
 </div>
 (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions.)</td>
 </tr>
@@ -136,7 +133,7 @@ Initiates navigation to the target specified by the target.
 <td>[RequestNavigate(Uri, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
-Initiates navigation to the target specified by the target.
+Initiates navigation to the target specified by the *target*.
 </div>
 (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions.)</td>
 </tr>
@@ -145,7 +142,7 @@ Initiates navigation to the target specified by the target.
 <td>[RequestNavigate(String, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
-Initiates navigation to the target specified by the target.
+Initiates navigation to the target specified by the *target*.
 </div>
 (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions.)</td>
 </tr>
@@ -154,7 +151,7 @@ Initiates navigation to the target specified by the target.
 <td>[RequestNavigate(String, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-navigationparameters-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
-Initiates navigation to the target specified by the target.
+Initiates navigation to the target specified by the *target*.
 </div>
 (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions.)</td>
 </tr>

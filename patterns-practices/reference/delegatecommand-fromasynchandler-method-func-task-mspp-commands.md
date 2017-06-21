@@ -24,15 +24,12 @@ public static DelegateCommand FromAsyncHandler(
 ### Parameters
 
 *executeMethod*  
-
-Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;[Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;
-
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;[Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;  
 Delegate to execute when Execute is called on the command.
 
 ### Return Value
 
-Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
+Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
 Constructed instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
 ## See Also
@@ -63,15 +60,12 @@ Public Shared Function FromAsyncHandler (
 ### Parameters
 
 *executeMethod*  
-
-Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)(Of [Task](http://msdn2.microsoft.com/en-us/library/dd235678))
-
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)(Of [Task](http://msdn2.microsoft.com/en-us/library/dd235678))  
 Delegate to execute when Execute is called on the command.
 
 ### Return Value
 
-Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
+Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
 Constructed instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
 ## See Also

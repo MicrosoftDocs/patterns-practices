@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.ListDictionary\`2.Remove'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-mspp.md'
 ---
 
-
 # ListDictionary&lt;TKey, TValue&gt;.Remove Method
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

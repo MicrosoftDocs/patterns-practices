@@ -73,7 +73,7 @@ Gets the navigation service.
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[RegionManager](/patterns-practices/reference/region-class-mspp-regions.regionmanager)</td>
 <td><div class="summary">
-Gets or sets the [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) that will be passed to the views when adding them to the region, unless the view is added by specifying createRegionManagerScope as trueTruetruetrue (True in Visual Basic).
+Gets or sets the [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) that will be passed to the views when adding them to the region, unless the view is added by specifying createRegionManagerScope as **truetrue** (**True** in Visual Basic).
 </div>
 (Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>

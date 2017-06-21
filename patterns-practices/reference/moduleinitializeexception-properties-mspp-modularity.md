@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeE
 ms:mtpsurl: 'moduleinitializeexception-properties-mspp-modularity.md'
 ---
 
-
 # ModuleInitializeException Properties
 
 The [ModuleInitializeException](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity) type exposes the following members.
@@ -13,7 +12,6 @@ The [ModuleInitializeException](/patterns-practices/reference/moduleinitializeex
 ## Properties
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

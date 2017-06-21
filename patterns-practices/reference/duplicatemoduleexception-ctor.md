@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.DuplicateModuleExcept
 ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 ---
 
-
 # DuplicateModuleException Constructor
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

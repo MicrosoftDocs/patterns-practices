@@ -25,22 +25,16 @@ public static void AddWeakReferenceHandler(
 
 ### Parameters
 
-*handlers*
-
-Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;
-
+*handlers*  
+Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;  
 Existing handler list. It will be created if null.
 
 *handler*  
-
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
-
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)  
 Handler to add.
 
-*defaultListSize*
-
-Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
-
+*defaultListSize*  
+Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)  
 Default list size.
 
 
@@ -56,21 +50,15 @@ Public Shared Sub AddWeakReferenceHandler (
 ### Parameters
 
 *handlers*  
-
-Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))
-
+Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))  
 Existing handler list. It will be created if null.
 
-*handler*
-
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
-
+*handler*  
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)  
 Handler to add.
 
-*defaultListSize*
-
-Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
-
+*defaultListSize*  
+Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)  
 Default list size.
 
 ## See Also

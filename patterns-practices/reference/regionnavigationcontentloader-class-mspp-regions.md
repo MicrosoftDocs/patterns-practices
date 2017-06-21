@@ -25,9 +25,9 @@ Public Class UnityRegionNavigationContentLoader
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader  
-[Microsoft-Practices-Prism-MefExtensions-Regions-MefRegionNavigationContentLoader](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions)  
-[Microsoft-Practices-Prism-UnityExtensions-Regions-UnityRegionNavigationContentLoader](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions)
+  Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader  
+    [Microsoft-Practices-Prism-MefExtensions-Regions-MefRegionNavigationContentLoader](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions)  
+      [Microsoft-Practices-Prism-UnityExtensions-Regions-UnityRegionNavigationContentLoader](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions)
 
 ## See Also
 

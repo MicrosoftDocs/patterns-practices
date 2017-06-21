@@ -27,11 +27,9 @@ Public Class RegionViewRegistry
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-Microsoft.Practices.Prism.Regions.RegionViewRegistry
-  
-[Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry](/patterns-practices/reference/mefregionviewregistry-class-mspp-mefextensions-regions)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+  Microsoft.Practices.Prism.Regions.RegionViewRegistry   
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry](/patterns-practices/reference/mefregionviewregistry-class-mspp-mefextensions-regions)
 
 ## See Also
 

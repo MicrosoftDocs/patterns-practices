@@ -18,7 +18,7 @@ Adapter that creates a new [SingleActiveRegion](/patterns-practices/reference/si
 ```C#
 public class ContentControlRegionAdapter : RegionAdapterBase<ContentControl>
 ```
-## Inheritance Hierarchy
+### Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
   [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)&lt;[ContentControl](http://msdn.microsoft.com/en-us/library/ms609797)&gt;  
@@ -31,7 +31,7 @@ Public Class ContentControlRegionAdapter
 	Inherits RegionAdapterBase(Of ContentControl)
 ```
 
-## Inheritance Hierarchy
+### Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
   [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)(Of [ContentControl](http://msdn.microsoft.com/en-us/library/ms609797))  

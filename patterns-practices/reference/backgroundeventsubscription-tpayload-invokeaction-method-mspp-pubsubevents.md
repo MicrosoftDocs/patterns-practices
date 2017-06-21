@@ -25,17 +25,13 @@ public override void InvokeAction(
 ### Parameters
 
 *action*  
-
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://review.docs.microsoft.com/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents
-)&gt;
-
+)&gt;  
 The action to execute.
 
-*argument*
-
+*argument*  
 Type: [TPayload](https://review.docs.microsoft.com/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents
-)
-
+)  
 The payload to pass action while invoking it.
 
 ## See Also
@@ -66,16 +62,11 @@ Public Overrides Sub InvokeAction (
 ### Parameters
 
 *action*  
-
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents))
-
-
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents))  
 The action to execute.
 
 *argument*  
-
-Type: [TPayload](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
-
+Type: [TPayload](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)  
 The payload to pass action while invoking it.
 
 ## See Also

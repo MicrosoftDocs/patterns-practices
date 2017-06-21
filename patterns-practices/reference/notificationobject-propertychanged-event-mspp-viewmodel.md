@@ -5,7 +5,6 @@ ms:assetid: 'E:Microsoft.Practices.Prism.ViewModel.NotificationObject.PropertyCh
 ms:mtpsurl: 'notificationobject-propertychanged-event-mspp-viewmodel.md'
 ---
 
-
 # NotificationObject.PropertyChanged Event
 
 Raised when a property on this object has a new value.
@@ -28,6 +27,7 @@ Public Event PropertyChanged As PropertyChangedEventHandler
 ### Value
 
 Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.com/en-us/library/hyza7z75)
+
 ### Implements
 
 [INotifyPropertyChanged.PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)

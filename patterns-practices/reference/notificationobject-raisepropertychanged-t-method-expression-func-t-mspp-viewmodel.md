@@ -25,17 +25,13 @@ protected void RaisePropertyChanged<T>(
 ### Parameters
 
 *propertyExpression*  
-
-Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;&gt;
-
+Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;&gt;  
 A Lambda expression representing the property that has a new value.
 
 ## Type Parameters
 
-
 *T*  
-
-The type of the property that has a new value
+The type of the property that has a new value  
 
 ## See Also
 
@@ -64,16 +60,12 @@ Protected Sub RaisePropertyChanged(Of T) (
 ### Parameters
 
 *propertyExpression*  
-
-Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of T))
-
+Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of T))  
 A Lambda expression representing the property that has a new value.
 
 ## Type Parameters
 
-
 *T*  
-
 The type of the property that has a new value
 
 ## See Also

@@ -7,7 +7,7 @@ ms:mtpsurl: 'navigationcontext-methods-mspp-regions.md'
 
 # NavigationContext Methods
 
-The [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) type exposes the following members.
+The [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) type exposes the following members.
 
 ## Methods
 

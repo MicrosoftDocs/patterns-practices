@@ -23,16 +23,13 @@ public bool Contains(
 
 ### Parameters
 
-*moduleName*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*moduleName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the module to search the configuration for.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **truetrue** (**True** in Visual Basic) if a configuration for the module is present; otherwise **falsefalse** (**False** in Visual Basic).
 
 
@@ -46,16 +43,13 @@ Public Function Contains (
 
 ### Parameters
 
-*moduleName*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*moduleName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the module to search the configuration for.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **Truetrue** (**True** in Visual Basic) if a configuration for the module is present; otherwise **Falsefalse** (**False** in Visual Basic).
 
 ## See Also

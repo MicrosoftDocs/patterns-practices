@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotF
 ms:mtpsurl: 'moduletypeloadernotfoundexception-methods-mspp-modularity.md'
 ---
 
-
 # ModuleTypeLoaderNotFoundException Methods
 
 The [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -91,7 +89,6 @@ Creates and returns a string representation of the current exception.
 </table>
 
 ## Extension Methods
-
 
 <table>
 

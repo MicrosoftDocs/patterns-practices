@@ -29,8 +29,8 @@ Public Class RegionNavigationJournal
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-Microsoft.Practices.Prism.Regions.RegionNavigationJournal  
-[Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions)  
+  Microsoft.Practices.Prism.Regions.RegionNavigationJournal  
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions)  
 
 ## See Also
 

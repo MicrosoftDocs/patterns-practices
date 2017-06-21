@@ -18,6 +18,8 @@ Navigates to the most recent entry in the forward navigation history, or does no
 public void GoForward()
 ```
 
+### Implements
+
 [IRegionNavigationJournal.GoForward()](/patterns-practices/reference/iregionnavigationjournal-goforward-method-mspp-regions)
 
 ```VB

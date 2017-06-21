@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyA
 ms:mtpsurl: 'moduledependencyattribute-properties-mspp-modularity.md'
 ---
 
-
 # ModuleDependencyAttribute Properties
 
 The [ModuleDependencyAttribute](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Bootstrapper'
 ms:mtpsurl: 'bootstrapper-members-mspp.md'
 ---
 
-
 # Bootstrapper Members
 
 The [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 <thead>
@@ -33,7 +31,6 @@ Initializes a new instance of the [Bootstrapper](/patterns-practices/reference/b
 </table>
 
 ## Methods
-
 
 <table>
 
@@ -181,7 +178,6 @@ Returns a string that represents the current object.
 </table>
 
 ## Properties
-
 
 <table>
 

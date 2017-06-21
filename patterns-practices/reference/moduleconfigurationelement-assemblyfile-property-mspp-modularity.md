@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.A
 ms:mtpsurl: 'moduleconfigurationelement-assemblyfile-property-mspp-modularity.md'
 ---
 
-
 # ModuleConfigurationElement.AssemblyFile Property
 
 Gets or sets the assembly file.
@@ -19,6 +18,7 @@ Gets or sets the assembly file.
 ```C#
 public string AssemblyFile { get; set; }
 ```
+
 ```VB
 'Declaration
 Public Property AssemblyFile As String Get Set

@@ -26,15 +26,11 @@ protected DelegateCommandBase(
 ### Parameters
 
 *executeMethod*  
-
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;
-
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;  
 The [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) to execute when [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) is invoked.
 
-*canExecuteMethod*
-
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
-
+*canExecuteMethod*  
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;  
 The [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) to invoked when [CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093) is invoked.
 
 ## See Also
@@ -66,15 +62,11 @@ Protected Sub New (
 ### Parameters
 
 *executeMethod*  
-
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn.microsoft.com/en-us/library/dd235678))
-
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn.microsoft.com/en-us/library/dd235678))  
 The [Func(Of T, TResult)](http://msdn.microsoft.com/en-us/library/bb549151) to execute when [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) is invoked.
 
 *canExecuteMethod*  
-
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
-
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))  
 The [Func(Of T, TResult)](http://msdn.microsoft.com/en-us/library/bb549151) to invoked when [CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093) is invoked.
 
 ## See Also

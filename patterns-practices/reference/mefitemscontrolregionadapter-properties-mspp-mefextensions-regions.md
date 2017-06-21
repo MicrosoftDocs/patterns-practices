@@ -5,13 +5,11 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefIte
 ms:mtpsurl: 'mefitemscontrolregionadapter-properties-mspp-mefextensions-regions.md'
 ---
 
-
 # MefItemsControlRegionAdapter Properties
 
 The [MefItemsControlRegionAdapter](/patterns-practices/reference/mefitemscontrolregionadapter-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Properties
-
 
 <table>
 <thead>

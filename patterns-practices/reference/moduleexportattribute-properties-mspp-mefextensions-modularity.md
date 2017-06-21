@@ -5,13 +5,11 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Modularity.Mod
 ms:mtpsurl: 'moduleexportattribute-properties-mspp-mefextensions-modularity.md'
 ---
 
-
 # ModuleExportAttribute Properties
 
 The [ModuleExportAttribute](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity) type exposes the following members.
 
 ## Properties
-
 
 <table>
 <thead>

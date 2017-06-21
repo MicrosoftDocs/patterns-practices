@@ -5,7 +5,6 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'observableobject-t-fields-mspp.md'
 ---
 
-
 # ObservableObject&lt;T&gt; Fields
 
 The [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp
@@ -24,7 +23,7 @@ The [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[ValueProperty](/patterns-practices/reference/observableobject-t-valueproperty-field-mspp)</td>
 <td><div class="summary">
 Identifies the Value property of the ObservableObject
