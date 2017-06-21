@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyC
 ms:mtpsurl: 'moduledependencycollection-properties-mspp-modularity.md'
 ---
 
-
 # ModuleDependencyCollection Properties
 
 The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity) type exposes the following members.
@@ -13,7 +12,6 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ## Properties
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -138,7 +136,7 @@ Gets or sets a property, attribute, or child element of this configuration eleme
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Item(Int32)](/patterns-practices/reference/moduledependencycollection-item-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) located at the specified index in the collection.
+Gets the [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) located at the specified index in the collection.
 </div></td>
 </tr>
 <tr class="even">

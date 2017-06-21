@@ -12,7 +12,6 @@ The [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurati
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

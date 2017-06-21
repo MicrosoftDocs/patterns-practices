@@ -10,7 +10,6 @@ ms:mtpsurl: 'filemoduletypeloader-dispose-method-boolean-mspp-modularity.md'
 ## Overload List
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModularityException'
 ms:mtpsurl: 'modularityexception-methods-mspp-modularity.md'
 ---
 
-
 # ModularityException Methods
 
 The [ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity) type exposes the following members.
@@ -13,7 +12,6 @@ The [ModularityException](/patterns-practices/reference/modularityexception-clas
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -92,7 +90,6 @@ Creates and returns a string representation of the current exception.
 ## Extension Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

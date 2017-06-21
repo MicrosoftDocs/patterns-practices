@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Events.DispatcherEventSubscription\`1'
 ms:mtpsurl: 'dispatchereventsubscription-tpayload-class-mspp-events.md'
 ---
 
-
 # DispatcherEventSubscription&lt;TPayload&gt; Class
 
 Extends EventSubscription to invoke the Action delegate in a specific [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
@@ -15,6 +14,7 @@ Extends EventSubscription to invoke the Action delegate in a specific [Dispatche
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 [ObsoleteAttribute]
 public class DispatcherEventSubscription<TPayload> : EventSubscription<TPayload>
@@ -22,15 +22,14 @@ public class DispatcherEventSubscription<TPayload> : EventSubscription<TPayload>
 
 ## Type Parameters
 
-
-TPayload  
+*TPayload*  
 The type to use for the generic [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) and [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz) types.
 
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  EventSubscription&lt;TPayload&gt;  
-    Microsoft.Practices.Prism.Events.DispatcherEventSubscription&lt;TPayload&gt;
+EventSubscription&lt;TPayload&gt;  
+Microsoft.Practices.Prism.Events.DispatcherEventSubscription&lt;TPayload&gt;
 
 ## See Also
 
@@ -54,17 +53,17 @@ Extends EventSubscription to invoke the Action delegate in a specific [Dispatche
 Public Class DispatcherEventSubscription(Of TPayload)
 	Inherits EventSubscription(Of TPayload)
 ```
+
 ## Type Parameters
 
-
-TPayload  
+*TPayload*  
 The type to use for the generic [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) and [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz) types.
 
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  EventSubscription(Of TPayload)  
-    Microsoft.Practices.Prism.Events.DispatcherEventSubscription(Of TPayload)
+EventSubscription(Of TPayload)  
+Microsoft.Practices.Prism.Events.DispatcherEventSubscription(Of TPayload)
 
 ## See Also
 

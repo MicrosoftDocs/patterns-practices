@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Logging.TextLogger.\#ctor'
 ms:mtpsurl: 'textlogger-constructor-mspp-logging.md'
 ---
 
-
 # TextLogger Constructor
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

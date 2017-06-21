@@ -5,7 +5,7 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Events.CompositePresentationEven
 ms:mtpsurl: 'compositepresentationevent-tpayload-contains-method-mspp-events.md'
 ---
 
-# CompositePresentationEvent&lt;TPayload&gt;.Contains Method 
+# CompositePresentationEvent&lt;TPayload&gt;.Contains Method
 
 ## Overload List
 
@@ -23,25 +23,19 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-contains-method-mspp-events.md'
 <th>Description</th>
 </tr>
 <tr>
-  <td>
-      
-![Public method](/patterns-practices/reference/images/public-method.gif)
+  <td>![Public method](/patterns-practices/reference/images/public-method.gif)
   </td>
-  <td>
-    Contains(SubscriptionToken)
+  <td>Contains(SubscriptionToken)
   </td>
-  <td> (Inherited from EventBase.)</td>
+  <td>(Inherited from EventBase.)</td>
 </tr>
 <tr>
-  <td>
-    
-![Public method](/patterns-practices/reference/images/public-method.gif)
+  <td>![Public method](/patterns-practices/reference/images/public-method.gif)
   </td>
-  <td>
-    [Contains(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events)  </td>
+  <td>[Contains(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events)</td>
   <td>
     <div>
-Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8).
+Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8).
 </div>
   </td>
 </tr>

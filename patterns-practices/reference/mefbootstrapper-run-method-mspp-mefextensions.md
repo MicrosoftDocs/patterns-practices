@@ -10,7 +10,6 @@ ms:mtpsurl: 'mefbootstrapper-run-method-boolean-mspp-mefextensions.md'
 ## Overload List
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

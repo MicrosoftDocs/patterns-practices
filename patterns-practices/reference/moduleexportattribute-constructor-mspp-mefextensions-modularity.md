@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleE
 ms:mtpsurl: 'moduleexportattribute-constructor-mspp-mefextensions-modularity.md'
 ---
 
-
 # ModuleExportAttribute Constructor
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

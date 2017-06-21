@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.CompositeCommand.\#ctor
 ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 ---
 
-
 # CompositeCommand Constructor
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

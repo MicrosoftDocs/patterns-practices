@@ -5,7 +5,6 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Events.CompositePresentationEven
 ms:mtpsurl: 'compositepresentationevent-tpayload-subscribe-method-mspp-events.md'
 ---
 
-
 # CompositePresentationEvent&lt;TPayload&gt;.Subscribe Method
 
 ## Overload List
@@ -61,4 +60,4 @@ Subscribes a delegate to an event.
 
 [CompositePresentationEvent&lt;TPayload&gt; Class](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)  
 [CompositePresentationEvent&lt;TPayload&gt; Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)  
-[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)  
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)

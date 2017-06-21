@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleManager'
 ms:mtpsurl: 'modulemanager-properties-mspp-modularity.md'
 ---
 
-
 # ModuleManager Properties
 
 The [ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
