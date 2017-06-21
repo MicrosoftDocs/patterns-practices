@@ -11,9 +11,7 @@ The [IModuleManager](/patterns-practices/reference/imodulemanager-interface-mspp
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

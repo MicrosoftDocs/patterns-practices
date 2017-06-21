@@ -11,9 +11,7 @@ The [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) t
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

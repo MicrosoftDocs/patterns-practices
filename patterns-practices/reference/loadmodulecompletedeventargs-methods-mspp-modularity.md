@@ -11,9 +11,7 @@ The [LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompl
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

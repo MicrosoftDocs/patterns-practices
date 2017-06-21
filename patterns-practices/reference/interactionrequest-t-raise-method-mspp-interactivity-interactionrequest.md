@@ -5,7 +5,6 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Interactivity.InteractionRequest
 ms:mtpsurl: 'interactionrequest-t-raise-method-mspp-interactivity-interactionrequest.md'
 ---
 
-
 # InteractionRequest&lt;T&gt;.Raise Method
 
 ## Overload List

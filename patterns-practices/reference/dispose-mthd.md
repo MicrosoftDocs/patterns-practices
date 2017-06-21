@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.AssemblyResolver.Disp
 ms:mtpsurl: 'assemblyresolver-dispose-method-boolean-mspp-modularity.md'
 ---
 
-
 # AssemblyResolver.Dispose Method
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

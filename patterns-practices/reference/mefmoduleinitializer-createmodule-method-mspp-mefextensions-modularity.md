@@ -5,13 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModu
 ms:mtpsurl: 'mefmoduleinitializer-createmodule-method-moduleinfo-mspp-mefextensions-modularity.md'
 ---
 
-
 # MefModuleInitializer.CreateModule Method
 
 ## Overload List
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

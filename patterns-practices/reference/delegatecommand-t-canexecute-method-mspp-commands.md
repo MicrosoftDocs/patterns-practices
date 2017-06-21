@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.CanE
 ms:mtpsurl: 'delegatecommand-t-canexecute-method-mspp-commands.md'
 ---
 
-
 # DelegateCommand&lt;T&gt;.CanExecute Method
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -43,4 +40,4 @@ Determines if the command can execute with the provided parameter by invoking th
 
 [DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)  
 [DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)  
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)  
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

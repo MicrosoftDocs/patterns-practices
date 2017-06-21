@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Logging.TextLogger.Dispose'
 ms:mtpsurl: 'textlogger-dispose-method-boolean-mspp-logging.md'
 ---
 
-
 # TextLogger.Dispose Method
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
