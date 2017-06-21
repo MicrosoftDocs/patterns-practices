@@ -35,8 +35,7 @@ Public Function Contains (
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **truetrue** (**True** in Visual Basic) if *value* is found in the collection; otherwise, **falsefalse** (**False** in Visual Basic).
 
 ### Implements
