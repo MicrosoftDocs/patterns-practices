@@ -11,9 +11,7 @@ The [IModuleInitializer](/patterns-practices/reference/imoduleinitializer-interf
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

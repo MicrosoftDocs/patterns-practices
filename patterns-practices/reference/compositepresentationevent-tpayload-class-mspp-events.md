@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1'
 ms:mtpsurl: 'compositepresentationevent-tpayload-class-mspp-events.md'
 ---
 
-
 # CompositePresentationEvent&lt;TPayload&gt; Class
 
 Defines a class that manages publication and subscription to events.
@@ -23,16 +22,14 @@ public class CompositePresentationEvent<TPayload> : EventBase
 
 ## Type Parameters
 
-
-<i>TPayload</i>  
+*TPayload*  
 The type of message that will be passed to the subscribers.
-
 
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 EventBase  
-Microsoft.Practices.Prism.Events.CompositePresentationEvent&lt;TPayload&gt;  
+Microsoft.Practices.Prism.Events.CompositePresentationEvent&lt;TPayload&gt;
 
 ## See Also
 
@@ -56,22 +53,18 @@ Defines a class that manages publication and subscription to events.
 Public Class CompositePresentationEvent(Of TPayload)
 	Inherits EventBase
 ```
-
 ## Type Parameters
 
-
-<i>TPayload</i>  
+*TPayload*  
 The type of message that will be passed to the subscribers.
-
 
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 EventBase  
-Microsoft.Practices.Prism.Events.CompositePresentationEvent(Of TPayload)  
+Microsoft.Practices.Prism.Events.CompositePresentationEvent(Of TPayload)
 
 ## See Also
 
 [CompositePresentationEvent(Of TPayload) Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)  
 [Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)  
-

@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionCon
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-methods-mspp-regions-behaviors.md'
 ---
 
-
 # BindRegionContextToDependencyObjectBehavior Methods
 
 The [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

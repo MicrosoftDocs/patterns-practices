@@ -28,8 +28,7 @@ Protected Property Shell As DependencyObject
 
 ### Property Value
 
-Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
-
+Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
 The shell user interface.
 
 ## See Also

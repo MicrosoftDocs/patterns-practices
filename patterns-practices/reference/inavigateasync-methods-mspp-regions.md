@@ -19,9 +19,7 @@ The [INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp
 </colgroup>
 
 <tbody><tr>
-<th>
-							&nbsp;
-						</th>
+<th>&nbsp;</th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -83,7 +81,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 [RequestNavigate(String)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
-Initiates navigation to the target specified by the target</span>.
+Initiates navigation to the target specified by the *target*</span>.
 </div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr>
@@ -107,7 +105,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 [RequestNavigate(String, Action(Of NavigationResult))](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
-Initiates navigation to the target specified by the target.
+Initiates navigation to the target specified by the *target*.
 </div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr>
@@ -119,7 +117,7 @@ Initiates navigation to the target specified by the target.
 [RequestNavigate(Uri, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
-Initiates navigation to the target specified by the target.
+Initiates navigation to the target specified by the *target*.
 </div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr>
@@ -131,7 +129,7 @@ Initiates navigation to the target specified by the target.
 [RequestNavigate(String, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
-Initiates navigation to the target specified by the target.
+Initiates navigation to the target specified by the *target*.
 </div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr>
@@ -143,7 +141,7 @@ Initiates navigation to the target specified by the target.
 [RequestNavigate(String, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
-Initiates navigation to the target specified by the target.
+Initiates navigation to the target specified by the *target*.
 </div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 </tbody>

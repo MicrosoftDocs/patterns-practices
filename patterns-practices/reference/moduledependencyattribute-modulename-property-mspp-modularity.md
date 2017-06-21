@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute.Mo
 ms:mtpsurl: 'moduledependencyattribute-modulename-property-mspp-modularity.md'
 ---
 
-
 # ModuleDependencyAttribute.ModuleName Property
 
 Gets the name of the module that this module is dependant upon.
@@ -19,6 +18,7 @@ Gets the name of the module that this module is dependant upon.
 ```C#
 public string ModuleName { get; }
 ```
+
 ```VB
 'Declaration
 Public ReadOnly Property ModuleName As String

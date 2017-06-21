@@ -28,8 +28,7 @@ Property SubscriptionToken As SubscriptionToken
 ```
 ### Property Value
 
-Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
-
+Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 A token that identifies this [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).
 
 ## See Also

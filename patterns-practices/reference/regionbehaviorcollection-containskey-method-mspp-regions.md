@@ -34,11 +34,9 @@ _key_
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The key to use to find a particular [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions).
 
-### Return Value
-
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-### Implements
-
+### Return Value  
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+### Implements  
 [IRegionBehaviorCollection.ContainsKey(String)](/patterns-practices/reference/iregionbehaviorcollection-containskey-method-mspp-regions)
 
 ## See Also

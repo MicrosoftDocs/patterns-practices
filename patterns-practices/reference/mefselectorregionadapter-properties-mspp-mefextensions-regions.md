@@ -23,10 +23,8 @@ The [MefSelectorRegionAdapter](/patterns-practices/reference/mefselectorregionad
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>[RegionBehaviorFactory](/patterns-practices/reference/regionadapterbase-t-regionbehaviorfactory-property-mspp-regions)</td>
-<td><div class="summary">
-Gets or sets the factory used to create the region behaviors to attach to the created regions.
-</div>
-(Inherited from RegionAdapterBase&lt;T&gt;.)(/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)</td>
+<td>Gets or sets the factory used to create the region behaviors to attach to the created regions.
+(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>

@@ -22,6 +22,25 @@ public void RegisterMapping(
 	IRegionAdapter adapter
 )
 ```
+
+### Parameters
+
+*controlType*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type of the control.
+
+*adapter*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The adapter to use with the *controlType* type.
+
+## Exceptions
+
+
+| Exception                                                                                 | Condition                                                                                            |
+|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)     | When any of *controlType* or *adapter* are **null**a null reference (**Nothing** in Visual Basic). |
+| [System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a) | If a mapping for *controlType* already exists.  
+
 ```VB
 'Declaration
 Public Sub RegisterMapping ( 
@@ -33,15 +52,11 @@ Public Sub RegisterMapping (
 ### Parameters
 
 *controlType*  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type of the control.
 
 *adapter*  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions)  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The adapter to use with the *controlType* type.
 
 ## Exceptions

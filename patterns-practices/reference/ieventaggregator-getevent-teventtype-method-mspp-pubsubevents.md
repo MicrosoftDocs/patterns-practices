@@ -23,13 +23,11 @@ where TEventType : new(), EventBase
 ## Type Parameters
 
 *TEventType*  
-
 The type of event to get.
 
 ### Return Value
 
-Type: TEventType
-
+Type: TEventType  
 An instance of an event object of type TEventType.
 
 ## See Also
@@ -43,7 +41,8 @@ IEventAggregator Members
 Gets an instance of an event type.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)  
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -55,13 +54,11 @@ Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
 ##Type Parameters
 
 *TEventType*  
-
 The type of event to get.
 
 ### Return Value
 
-Type: TEventType
-
+Type: TEventType  
 An instance of an event object of type TEventType.
 
 ## See Also

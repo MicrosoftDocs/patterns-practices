@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateR
 ms:mtpsurl: 'autopopulateregionbehavior-methods-mspp-regions-behaviors.md'
 ---
 
-
 # AutoPopulateRegionBehavior Methods
 
 The [AutoPopulateRegionBehavior](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

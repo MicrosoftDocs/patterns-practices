@@ -31,16 +31,12 @@ Protected Overridable Sub PrepareContentForWindow (
 
 ### Parameters
 
-*notification*
-
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
-
+*notification*  
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)  
 The notification to be set as a DataContext in the HostWindow.
 
-*wrapperWindow*
-
-Type: [System.Windows.Window](http://msdn2.microsoft.com/en-us/library/ms590112)
-
+*wrapperWindow*  
+Type: [System.Windows.Window](http://msdn2.microsoft.com/en-us/library/ms590112)  
 The HostWindow
 
 ## See Also

@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Commands.DelegateCommandBase
 ms:mtpsurl: 'delegatecommandbase-members-mspp-commands.md'
 ---
 
-
 # DelegateCommandBase Members
 
 The [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 
@@ -25,7 +23,7 @@ The [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-clas
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>DelegateCommandBase(Action&lt;Object&gt, Func&lt;Object, Boolean&gt;</td>
+<td>DelegateCommandBase(Action&lt;Object&gt;, Func&lt;Object, Boolean&gt;</td>
 <td><div class="summary">
 Creates a new instance of a [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands
 ), specifying both the execute action and the can execute function.
@@ -42,7 +40,6 @@ Creates a new instance of a [DelegateCommandBase](/patterns-practices/reference/
 </table>
 
 ## Methods
-
 
 <table>
 
@@ -129,7 +126,7 @@ This raises the [IsActiveChanged](/patterns-practices/reference/delegatecommandb
 Raises [CanExecuteChanged](/patterns-practices/reference/delegatecommandbase-canexecutechanged-event-mspp-commands) on the UI thread so every command invoker can requery to check if the command can execute.
 <div>
 <h2 id="remarks">Remarks</h2>
-Note that this will trigger the execution of [CanExecute(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.canexecute(system.object)) once for each invoker.
+Note that this will trigger the execution of [CanExecute(Object)](/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands) once for each invoker.
 </div>
 </div></td>
 </tr>
@@ -149,11 +146,10 @@ Returns a string that represents the current object.
 
 |                                                                                                | Name                                                                                                                        | Description |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------|
-| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_canExecuteMethod](/patterns-practices/reference/canexecutemthd-field) |             |
-| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_executeMethod](/patterns-practices/reference/executemthd-field)       |             |
+|            | [\_canExecuteMethod](/patterns-practices/reference/canexecutemthd-field) |             |
+|            | [\_executeMethod](/patterns-practices/reference/executemthd-field)       |             |
 
 ## Properties
-
 
 <table>
 
@@ -176,7 +172,6 @@ Gets or sets a value indicating whether the object is active.
 </table>
 
 ## Events
-
 
 <table>
 

@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter'
 ms:mtpsurl: 'selectorregionadapter-class-mspp-regions.md'
 ---
 
-
 # SelectorRegionAdapter Class
 
 Adapter that creates a new [Region](/patterns-practices/reference/region-class-mspp-regions) and binds all the views to the adapted [Selector](http://msdn.microsoft.com/en-us/library/ms595227). It also keeps the [ActiveViews](/patterns-practices/reference/iregion-activeviews-property-mspp-regions) and the selected items of the [Selector](http://msdn-microsoft-com/en-us/library/ms595227) in sync-

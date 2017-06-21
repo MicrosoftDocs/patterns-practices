@@ -18,6 +18,7 @@ Class that provides extension methods for the Exception class. These extension m
 ```C#
 public static class ExceptionExtensions
 ```
+
 ```VB
 'Declaration
 <ExtensionAttribute> 

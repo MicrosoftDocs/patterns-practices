@@ -5,16 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleInfo'
 ms:mtpsurl: 'moduleinfo-properties-mspp-modularity.md'
 ---
 
-
 # ModuleInfo Properties
 
 The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

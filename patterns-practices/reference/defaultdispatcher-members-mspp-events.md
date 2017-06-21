@@ -5,13 +5,11 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Events.DefaultDispatcher'
 ms:mtpsurl: 'defaultdispatcher-members-mspp-events.md'
 ---
 
-
 # DefaultDispatcher Members
 
 The [DefaultDispatcher](/patterns-practices/reference/defaultdispatcher-class-mspp-events) type exposes the following members.
 
 ## Constructors
-
 
 <table>
 
@@ -27,14 +25,13 @@ The [DefaultDispatcher](/patterns-practices/reference/defaultdispatcher-class-ms
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[DefaultDispatcher](/patterns-practices/reference/defaultdispatcher-class-mspp-events)</td>
 <td><div class="summary">
-Initializes a new instance of the [DefaultDispatcher](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher) class
+Initializes a new instance of the [DefaultDispatcher](/patterns-practices/reference/defaultdispatcher-class-mspp-events) class
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## Methods
-
 
 <table>
 

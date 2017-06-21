@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.ViewRegistrationException'
 ms:mtpsurl: 'viewregistrationexception-class-mspp-regions.md'
 ---
 
-
 # ViewRegistrationException Class
 
 Exception that's thrown when something goes wrong while Registering a View with a region name in the [RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-mspp-regions) class.

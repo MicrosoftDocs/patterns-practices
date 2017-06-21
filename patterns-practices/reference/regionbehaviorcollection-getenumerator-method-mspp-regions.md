@@ -23,7 +23,6 @@ public IEnumerator<KeyValuePair<string, IRegionBehavior>> GetEnumerator()
 ### Return Value
 
 Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;[KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)&lt;[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)&gt;&gt;  
-
 A [IEnumerable&lt;T&gt;](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 
 ### Implements
@@ -40,7 +39,6 @@ Public Function GetEnumerator As IEnumerator(Of KeyValuePair(Of String, IRegionB
 ### Return Value
 
 Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)(Of [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)))  
-
 A [IEnumerable(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 
 ### Implements

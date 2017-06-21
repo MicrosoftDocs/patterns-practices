@@ -31,16 +31,13 @@ Public Function GetMapping (
 
 ### Parameters
 
-*controlType*
-
+*controlType*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type to obtain the [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapped.
 
 ### Return Value
 
 Type: [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions)  
-
 The [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapped to the *controlType*.
 
 ## Remarks

@@ -21,7 +21,7 @@ public class ObservableObject<T> : FrameworkElement,
 	INotifyPropertyChanged
 ```
 
-## Type Parameters
+### Type Parameters
 
 *T*  
         The type of the property that's wrapped in the Observable object
@@ -62,7 +62,7 @@ Public Class ObservableObject(Of T)
 	Implements INotifyPropertyChanged
 ```
 
-## Type Parameters
+### Type Parameters
 
 *T*  
         The type of the property that's wrapped in the Observable object

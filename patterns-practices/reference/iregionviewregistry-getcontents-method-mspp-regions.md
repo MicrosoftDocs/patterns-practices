@@ -24,16 +24,12 @@ IEnumerable<Object> GetContents(
 
 ### Parameters
 
-*regionName*
-  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*regionName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 Region name for which contents are requested.
 
-### Return Value
-
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
-
+### Return Value  
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;  
 Collection of contents associated with the *regionName*.
 
 
@@ -46,16 +42,12 @@ Function GetContents (
 
 ### Parameters
 
-*regionName*
-  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*regionName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 Region name for which contents are requested.
 
-### Return Value
-
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
-
+### Return Value  
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))  
 Collection of contents associated with the *regionName*.
 
 ## See Also

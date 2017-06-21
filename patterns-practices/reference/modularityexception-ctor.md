@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModularityException.\
 ms:mtpsurl: 'modularityexception-constructor-mspp-modularity.md'
 ---
 
-
 # ModularityException Constructor
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

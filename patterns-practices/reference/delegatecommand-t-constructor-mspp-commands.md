@@ -5,13 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.\#ct
 ms:mtpsurl: 'delegatecommand-t-constructor-mspp-commands.md'
 ---
 
-
 # DelegateCommand&lt;T&gt; Constructor
 
 ## Overload List
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

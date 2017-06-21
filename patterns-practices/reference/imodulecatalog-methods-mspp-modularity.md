@@ -11,9 +11,7 @@ The [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

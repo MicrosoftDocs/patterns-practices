@@ -35,21 +35,15 @@ Public Sub New (
 ### Parameters
 
 *navigationService*  
-
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationService](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)
-
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationService](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)  
 The navigation service.
 
 *uri*  
-
-Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
-
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)  
 The Uri.
 
 *navigationParameters*  
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)
-
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 The navigation parameters.
 
 ## See Also

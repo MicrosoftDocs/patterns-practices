@@ -5,15 +5,16 @@ ms:assetid: 'P:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.HasErrors'
 ms:mtpsurl: 'errorscontainer-t-haserrors-property-mspp-viewmodel.md'
 ---
 
-
 # ErrorsContainer&lt;T&gt;.HasErrors Property
 
 Gets a value indicating whether the object has validation errors.
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)  
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```C#
 public bool HasErrors { get; }
 ```
@@ -38,6 +39,7 @@ Gets a value indicating whether the object has validation errors.
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```VB
 'Declaration
 Public ReadOnly Property HasErrors As Boolean
@@ -52,4 +54,4 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 [ErrorsContainer(Of T) Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)  
 [ErrorsContainer(Of T) Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)  
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)  
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

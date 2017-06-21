@@ -28,9 +28,8 @@ Public Class SubscriptionToken
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-  Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken
 
 ## See Also
 

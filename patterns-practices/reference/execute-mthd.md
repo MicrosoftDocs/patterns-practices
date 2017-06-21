@@ -5,7 +5,6 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand.Execute
 ms:mtpsurl: 'delegatecommand-execute-method-mspp-commands.md'
 ---
 
-
 # DelegateCommand.Execute Method
 
 ## Overload List

@@ -5,13 +5,11 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRe
 ms:mtpsurl: 'autopopulateregionbehavior-fields-mspp-regions-behaviors.md'
 ---
 
-
 # AutoPopulateRegionBehavior Fields
 
 The [AutoPopulateRegionBehavior](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Fields
-
 
 <table>
 
@@ -24,7 +22,7 @@ The [AutoPopulateRegionBehavior](/patterns-practices/reference/autopopulateregio
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[BehaviorKey](/patterns-practices/reference/autopopulateregionbehavior-behaviorkey-field-mspp-regions-behaviors)</td>>
 
 <td><div class="summary">

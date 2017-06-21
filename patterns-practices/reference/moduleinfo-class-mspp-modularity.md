@@ -20,8 +20,6 @@ Defines the metadata that describes a module.
 public class ModuleInfo : IModuleCatalogItem
 ```
 
-## Syntax
-
 ```VB
 'Declaration
 <SerializableAttribute>

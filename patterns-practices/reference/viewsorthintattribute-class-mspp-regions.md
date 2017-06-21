@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.ViewSortHintAttribute'
 ms:mtpsurl: 'viewsorthintattribute-class-mspp-regions.md'
 ---
 
-
 # ViewSortHintAttribute Class
 
 Provides a hint from a view to a region on how to sort the view.
