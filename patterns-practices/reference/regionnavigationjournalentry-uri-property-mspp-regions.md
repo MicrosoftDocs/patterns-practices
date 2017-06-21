@@ -18,7 +18,7 @@ Gets or sets the URI.
 ```C#
 public Uri Uri { get; set; }
 ```
-```
+```VB
 'Declaration
 Public Property Uri As Uri
 	Get
