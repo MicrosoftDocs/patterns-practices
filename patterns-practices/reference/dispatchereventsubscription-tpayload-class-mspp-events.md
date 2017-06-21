@@ -23,7 +23,7 @@ public class DispatcherEventSubscription<TPayload> : EventSubscription<TPayload>
 ## Type Parameters
 
 
-TPayload  
+*TPayload*  
 The type to use for the generic [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) and [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz) types.
 
 ## Inheritance Hierarchy
@@ -57,7 +57,7 @@ Public Class DispatcherEventSubscription(Of TPayload)
 ## Type Parameters
 
 
-TPayload  
+*TPayload*  
 The type to use for the generic [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) and [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz) types.
 
 ## Inheritance Hierarchy

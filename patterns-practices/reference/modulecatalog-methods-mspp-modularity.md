@@ -79,14 +79,14 @@ Returns a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-ms
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[CreateFromXaml(Stream)](/patterns-practices/reference/modulecatalog-createfromxaml-method-stream-mspp-modularity)</td>
 <td><div class="summary">
 Creates a [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) from XAML.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[CreateFromXaml(Uri)](/patterns-practices/reference/modulecatalog-createfromxaml-method-uri-mspp-modularity)</td>
 <td><div class="summary">
 Creates a [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) from a XAML included as an Application Resource.
@@ -175,7 +175,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[SolveDependencies](/patterns-practices/reference/modulecatalog-solvedependencies-method-mspp-modularity)</td>
 <td><div class="summary">
 Checks for cyclic dependencies, by calling the dependencysolver.
@@ -211,7 +211,7 @@ Ensures that there are no dependencies between modules on different groups.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[ValidateDependencies](/patterns-practices/reference/modulecatalog-validatedependencies-method-mspp-modularity)</td>
 <td><div class="summary">
 Ensures that all the dependencies within <i>modules</i> refer to [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s within that list.

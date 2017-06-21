@@ -23,7 +23,7 @@ public abstract class DelegateCommandBase : ICommand,
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)   
   Microsoft.Practices.Prism.Commands.DelegateCommandBase   
-    [Microsoft-Practices-Prism-Commands-DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)   
+    [Microsoft.Practices.Prism.Commands.DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)   
     [Microsoft.Practices.Prism.Commands.DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
 
 ```VB
@@ -36,7 +36,7 @@ Public Class DelegateCommand
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)   
   Microsoft.Practices.Prism.Commands.DelegateCommandBase   
-    [Microsoft-Practices-Prism-Commands-DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)   
+    [Microsoft.Practices.Prism.Commands.DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)   
     [Microsoft.Practices.Prism.Commands.DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
 
 ## See Also

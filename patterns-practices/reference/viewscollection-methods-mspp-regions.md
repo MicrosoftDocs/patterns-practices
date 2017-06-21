@@ -89,5 +89,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[ViewsCollection Class]/patterns-practices/reference/viewscollection-class-mspp-regions)  
+[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

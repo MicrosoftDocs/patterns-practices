@@ -57,7 +57,7 @@ Gets or sets the module [Type](http://msdn.microsoft.com/en-us/library/42892f65)
 <td><div class="summary">
 Reference to the location of the module assembly.
 <div>
-<h2 id="examples">Examples</h2>
+<h3 id="examples">Examples</h3>
 The following are examples of valid [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) values: file://c:/MyProject/Modules/MyModule.dll for a loose DLL in WPF.
 </div>
 </div></td>

@@ -33,7 +33,7 @@ Gets the bytes received.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.moduleinfo)</td>
+<td>[ModuleInfo](/patterns-practices/reference/moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity)</td>
 <td><div class="summary">
 Getsthe module info.
 </div></td>

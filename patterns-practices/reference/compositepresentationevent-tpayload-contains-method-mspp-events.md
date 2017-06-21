@@ -41,7 +41,7 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-contains-method-mspp-events.md'
     [Contains(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events)  </td>
   <td>
     <div>
-Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8).
+Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8).
 </div>
   </td>
 </tr>
