@@ -42,7 +42,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetBaseException](http://msdn.microsoft.com/en-us/library/49kcee3b)</td>
 <td><div class="summary">
-When overridden in a derived class, returns the [Exception](/http://msdn2.microsoft.com/en-us/library/c18k6c59) that is the root cause of one or more subsequent exceptions.
+When overridden in a derived class, returns the [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59) that is the root cause of one or more subsequent exceptions.
 </div>
 (Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
