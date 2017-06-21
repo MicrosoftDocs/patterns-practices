@@ -22,10 +22,6 @@ public class ViewsCollection : IViewsCollection,
 
 Implementation of [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions) that takes an [ObservableCollection(Of T)](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) and filters it to display an [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) wraps).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
-**Version:** 5.0.0.0 (5.0.0.0)
-
 ```VB
 'Declaration
 Public Class ViewsCollection
@@ -36,7 +32,7 @@ Public Class ViewsCollection
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-    Microsoft.Practices.Prism.Regions.ViewsCollection
+  Microsoft.Practices.Prism.Regions.ViewsCollection
 
 ## See Also
 
