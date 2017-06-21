@@ -10,7 +10,7 @@ ms:mtpsurl: 'eventbase-constructor-mspp-pubsubevents.md'
 Initializes a new instance of the [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) class
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -27,5 +27,5 @@ Protected Sub New
 ## See Also
 
 [EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)  
-EventBase Members<br/>
+EventBase Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
