@@ -10,7 +10,7 @@ ms:mtpsurl: 'selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md'
 
 Defines the attached behavior that keeps the items of the [Selector](http://msdn.microsoft.com/en-us/library/ms595227) host control in synchronization with the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions). This behavior also makes sure that, if you activate a view in a region, the SelectedItem is set. If you set the SelectedItem or SelectedItems (ListBox) then this behavior will also call Activate on the selected items.
 
-## Remarks
+### Remarks
 
  When calling Activate on a view, you can only select a single active view at a time. By setting the SelectedItems property of a listbox, you can set multiple views to active.
 
