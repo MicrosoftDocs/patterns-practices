@@ -20,15 +20,14 @@ Gets the number of elements contained in the [ModuleInfoGroup](/patterns-practic
 public int Count { get; }
 ```
 
-### Property Value
-
+### Property Value  
 Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
-### Return Value
 
+### Return Value  
 Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)  
 The number of elements contained in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
-### Implements
 
+### Implements  
 [ICollection&lt;T&gt;.Count](http://msdn.microsoft.com/en-us/library/5s3kzhec)  
 [ICollection.Count](http://msdn.microsoft.com/en-us/library/2yz8a4x3)
 
@@ -39,15 +38,14 @@ Public ReadOnly Property Count As Integer
 	Get
 ```
 
-### Property Value
-
+### Property Value  
 Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
-### Return Value
 
+### Return Value  
 Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)  
 The number of elements contained in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
-### Implements
 
+### Implements  
 [ICollection(Of T).Count](http://msdn.microsoft.com/en-us/library/5s3kzhec)  
 [ICollection.Count](http://msdn.microsoft.com/en-us/library/2yz8a4x3)
 

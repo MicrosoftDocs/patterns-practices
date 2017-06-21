@@ -85,7 +85,7 @@ When the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 <td><div class="summary">
 This event handler gets called when a RegionManager is requering the instances of a region to be registered if they are not already.
 <div>
-<h2 id="remarks">Remarks</h2>
+<h3 id="remarks">Remarks</h3>
 Although this is a public method to support Weak Delegates in Silverlight, it should not be called by the user.
 </div>
 </div></td>

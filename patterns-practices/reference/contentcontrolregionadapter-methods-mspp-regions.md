@@ -29,7 +29,7 @@ The [ContentControlRegionAdapter](/patterns-practices/reference/contentcontrolre
 <td><div class="summary">
 Adapts a [ContentControl](http://msdn.microsoft.com/en-us/library/ms609797) to an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 </div>
-(Overrides [RegionAdapterBase(Of T).Adapt(IRegion, T)]<a href="/patterns-practices/reference/iregion-interface-mspp-regions)"></a>.)</td>
+(Overrides [RegionAdapterBase(Of T).Adapt(IRegion, T)](/patterns-practices/reference/iregion-interface-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -37,7 +37,7 @@ Adapts a [ContentControl](http://msdn.microsoft.com/en-us/library/ms609797) to a
 <td><div class="summary">
 Template method to attach new behaviors.
 </div>
-(Inherited from [RegionAdapterBase(Of T)]<a href="/patterns-practices/reference/regionadapterbase-t-class-mspp-regions"></a>.)</td>
+(Inherited from [RegionAdapterBase(Of T)](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -45,15 +45,15 @@ Template method to attach new behaviors.
 <td><div class="summary">
 This method adds the default behaviors by using the [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions) object.
 </div>
-(Inherited from [RegionAdapterBase(Of T)]<a href="/patterns-practices/reference/regionadapterbase-t-class-mspp-regions"></a>.)</td>
+(Inherited from [RegionAdapterBase(Of T)](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[CreateRegion](/patterns-practices/reference/contentcontrolregionadapter-createregion-method-mspp-regions)</td>
 <td><div class="summary">
-Creates a new instance of [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion).
+Creates a new instance of [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions).
 </div>
-(Overrides [RegionAdapterBase(Of T).CreateRegion]<a href="/patterns-practices/reference/regionadapterbase-t-createregion-method-mspp-regions"></a>.)</td>
+(Overrides [RegionAdapterBase(Of T).CreateRegion](/patterns-practices/reference/regionadapterbase-t-createregion-method-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -93,7 +93,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td><div class="summary">
 Adapts an object and binds it to a new [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 </div>
-(Inherited from [RegionAdapterBase(Of T)]<a href="/patterns-practices/reference/regionadapterbase-t-class-mspp-regions"></a>.)</td>
+(Inherited from [RegionAdapterBase(Of T)](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
