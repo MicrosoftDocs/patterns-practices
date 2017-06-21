@@ -8,8 +8,7 @@ ms:mtpsurl: 'regionnavigationjournal-recordnavigation-method-mspp-regions.md'
 
 Records the navigation to the entry..
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
-  
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
