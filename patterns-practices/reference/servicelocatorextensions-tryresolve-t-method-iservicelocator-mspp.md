@@ -24,23 +24,19 @@ where T : class
 
 ### Parameters
 
-*locator*
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator
-
+*locator*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Locator to use in resolving.
 
 ## Type Parameters
 
 
-*T* 
- 
+*T*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type to resolve.
 
 ### Return Value
 
-Type: T
-
+Type: T  
 T or null
 
 ### Usage Note
@@ -78,23 +74,18 @@ Public Shared Function TryResolve(Of T As Class) (
 
 ### Parameters
 
-*locator*
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator
-
+*locator*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Locator to use in resolving.
 
 ## Type Parameters
 
-
-*T* 
- 
+*T*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type to resolve.
 
 ### Return Value
 
-Type: T
-
+Type: T  
 T or null
 
 ### Usage Note
