@@ -4,10 +4,11 @@ Title: 'ModularityException Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModularityException'
 ms:mtpsurl: 'modularityexception-properties-mspp-modularity.md'
 ---
-
+
+
 # ModularityException Properties
 
-The [ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) type exposes the following members.
+The [ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -28,7 +29,7 @@ The [ModularityException](https://msdn.microsoft.com/library/microsoft.practices
 <td><div class="summary">
 Gets a collection of key/value pairs that provide additional user-defined information about the exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -36,7 +37,7 @@ Gets a collection of key/value pairs that provide additional user-defined inform
 <td><div class="summary">
 Gets or sets a link to the help file associated with this exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -44,15 +45,15 @@ Gets or sets a link to the help file associated with this exception.
 <td><div class="summary">
 Gets or sets HRESULT, a coded numerical value that is assigned to a specific exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[InnerException](http://msdn.microsoft.com/en-us/library/902sca80)</td>
 <td><div class="summary">
-Gets the [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents) instance that caused the current exception.
+Gets the [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59) instance that caused the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -60,11 +61,11 @@ Gets the [Exception](/patterns-practices/reference/ieventsubscription-interface-
 <td><div class="summary">
 Gets a message that describes the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ModuleName](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception.modulename)</td>
+<td>[ModuleName](/patterns-practices/reference/modularityexception-modulename-property-mspp-modularity)</td>
 <td><div class="summary">
 Gets or sets the name of the module that this exception refers to.
 </div></td>
@@ -75,7 +76,7 @@ Gets or sets the name of the module that this exception refers to.
 <td><div class="summary">
 Gets or sets the name of the application or the object that causes the error.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -83,7 +84,7 @@ Gets or sets the name of the application or the object that causes the error.
 <td><div class="summary">
 Gets a string representation of the immediate frames on the call stack.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -91,11 +92,12 @@ Gets a string representation of the immediate frames on the call stack.
 <td><div class="summary">
 Gets the method that throws the current exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModularityException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception)  
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)  
+
+[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
