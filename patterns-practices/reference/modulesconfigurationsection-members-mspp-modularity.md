@@ -215,7 +215,7 @@ Resets the internal state of the [ConfigurationElement](http://msdn.microsoft.co
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[ResetModified](http://msdn.microsoft.com/en-us/library/43904a29)</td>
 <td><div class="summary">
-Resets the value of the [IsModified()](http://msdn.microsoft.com/en-us/library/cc19b3s9) method to false when implemented in a derived class.
+Resets the value of the [IsModified](http://msdn.microsoft.com/en-us/library/cc19b3s9) method to false when implemented in a derived class.
 </div>
 (Inherited from [ConfigurationSection](http://msdn.microsoft.com/en-us/library/x0kca287).)</td>
 </tr>
@@ -255,7 +255,7 @@ Sets a property to the specified value.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[SetReadOnly](http://msdn.microsoft.com/en-us/library/ms134139)</td>
 <td><div class="summary">
-Sets the [IsReadOnly()](http://msdn.microsoft.com/en-us/library/ms134129) property for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object and all subelements.
+Sets the [IsReadOnly](http://msdn.microsoft.com/en-us/library/ms134129) property for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object and all subelements.
 </div>
 (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>

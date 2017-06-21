@@ -53,7 +53,6 @@ Defines a class that manages publication and subscription to events.
 Public Class CompositePresentationEvent(Of TPayload)
 	Inherits EventBase
 ```
-
 ## Type Parameters
 
 *TPayload*  
