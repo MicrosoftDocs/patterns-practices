@@ -19,10 +19,8 @@ Template method to create a new instance of [IRegion](/patterns-practices/refere
     protected abstract IRegion CreateRegion()
 ```
 
-### Return Value
-
-Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+### Return Value  
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 A new instance of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 
 ## See Also
@@ -46,10 +44,8 @@ Template method to create a new instance of [IRegion](/patterns-practices/refere
     Protected MustOverride Function CreateRegion As IRegion
 ```
 
-### Return Value
-
-Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+### Return Value  
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 A new instance of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 
 ## See Also

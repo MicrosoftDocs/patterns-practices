@@ -5,13 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Bootstrapper.Run'
 ms:mtpsurl: 'bootstrapper-run-method-boolean-mspp.md'
 ---
 
-
 # Bootstrapper.Run Method
 
 ## Overload List
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

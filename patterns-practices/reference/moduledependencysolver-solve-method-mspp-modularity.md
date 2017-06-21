@@ -21,8 +21,7 @@ public string[] Solve()
 
 ### Return Value
 
-Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
-
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]  
 The resulting ordered list of modules.
 
 ## Syntax
@@ -35,8 +34,7 @@ Public Function Solve As String()
 ### Return Value
 
 Return Value
-Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()
-
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()  
 The resulting ordered list of modules.
 
 ## Exceptions

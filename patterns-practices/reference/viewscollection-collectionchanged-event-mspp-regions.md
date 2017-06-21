@@ -5,7 +5,6 @@ ms:assetid: 'E:Microsoft.Practices.Prism.Regions.ViewsCollection.CollectionChang
 ms:mtpsurl: 'viewscollection-collectionchanged-event-mspp-regions.md'
 ---
 
-
 # ViewsCollection.CollectionChanged Event
 
 Occurs when the collection changes.
@@ -15,9 +14,11 @@ Occurs when the collection changes.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public event NotifyCollectionChangedEventHandler CollectionChanged
 ```
+
 ```VB
 'Declaration
 Public Event CollectionChanged As NotifyCollectionChangedEventHandler
@@ -26,6 +27,7 @@ Public Event CollectionChanged As NotifyCollectionChangedEventHandler
 ### Value
 
 Type: [System.Collections.Specialized.NotifyCollectionChangedEventHandler](http://msdn.microsoft.com/en-us/library/ms628284)
+
 ### Implements
 
 [INotifyCollectionChanged.CollectionChanged](http://msdn.microsoft.com/en-us/library/ms653382)

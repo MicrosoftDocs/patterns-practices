@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.I
 ms:mtpsurl: 'moduledependencycollection-item-property-int32-mspp-modularity.md'
 ---
 
-
 # ModuleDependencyCollection.Item Property (Int32)
 
 Gets the [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) located at the specified index in the collection.
@@ -21,6 +20,7 @@ public ModuleDependencyConfigurationElement this[
 	int index
 ] { get; }
 ```
+
 ```VB
 'Declaration
 Public ReadOnly Default Property Item ( 

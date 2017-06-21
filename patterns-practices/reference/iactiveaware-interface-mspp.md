@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.IActiveAware'
 ms:mtpsurl: 'iactiveaware-interface-mspp.md'
 ---
 
-
 # IActiveAware Interface
 
 Interface that defines if the object instance is active and notifies when the activity changes.
@@ -19,6 +18,7 @@ Interface that defines if the object instance is active and notifies when the ac
 ```C#
 public interface IActiveAware
 ```
+
 ```VB
 'Declaration
 Public Interface IActiveAware

@@ -32,22 +32,16 @@ Function LoadContent (
 
 ### Parameters
 
-*region*
-
-Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+*region*  
+Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The region.
 
-*navigationContext*
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
-
+*navigationContext*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
 The context representing the navigation request.
 
-### Return Value
-
-Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
+### Return Value  
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The item to be the target of the navigation request.
 
 ## Remarks

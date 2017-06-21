@@ -21,7 +21,7 @@ public class ErrorsContainer<T>
 ## Type Parameters
 
 *T*  
-The type of the error object.
+        The type of the error object.
 
 ## Inheritance Hierarchy
 
@@ -50,7 +50,7 @@ Public Class ErrorsContainer(Of T)
 ## Type Parameters
 
 *T*  
-The type of the error object.
+        The type of the error object.
 
 ## Inheritance Hierarchy
 

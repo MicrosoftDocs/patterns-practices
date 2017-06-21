@@ -33,16 +33,12 @@ Sub RegisterViewWithRegion (
 
 ### Parameters
 
-*regionName*
-  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*regionName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 Region name to which the *viewType* will be registered.
 
-*viewType*
-
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
-
+*viewType*  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
 Content type to be registered for the *regionName*.
 
 ## See Also

@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs'
 ms:mtpsurl: 'viewregisteredeventargs-class-mspp-regions.md'
 ---
 
-
 # ViewRegisteredEventArgs Class
 
 Argument class used by the [ContentRegistered](/patterns-practices/reference/iregionviewregistry-contentregistered-event-mspp-regions) event when a new content is registered.

@@ -17,7 +17,6 @@ The [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interfac
 <col width="20%" />
 <col width="40%" />
 </colgroup>
-
 <tbody><tr>
   <th>
 &nbsp;
@@ -26,22 +25,17 @@ The [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interfac
   <th>Description</th>
 </tr>
 <tr>
-  <td>
-  
-  ![](/patterns-practices/reference/images/public-method.gif "Public method")
+  <td>![](/patterns-practices/reference/images/public-method.gif "Public method")
   </td>
   <td>[CanLoadModuleType](/patterns-practices/reference/imoduletypeloader-canloadmoduletype-method-mspp-modularity)
   </td>
   <td>
- <div>
- Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the <em>moduleInfo</em>.
+ <div>Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the <em>moduleInfo</em>.
 </div>
   </td>
 </tr>
 <tr>
-  <td> 
-  
- ![](/patterns-practices/reference/images/public-method.gif "Public method")
+  <td>![](/patterns-practices/reference/images/public-method.gif "Public method")
   </td>
   <td>[LoadModuleType](/patterns-practices/reference/imoduletypeloader-loadmoduletype-method-mspp-modularity)
   </td>

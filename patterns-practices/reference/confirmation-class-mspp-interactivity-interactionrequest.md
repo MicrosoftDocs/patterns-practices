@@ -19,6 +19,7 @@ Basic implementation of [IConfirmation](/patterns-practices/reference/iconfirmat
 public class Confirmation : Notification, 
 	IConfirmation, INotification
 ```
+
 ```VB
 'Declaration
 Public Class Confirmation
@@ -29,8 +30,8 @@ Public Class Confirmation
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)  
-    Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)  
+Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation
 
 ## See Also
 

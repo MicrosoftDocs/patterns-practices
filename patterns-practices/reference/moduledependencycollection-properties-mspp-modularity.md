@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyC
 ms:mtpsurl: 'moduledependencycollection-properties-mspp-modularity.md'
 ---
 
-
 # ModuleDependencyCollection Properties
 
 The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity) type exposes the following members.
@@ -13,7 +12,6 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ## Properties
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -44,7 +42,7 @@ Gets or sets the name for the [ConfigurationElement](http://msdn.microsoft.com/e
 <td><div class="summary">
 Gets the type of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
-(Overrides [ConfigurationElementCollection..::.CollectionType](http://msdn.microsoft.com/en-us/library/x4skd9kd).)</td>
+(Overrides [ConfigurationElementCollection.CollectionType](http://msdn.microsoft.com/en-us/library/x4skd9kd).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -76,7 +74,7 @@ Gets an [ElementInformation](http://msdn.microsoft.com/en-us/library/ms134413) o
 <td><div class="summary">
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 </div>
-(Overrides [ConfigurationElementCollection..::.ElementName](http://msdn.microsoft.com/en-us/library/8f06bh6s).)</td>
+(Overrides [ConfigurationElementCollection.ElementName](http://msdn.microsoft.com/en-us/library/8f06bh6s).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
@@ -120,7 +118,7 @@ Gets a value indicating whether access to the collection is synchronized.
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Item(ConfigurationProperty)](http://msdn.microsoft.com/en-us/library/es150ftc)</td>
+<td>[Item[ConfigurationProperty]](http://msdn.microsoft.com/en-us/library/es150ftc)</td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
@@ -128,7 +126,7 @@ Gets or sets a property or attribute of this configuration element.
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Item(String)](http://msdn.microsoft.com/en-us/library/c8693ks1)</td>
+<td>[Item[String]](http://msdn.microsoft.com/en-us/library/c8693ks1)</td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
@@ -136,9 +134,9 @@ Gets or sets a property, attribute, or child element of this configuration eleme
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item(Int32)](/patterns-practices/reference/moduledependencycollection-item-property-mspp-modularity)</td>
+<td>[Item[Int32]](/patterns-practices/reference/moduledependencycollection-item-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) located at the specified index in the collection.
+Gets the [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) located at the specified index in the collection.
 </div></td>
 </tr>
 <tr class="even">

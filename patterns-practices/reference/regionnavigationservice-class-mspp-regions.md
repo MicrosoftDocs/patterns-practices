@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionNavigationService'
 ms:mtpsurl: 'regionnavigationservice-class-mspp-regions.md'
 ---
 
-
 # RegionNavigationService Class
 
 Provides navigation for regions.

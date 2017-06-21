@@ -43,7 +43,7 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The assembly name.
 
 *exception*  
-Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)  
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
 The exception thrown that is the cause of the current error.
 
 ## Exceptions

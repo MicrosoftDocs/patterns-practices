@@ -30,16 +30,12 @@ Function CreateFromKey (
 
 ### Parameters
 
-*key*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*key*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The key that's used to register a behavior type.
 
-### Return Value
-
-Type: [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)
-
+### Return Value  
+Type: [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)  
 The created behavior.
 
 ## See Also

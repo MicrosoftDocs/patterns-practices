@@ -12,6 +12,11 @@ The [RegionContext](/patterns-practices/reference/regioncontext-class-mspp-regio
 ## Methods
 
 <table>
+<colgroup>
+<col width="150">
+<col>
+<col>
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>

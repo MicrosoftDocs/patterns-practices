@@ -23,14 +23,14 @@ The [INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))](/patterns-practices/reference/inavigateasync-requestnavigate-method-uri-action-navigationresult-mspp-regions)</td>
+<td>[RequestNavigate(Uri, Action(Of NavigationResult))](/patterns-practices/reference/inavigateasync-requestnavigate-method-uri-action-navigationresult-mspp-regions)</td>
 <td><div class="summary">
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)](/patterns-practices/reference/inavigateasync-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions)</td>
+<td>[RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/inavigateasync-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions)</td>
 <td><div class="summary">
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div></td>
@@ -70,7 +70,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 </tr>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)</td>
+<td>[RequestNavigate(String, Action(Of NavigationResult))](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
@@ -97,7 +97,7 @@ Initiates navigation to the target specified by the *target*.
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-navigationparameters-mspp-regions)</td>
+<td>[RequestNavigate(String, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-navigationparameters-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
 Initiates navigation to the target specified by the *target*.

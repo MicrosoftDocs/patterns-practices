@@ -42,14 +42,14 @@ Class that provides extension methods for the Exception class. These extension m
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[ListDictionary(Of TKey, TValue)](/patterns-practices/reference/listdictionary-class-mspp)</td>
+<td>[ListDictionary(Of TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)</td>
 <td><div class="summary">
 A dictionary of lists.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[ObservableObject(Of T)](/patterns-practices/reference/observableobject-class-mspp)</td>
+<td>[ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp)</td>
 <td><div class="summary">
 Class that wraps an object, so that other classes can notify for Change events. Typically, this class is set as a Dependency Property on DependencyObjects, and allows other classes to observe any changes in the Value.
 </div></td>

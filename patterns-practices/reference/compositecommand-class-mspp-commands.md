@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Commands.CompositeCommand'
 ms:mtpsurl: 'compositecommand-class-mspp-commands.md'
 ---
 
-
 # CompositeCommand Class
 
 The CompositeCommand composes one or more ICommands.
@@ -15,9 +14,11 @@ The CompositeCommand composes one or more ICommands.
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```C#
 public class CompositeCommand : ICommand
 ```
+
 ```VB
 'Declaration
 Public Class CompositeCommand
@@ -27,9 +28,9 @@ Public Class CompositeCommand
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)   
-  Microsoft.Practices.Prism.Commands.CompositeCommand
+Microsoft.Practices.Prism.Commands.CompositeCommand
 
 ## See Also
 
 [CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)  
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)  
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

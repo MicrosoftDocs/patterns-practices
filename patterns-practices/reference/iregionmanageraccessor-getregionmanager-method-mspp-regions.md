@@ -30,16 +30,12 @@ Function GetRegionManager (
 
 ### Parameters
 
-*element*
-
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
-
+*element*  
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
 The target element.
 
-### Return Value
-
-Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
-
+### Return Value  
+Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) attached to the element element.
 
 ## See Also

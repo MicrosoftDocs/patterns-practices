@@ -37,15 +37,7 @@ Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [Module
 The groups.
 
 ## See Also
-<<<<<<< HEAD
 
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
-
-[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-=======
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
 [ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
->>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

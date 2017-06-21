@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.
 ms:mtpsurl: 'filemoduletypeloader-constructor-iassemblyresolver-mspp-modularity.md'
 ---
 
-
 # FileModuleTypeLoader Constructor
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

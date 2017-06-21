@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.UpdateRegionsException'
 ms:mtpsurl: 'updateregionsexception-class-mspp-regions.md'
 ---
 
-
 # UpdateRegionsException Class
 
 Represents errors that occured during the regions' update.

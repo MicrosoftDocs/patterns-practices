@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.ListDictionary\`2.Add'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-add-method-mspp.md'
 ---
 
-
 # ListDictionary&lt;TKey, TValue&gt;.Add Method
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

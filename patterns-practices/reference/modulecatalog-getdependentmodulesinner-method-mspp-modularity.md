@@ -41,13 +41,13 @@ Protected Overridable Function GetDependentModulesInner (
 ### Parameters
 
 *moduleInfo*   
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/mspp-modularity-namespace.moduleinfo)   
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)   
 Module whose dependant modules are requested.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](/patterns-practices/reference/mspp-modularity-namespace.moduleinfo))   
-Collection of [ModuleInfo](/patterns-practices/reference/mspp-modularity-namespace.moduleinfo) dependants of *moduleInfo*.
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity))   
+Collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) dependants of *moduleInfo*.
 
 ## See Also
 

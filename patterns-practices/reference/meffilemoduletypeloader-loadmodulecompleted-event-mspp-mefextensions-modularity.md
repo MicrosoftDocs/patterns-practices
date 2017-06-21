@@ -9,7 +9,7 @@ ms:mtpsurl: 'meffilemoduletypeloader-loadmodulecompleted-event-mspp-mefextension
 
 Raised when a module is loaded or fails to load.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)  
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -21,7 +21,7 @@ public virtual event EventHandler<LoadModuleCompletedEventArgs> LoadModuleComple
 
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)&gt;
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)&gt;
 
 ## Syntax
 
@@ -32,14 +32,14 @@ Public Overridable Event LoadModuleCompleted As EventHandler(Of LoadModuleComple
 
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs))
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity))
 
 ### Implements
 
-[IModuleTypeLoader.LoadModuleCompleted](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmodulecompleted)
+[IModuleTypeLoader.LoadModuleCompleted](/patterns-practices/reference/imoduletypeloader-loadmodulecompleted-event-mspp-modularity)
 
 ## See Also
 
-[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)  
-[MefFileModuleTypeLoader Members](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)  
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+[MefFileModuleTypeLoader Class](/patterns-practices/reference/meffilemoduletypeloader-class-mspp-mefextensions-modularity)  
+[MefFileModuleTypeLoader Members](/patterns-practices/reference/meffilemoduletypeloader-members-mspp-mefextensions-modularity)  
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)

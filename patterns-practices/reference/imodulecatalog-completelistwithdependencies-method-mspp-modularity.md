@@ -23,8 +23,7 @@ IEnumerable<ModuleInfo> CompleteListWithDependencies(
 
 ### Parameters
 
-*modules* 
-
+*modules*  
 Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;  
 The modules to get the dependencies for.
 
@@ -55,8 +54,6 @@ A collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp
 
 ## See Also
 
-[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) 
-
-[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity) 
- 
+[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)  
+[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)   
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

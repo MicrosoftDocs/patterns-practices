@@ -5,13 +5,11 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.MefBootstrappe
 ms:mtpsurl: 'mefbootstrapper-properties-mspp-mefextensions.md'
 ---
 
-
 # MefBootstrapper Properties
 
 The [MefBootstrapper](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions) type exposes the following members.
 
 ## Properties
-
 
 <table>
 <thead>

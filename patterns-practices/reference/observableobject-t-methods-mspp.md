@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'observableobject-t-methods-mspp.md'
 ---
 
-
 # ObservableObject(Of T) Methods
 
 The [ObservableObject(Of T) Methods](/patterns-practices/reference/observableobject-t-class-mspp) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -1441,7 +1439,7 @@ Removes the parent-child relationship between two visuals.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[SetBinding(DependencyProperty, BindingBase)](http://msdn.microsoft.com/en-us/library/ms598273))</td>
+<td>[SetBinding(DependencyProperty, BindingBase)](http://msdn.microsoft.com/en-us/library/ms598273)</td>
 <td><div class="summary">
 Attaches a binding to this element, based on the provided binding object.
 </div>

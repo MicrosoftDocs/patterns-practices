@@ -39,8 +39,7 @@ The object to adapt.
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the region to be created.
 
-### Return Value
-
+### Return Value  
 Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The new instance of [IRegion](/patterns-practices/reference/mspp-regions-namespace) that the regionTarget is bound to.
 
