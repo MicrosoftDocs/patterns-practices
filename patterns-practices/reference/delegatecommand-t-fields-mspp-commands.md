@@ -14,8 +14,8 @@ The [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-clas
 
 || Name | Description |
 |---|---|---|
-|![Protected field](/patterns-practices/reference/images/protfield.gif) | [\_canExecuteMethod](/patterns-practices/reference/canexecutemthd-field)|(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)|
-|![Protected field](/patterns-practices/reference/images/protfield.gif)| [\_executeMethod](/patterns-practices/reference/executemthd-field)|(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)|
+|   | [\_canExecuteMethod](/patterns-practices/reference/canexecutemthd-field)|(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)|
+|   [\_executeMethod](/patterns-practices/reference/executemthd-field)|(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)|
 
 ## See Also
 
