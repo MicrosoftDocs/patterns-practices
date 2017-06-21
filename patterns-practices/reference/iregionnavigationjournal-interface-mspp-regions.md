@@ -23,8 +23,6 @@ public interface IRegionNavigationJournal
 Public Interface IRegionNavigationJournal
 ```
 
-public interface IRegionNavigationJournalPublic Interface IRegionNavigationJournal
-
 ## See Also
 
 [IRegionNavigationJournal Members](/patterns-practices/reference/iregionnavigationjournal-members-mspp-regions)  

@@ -23,7 +23,7 @@ The [RegionCreationException](/patterns-practices/reference/regioncreationexcept
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>RegionCreationException</td>
+<td>RegionCreationException()</td>
 <td><div class="summary">
 Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)
 </div></td>

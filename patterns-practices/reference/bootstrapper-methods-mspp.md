@@ -134,7 +134,7 @@ Registers the [Type](http://msdn.microsoft.com/en-us/library/42892f65)s of the E
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Run ()](/patterns-practices/reference/bootstrapper-run-method-mspp)</td>
+<td>[Run](/patterns-practices/reference/bootstrapper-run-method-mspp)</td>
 <td><div class="summary">
 Runs the bootstrapper process.
 </div></td>

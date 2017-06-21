@@ -10,7 +10,7 @@ ms:mtpsurl: 'regionnavigationservice-navigating-event-mspp-regions.md'
 
 Raised when the region is about to be navigated to content.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -22,10 +22,10 @@ public event EventHandler<RegionNavigationEventArgs> Navigating
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[RegionNavigationEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions)&gt;  
 ### Implements
 
-[IRegionNavigationService.Navigating](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigating)
+[IRegionNavigationService.Navigating](/patterns-practices/reference/iregionnavigationservice-navigating-event-mspp-regions)
 
 
 ## Syntax
@@ -37,15 +37,15 @@ Public Event Navigating As EventHandler(Of RegionNavigationEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions))
 ### Implements
 
-[IRegionNavigationService.Navigating](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigating)
+[IRegionNavigationService.Navigating](/patterns-practices/reference/iregionnavigationservice-navigating-event-mspp-regions)
 
 
 
 ## See Also
 
-[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)  
-[RegionNavigationService Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice_members)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  
+[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)  
+[RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

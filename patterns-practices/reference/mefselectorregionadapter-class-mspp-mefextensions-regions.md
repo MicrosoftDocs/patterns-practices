@@ -21,14 +21,14 @@ public class MefSelectorRegionAdapter : SelectorRegionAdapter
 
 ## Remarks
 
-&nbsp;&nbsp;This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
+This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)&lt;[Selector](http://msdn2.microsoft.com/en-us/library/ms595227)&gt;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefSelectorRegionAdapter
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)&lt;[Selector](http://msdn2.microsoft.com/en-us/library/ms595227)&gt;  
+[Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)  
+Microsoft.Practices.Prism.MefExtensions.Regions.MefSelectorRegionAdapter
 
 ```VB
 'Declaration
@@ -38,14 +38,14 @@ Public Class MefSelectorRegionAdapter
 
 ## Remarks
 
-&nbsp;&nbsp;This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
+This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)(Of [Selector](http://msdn.microsoft.com/en-us/library/ms595227))  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefSelectorRegionAdapter
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)(Of [Selector](http://msdn2.microsoft.com/en-us/library/ms595227))  
+[Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)  
+Microsoft.Practices.Prism.MefExtensions.Regions.MefSelectorRegionAdapter
 
 ## See Also
 

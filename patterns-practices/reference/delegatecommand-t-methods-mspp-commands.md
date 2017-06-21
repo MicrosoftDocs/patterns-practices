@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.DelegateCommand\`1'
 ms:mtpsurl: 'delegatecommand-t-methods-mspp-commands.md'
 ---
 
-
 # DelegateCommand&lt;T&gt; Methods
 
 The [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands) type exposes the following members.

@@ -14,6 +14,7 @@ Exports the AutoPopulateRegionBehavior using the Managed Extensibility Framework
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public class MefAutoPopulateRegionBehavior : AutoPopulateRegionBehavior
 ```
@@ -31,9 +32,9 @@ Public Class MefAutoPopulateRegionBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
-    [Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors)  
-      Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefAutoPopulateRegionBehavior
+[Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
+[Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors)  
+Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefAutoPopulateRegionBehavior
 
 ## See Also
 

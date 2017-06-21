@@ -18,6 +18,7 @@ The key of this behavior.
 ```C#
 public const string BehaviorKey
 ```
+
 ```VB
 'Declaration
 Public Const BehaviorKey As String

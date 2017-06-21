@@ -28,9 +28,8 @@ Public Class FileModuleTypeLoader
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader
 
 ## See Also
 

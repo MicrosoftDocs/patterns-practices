@@ -35,5 +35,5 @@ Microsoft.Practices.Prism.PubSubEvents.EventBase
 
 ## See Also
 
-EventBase Members
+EventBase Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)  

@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Logging.TextLogger'
 ms:mtpsurl: 'textlogger-methods-mspp-logging.md'
 ---
 
-
 # TextLogger Methods
 
 The [TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

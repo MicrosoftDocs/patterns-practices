@@ -43,6 +43,5 @@ The concrete type of the module being exported. Not typeof(IModule).
 
 [ModuleExportAttribute Class](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)  
 [ModuleExportAttribute Members](/patterns-practices/reference/moduleexportattribute-members-mspp-mefextensions-modularity)  
-ModuleExportAttribute Overload
-
+ModuleExportAttribute Overload  
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)  

@@ -44,7 +44,7 @@ Determines if the content should be shown in a modal window or not.
 </tr>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[WindowContentProperty](/patterns-practices/reference/mspp-interactivity-namespace.popupwindowaction.windowcontentproperty)</td>
+<td>[WindowContentProperty](/patterns-practices/reference/popupwindowaction-windowcontentproperty-field-mspp-interactivity)</td>
 <td><div class="summary">
 The content of the child window to display as part of the popup.
 </div></td>

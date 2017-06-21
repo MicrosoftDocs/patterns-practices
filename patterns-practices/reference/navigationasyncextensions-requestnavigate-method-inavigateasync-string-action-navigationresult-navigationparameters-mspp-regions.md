@@ -16,12 +16,12 @@ Initiates navigation to the target specified by the *target*.
 ## Syntax
 
 ```C#
-   public static void RequestNavigate(
+public static void RequestNavigate(
 	this INavigateAsync navigation,
 	string target,
 	Action<NavigationResult> navigationCallback,
 	NavigationParameters navigationParameters
-) 
+)
 ```
 
 ### Parameters
@@ -53,7 +53,7 @@ Initiates navigation to the target specified by the *target*.
 ## Syntax
 
 ```VB
-   'Declaration
+'Declaration
 <ExtensionAttribute> 
 Public Shared Sub RequestNavigate ( 
 	navigation As INavigateAsync,

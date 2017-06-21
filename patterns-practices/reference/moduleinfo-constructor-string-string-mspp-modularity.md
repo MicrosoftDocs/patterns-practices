@@ -45,6 +45,5 @@ The module's type.
 
 [ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 [ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)  
-ModuleInfo Overload
-
+ModuleInfo Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

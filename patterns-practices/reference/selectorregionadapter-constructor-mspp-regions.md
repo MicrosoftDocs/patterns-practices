@@ -30,7 +30,7 @@ Public Sub New (
 
 ### Parameters
 
-_regionBehaviorFactory_
+*regionBehaviorFactory*
 
 Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)
 

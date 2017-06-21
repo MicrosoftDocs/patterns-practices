@@ -41,6 +41,5 @@ The navigation context.
 
 [RegionNavigationFailedEventArgs Class](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions)  
 [RegionNavigationFailedEventArgs Members](/patterns-practices/reference/regionnavigationfailedeventargs-members-mspp-regions)  
-RegionNavigationFailedEventArgs Overload
-
+RegionNavigationFailedEventArgs Overload  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

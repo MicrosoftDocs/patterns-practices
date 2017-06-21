@@ -34,8 +34,7 @@ initial list of dependencies.
 
 [ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)  
 [ModuleDependencyCollection Members](/patterns-practices/reference/moduledependencycollection-members-mspp-modularity)  
-ModuleDependencyCollection Overload
-
+ModuleDependencyCollection Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  
 
 
@@ -69,6 +68,5 @@ An array of [ModuleDependencyConfigurationElement](/patterns-practices/reference
 
 [ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)  
 [ModuleDependencyCollection Members](/patterns-practices/reference/moduledependencycollection-members-mspp-modularity)  
-ModuleDependencyCollection Overload
-
+ModuleDependencyCollection Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

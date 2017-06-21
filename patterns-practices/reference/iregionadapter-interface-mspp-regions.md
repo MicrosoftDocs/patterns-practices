@@ -4,18 +4,27 @@ Title: 'IRegionAdapter Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionAdapter'
 ms:mtpsurl: 'iregionadapter-interface-mspp-regions.md'
 ---
-
+
 # IRegionAdapter Interface
 
-Defines an interfaces to adapt an object and bind it to a new [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
+Defines an interfaces to adapt an object and bind it to a new [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public interface IRegionAdapterPublic Interface IRegionAdapter
+
+```C#
+public interface IRegionAdapter
+```
+
+```VB
+'Declaration
+Public Interface IRegionAdapter
+```
 
 ## See Also
-[IRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionadapter)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  
+
+[IRegionAdapter Members](/patterns-practices/reference/iregionadapter-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

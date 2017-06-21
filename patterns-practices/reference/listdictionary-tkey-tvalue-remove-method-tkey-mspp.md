@@ -69,7 +69,7 @@ The key of the list to remove.
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
-**Truetruetrue** (**True** in Visual Basic) if the element was removed.
+**Truetrue** (**True** in Visual Basic) if the element was removed.
 
 ### Implements
 

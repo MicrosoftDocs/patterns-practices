@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.CompositePresentationEve
 ms:mtpsurl: 'compositepresentationevent-tpayload-methods-mspp-events.md'
 ---
 
-
 # CompositePresentationEvent&lt;TPayload&gt; Methods
 
 The [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) type exposes the following members.
@@ -94,7 +93,7 @@ Publishes the [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/r
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Subscribe(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-mspp-events)</td>
 <td><div class="summary">
-Subscribes a delegate to an event that will be published on the PublisherThread. [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied action delegate.
+Subscribes a delegate to an event that will be published on the PublisherThread. [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied *action* delegate.
 </div></td>
 </tr>
 <tr class="even">

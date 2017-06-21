@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog'
 ms:mtpsurl: 'directorymodulecatalog-class-mspp-modularity.md'
 ---
 
-
 # DirectoryModuleCatalog Class
 
 Represets a catalog created from a directory on disk.
@@ -28,13 +27,13 @@ Public Class DirectoryModuleCatalog
 
 ## Remarks
 
- The directory catalog will scan the contents of a directory, locating classes that implement [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) and add them to the catalog based on contents in their associated [ModuleAttribute](/patterns-practices/reference/moduleattribute-class-mspp-modularity). Assemblies are loaded into a new application domain with ReflectionOnlyLoad. The application domain is destroyed once the assemblies have been discovered. The diretory catalog does not continue to monitor the directory after it has created the initialze catalog.
+The directory catalog will scan the contents of a directory, locating classes that implement [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) and add them to the catalog based on contents in their associated [ModuleAttribute](/patterns-practices/reference/moduleattribute-class-mspp-modularity). Assemblies are loaded into a new application domain with ReflectionOnlyLoad. The application domain is destroyed once the assemblies have been discovered. The diretory catalog does not continue to monitor the directory after it has created the initialze catalog.
 
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
-&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog
+[Microsoft.Practices.Prism.Modularity.ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
+Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog
 
 ## See Also
 

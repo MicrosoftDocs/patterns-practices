@@ -21,21 +21,16 @@ public class PopupWindowAction : TriggerAction<FrameworkElement>
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-
-[System.Windows.Threading.DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)
-
-[System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
-
-[System.Windows.Freezable](http://msdn.microsoft.com/en-us/library/ms602734)
-
-[System.Windows.Media.Animation.Animatable](http://msdn.microsoft.com/en-us/library/ms618388)
-
-TriggerAction
-
-TriggerAction&lt;[FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)&gt;
-
+[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)  
+[System.Windows.Threading.DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)  
+[System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
+[System.Windows.Freezable](http://msdn.microsoft.com/en-us/library/ms602734)  
+[System.Windows.Media.Animation.Animatable](http://msdn.microsoft.com/en-us/library/ms618388)  
+TriggerAction  
+TriggerAction&lt;[FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)&gt;  
 Microsoft.Practices.Prism.Interactivity.PopupWindowAction
+
+## Syntax
 
 ```VB  
 'Declaration
@@ -45,23 +40,16 @@ Public Class PopupWindowAction
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-
-[System.Windows.Threading.DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)
-
-[System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
-
-[System.Windows.Freezable](http://msdn.microsoft.com/en-us/library/ms602734)
-
-[System.Windows.Media.Animation.Animatable](http://msdn.microsoft.com/en-us/library/ms618388)
-
-TriggerAction
-
-TriggerAction(Of [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714))
-
+[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)  
+[System.Windows.Threading.DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)  
+[System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
+[System.Windows.Freezable](http://msdn.microsoft.com/en-us/library/ms602734)  
+[System.Windows.Media.Animation.Animatable](http://msdn.microsoft.com/en-us/library/ms618388)  
+TriggerAction  
+TriggerAction(Of [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714))  
 Microsoft.Practices.Prism.Interactivity.PopupWindowAction
 
 ## See Also
 
 [PopupWindowAction Members](popupwindowaction-members-mspp-interactivity.md)  
-[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)  
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

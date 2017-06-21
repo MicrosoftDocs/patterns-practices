@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationService.Region'
 ms:mtpsurl: 'regionnavigationservice-region-property-mspp-regions.md'
 ---
 
-
 # RegionNavigationService.Region Property
 
 Gets or sets the region.
@@ -15,19 +14,23 @@ Gets or sets the region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public IRegion Region { get; set; }
 ```
+
 ```VB
 'Declaration
 Public Property Region As IRegion
 	Get
 	Set
 ```
+
 ### Property Value
 
 Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The region.  
+
 ### Implements
 
 [IRegionNavigationService.Region](/patterns-practices/reference/iregionnavigationservice-region-property-mspp-regions)

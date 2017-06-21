@@ -136,7 +136,7 @@ Returns a string that represents the current object.
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions
 )</td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
+Returns **truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **falsefalse** (**False** in Visual Basic) otherwise.
 </div>
 (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions
 ).)</td>

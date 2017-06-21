@@ -27,19 +27,17 @@ Removes the first subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.co
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
-<td>[Unsubscribe(SubscriptionToken)](/patterns-practices/reference/mspp-mvvm-namespace.eventbase.unsubscribe(microsoft.practices.prism.pubsubevents.subscriptiontoken))</td>
+<td>[Unsubscribe(SubscriptionToken)](/patterns-practices/reference/eventbase-unsubscribe-method-mspp-pubsubevents)</td>
 <td><div class="summary">
-Removes the subscriber matching the [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken).
+Removes the subscriber matching the [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
 </div>
-(Inherited from [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase).)</td>
+(Inherited from [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
-
-PubSubEvent&lt;TPayload&gt; Members
-
+[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)  
+PubSubEvent&lt;TPayload&gt; Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

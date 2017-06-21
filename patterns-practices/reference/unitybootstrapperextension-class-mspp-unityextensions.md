@@ -32,5 +32,5 @@ Public Class UnityBootstrapperExtension
 
 ## See Also
 
-[UnityBootstrapperExtension Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapperextension)  
+[UnityBootstrapperExtension Members](/patterns-practices/reference/unitybootstrapperextension-members-mspp-unityextensions)  
 [Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)  

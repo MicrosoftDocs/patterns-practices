@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegion.Name'
 ms:mtpsurl: 'iregion-name-property-mspp-regions.md'
 ---
 
-
 # IRegion.Name Property
 
 Gets the name of the region that uniequely identifies the region within a [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions).
@@ -29,20 +28,11 @@ Property Name As String
 
 ### Property Value
 
-Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the region.
 
 ## See Also
-<<<<<<< HEAD
 
-[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)
-
-[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-=======
-[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)  
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)  
 [IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
->>>>>>> 01c63e8ed7c3c216484f9867dcbaaa66488394f8

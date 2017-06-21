@@ -29,14 +29,14 @@ Public Class ModularityException
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)  
-  [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)  
-    Microsoft.Practices.Prism.Modularity.ModularityException  
-      [Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)  
-      [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)  
-      [Microsoft.Practices.Prism.Modularity.ModuleInitializeException](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)  
-      [Microsoft.Practices.Prism.Modularity.ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)  
-      [Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)  
-      [Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity)
+&nbsp;&nbsp;[System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)  
+&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.ModularityException  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModuleInitializeException](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity)
 
 ## See Also
 

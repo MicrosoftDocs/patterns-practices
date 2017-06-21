@@ -25,14 +25,14 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleDependencyCollection</td>
+<td>ModuleDependencyCollection()</td>
 <td><div class="summary">
 Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleDependencyCollection(ModuleDependencyConfigurationElement())</td>
+<td>ModuleDependencyCollection(ModuleDependencyConfigurationElement[]])</td>
 <td><div class="summary">
 Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity).
 </div></td>
@@ -159,7 +159,7 @@ Copies the contents of the [ConfigurationElementCollection](http://msdn.microsof
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[CreateNewElement](/patterns-practices/reference/moduledependencycollection-createnewelement-method-mspp-modularity)</td>
+<td>[CreateNewElement()](/patterns-practices/reference/moduledependencycollection-createnewelement-method-mspp-modularity)</td>
 <td><div class="summary">
 Creates a new [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity).
 </div>
@@ -527,7 +527,7 @@ Gets a value indicating whether access to the collection is synchronized.
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Item(ConfigurationProperty)](http://msdn.microsoft.com/en-us/library/es150ftc)</td>
+<td>[Item[ConfigurationProperty]](http://msdn.microsoft.com/en-us/library/es150ftc)</td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
@@ -535,7 +535,7 @@ Gets or sets a property or attribute of this configuration element.
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Item(String)](http://msdn.microsoft.com/en-us/library/c8693ks1)</td>
+<td>[Item[String]](http://msdn.microsoft.com/en-us/library/c8693ks1)</td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
@@ -543,7 +543,7 @@ Gets or sets a property, attribute, or child element of this configuration eleme
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item(Int32)](/patterns-practices/reference/moduledependencycollection-item-property-int32-mspp-modularity)</td>
+<td>[Item[Int32]](/patterns-practices/reference/moduledependencycollection-item-property-int32-mspp-modularity)</td>
 <td><div class="summary">
 Gets the [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) located at the specified index in the collection.
 </div></td>

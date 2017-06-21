@@ -14,6 +14,7 @@ Gets the navigation URI.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public Uri Uri { get; }
 ```

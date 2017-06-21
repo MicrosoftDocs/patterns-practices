@@ -17,11 +17,17 @@ Initializes a new instance of the [NavigationResult](/patterns-practices/referen
 ## Syntax
 
 ```C#
-public NavigationResult( NavigationContext context, Exception error )
+public NavigationResult(
+	NavigationContext context,
+	Exception error
+)
 ```
 ```VB
 'Declaration
-Public Sub New ( context As NavigationContext, error As Exception )
+Public Sub New ( 
+	context As NavigationContext,
+	error As Exception
+)
 ```
 
 ### Parameters
@@ -40,6 +46,5 @@ The error.
 
 [NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)  
 [NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)  
-NavigationResult Overload
-
+NavigationResult Overload  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

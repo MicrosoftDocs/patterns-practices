@@ -21,7 +21,7 @@ ms:mtpsurl: 'subscriptiontoken-equals-method-mspp-pubsubevents.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Equals(Object)](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken.equals(system.object))</td>
+<td>[Equals(Object)](/patterns-practices/reference/subscriptiontoken-equals-method-object-mspp-pubsubevents)</td>
 <td><div class="summary">
 Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 </div>
@@ -29,7 +29,7 @@ Determines whether the specified [Object](http://msdn.microsoft.com/en-us/librar
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Equals(SubscriptionToken)](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken.equals(microsoft.practices.prism.pubsubevents.subscriptiontoken))</td>
+<td>[Equals(SubscriptionToken)](/patterns-practices/reference/subscriptiontoken-equals-method-subscriptiontoken-mspp-pubsubevents)</td>
 <td><div class="summary">
 Indicates whether the current object is equal to another object of the same type.
 </div></td>
@@ -40,6 +40,5 @@ Indicates whether the current object is equal to another object of the same type
 ## See Also
 
 [SubscriptionToken Class](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken)  
-SubscriptionToken Members
-
+SubscriptionToken Members  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

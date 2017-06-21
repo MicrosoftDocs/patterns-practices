@@ -14,6 +14,7 @@ Exports the BindRegionContextToDependencyObjectBehavior using the Managed Extens
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public class MefBindRegionContextToDependencyObjectBehavior : BindRegionContextToDependencyObjectBehavior
 ```
@@ -31,8 +32,8 @@ Public Class MefBindRegionContextToDependencyObjectBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors)  
-    Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior
+[Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors)  
+Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior
 
 ## See Also
 

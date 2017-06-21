@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.Downlo
 ms:mtpsurl: 'downloadedpartcatalogcollection-methods-mspp-mefextensions-modularity.md'
 ---
 
-
 # DownloadedPartCatalogCollection Methods
 
 The [DownloadedPartCatalogCollection](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -112,4 +110,4 @@ Tries to ge the catalog for the specified module info.
 ## See Also
 
 [DownloadedPartCatalogCollection Class](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity)  
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-namespace.modularity)  
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)  

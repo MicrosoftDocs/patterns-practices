@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors
 ms:mtpsurl: 'mefautopopulateregionbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
 
-
 # MefAutoPopulateRegionBehavior Methods
 
 The [MefAutoPopulateRegionBehavior](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

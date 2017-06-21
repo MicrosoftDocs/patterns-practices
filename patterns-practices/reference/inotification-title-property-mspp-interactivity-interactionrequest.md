@@ -31,5 +31,5 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 ## See Also
 
 [INotification Interface](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace.inotification)  
-[INotification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.inotification)  
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)  
+[INotification Members](/patterns-practices/reference/inotification-members-mspp-interactivity-interactionrequest)  
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace) 

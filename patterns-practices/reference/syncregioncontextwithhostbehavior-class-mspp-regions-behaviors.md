@@ -30,15 +30,12 @@ Public Class SyncRegionContextWithHostBehavior
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-[Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)
-
-Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSyncRegionContextWithHostBehavior](/patterns-practices/reference/mefsyncregioncontextwithhostbehavior-class-mspp-mefextensions-regions-behaviors)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+  [Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
+    Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior  
+      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSyncRegionContextWithHostBehavior](/patterns-practices/reference/mefsyncregioncontextwithhostbehavior-class-mspp-mefextensions-regions-behaviors)
 
 ## See Also
 
 [SyncRegionContextWithHostBehavior Members](/patterns-practices/reference/syncregioncontextwithhostbehavior-members-mspp-regions-behaviors)  
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)  
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

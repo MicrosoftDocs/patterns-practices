@@ -14,15 +14,9 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 protected IRegionBehaviorFactory RegionBehaviorFactory { get; set; }
-```
-
-```VB
-'Declaration
-Protected Property RegionBehaviorFactory As IRegionBehaviorFactory
-	Get
-	Set
 ```
 
 ### Property Value
@@ -44,9 +38,6 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-```C#
-protected IRegionBehaviorFactory RegionBehaviorFactory { get; set; }
-```
 
 ```VB
 'Declaration

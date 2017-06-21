@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefMod
 ms:mtpsurl: 'mefmodulemanager-methods-mspp-mefextensions-modularity.md'
 ---
 
-
 # MefModuleManager Methods
 
 The [MefModuleManager](/patterns-practices/reference/mefmodulemanager-class-mspp-mefextensions-modularity) type exposes the following members.
@@ -82,7 +81,7 @@ Handles any exception occurred in the module typeloading process, logs the error
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[LoadModule](/patterns-practices/reference/modulemanager-loadmodule-method-mspp-modularity)</td>
 <td><div class="summary">
-Loads and initializes the module on the [ModuleCatalog](/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity) with the name moduleName.
+Loads and initializes the module on the [ModuleCatalog](/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity) with the name *moduleName*.
 </div>
 (Inherited from [ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity).)</td>
 </tr>

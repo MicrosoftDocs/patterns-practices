@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefMod
 ms:mtpsurl: 'mefmoduleinitializer-methods-mspp-mefextensions-modularity.md'
 ---
 
-
 # MefModuleInitializer Methods
 
 The [MefModuleInitializer](/patterns-practices/reference/mefmoduleinitializer-class-mspp-mefextensions-modularity) type exposes the following members.

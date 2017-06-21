@@ -17,7 +17,11 @@ Initializes the exception with a particular module, error message and inner exce
 ## Syntax
 
 ```C#
-public ModularityException( string moduleName, string message, Exception innerException )
+public ModularityException(
+	string moduleName,
+	string message,
+	Exception innerException
+)
 ```
 
 ### Parameters
@@ -42,7 +46,12 @@ The exception that is the cause of the current exception, or a **null**a null re
 
 
 ```VB
-Public Sub New ( moduleName As String, message As String, innerException As Exception )
+'Declaration
+Public Sub New ( 
+	moduleName As String,
+	message As String,
+	innerException As Exception
+)
 ```
 
 ### Parameters
@@ -70,6 +79,5 @@ The exception that is the cause of the current exception, or a **Nothing**a null
 
 [ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)  
 [ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)  
-ModularityException Overload
-
+ModularityException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

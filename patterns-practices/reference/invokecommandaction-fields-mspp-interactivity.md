@@ -22,22 +22,22 @@ The [InvokeCommandAction](/patterns-practices/reference/invokecommandaction-clas
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[CommandParameterProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameterproperty)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
+<td>[CommandParameterProperty](/patterns-practices/reference/invokecommandaction-commandparameterproperty-field-mspp-interactivity)</td>
 <td><div class="summary">
 Dependency property identifying the command parameter to supply on command execution.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[CommandProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandproperty)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
+<td>[CommandProperty](/patterns-practices/reference/invokecommandaction-commandproperty-field-mspp-interactivity)</td>
 <td><div class="summary">
 Dependency property identifying the command to execute when invoked.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[TriggerParameterPathProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpathproperty)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
+<td>[TriggerParameterPathProperty](/patterns-practices/reference/invokecommandaction-triggerparameterpathproperty-field-mspp-interactivity)</td>
 <td><div class="summary">
 Dependency property identifying the TriggerParameterPath to be parsed to identify the child property of the trigger parameter to be used as the command parameter.
 </div></td>

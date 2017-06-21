@@ -12,6 +12,11 @@ The [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-clas
 ## Methods
 
 <table>
+<colgroup>
+<col width="150">
+<col>
+<col>
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>

@@ -28,16 +28,13 @@ Public Sub New (
 
 ### Parameters
 
-*monitorCommandActivity*
-
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
+*monitorCommandActivity*  
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 Indicates when the command activity is going to be monitored.
 
 ## See Also
 
 [CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)  
 [CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)  
-CompositeCommand Overload
-
+CompositeCommand Overload  
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

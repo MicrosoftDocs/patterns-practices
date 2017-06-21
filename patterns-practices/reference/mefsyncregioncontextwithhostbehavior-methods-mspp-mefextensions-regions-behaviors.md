@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors
 ms:mtpsurl: 'mefsyncregioncontextwithhostbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
 
-
 # MefSyncRegionContextWithHostBehavior Methods
 
 The [MefSyncRegionContextWithHostBehavior](/patterns-practices/reference/mefsyncregioncontextwithhostbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

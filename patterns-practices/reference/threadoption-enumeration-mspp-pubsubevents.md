@@ -8,7 +8,7 @@ ms:mtpsurl: 'threadoption-enumeration-mspp-pubsubevents.md'
 
 # ThreadOption Enumeration
 
-Specifies on which thread a [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent%601) subscriber will be called.
+Specifies on which thread a [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) subscriber will be called.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)  
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
@@ -25,7 +25,7 @@ public enum ThreadOption
 
 |     | Member name      | Value | Description                                                                                                                                                                                       |
 |-----|------------------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | PublisherThread  | 0     | The call is done on the same thread on which the [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent%601) was published. |
+|     | PublisherThread  | 0     | The call is done on the same thread on which the [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) was published. |
 |     | UIThread         | 1     | The call is done on the UI thread.                                                                                                                                                                |
 |     | BackgroundThread | 2     | The call is done asynchronously on a background thread.                                                                                                                                           |
 
@@ -36,7 +36,7 @@ public enum ThreadOption
 
 # ThreadOption Enumeration
 
-Specifies on which thread a [PubSubEvent(Of TPayload)](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent%601) subscriber will be called.
+Specifies on which thread a [PubSubEvent(Of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) subscriber will be called.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)  
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  

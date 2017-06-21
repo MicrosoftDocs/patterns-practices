@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionBehavior.Region'
 ms:mtpsurl: 'regionbehavior-region-property-mspp-regions.md'
 ---
 
-
 # RegionBehavior.Region Property
 
 Behavior's attached region.
@@ -15,18 +14,22 @@ Behavior's attached region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public IRegion Region { get; set; }
 ```
+
 ```VB
 'Declaration
 Public Property Region As IRegion
 	Get
 	Set
 ```
+
 ### Property Value
 
 Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
+
 ### Implements
 
 [IRegionBehavior.Region](/patterns-practices/reference/iregionbehavior-region-property-mspp-regions)

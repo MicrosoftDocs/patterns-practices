@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.Module
 ms:mtpsurl: 'moduleexportattribute-methods-mspp-mefextensions-modularity.md'
 ---
 
-
 # ModuleExportAttribute Methods
 
 The [ModuleExportAttribute](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity) type exposes the following members.

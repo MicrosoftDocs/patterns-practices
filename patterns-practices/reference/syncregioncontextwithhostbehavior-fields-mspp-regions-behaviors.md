@@ -4,16 +4,14 @@ Title: 'SyncRegionContextWithHostBehavior Fields (Microsoft.Practices.Prism.Regi
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior'
 ms:mtpsurl: 'syncregioncontextwithhostbehavior-fields-mspp-regions-behaviors.md'
 ---
-
+
 # SyncRegionContextWithHostBehavior Fields
 
-The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior) type exposes the following members.
+The [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Fields
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,8 +21,8 @@ The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/micro
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[BehaviorKey](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior.behaviorkey)</td>
+<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
+<td>[BehaviorKey](/patterns-practices/reference/syncregioncontextwithhostbehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Name that identifies the SyncRegionContextWithHostBehavior behavior in a collection of RegionsBehaviors.
 </div></td>
@@ -33,5 +31,6 @@ Name that identifies the SyncRegionContextWithHostBehavior behavior in a collect
 </table>
 
 ## See Also
-[SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)  
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)  
+
+[SyncRegionContextWithHostBehavior Class](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

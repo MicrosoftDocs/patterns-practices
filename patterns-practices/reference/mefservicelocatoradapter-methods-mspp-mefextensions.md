@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.MefServiceLocator
 ms:mtpsurl: 'mefservicelocatoradapter-methods-mspp-mefextensions.md'
 ---
 
-
 # MefServiceLocatorAdapter Methods
 
 The [MefServiceLocatorAdapter](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions) type exposes the following members.
 
 ## Methods
-
 
 <table>
 

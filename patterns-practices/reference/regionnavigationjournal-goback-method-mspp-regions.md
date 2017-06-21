@@ -4,6 +4,7 @@ Title: 'RegionNavigationJournal.GoBack Method (Microsoft.Practices.Prism.Regions
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournal.GoBack'
 ms:mtpsurl: 'regionnavigationjournal-goback-method-mspp-regions.md'
 ---
+
 # RegionNavigationJournal.GoBack Method
 
 Navigates to the most recent entry in the back navigation history, or does nothing if no entry exists in back navigation.
@@ -35,4 +36,3 @@ Public Sub GoBack
 [RegionNavigationJournal Class](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)  
 [RegionNavigationJournal Members](/patterns-practices/reference/regionnavigationjournal-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  
-

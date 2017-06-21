@@ -14,6 +14,7 @@ An attribute that is applied to describe the Managed Extensibility Framework exp
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public class ModuleExportAttribute : ExportAttribute, 
 	IModuleExport
@@ -29,9 +30,9 @@ Public Class ModuleExportAttribute
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)  
-    [System.ComponentModel.Composition.ExportAttribute](http://msdn.microsoft.com/en-us/library/dd234971)  
-      Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute
+[System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)  
+[System.ComponentModel.Composition.ExportAttribute](http://msdn.microsoft.com/en-us/library/dd234971)  
+Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute
 
 ## See Also
 

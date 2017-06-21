@@ -11,11 +11,28 @@ The [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-clas
 
 ## Fields
 
-|                                                                                                | Name                                                                                                                        | Description |
-||-|-|
-| ![](https://msdn.microsoft.com/en-us/Dn736115.protfield(en-us,PandP.50).gif "Protected field") | [\_canExecuteMethod](/patterns-practices/reference/delegatecommandbase-class-mspp-commands._canexecutemethod) |             |
-| ![](https://msdn.microsoft.com/en-us/Dn736115.protfield(en-us,PandP.50).gif "Protected field") | [\_executeMethod](/patterns-practices/reference/delegatecommandbase-class-mspp-commands._executemethod)       |             |
-
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>[_canExecuteMethod](/patterns-practices/reference/delegatecommandbase-class-mspp-commands._canexecutemethod)</td>
+<td></td>
+</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>[_executeMethod](/patterns-practices/reference/delegatecommandbase-class-mspp-commands._executemethod)</td>
+<td></td>
+</tr>
+</tbody>
+</table> 
 ## See Also
 
 [DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)  

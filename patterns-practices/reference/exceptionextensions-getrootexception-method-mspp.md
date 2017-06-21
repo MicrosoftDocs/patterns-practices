@@ -31,16 +31,13 @@ Public Shared Function GetRootException (
 
 ### Parameters
 
-*exception*
-
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
-
+*exception*  
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
 The exception that will provide the list of inner exeptions to examine.
 
 ### Return Value
 
-Type: [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
-
+Type: [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
 The exception that most likely caused the exception to occur. If it can't find the root exception, it will return the exception value itself.
 
 ### Usage Note

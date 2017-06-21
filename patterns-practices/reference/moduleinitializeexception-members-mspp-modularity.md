@@ -25,14 +25,14 @@ The [ModuleInitializeException](/patterns-practices/reference/moduleinitializeex
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleInitializeException</td>
+<td>ModuleInitializeException()</td>
 <td><div class="summary">
 Initializes a new instance.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleInitializeException(String</td>
+<td>ModuleInitializeException(String)</td>
 <td><div class="summary">
 Initializes a new instance of the [ModuleInitializeException](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity) class.
 </div></td>

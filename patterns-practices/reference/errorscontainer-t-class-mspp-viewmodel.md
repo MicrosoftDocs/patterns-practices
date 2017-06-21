@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1'
 ms:mtpsurl: 'errorscontainer-t-class-mspp-viewmodel.md'
 ---
 
-
 # ErrorsContainer&lt;T&gt; Class
 
 Manages validation errors for an object, notifying when the error state changes.
@@ -33,7 +32,7 @@ The type of the error object.
 
 [ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)  
 [Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)  
----------------------------
+
 
 # ErrorsContainer(Of T) Class
 
@@ -60,5 +59,5 @@ The type of the error object.
 
 ## See Also
 
-[ErrorsContainer(Of T) Members](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)  
+[ErrorsContainer(Of T) Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)  
 [Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)  
