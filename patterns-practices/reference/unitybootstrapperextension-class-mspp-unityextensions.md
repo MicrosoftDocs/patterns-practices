@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtens
 ms:mtpsurl: 'unitybootstrapperextension-class-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapperExtension Class
 
 Implements a UnityContainerExtension that checks if a specific type was registered with the container.

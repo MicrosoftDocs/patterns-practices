@@ -8,7 +8,7 @@ ms:mtpsurl: 'mefitemscontrolregionadapter-methods-mspp-mefextensions-regions.md'
 
 # MefItemsControlRegionAdapter Methods
 
-The [MefItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter) type exposes the following members.
+The [MefItemsControlRegionAdapter](/patterns-practices/reference/mefitemscontrolregionadapter-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Methods
 
@@ -93,7 +93,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td><div class="summary">
 Adapts an object and binds it to a new [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 </div>
-(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-class-mspp-regions).)</td>
+(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>

@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper'
 ms:mtpsurl: 'unitybootstrapper-class-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapper Class
 
 Base class that provides a basic bootstrapping sequence that registers most of the Prism Library assets in a IUnityContainer.
