@@ -23,21 +23,16 @@ public IRegion Initialize( T regionTarget, string regionName )
 ### Parameters
 
 *regionTarget*  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object to adapt.
 
 *regionName*  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name of the region to be created.
 
 ### Return Value
 
-Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The new instance of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that the *regionTarget* is bound to.
 
 ## See Also
@@ -63,22 +58,17 @@ Public Function Initialize ( regionTarget As T, regionName As String ) As IRegio
 
 ### Parameters
 
-*regionTarget*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
-
+*regionTarget*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object to adapt.
 
 *regionName*  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name of the region to be created.
 
 ### Return Value
 
-Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The new instance of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that the *regionTarget* is bound to.
 
 ## See Also

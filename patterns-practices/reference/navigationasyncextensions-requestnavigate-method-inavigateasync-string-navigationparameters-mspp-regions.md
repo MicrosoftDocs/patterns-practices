@@ -37,21 +37,15 @@ Public Shared Sub RequestNavigate (
 ### Parameters
 
 *navigation*  
-
-Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp-regions)
-
+Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp-regions)  
 The navigation object.
 
-*target*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*target*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 A string that represents the target where the region will navigate.
 
 *navigationParameters*  
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)
-
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 An instance of NavigationParameters, which holds a collection of object parameters.
 
 ### Usage Note

@@ -25,15 +25,11 @@ public void RegisterViewWithRegion(
 ### Parameters
 
 *regionName*  
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 Region name to which the *getContentDelegate* will be registered.
 
 *getContentDelegate*  
-
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
-
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;  
 Delegate used to retrieve the content associated with the *regionName*.
 
 ### Implements
@@ -68,16 +64,12 @@ Public Sub RegisterViewWithRegion (
 ### Parameters
 
 *regionName*  
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 Region name to which the *getContentDelegate* will be registered.
 
 *getContentDelegate*  
-
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
-
-Delegate used to retrieve the content associated with the *regionName*.
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))  
+Delegate used to retrieve the content associated with the *regionName*.  
 
 ### Implements
 

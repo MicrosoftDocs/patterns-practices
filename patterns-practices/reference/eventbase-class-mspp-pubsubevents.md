@@ -27,10 +27,8 @@ Public MustInherit Class EventBase
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-Microsoft.Practices.Prism.PubSubEvents.EventBase
-
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+Microsoft.Practices.Prism.PubSubEvents.EventBase  
 [Microsoft.Practices.Prism.PubSubEvents.PubSubEvent(Of TPayload)](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)
 
 ## See Also

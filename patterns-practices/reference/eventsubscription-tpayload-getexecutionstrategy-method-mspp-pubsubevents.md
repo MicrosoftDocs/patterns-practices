@@ -21,8 +21,7 @@ public virtual Action<Object[]> GetExecutionStrategy()
 
 ### Return Value
 
-Type: [Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&lsqb;&rsqb;&gt;
-
+Type: [Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&lsqb;&rsqb;&gt;  
 An [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8) with the execution strategy, or nulla null reference (Nothing in Visual Basic) if the IEventSubscription is no longer valid.
 
 ### Implements
@@ -56,8 +55,7 @@ Public Overridable Function GetExecutionStrategy As Action(Of Object())
 
 ### Return Value
 
-Type: [Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&lpar;&rpar;)
-
+Type: [Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&lpar;&rpar;)  
 An [Action(Of T)](http://msdn2.microsoft.com/en-us/library/018hxwa8) with the execution strategy, or **Nothing**a null reference (**Nothing** in Visual Basic) if the [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription) is no longer valid.
 
 ### Implements

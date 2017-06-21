@@ -21,8 +21,7 @@ public Predicate<TPayload> Filter { get; }
 
 ### Property Value
 
-Type: [Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;[TPayload](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)&gt;
-
+Type: [Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;[TPayload](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)&gt;  
 An [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz) or **null**a null reference (**Nothing** in Visual Basic) if the referenced target is not alive.
 
 ## See Also
@@ -50,8 +49,7 @@ Public ReadOnly Property Filter As Predicate(Of TPayload)
 
 ### Property Value
 
-Type: [Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)(Of [TPayload](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents))
-
+Type: [Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)(Of [TPayload](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents))  
 An [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz) or **Nothing**a null reference (**Nothing** in Visual Basic) if the referenced target is not alive.
 
 ## See Also

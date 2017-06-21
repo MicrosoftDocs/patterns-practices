@@ -22,6 +22,18 @@ public bool ContainsKey(
 )
 ```
 
+### Parameters
+
+*behaviorKey*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The behavior key.
+
+### Return Value  
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+**truetrue** (**True** in Visual Basic) if a behavior with the specified key is present; otherwise, **falsefalse** (**False** in Visual Basic).  
+### Implements  
+[IRegionBehaviorFactory.ContainsKey(String)](/patterns-practices/reference/iregionbehaviorfactory-containskey-method-mspp-regions)
+
 ```VB
 'Declaration
 Public Function ContainsKey ( 
@@ -31,20 +43,14 @@ Public Function ContainsKey (
 
 ### Parameters
 
-*behaviorKey*
-
+*behaviorKey*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The behavior key.
 
-### Return Value
-
+### Return Value  
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
-
-**truetrue** (**true** in Visual Basic) if a behavior with the specified key is present; otherwise, **Falsefalse** (**False** in Visual Basic).
-
-### Implements
-
+**Truetrue** (**True** in Visual Basic) if a behavior with the specified key is present; otherwise, **Falsefalse** (**False** in Visual Basic).  
+### Implements  
 [IRegionBehaviorFactory.ContainsKey(String)](/patterns-practices/reference/iregionbehaviorfactory-containskey-method-mspp-regions)
 
 ## See Also

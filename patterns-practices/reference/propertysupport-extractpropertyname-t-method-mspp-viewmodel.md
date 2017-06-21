@@ -23,22 +23,18 @@ public static string ExtractPropertyName<T>(
 
 ### Parameters
 
-*propertyExpression* 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;&gt;
-
+*propertyExpression*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;&gt;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The property expression (e.g. p =&gt; p.PropertyName)
 
 ### Type Parameters
 
-*T*
- 
+*T*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object type containing the property specified in the expression.
 
 ### Return Value
 
-Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the property.
 
 ## Exceptions
@@ -90,22 +86,18 @@ Public Shared Function ExtractPropertyName(Of T) (
 
 ### Parameters
 
-*propertyExpression*
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of T))
-
+*propertyExpression*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of T))  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The property expression (e.g. p =&gt; p.PropertyName)
 
 ### Type Parameters
 
-*T* 
-
+*T*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object type containing the property specified in the expression.
 
 ### Return Value
 
-Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the property.
 
 ## Exceptions
