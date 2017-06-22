@@ -30,10 +30,8 @@ Public Sub New (
 
 ### Parameters
 
-*regionBehaviorFactory*
-  
-Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)
-
+*regionBehaviorFactory*  
+Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)  
 The factory used to create the region behaviors to attach to the created regions.
 
 ## See Also

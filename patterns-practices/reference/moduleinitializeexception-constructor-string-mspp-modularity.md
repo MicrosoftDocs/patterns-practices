@@ -31,9 +31,7 @@ Public Sub New (
 #### Parameters
 
 *message*  
-
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
-
 The exception message.
 
 ## See Also

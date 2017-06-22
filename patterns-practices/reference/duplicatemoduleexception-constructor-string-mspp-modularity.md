@@ -25,10 +25,8 @@ Public Sub New ( message As String )
 
 ### Parameters
 
-*message*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*message*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The exception message.
 
 ## See Also

@@ -31,10 +31,8 @@ Public Sub New (
 
 ### Parameters
 
-*message*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*message*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The message that describes the error.
 
 ## See Also

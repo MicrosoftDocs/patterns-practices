@@ -33,22 +33,16 @@ Public Sub New (
 
 ### Parameters
 
-*serviceLocator*
-
-Type: IServiceLocator
-
+*serviceLocator*  
+Type: IServiceLocator  
 The service locator.
 
-*regionNavigationContentLoader*
-
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader](/patterns-practices/reference/iregionnavigationcontentloader-interface-mspp-regions)
-
+*regionNavigationContentLoader*  
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader](/patterns-practices/reference/iregionnavigationcontentloader-interface-mspp-regions)  
 The navigation target handler.
 
-*journal*
-
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)
-
+*journal*  
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)  
 The journal.
 
 ## See Also

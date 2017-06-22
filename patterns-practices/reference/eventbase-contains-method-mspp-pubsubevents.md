@@ -20,6 +20,19 @@ public virtual bool Contains(
 	SubscriptionToken token
 )
 ```
+
+
+#### Parameters
+
+*token*  
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
+The [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) returned by [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) while subscribing to the event.
+
+#### Return Value
+
+Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)  
+**Truetrue** (**True** in Visual Basic) if there is a [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) that matches; otherwise **Falsefalse** (**False** in Visual Basic).
+
 ```VB
 'Declaration
 Public Overridable Function Contains ( 
@@ -30,16 +43,13 @@ Public Overridable Function Contains (
 
 #### Parameters
 
-*token*
-
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
-
+*token*  
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 The [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) returned by [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) while subscribing to the event.
 
 #### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
-
+Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)  
 **truetrue** (**True** in Visual Basic) if there is a [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) that matches; otherwise **falsefalse** (**False** in Visual Basic).
 
 ## See Also
