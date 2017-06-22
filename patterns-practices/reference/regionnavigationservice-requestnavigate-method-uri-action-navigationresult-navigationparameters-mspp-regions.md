@@ -30,13 +30,11 @@ Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The target.
 
 *navigationCallback*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;
-
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;  
 A callback to execute when the navigation request is completed.
 
 *navigationParameters*  
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)
-
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 The navigation parameters specific to the navigation request.
 
 ### Implements
@@ -70,13 +68,11 @@ Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The target.
 
 *navigationCallback*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions))
-
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions))  
 A callback to execute when the navigation request is completed.
 
 *navigationParameters*  
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)
-
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)  
 The navigation parameters specific to the navigation request.
 
 ### Implements
