@@ -36,10 +36,6 @@ Specifies on which thread to receive the delegate callback.
 
 *keepSubscriberReferenceAlive*  
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
-When **truetrue** (**True** in Visual Basic), the [PubSubEvent&lt;TPayload&gt; ](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) keeps a reference to the subscriber so it does not get garbage collected.
-
-*keepSubscriberReferenceAlive*  
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 When **Truetrue** (**True** in Visual Basic), the [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) keeps a reference to the subscriber so it does not get garbage collected.
 
 *filter*  
@@ -91,10 +87,6 @@ The delegate that gets executed when the event is published.
 *threadOption*  
 Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)  
 Specifies on which thread to receive the delegate callback.
-
-*keepSubscriberReferenceAlive*  
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
-When **Truetrue** (**True** in Visual Basic), the [PubSubEvent(Of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) keeps a reference to the subscriber so it does not get garbage collected.
 
 *keepSubscriberReferenceAlive*  
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  

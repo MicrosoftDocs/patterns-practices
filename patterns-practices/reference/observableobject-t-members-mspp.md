@@ -415,7 +415,7 @@ Returns the input element within the current element that is at the specified co
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[InvalidateArrange](http://msdn.microsoft.com/en-us/library/ms598917)</td>
 <td><div class="summary">
-Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by [UpdateLayout](http://msdn.microsoft.com/en-us/library/ms599327).
+Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by [UpdateLayout()](http://msdn.microsoft.com/en-us/library/ms599327).
 </div>
 (Inherited from [UIElement](http://msdn.microsoft.com/en-us/library/ms590078).)</td>
 </tr>

@@ -5,13 +5,11 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ContentControlRegion
 ms:mtpsurl: 'contentcontrolregionadapter-properties-mspp-regions.md'
 ---
 
-
 # ContentControlRegionAdapter Properties
 
 The [ContentControlRegionAdapter](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions) type exposes the following members.
 
 ## Properties
-
 
 <table>
 
@@ -37,4 +35,4 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 ## See Also
 
 [ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)  

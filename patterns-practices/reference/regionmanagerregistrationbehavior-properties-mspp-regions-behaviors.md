@@ -5,13 +5,11 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionMana
 ms:mtpsurl: 'regionmanagerregistrationbehavior-properties-mspp-regions-behaviors.md'
 ---
 
-
 # RegionManagerRegistrationBehavior Properties
 
 The [RegionManagerRegistrationBehavior](/patterns-practices/reference/regionmanagerregistrationbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Properties
-
 
 <table>
 

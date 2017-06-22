@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ViewModel.NotificationObject'
 ms:mtpsurl: 'notificationobject-methods-mspp-viewmodel.md'
 ---
 
-
 # NotificationObject Methods
 
 The [NotificationObject](/patterns-practices/reference/notificationobject-class-mspp-viewmodel) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -97,5 +95,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[NotificationObject Class](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)    
+[NotificationObject Class](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)  
 [Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)  

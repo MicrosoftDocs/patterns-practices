@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureDefaultRegionBeha
 ms:mtpsurl: 'bootstrapper-configuredefaultregionbehaviors-method-mspp.md'
 ---
 
-
 # Bootstrapper.ConfigureDefaultRegionBehaviors Method
 
 Configures the [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions). This will be the list of default behaviors that will be added to a region.

@@ -25,7 +25,7 @@ public bool Equals(
 
 *other*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 An object to compare with this object.
 
 ### Return Value
@@ -48,7 +48,7 @@ Public Function Equals (
 
 *other*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 An object to compare with this object.
 
 ### Return Value
@@ -62,6 +62,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 ## See Also
 
 [SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
-SubscriptionToken Members<br/>
+SubscriptionToken Members  
 [Equals Overload](/patterns-practices/reference/subscriptiontoken-equals-method-mspp-pubsubevents)  
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  

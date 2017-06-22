@@ -9,10 +9,8 @@ ms:mtpsurl: 'addmodule-mthd-moduleinfogroup-str-type-str.md'
 
 Adds a new module that is statically referenced to the specified module info group.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)   
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -44,11 +42,11 @@ The names for the modules that this module depends on.
 
 Adds a new module that is statically referenced to the specified module info group.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
 
 ```VB
 'Declaration
@@ -87,10 +85,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 ## See Also
 
-[ModuleInfoGroupExtensions Class](/patterns-practices/reference/moduleinfogroupextensions-class-mspp-modularity)
-
-[ModuleInfoGroupExtensions Members](/patterns-practices/reference/moduleinfogroupextensions-members-mspp-modularity)
-
-[AddModule Overload](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)
-
+[ModuleInfoGroupExtensions Class](/patterns-practices/reference/moduleinfogroupextensions-class-mspp-modularity)  
+[ModuleInfoGroupExtensions Members](/patterns-practices/reference/moduleinfogroupextensions-members-mspp-modularity)  
+[AddModule Overload](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

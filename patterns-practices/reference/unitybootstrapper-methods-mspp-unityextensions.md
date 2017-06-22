@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapp
 ms:mtpsurl: 'unitybootstrapper-methods-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapper Methods
 
 The [UnityBootstrapper](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions) type exposes the following members.
@@ -152,7 +151,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[RegisterFrameworkExceptionTypes](/patterns-practices/reference/unitybootstrapper-registerframeworkexceptiontypes-method-mspp-unityextensions)</td>
 <td><div class="summary">
-Registers in the IUnityContainer the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the [ExceptionExtensions]/patterns-practices/reference/exceptionextensions-class-mspp).
+Registers in the IUnityContainer the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp).
 </div>
 (Overrides [Bootstrapper.RegisterFrameworkExceptionTypes()](/patterns-practices/reference/bootstrapper-registerframeworkexceptiontypes-method-mspp
 ).)</td>

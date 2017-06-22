@@ -5,13 +5,11 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionCrea
 ms:mtpsurl: 'regioncreationexception-properties-mspp-regions-behaviors.md'
 ---
 
-
 # RegionCreationException Properties
 
 The [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Properties
-
 
 <table>
 
