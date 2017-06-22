@@ -22,10 +22,8 @@ public ModuleConfigurationElementCollection(ModuleConfigurationElement[] modules
 
 ### Parameters
 
-*modules*
-
-Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)[]
-
+*modules*  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)[]  
 The initial set of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity).
 
 ## Exceptions
@@ -59,10 +57,8 @@ Public Sub New (modules As ModuleConfigurationElement())
 
 ### Parameters
 
-*modules*
-
-Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)()
-
+*modules*  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)()  
 The initial set of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity).
 
 ## Exceptions

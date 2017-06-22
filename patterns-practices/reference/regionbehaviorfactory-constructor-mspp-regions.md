@@ -30,10 +30,8 @@ Public Sub New (
 
 ### Parameters
 
-*serviceLocator*
-
-Type: IServiceLocator
-
+*serviceLocator*  
+Type: IServiceLocator  
 IServiceLocator used to create the instance of the behavior from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 ## See Also

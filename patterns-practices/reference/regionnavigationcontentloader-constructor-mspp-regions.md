@@ -32,9 +32,7 @@ Public Sub New (
 ### Parameters
 
 *serviceLocator*  
-
-Type: IServiceLocator
-
+Type: IServiceLocator  
 The service locator.
 
 ## See Also

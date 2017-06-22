@@ -21,10 +21,8 @@ public ModuleCatalog( IEnumerable&lt;ModuleInfo&gt; modules )
 
 ### Parameters
 
-*modules*
-
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;
-
+*modules*  
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;  
 The initial list of modules.
 
 ## See Also
@@ -52,10 +50,8 @@ Public Sub New ( modules As IEnumerable(Of ModuleInfo) )
 
 ### Parameters
 
-*modules*
-
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity))
-
+*modules*  
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity))  
 The initial list of modules.
 
 ## See Also

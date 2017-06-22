@@ -33,17 +33,13 @@ Public Sub New (
 
 ### Parameters
 
-*navigationContext*
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
-
+*navigationContext*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
 The navigation context.
 
 
-*error*
-
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
-
+*error*  
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
 The error.
 
 ## See Also

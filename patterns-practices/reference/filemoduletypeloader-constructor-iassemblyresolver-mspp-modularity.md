@@ -32,10 +32,8 @@ Public Sub New (
 
 ### Parameters
 
-*assemblyResolver*
-
-Type: [Microsoft.Practices.Prism.Modularity.IAssemblyResolver](/patterns-practices/reference/iassemblyresolver-interface-mspp-modularity)
-
+*assemblyResolver*  
+Type: [Microsoft.Practices.Prism.Modularity.IAssemblyResolver](/patterns-practices/reference/iassemblyresolver-interface-mspp-modularity)  
 The assembly resolver.
 
 ## See Also

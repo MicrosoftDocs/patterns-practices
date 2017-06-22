@@ -33,22 +33,17 @@ Protected Sub New (
 
 ### Parameters
 
-*info* 
- 
-   Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
-	
-   Holds the serialized object data about the exception being thrown.
+*info*  
+Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)  
+Holds the serialized object data about the exception being thrown.
 
-*context*
-
-   Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
-	
-   Contains contextual information about the source or destination.
+*context*  
+Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)  
+Contains contextual information about the source or destination.
 
 ## See Also
 
 [ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)  
 [ModuleNotFoundException Members](/patterns-practices/reference/modulenotfoundexception-members-mspp-modularity)  
-ModuleNotFoundException Overload
-
+ModuleNotFoundException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

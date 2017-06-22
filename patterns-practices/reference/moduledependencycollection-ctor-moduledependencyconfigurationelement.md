@@ -24,9 +24,7 @@ public ModuleDependencyCollection(
 #### Parameters
 
 *dependencies*  
-
 Type: [Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)[]  
-
 An array of [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) with 
 initial list of dependencies.
 
@@ -59,9 +57,7 @@ Public Sub New (
 #### Parameters
 
 *dependencies*  
-
 Type: [Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)()  
-
 An array of [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) with initial list of dependencies.
 
 ## See Also

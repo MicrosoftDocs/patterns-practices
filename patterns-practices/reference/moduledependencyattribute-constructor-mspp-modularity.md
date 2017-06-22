@@ -31,10 +31,8 @@ Public Sub New (
 
 ### Parameters
 
-*moduleName*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*moduleName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the module that this module is dependant upon.
 
 ## See Also

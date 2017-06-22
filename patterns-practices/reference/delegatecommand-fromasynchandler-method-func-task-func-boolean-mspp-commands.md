@@ -26,21 +26,16 @@ public static DelegateCommand FromAsyncHandler(
 ### Parameters
 
 *executeMethod*  
-
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;
-
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;  
 Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
-*canExecuteMethod*
-
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
-
+*canExecuteMethod*  
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;  
 Delegate to execute when CanExecute is called on the command. This can be null.
 
 ### Return Value
 
-Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
+Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
 Constructed instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
 ## See Also
@@ -71,21 +66,17 @@ Public Shared Function FromAsyncHandler (
 
 ### Parameters
 
-*executeMethod*
-
+*executeMethod*  
 Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Task](http://msdn.microsoft.com/en-us/library/dd235678))
 Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 *canExecuteMethod*  
-
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
-
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))  
 Delegate to execute when CanExecute is called on the command. This can be null.
 
 ### Return Value
 
-Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
+Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
 Constructed instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
 ## See Also
