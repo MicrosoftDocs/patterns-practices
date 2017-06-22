@@ -5,13 +5,11 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegion'
 ms:mtpsurl: 'iregion-properties-mspp-regions.md'
 ---
 
-
 # IRegion Properties
 
 The [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) type exposes the following members.
 
 ## Properties
-
 
 <table>
 

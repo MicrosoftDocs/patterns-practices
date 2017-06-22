@@ -5,13 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLoc
 ms:mtpsurl: 'unityservicelocatoradapter-methods-mspp-unityextensions.md'
 ---
 
-
 # UnityServiceLocatorAdapter Methods
 
 The [UnityServiceLocatorAdapter](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -97,7 +95,6 @@ Serves as a hash function for a particular type.
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>GetInstance&#96;&#96;1()</td>
-<td>GetInstance&#96;1()</td>
 <td>(Inherited from ServiceLocatorImplBase.)</td>
 </tr>
 <tr class="odd">

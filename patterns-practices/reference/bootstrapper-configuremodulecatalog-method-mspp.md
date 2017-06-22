@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureModuleCatalog'
 ms:mtpsurl: 'bootstrapper-configuremodulecatalog-method-mspp.md'
 ---
 
-
 # Bootstrapper.ConfigureModuleCatalog Method
 
 Configures the [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) used by Prism.
@@ -19,6 +18,7 @@ Configures the [IModuleCatalog](/patterns-practices/reference/imodulecatalog-int
 ```C#
 protected virtual void ConfigureModuleCatalog()
 ```
+
 ```VB
 'Declaration
 Protected Overridable Sub ConfigureModuleCatalog

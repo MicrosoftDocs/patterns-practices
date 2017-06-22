@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapp
 ms:mtpsurl: 'unitybootstrapperextension-methods-mspp-unityextensions.md'
 ---
 
-
 # UnityBootstrapperExtension Methods
 
 The [UnityBootstrapperExtension](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions) type exposes the following members.
