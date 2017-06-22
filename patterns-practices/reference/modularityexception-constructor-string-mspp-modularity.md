@@ -29,10 +29,8 @@ Public Sub New (
 
 ## Parameters
 
-*message*
-
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
-
+*message*  
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)  
 The exception message.
 
 ## See Also

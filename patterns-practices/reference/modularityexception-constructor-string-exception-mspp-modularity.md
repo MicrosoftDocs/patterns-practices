@@ -26,23 +26,18 @@ Public Sub New ( message As String, innerException As Exception )
 
 ### Parameters
 
-*message*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*message*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The exception message.
 
 
 *innerException*  
-
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
-
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
 The inner exception.
 
 ## See Also
 
 [ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)  
 [ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)  
-ModularityException Overload
-
+ModularityException Overload  
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)  

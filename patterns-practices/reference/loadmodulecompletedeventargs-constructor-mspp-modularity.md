@@ -33,17 +33,13 @@ Public Sub New (
 
 ### Parameters
 
-*moduleInfo*
-
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
-
+*moduleInfo*  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 The module info.
 
 
-*error*
-
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
-
+*error*  
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
 Any error that occurred during the call.
 
 ## See Also

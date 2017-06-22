@@ -24,16 +24,12 @@ public NavigationResult(
 
 ### Parameters
 
-*context*
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
-
+*context*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
 The context.
 
-*result*
-
-Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;[Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
-
+*result*  
+Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;[Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;  
 The result.
 
 ## See Also
@@ -65,16 +61,12 @@ Public Sub New (
 
 ### Parameters
 
-*context*
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
-
+*context*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
 The context.
 
-*result*
-
-Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)(Of [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
-
+*result*  
+Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)(Of [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))  
 The result.
 
 ## See Also

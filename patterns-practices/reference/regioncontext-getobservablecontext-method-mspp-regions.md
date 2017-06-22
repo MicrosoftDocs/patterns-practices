@@ -34,11 +34,10 @@ Type: [ObservableObject](/patterns-practices/reference/observableobject-t-class-
 Wrapper around the Regioncontext value.
 
 
-Returns an [ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp) wrapper around the RegionContext value. The RegionContext will be set on any views (dependency objects) that are inside the [Views](/patterns-practices/reference/iregion-views-property-mspp-regions) collection by the [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors) Behavior. The RegionContext will also be set to the control that hosts the Region, by the [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) Behavior. If the [ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp) wrapper does not already exist, an empty one will be created. This way, an observer can notify when the value is set for the first time.
-
-
 
 # RegionContext.GetObservableContext Method
+
+Returns an [ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp) wrapper around the RegionContext value. The RegionContext will be set on any views (dependency objects) that are inside the [Views](/patterns-practices/reference/iregion-views-property-mspp-regions) collection by the [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors) Behavior. The RegionContext will also be set to the control that hosts the Region, by the [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) Behavior. If the [ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp) wrapper does not already exist, an empty one will be created. This way, an observer can notify when the value is set for the first time.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  

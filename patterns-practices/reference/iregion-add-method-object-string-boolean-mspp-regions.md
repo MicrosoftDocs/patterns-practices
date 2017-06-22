@@ -35,7 +35,7 @@ IRegionManager Add(
 
 *createRegionManagerScope*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When **Truetrue** (**True** in Visual Basic), the added view will receive a new instance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions), otherwise it will use the current region manager for this region.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When **Truetrue** (**True** in Visual Basic), the added view will receive a new instance of [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions), otherwise it will use the current region manager for this region.
 
 ### Return Value  
 Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
@@ -62,7 +62,7 @@ Function Add (
 
 *createRegionManagerScope*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When **truetrue** (**True** in Visual Basic), the added view will receive a new instance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions), otherwise it will use the current region manager for this region.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When **truetrue** (**True** in Visual Basic), the added view will receive a new instance of [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions), otherwise it will use the current region manager for this region.
 
 ### Return Value  
 Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  

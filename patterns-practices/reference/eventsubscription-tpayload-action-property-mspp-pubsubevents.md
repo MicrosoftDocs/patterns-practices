@@ -22,8 +22,7 @@ public Action<TPayload> Action { get; }
 
 ### Property Value
 
-Type: [Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)&gt;
-
+Type: [Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)&gt;  
 An [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) or nullNothingnullptra null reference (Nothing in Visual Basic) if the referenced target is not alive.
 
 ## See Also
@@ -51,8 +50,7 @@ Public ReadOnly Property Action As Action(Of TPayload)
 
 ### Property Value
 
-Type: [Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents))
-
+Type: [Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents))  
 An [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) or **Nothing**a null reference (**Nothing** in Visual Basic) if the referenced target is not alive.
 
 ## See Also

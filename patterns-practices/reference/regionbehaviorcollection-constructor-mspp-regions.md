@@ -31,10 +31,8 @@ Public Sub New (
 
 ### Parameters
 
-*region*
-
-Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+*region*  
+Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The region to associate the behavior collection with.
 
 ## See Also

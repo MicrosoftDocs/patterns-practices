@@ -50,7 +50,7 @@ Creates a new instance of [DelegateCommand](/patterns-practices/reference/delega
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[CanExecute()](/patterns-practices/reference/canexecute-mthd)</td>
+<td>[CanExecute()](/patterns-practices/reference/delegatecommand-canexecute-method-mspp-commands)</td>
 <td><div class="summary">
 Determines if the command can be executed.
 </div></td>

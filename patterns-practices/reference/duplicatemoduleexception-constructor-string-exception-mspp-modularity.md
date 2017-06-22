@@ -33,16 +33,12 @@ Public Sub New (
 
 ### Parameters
 
-*message*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*message*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The exception message.
 
-*innerException*
-
-Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
-
+*innerException*  
+Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)  
 The inner exception.
 
 ## See Also

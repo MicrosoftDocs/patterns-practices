@@ -64,16 +64,12 @@ Public Overrides Sub InvokeAction (
 
 ### Parameters
 
-*action*
-
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents))
-
+*action*  
+Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents))  
 The action to execute.
 
-*argument*
-
-Type: [TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)
-
+*argument*  
+Type: [TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)  
 The payload to pass action while invoking it.
 
 

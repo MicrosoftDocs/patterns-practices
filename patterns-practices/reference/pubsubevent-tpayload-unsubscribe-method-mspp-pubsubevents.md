@@ -19,14 +19,14 @@ ms:mtpsurl: 'pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Unsubscribe(Action&lt;TPayload&gt;)](https://msdn.microsoft.com/en-us/library/dn736235(v=pandp.50))</td>
 <td><div class="summary">
 Removes the first subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Unsubscribe(SubscriptionToken)](/patterns-practices/reference/eventbase-unsubscribe-method-mspp-pubsubevents)</td>
 <td><div class="summary">
 Removes the subscriber matching the [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).

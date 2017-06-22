@@ -31,10 +31,8 @@ Public Sub New (
 
 ### Parameters
 
-*navigationContext*
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
-
+*navigationContext*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
 The navigation context.
 
 ## See Also

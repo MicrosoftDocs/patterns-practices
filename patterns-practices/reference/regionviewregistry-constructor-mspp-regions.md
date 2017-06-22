@@ -29,10 +29,8 @@ Public Sub New (
 
 ### Parameters
 
-*locator*
-
-Type: IServiceLocator
-
+*locator*  
+Type: IServiceLocator  
 IServiceLocator used to create the instance of the views from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 ## See Also
