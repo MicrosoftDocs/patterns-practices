@@ -9,7 +9,7 @@ ms:mtpsurl: 'pubsubevent-tpayload-subscribe-method-action-tpayload-threadoption-
 Subscribes a delegate to an event that will be published on the [PublisherThread](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -23,23 +23,21 @@ public SubscriptionToken Subscribe(
 ```
 ### Parameters
 
-*action*
-
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)&gt;<br/>
+*action*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)&gt;  
 The delegate that gets executed when the event is published.
 
-*threadOption*
-
-Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)
+*threadOption*  
+Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)  
 Specifies on which thread to receive the delegate callback.
 
-*keepSubscriberReferenceAlive*<br/>
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+*keepSubscriberReferenceAlive*  
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 When **truetrue** (**True** in Visual Basic), the [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) keeps a reference to the subscriber so it does not get garbage collected.
 
 ### Return Value
 
-Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
+Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)   
 A [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) that uniquely identifies the added subscription.
 
 ## Remarks
@@ -51,15 +49,15 @@ The PubSubEvent collection is thread-safe.
 ## See Also
 
 [PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)  
-PubSubEvent&lt;TPayload&gt; Members<br/>
-[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)  
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+PubSubEvent&lt;TPayload&gt; Members  
+[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)    
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
 
 # PubSubEvent(Of TPayload).Subscribe Method (Action(Of TPayload), Boolean)
 Subscribes a delegate to an event that will be published on the [PublisherThread](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)<br/>
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax 
@@ -74,22 +72,21 @@ Public Function Subscribe (
 ```
 ### Parameters
 
-*action*<br/>
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents))<br/>
+*action*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents))  
 The delegate that gets executed when the event is published.
 
-*threadOption*
-
-Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)
+*threadOption*  
+Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)  
 Specifies on which thread to receive the delegate callback.
 
-*keepSubscriberReferenceAlive*<br/>
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+*keepSubscriberReferenceAlive*  
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 When **truetrue** (**True** in Visual Basic), the [PubSubEvent(Of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) keeps a reference to the subscriber so it does not get garbage collected.
 
 ### Return Value
 
-Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
+Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)    
 A [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) that uniquely identifies the added subscription.
 
 ## Remarks
@@ -100,7 +97,7 @@ The PubSubEvent collection is thread-safe.
 
 ## See Also
 
-[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)  
-PubSubEvent(Of TPayload) Members<br/>
-[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)  
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
+[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)    
+PubSubEvent(Of TPayload) Members  
+[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)    
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)  
