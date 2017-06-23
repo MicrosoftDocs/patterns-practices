@@ -32,13 +32,11 @@ Public Shared Sub SetClearChildViews (
 
 ### Parameters
 
-*target*
-
+*target*  
 Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The object in which to set the value.
 
-*value*
-
+*value*  
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 The value of to set in the target object's ClearChildViews attached property.
 

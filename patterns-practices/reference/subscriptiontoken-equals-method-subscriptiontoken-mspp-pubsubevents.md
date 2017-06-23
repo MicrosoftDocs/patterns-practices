@@ -10,7 +10,7 @@ ms:mtpsurl: 'subscriptiontoken-equals-method-mspp-pubsubevents.md'
 Indicates whether the current object is equal to another object of the same type.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -23,8 +23,7 @@ public bool Equals(
 
 ### Parameters
 
-*other*
-
+*other*  
 Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 An object to compare with this object.
 
@@ -32,6 +31,7 @@ An object to compare with this object.
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 **trueTrue** (**True** in Visual Basic) if the current object is equal to the other parameter; otherwise, **falseFalse** (**False** in Visual Basic).
+
 ### Implements
 [IEquatable&lt;T&gt;.Equals(T)](http://msdn2.microsoft.com/en-us/library/ms131190)
 
@@ -46,8 +46,7 @@ Public Function Equals (
 
 ### Parameters
 
-*other*
-
+*other*  
 Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)  
 An object to compare with this object.
 

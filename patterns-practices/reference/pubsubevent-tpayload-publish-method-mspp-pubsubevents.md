@@ -10,7 +10,7 @@ ms:mtpsurl: 'pubsubevent-tpayload-publish-method-mspp-pubsubevents.md'
 Publishes the [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)  
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -25,11 +25,9 @@ Publishes the [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsub
 
 ### Parameters
 
-*payload*
-	
-	Type: [TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
-	
-	Message to pass to the subscribers.
+*payload*  
+Type: [TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)  
+Message to pass to the subscribers.
 
 ## See Also
 
@@ -42,7 +40,7 @@ PubSubEvent&lt;TPayload&gt; Members
 Publishes the [PubSubEvent(Of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)  
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -55,10 +53,10 @@ Public Overridable Sub Publish (
 ```
 
 ### Parameters
-*payload*
 
-	Type: [TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
-	Message to pass to the subscribers.
+*payload*  
+Type: [TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)  
+Message to pass to the subscribers.
 
 ## See Also
 
