@@ -25,7 +25,6 @@ public static void SetDefaultViewModelFactory(
 ### Parameters
 
 *viewModelFactory*  
-
 Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[Type](http://msdn.microsoft.com/en-us/library/42892f65), [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;<br/>
 The view model factory.
 
@@ -41,7 +40,6 @@ Public Shared Sub SetDefaultViewModelFactory (
 ### Parameters
 
 *viewModelFactory*  
-
 Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [Type](http://msdn.microsoft.com/en-us/library/42892f65), [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))<br/>
 The view model factory.
 
