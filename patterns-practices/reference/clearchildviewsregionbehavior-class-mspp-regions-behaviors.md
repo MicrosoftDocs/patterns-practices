@@ -32,7 +32,7 @@ Public Class ClearChildViewsRegionBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-[Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)
+[Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
 Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior](/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors)
 
