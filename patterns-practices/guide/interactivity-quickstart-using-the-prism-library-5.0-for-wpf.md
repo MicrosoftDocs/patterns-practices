@@ -327,7 +327,7 @@ When you need to invoke a command in response to an event raised by a control lo
 
 The **InvokeCommandAction** allows you to execute a command in response to a triggered event. However, you cannot pass all or part of the EventArgs as a command parameter. Prism provides a custom **InvokeCommandAction** action that can help you in this case. It has an additional property called **TriggerParameterPath**, which is used to specify the member of the EventArgs of the fired event that will be passed as the command parameter. The InvokeCommandAction also sets the IsEnabled property of the associated control based on the value returned from CanExecute of the command.
 
-To use the **InvokeCommandAction** action, in the view, you will register a trigger, such as EventTrigger, that will execute the InvokeCommandAction when the event is raised by the control. This action will execute a command passing the specfied parameter of the event that triggered the action. You can see this in the following code.
+To use the **InvokeCommandAction** action, in the view, you will register a trigger, such as EventTrigger, that will execute the InvokeCommandAction when the event is raised by the control. This action will execute a command passing the specified parameter of the event that triggered the action. You can see this in the following code.
 
 ```XAML
   <ListBox Grid.Row="1" Margin="5" ItemsSource="{Binding Items}" SelectionMode="Single">
