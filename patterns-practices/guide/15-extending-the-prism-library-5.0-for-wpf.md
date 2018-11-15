@@ -386,7 +386,7 @@ After you have your module type loader, you need to ensure it is in the **Module
 
 -   In addition to the **ModuleCatalog**, the **ModuleManager** provides many virtual functions that can be overridden to change how modules are loaded and initialized. Integrating with the MEF required the **MefModuleManager** to override several methods in the **ModuleManager**. There are several ways to change the behavior:
 -   **Derive from ModuleManager**. If you need to change the fundamental behavior of the module loading and initialization sequence, derive from a new class and override virtual methods.
--   **Replace IModuleIntializer**. If you need to change how module types are instantiated and initialized, replace **IModuleIntializer**.
+-   **Replace IModuleInitializer**. If you need to change how module types are instantiated and initialized, replace **IModuleInitializer**.
 -   **Write a custom IModuleTypeLoader**. If you need to change how assemblies are loaded and module types discovered within assemblies, write a custom **IModuleTypeLoader**. For more information, see the section, [Retrieving and Loading Modules from a Custom Assembly Source](#retrievingandloadingmodulesfromacustom).
 
 ## Regions
