@@ -20,42 +20,42 @@ ms:mtpsurl: 'moduletypeloadingexception-constructor-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleTypeLoadingException()</td>
 <td><div class="summary">
 Initializes a new instance.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleTypeLoadingException(String)</td>
 <td><div class="summary">
 Initializes a new instance with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
 <td>ModuleTypeLoadingException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
 Initializes a new instance with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleTypeLoadingException(String, Exception)</td>
 <td><div class="summary">
 Initializes a new instance with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleTypeLoadingException(String, String)</td>
 <td><div class="summary">
 Initializes the exception with a particular module and error message.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleTypeLoadingException(String, String, Exception)</td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.

@@ -51,7 +51,7 @@ Gets an instance of an event type.
 Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
 ```
 
-##Type Parameters
+## Type Parameters
 
 *TEventType*  
 The type of event to get.

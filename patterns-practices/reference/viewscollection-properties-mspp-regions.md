@@ -21,8 +21,8 @@ The [ViewsCollection](/patterns-practices/reference/viewscollection-class-mspp-r
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[SortComparison](/patterns-practices/reference/viewscollection-sortcomparison-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/viewscollection-sortcomparison-property-mspp-regions" data-raw-source="[SortComparison](/patterns-practices/reference/viewscollection-sortcomparison-property-mspp-regions)">SortComparison</a></td>
 <td><div class="summary">
 Gets or sets the comparison used to sort the views.
 </div></td>

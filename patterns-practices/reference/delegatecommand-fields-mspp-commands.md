@@ -21,13 +21,13 @@ The [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-c
 </thead>
 <tbody>
 <tr class="odd">
-<td>[_canExecuteMethod](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase._canexecutemethod)</td>
-<td>(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase).)</td>
+<td><a href="/patterns-practices/reference/delegatecommand-class-mspp-commandsbase._canexecutemethod" data-raw-source="[_canExecuteMethod](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase._canexecutemethod)">_canExecuteMethod</a></td>
+<td>(Inherited from <a href="/patterns-practices/reference/delegatecommand-class-mspp-commandsbase" data-raw-source="[DelegateCommandBase](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase)">DelegateCommandBase</a>.)</td>
 </tr>
 <tr class="even">
-<td>[_executeMethod](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase._executemethod)
+<td><a href="/patterns-practices/reference/delegatecommand-class-mspp-commandsbase._executemethod" data-raw-source="[_executeMethod](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase._executemethod)">_executeMethod</a>
 </td>
-<td>(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase).)</td>
+<td>(Inherited from <a href="/patterns-practices/reference/delegatecommand-class-mspp-commandsbase" data-raw-source="[DelegateCommandBase](/patterns-practices/reference/delegatecommand-class-mspp-commandsbase)">DelegateCommandBase</a>.)</td>
 </tr>
 </tbody>
 </table> 

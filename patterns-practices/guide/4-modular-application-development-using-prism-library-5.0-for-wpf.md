@@ -29,13 +29,13 @@ The modular application approach, on the other hand, can help you to identify th
 
 Prism provides support for modular application development and for run-time module management within your application. Using Prism's modular development functionality can save you time because you don't have to implement and test your own modularity framework. Prism supports the following modular application development features:
 
--  A module catalog for registering named modules and each module's location; you can create the module catalog in the following ways:
+- A module catalog for registering named modules and each module's location; you can create the module catalog in the following ways:
   -  By defining modules in code or Extensible Application Markup Language (XAML)
   -  By discovering modules in a directory so you can load all your modules without explicitly defining in a centralized catalog
   -  By defining modules in a configuration file
--  Declarative metadata attributes for modules to support initialization mode and dependencies
--  Integration with dependency injection containers to support loose coupling between modules
--  For module loading:
+- Declarative metadata attributes for modules to support initialization mode and dependencies
+- Integration with dependency injection containers to support loose coupling between modules
+- For module loading:
   -  Dependency management, including duplicate and cycle detection to ensure modules are loaded in the correct order and only loaded and initialized once
   -  On-demand and background downloading of modules to minimize application start-up time; the rest of the modules can be loaded and initialized in the background or when they are required
 
@@ -196,10 +196,10 @@ In this example, the **OrdersModule** assembly defines an **OrdersRepository** c
 3. The module loader then loads the **CustomersModule**. The order of module loading can be specified by the dependencies in the module metadata.
 4. The **CustomersModule** constructs an instance of the **CustomerViewModel** by resolving it through the container. The **CustomerViewModel** has a dependency on the **OrdersRepository** (typically based on its interface) and indicates it through constructor or property injection. The container injects that dependency in the construction of the view model based on the type registered by the **OrdersModule**. The net result is an interface reference from the **CustomerViewModel** to the **OrderRepository** without tight coupling between those classes.
 
-  > [!NOTE]
-> The interface used to expose the **OrderRespository** (**IOrderRepository**) could reside in a separate "shared services" assembly or an "orders services" assembly that only contains the service interfaces and types required to expose those services. This way, there is no hard dependency between the **CustomersModule** and the **OrdersModule**.
+   > [!NOTE]
+   > The interface used to expose the **OrderRespository** (**IOrderRepository**) could reside in a separate "shared services" assembly or an "orders services" assembly that only contains the service interfaces and types required to expose those services. This way, there is no hard dependency between the **CustomersModule** and the **OrdersModule**.
 
-  Note that both modules have an implicit dependency on the dependency injection container. This dependency is injected during module construction in the module loader.
+   Note that both modules have an implicit dependency on the dependency injection container. This dependency is injected during module construction in the module loader.
 
 
 ## Core Scenarios
@@ -358,16 +358,16 @@ After the **ModuleCatalog** is populated, the modules are ready to be loaded and
 
 After the modules load, they are initialized. This means an instance of the module class is created and its **Initialize** method is called. Initialization is the place to integrate the module with the application. Consider the following possibilities for module initialization:
 
--  **Register the module's views with the application**. If your module is participating in user interface (UI) composition using view discovery or view injection, your module will need to associate its views or view models with the appropriate region name. This allows views to show up dynamically on menus, toolbars, or other visual regions within the application.
--  **Subscribe to application level events or services**. Often, applications expose application-specific services and/or events that your module is interested in. Use the **Initialize** method to add the module's functionality to those application-level events and services.
+- **Register the module's views with the application**. If your module is participating in user interface (UI) composition using view discovery or view injection, your module will need to associate its views or view models with the appropriate region name. This allows views to show up dynamically on menus, toolbars, or other visual regions within the application.
+- **Subscribe to application level events or services**. Often, applications expose application-specific services and/or events that your module is interested in. Use the **Initialize** method to add the module's functionality to those application-level events and services.
 
   For example, the application might raise an event when it is shutting down and your module wants to react to that event. It is also possible that your module must provide some data to an application level service. For example, if you have created a **MenuService** (it is responsible for adding and removing menu items), the module's **Initialize** method is where you would add the correct menu items.
 
   > [!NOTE]
-> Module instance lifetime is short-lived by default. After the **Initialize** method is called during the loading process, the reference to the module instance is released. If you do not establish a strong reference chain to the module instance, it will be garbage collected.<br />
+  > Module instance lifetime is short-lived by default. After the **Initialize** method is called during the loading process, the reference to the module instance is released. If you do not establish a strong reference chain to the module instance, it will be garbage collected.<br />
   This behavior may be problematic to debug if you subscribe to events that hold a weak reference to your module, because your module just &quot;disappears&quot; when the garbage collector runs.
 
--  **Register types with a dependency injection container**. If you are using a dependency injection pattern such as Unity or MEF, the module may register types for the application or other modules to use. It may also ask the container to resolve an instance of a type it needs.
+- **Register types with a dependency injection container**. If you are using a dependency injection pattern such as Unity or MEF, the module may register types for the application or other modules to use. It may also ask the container to resolve an instance of a type it needs.
 
 ## Specifying Module Dependencies
 

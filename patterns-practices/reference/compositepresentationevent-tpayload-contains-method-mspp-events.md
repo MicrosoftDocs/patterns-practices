@@ -23,19 +23,19 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-contains-method-mspp-events.md'
 <th>Description</th>
 </tr>
 <tr>
-  <td>![Public method](/patterns-practices/reference/images/public-method.gif)
+  <td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/>
   </td>
   <td>Contains(SubscriptionToken)
   </td>
   <td>(Inherited from EventBase.)</td>
 </tr>
 <tr>
-  <td>![Public method](/patterns-practices/reference/images/public-method.gif)
+  <td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/>
   </td>
-  <td>[Contains(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events)</td>
+  <td><a href="/patterns-practices/reference/compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events" data-raw-source="[Contains(Action&amp;lt;TPayload&amp;gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events)">Contains(Action&lt;TPayload&gt;)</a></td>
   <td>
     <div>
-Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8).
+Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8" data-raw-source="[Action&amp;lt;T&amp;gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8)">Action&lt;T&gt;</a>.
 </div>
   </td>
 </tr>

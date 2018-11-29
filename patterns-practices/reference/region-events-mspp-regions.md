@@ -23,8 +23,8 @@ The [Region](/patterns-practices/reference/region-class-mspp-regions) type expos
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[PropertyChanged](/patterns-practices/reference/region-propertychanged-event-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/region-propertychanged-event-mspp-regions" data-raw-source="[PropertyChanged](/patterns-practices/reference/region-propertychanged-event-mspp-regions)">PropertyChanged</a></td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div></td>

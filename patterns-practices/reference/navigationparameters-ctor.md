@@ -20,17 +20,17 @@ ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>NavigationParameters</td>
 <td><div class="summary">
-Initializes a new instance of the [NavigationParameters](/patterns-practices/reference/mspp-regions-namespace.navigationparameters) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/mspp-regions-namespace.navigationparameters" data-raw-source="[NavigationParameters](/patterns-practices/reference/mspp-regions-namespace.navigationparameters)">NavigationParameters</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>NavigationParameters(String)</td>
 <td><div class="summary">
-Initializes a new instance of the [NavigationParameters](/patterns-practices/reference/mspp-regions-namespace.navigationparameters) class with a query string.
+Initializes a new instance of the <a href="/patterns-practices/reference/mspp-regions-namespace.navigationparameters" data-raw-source="[NavigationParameters](/patterns-practices/reference/mspp-regions-namespace.navigationparameters)">NavigationParameters</a> class with a query string.
 </div></td>
 </tr>
 </tbody>

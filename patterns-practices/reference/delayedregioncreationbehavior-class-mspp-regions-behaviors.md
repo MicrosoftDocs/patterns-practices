@@ -32,8 +32,8 @@ Public Class DelayedRegionCreationBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior  
-    [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefDelayedRegionCreationBehavior](/patterns-practices/reference/mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors)
+  Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior  
+    [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefDelayedRegionCreationBehavior](/patterns-practices/reference/mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors)
 
 ## See Also
 

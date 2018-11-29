@@ -37,8 +37,8 @@ This QuickStart requires Visual Studio 2010 to run. The Silverlight version of t
 
 1. In Visual Studio, open the solution file QuickStart\\MultiTargeting\\MultiTargetingQuickstart.sln.
 2. Make sure the desired version of the QuickStart is set as the startup project. If it is not, right-click the desired project in Solution Explorer, and then click **Set as Startup Project**:
-  -  To build and run the WPF version of the QuickStart, the startup project should be the **RealEstateListingViewer.Desktop** project in the Desktop solution folder.
-  -  To build and run the Silverlight version of the QuickStart, the startup project should be the **RealEstateListingViewerHost** project in the Silverlight solution folder.
+   -  To build and run the WPF version of the QuickStart, the startup project should be the **RealEstateListingViewer.Desktop** project in the Desktop solution folder.
+   -  To build and run the Silverlight version of the QuickStart, the startup project should be the **RealEstateListingViewerHost** project in the Silverlight solution folder.
 3. If you want to build and run the Silverlight version of the QuickStart, right-click the RealEstateListingViewerTestPage.html page, located in the **RealEstateListingViewerHost** project, and then click **Set As Start Page**.
 4. On the **Build** menu, click **Rebuild Solution**.
 5. Press F5 to run the QuickStart.
@@ -49,9 +49,9 @@ To explore the scenario, perform the steps to build and run the QuickStart:
 
 1. The main window shows the results of the search, as illustrated in the following figure, which shows the Silverlight version of the QuickStart.
 
-  ![](images/quickstart-main-window-silverlight-version.png "QuickStart main window – Silverlight Version")
+   ![](images/quickstart-main-window-silverlight-version.png "QuickStart main window – Silverlight Version")
 
-  QuickStart main window – Silverlight Version
+   QuickStart main window – Silverlight Version
 
 2. The main window shows a photograph, location, price, characteristics score, and a description of the property.
 3. Notice that the pie chart, located in the bottom right corner, represents how closely the characteristics of the current property match the search criteria.

@@ -22,20 +22,20 @@ ms:mtpsurl: 'navigationcontext-constructor-iregionnavigationservice-uri-mspp-reg
 <tbody>
 <tr class="odd">
 
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>NavigationContext(IRegionNavigationService, Uri)</td>
 
 <td><div class="summary">
-Initializes a new instance of the [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) class for a region name and a [Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions).
+Initializes a new instance of the <a href="/patterns-practices/reference/navigationcontext-class-mspp-regions" data-raw-source="[NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)">NavigationContext</a> class for a region name and a <a href="/patterns-practices/reference/navigationcontext-uri-property-mspp-regions" data-raw-source="[Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions)">Uri</a>.
 </div></td>
 </tr>
 <tr class="even">
 
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>NavigationContext(IRegionNavigationService, Uri, NavigationParameters)</td>
 
 <td><div class="summary">
-Initializes a new instance of the [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) class for a region name and a [Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions).
+Initializes a new instance of the <a href="/patterns-practices/reference/navigationcontext-class-mspp-regions" data-raw-source="[NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)">NavigationContext</a> class for a region name and a <a href="/patterns-practices/reference/navigationcontext-uri-property-mspp-regions" data-raw-source="[Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions)">Uri</a>.
 </div></td>
 </tr>
 </tbody>

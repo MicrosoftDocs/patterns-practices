@@ -22,8 +22,8 @@ The [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-ms
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Region](/patterns-practices/reference/iregionbehavior-region-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/iregionbehavior-region-property-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/iregionbehavior-region-property-mspp-regions)">Region</a></td>
 <td><div class="summary">
 The region that this behavior is extending.
 </div></td>

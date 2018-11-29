@@ -8,7 +8,7 @@ ms:mtpsurl: 'mspp-pubsubevents-namespace.md'
 
 # Microsoft.Practices.Prism.PubSubEvents Namespace
 
- 
+ 
 ## Classes
 
 <span id="classToggle"></span>
@@ -23,66 +23,66 @@ ms:mtpsurl: 'mspp-pubsubevents-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[BackgroundEventSubscription(of TPayload)](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md" data-raw-source="[BackgroundEventSubscription(of TPayload)](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md)">BackgroundEventSubscription(of TPayload)</a></td>
 <td><div class="summary">
-Extends [EventSubscription(of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a background thread.
+Extends <a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents" data-raw-source="[EventSubscription(of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)">EventSubscription(of TPayload)</a> to invoke the <a href="/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents" data-raw-source="[Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents)">Action</a> delegate in a background thread.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[DataEventArgs(of TData)](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents" data-raw-source="[DataEventArgs(of TData)](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)">DataEventArgs(of TData)</a></td>
 <td><div class="summary">
 Generic arguments class to pass to event handlers that need to receive data.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/delegatereference-class-mspp-pubsubevents" data-raw-source="[DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)">DelegateReference</a></td>
 <td><div class="summary">
-Represents a reference to a [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) that may contain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target. This class is used internally by the Prism Library.
+Represents a reference to a <a href="http://msdn.microsoft.com/en-us/library/y22acf51" data-raw-source="[Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)">Delegate</a> that may contain a <a href="http://msdn.microsoft.com/en-us/library/hbh8w2zd" data-raw-source="[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)">WeakReference</a> to the target. This class is used internally by the Prism Library.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[DispatcherEventSubscription(of TPayload)](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents" data-raw-source="[DispatcherEventSubscription(of TPayload)](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)">DispatcherEventSubscription(of TPayload)</a></td>
 <td><div class="summary">
-Extends [EventSubscription(of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a specific [SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f).
+Extends <a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents" data-raw-source="[EventSubscription(of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)">EventSubscription(of TPayload)</a> to invoke the <a href="/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents" data-raw-source="[Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents)">Action</a> delegate in a specific <a href="http://msdn.microsoft.com/en-us/library/wx31754f" data-raw-source="[SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f)">SynchronizationContext</a>.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[EventAggregator](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents" data-raw-source="[EventAggregator](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)">EventAggregator</a></td>
 <td><div class="summary">
-Implements [IEventAggregator](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents).
+Implements <a href="/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents" data-raw-source="[IEventAggregator](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents)">IEventAggregator</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/eventbase-class-mspp-pubsubevents" data-raw-source="[EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)">EventBase</a></td>
 <td><div class="summary">
 Defines a base class to publish and subscribe to events.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[EventSubscription(of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents" data-raw-source="[EventSubscription(of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)">EventSubscription(of TPayload)</a></td>
 <td><div class="summary">
-Provides a way to retrieve a [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) to execute an action depending on the value of a second filter predicate that returns true if the action should execute.
+Provides a way to retrieve a <a href="http://msdn.microsoft.com/en-us/library/y22acf51" data-raw-source="[Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)">Delegate</a> to execute an action depending on the value of a second filter predicate that returns true if the action should execute.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[PubSubEvent(of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents" data-raw-source="[PubSubEvent(of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)">PubSubEvent(of TPayload)</a></td>
 <td><div class="summary">
 Defines a class that manages publication and subscription to events.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents" data-raw-source="[SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)">SubscriptionToken</a></td>
 <td><div class="summary">
-Subscription token returned from [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) on subscribe.
+Subscription token returned from <a href="/patterns-practices/reference/eventbase-class-mspp-pubsubevents" data-raw-source="[EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)">EventBase</a> on subscribe.
 </div></td>
 </tr>
 </tbody>
@@ -102,24 +102,24 @@ Subscription token returned from [EventBase](/patterns-practices/reference/event
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public interface](/patterns-practices/reference/images/public-interface.gif)</td>
-<td>[IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-interface.gif" alt="Public interface"/></td>
+<td><a href="/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents" data-raw-source="[IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)">IDelegateReference</a></td>
 <td><div class="summary">
-Represents a reference to a [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51).
+Represents a reference to a <a href="http://msdn.microsoft.com/en-us/library/y22acf51" data-raw-source="[Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)">Delegate</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public interface](/patterns-practices/reference/images/public-interface.gif)</td>
-<td>[IEventAggregator](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-interface.gif" alt="Public interface"/></td>
+<td><a href="/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents" data-raw-source="[IEventAggregator](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents)">IEventAggregator</a></td>
 <td><div class="summary">
 Defines an interface to get instances of an event type.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public interface](/patterns-practices/reference/images/public-interface.gif)</td>
-<td>[IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-interface.gif" alt="Public interface"/></td>
+<td><a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents" data-raw-source="[IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)">IEventSubscription</a></td>
 <td><div class="summary">
-Defines a contract for an event subscription to be used by [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents).
+Defines a contract for an event subscription to be used by <a href="/patterns-practices/reference/eventbase-class-mspp-pubsubevents" data-raw-source="[EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)">EventBase</a>.
 </div></td>
 </tr>
 </tbody>
@@ -139,10 +139,10 @@ Defines a contract for an event subscription to be used by [EventBase](/patterns
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public enumeration](/patterns-practices/reference/images/pubenumeration.gif)</td>
-<td>[ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/pubenumeration.gif" alt="Public enumeration"/></td>
+<td><a href="/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents" data-raw-source="[ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)">ThreadOption</a></td>
 <td><div class="summary">
-Specifies on which thread a [PubSubEvent(of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) subscriber will be called.
+Specifies on which thread a <a href="/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents" data-raw-source="[PubSubEvent(of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)">PubSubEvent(of TPayload)</a> subscriber will be called.
 </div></td>
 </tr>
 </tbody>

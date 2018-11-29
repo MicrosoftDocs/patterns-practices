@@ -19,15 +19,15 @@ ms:mtpsurl: 'region-requestnavigate-method-mspp-regions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RequestNavigate(Uri, Action(Of NavigationResult))](/patterns-practices/reference/region-requestnavigate-method-uri-action-navigationresult-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/region-requestnavigate-method-uri-action-navigationresult-mspp-regions" data-raw-source="[RequestNavigate(Uri, Action(Of NavigationResult))](/patterns-practices/reference/region-requestnavigate-method-uri-action-navigationresult-mspp-regions)">RequestNavigate(Uri, Action(Of NavigationResult))</a></td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/region-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/region-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions" data-raw-source="[RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/region-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions)">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a></td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div></td>

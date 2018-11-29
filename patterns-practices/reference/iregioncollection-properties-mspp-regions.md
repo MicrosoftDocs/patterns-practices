@@ -21,8 +21,8 @@ The [IRegionCollection](/patterns-practices/reference/iregioncollection-interfac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item](/patterns-practices/reference/iregioncollection-item-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/iregioncollection-item-property-mspp-regions" data-raw-source="[Item](/patterns-practices/reference/iregioncollection-item-property-mspp-regions)">Item</a></td>
 <td><div class="summary">
 Gets the IRegion with the name received as index.
 </div></td>

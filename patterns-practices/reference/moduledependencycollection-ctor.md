@@ -19,17 +19,17 @@ ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleDependencyCollection()</td>
 <td><div class="summary">
-Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduledependencycollection-class-mspp-modularity" data-raw-source="[ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)">ModuleDependencyCollection</a></a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleDependencyCollection(ModuleDependencyConfigurationElement[])</td>
 <td><div class="summary">
-Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduledependencycollection-class-mspp-modularity" data-raw-source="[ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)">ModuleDependencyCollection</a></a>.
 </div></td>
 </tr>
 </tbody>

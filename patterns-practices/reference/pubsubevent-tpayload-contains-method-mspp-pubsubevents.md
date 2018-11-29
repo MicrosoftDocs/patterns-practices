@@ -21,20 +21,20 @@ ms:mtpsurl: 'pubsubevent-tpayload-contains-method-mspp-pubsubevents.md'
 <tbody>
 <tr class="odd">
 
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Contains(Action&lt;TPayload&gt;)](/patterns-practices/reference/pubsubevent-tpayload-contains-method-action-tpayload-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/pubsubevent-tpayload-contains-method-action-tpayload-mspp-pubsubevents" data-raw-source="[Contains(Action&amp;lt;TPayload&amp;gt;)](/patterns-practices/reference/pubsubevent-tpayload-contains-method-action-tpayload-mspp-pubsubevents)">Contains(Action&lt;TPayload&gt;)</a></td>
 
 <td><div class="summary">
-Returns <b>truetrue</b> (<b>True</b> in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
+Returns <b>truetrue</b> (<b>True</b> in Visual Basic) if there is a subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8" data-raw-source="[Action&amp;lt;T&amp;gt;](http://msdn.microsoft.com/en-us/library/018hxwa8)">Action&lt;T&gt;</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Contains(SubscriptionToken)](/patterns-practices/reference/eventbase-contains-method-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/eventbase-contains-method-mspp-pubsubevents" data-raw-source="[Contains(SubscriptionToken)](/patterns-practices/reference/eventbase-contains-method-mspp-pubsubevents)">Contains(SubscriptionToken)</a></td>
 <td><div class="summary">
-Returns <b>truetrue</b> (<b>True</b> in Visual Basic) if there is a subscriber matching [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
+Returns <b>truetrue</b> (<b>True</b> in Visual Basic) if there is a subscriber matching <a href="/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents" data-raw-source="[SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)">SubscriptionToken</a>.
 </div>
-(Inherited from [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)</td>
+(Inherited from <a href="/patterns-practices/reference/eventbase-class-mspp-pubsubevents" data-raw-source="[EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)">EventBase</a></td>
 </tr>
 </tbody>
 </table>

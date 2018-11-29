@@ -23,15 +23,15 @@ The [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Subscriptions](/patterns-practices/reference/eventbase-subscriptions-property-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/protproperty.gif" alt="Protected property"/></td>
+<td><a href="/patterns-practices/reference/eventbase-subscriptions-property-mspp-pubsubevents" data-raw-source="[Subscriptions](/patterns-practices/reference/eventbase-subscriptions-property-mspp-pubsubevents)">Subscriptions</a></td>
 <td><div class="summary">
 Gets the list of current subscriptions.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[SynchronizationContext](/patterns-practices/reference/eventbase-synchronizationcontext-property-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/eventbase-synchronizationcontext-property-mspp-pubsubevents" data-raw-source="[SynchronizationContext](/patterns-practices/reference/eventbase-synchronizationcontext-property-mspp-pubsubevents)">SynchronizationContext</a></td>
 <td><div class="summary">
 Allows the SynchronizationContext to be set by the EventAggregator for UI Thread Dispatching
 </div></td>

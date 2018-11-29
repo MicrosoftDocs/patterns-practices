@@ -10,6 +10,7 @@ ms:mtpsurl: 'iview-properties-mspp-mvvm.md'
 The [IView](/patterns-practices/reference/iview-interface-mspp-mvvm) type exposes the following members.
 
 ## Properties
+
 |    | Name  | Description 
 ----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------|
 | ![Public property](/patterns-practices/reference/images/pubproperty.gif) | [DataContext](/patterns-practices/reference/iview-datacontext-property-mspp-mvvm) |             |

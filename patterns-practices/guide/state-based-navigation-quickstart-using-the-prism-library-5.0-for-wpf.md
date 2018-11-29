@@ -172,73 +172,73 @@ Interaction requests provide an abstract approach for view models to request int
 
 The QuickStart uses interaction requests for two different situations: receiving and sending messages:
 
--  **Receiving messages**. The code in the view models create the objects that support the interactions (by raising an event with a payload to communicate with the view) and expose them through properties so they can be consumed by views. In the following code example from the **ChatViewModel** class, notice that the **ShowReceivedMessageRequest** property is defined and then used on the **OnMessageReceived** event handler to raise the **Message** instance.
+- **Receiving messages**. The code in the view models create the objects that support the interactions (by raising an event with a payload to communicate with the view) and expose them through properties so they can be consumed by views. In the following code example from the **ChatViewModel** class, notice that the **ShowReceivedMessageRequest** property is defined and then used on the **OnMessageReceived** event handler to raise the **Message** instance.
 	
-	```C#	
-    public IInteractionRequest ShowReceivedMessageRequest
-    {
-      get { return this.showReceivedMessageRequest; }
-    }
+   ```C#   
+   public IInteractionRequest ShowReceivedMessageRequest
+   {
+     get { return this.showReceivedMessageRequest; }
+   }
 
-    private void OnMessageReceived(object sender, MessageReceivedEventArgs a)
-    {
-      this.showReceivedMessageRequest.Raise(a.Message);
-    }
-	```
+   private void OnMessageReceived(object sender, MessageReceivedEventArgs a)
+   {
+     this.showReceivedMessageRequest.Raise(a.Message);
+   }
+   ```
   On the view side, it should detect an interaction request and then present an appropriate display for the request. The custom **InteractionRequestTrigger** automatically subscribes to the **Raised** event of the bound **IInteractionRequest**. The following code example, located in the ChatView.xaml file, shows this.
 	
-	```C#
-    <prism:InteractionRequestTrigger SourceObject="{Binding ShowReceivedMessageRequest}">
-      <cb:ShowNotificationAction TargetName="NotificationList" />
-    </prism:InteractionRequestTrigger>
-	```
+   ```C#
+   <prism:InteractionRequestTrigger SourceObject="{Binding ShowReceivedMessageRequest}">
+     <cb:ShowNotificationAction TargetName="NotificationList" />
+   </prism:InteractionRequestTrigger>
+   ```
 		
   In the State-Based Navigation QuickStart, the custom **ShowNotificationAction** class is used to temporarily add the received message to a collection and sets this collection as the **DataContext** of a pop-up window. In this manner, the messages will be displayed in a non-modal window for a determined amount of time before disappearing.
 
--  **Sending messages**. To display the send message window, the **SendMessageRequest** interaction request is used. The **Raise** method of this interaction request is invoked in the **SendMessage** method shown in the following code example from the **ChatViewModel**.
+- **Sending messages**. To display the send message window, the **SendMessageRequest** interaction request is used. The **Raise** method of this interaction request is invoked in the **SendMessage** method shown in the following code example from the **ChatViewModel**.
 	
-	```C#
-    public IInteractionRequest SendMessageRequest
-    {
-      get { return this.sendMessageRequest; }
-    }
+   ```C#
+   public IInteractionRequest SendMessageRequest
+   {
+     get { return this.sendMessageRequest; }
+   }
 
-    public void SendMessage()
-    {
-      var contact = this.CurrentContact;
-      SendMessageViewModel viewModel = new SendMessageViewModel();
-      viewModel.Title = "Send message to " + contact.Name;
+   public void SendMessage()
+   {
+     var contact = this.CurrentContact;
+     SendMessageViewModel viewModel = new SendMessageViewModel();
+     viewModel.Title = "Send message to " + contact.Name;
 
-      this.sendMessageRequest.Raise(
-        viewModel,
-        sendMessage =>
-        {
-          if (sendMessage.Confirmed)
-          {
-            this.SendingMessage = true;
+     this.sendMessageRequest.Raise(
+       viewModel,
+       sendMessage =>
+       {
+         if (sendMessage.Confirmed)
+         {
+           this.SendingMessage = true;
 
-            this.chatService.SendMessage(
-              contact,
-              sendMessage.Message,
-              result =>
-              {
-                this.SendingMessage = false;
-              });
-          }
-        });
-    }
-	```
+           this.chatService.SendMessage(
+             contact,
+             sendMessage.Message,
+             result =>
+             {
+               this.SendingMessage = false;
+             });
+         }
+       });
+   }
+   ```
   On the view side, when the interaction request is detected, the **PopupWindowAction** displays the **SendMessagePopView** pop-up window, as shown in the following code example from the ChatView.xaml file.
 
-	```C#
-    <prism:InteractionRequestTrigger SourceObject="{Binding SendMessageRequest}">
-      <prism:PopupWindowAction IsModal="True"> 
-        <prism:PopupWindowAction.WindowContent>
-          <vs:SendMessagePopupView />
-        </prism: PopupWindowAction.WindowContent>
-      </prism:PopupWindowAction>
-    </prism:InteractionRequestTrigger>
-	```
+   ```C#
+   <prism:InteractionRequestTrigger SourceObject="{Binding SendMessageRequest}">
+     <prism:PopupWindowAction IsModal="True"> 
+       <prism:PopupWindowAction.WindowContent>
+         <vs:SendMessagePopupView />
+       </prism: PopupWindowAction.WindowContent>
+     </prism:PopupWindowAction>
+   </prism:InteractionRequestTrigger>
+   ```
 	
   Note that the **IsModal** property of the **PopupWindowAction** action is set to true to specify that this interaction should be modal. To specify the view that will be displayed when the interaction occurs, use the **WindowContent** property.
 

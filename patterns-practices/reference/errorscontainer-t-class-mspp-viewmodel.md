@@ -21,12 +21,12 @@ public class ErrorsContainer<T>
 ## Type Parameters
 
 *T*  
-        The type of the error object.
+        The type of the error object.
 
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.ViewModel.ErrorsContainer&lt;T&gt;
+  Microsoft.Practices.Prism.ViewModel.ErrorsContainer&lt;T&gt;
 
 ## See Also
 
@@ -50,12 +50,12 @@ Public Class ErrorsContainer(Of T)
 ## Type Parameters
 
 *T*  
-        The type of the error object.
+        The type of the error object.
 
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.ViewModel.ErrorsContainer(Of T)
+  Microsoft.Practices.Prism.ViewModel.ErrorsContainer(Of T)
 
 ## See Also
 

@@ -28,8 +28,8 @@ Public Class SingleActiveRegion
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.Region](/patterns-practices/reference/region-class-mspp-regions)  
-    Microsoft.Practices.Prism.Regions.SingleActiveRegion  
+  [Microsoft.Practices.Prism.Regions.Region](/patterns-practices/reference/region-class-mspp-regions)  
+    Microsoft.Practices.Prism.Regions.SingleActiveRegion  
 
 ## See Also
 

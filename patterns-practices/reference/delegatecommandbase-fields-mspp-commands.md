@@ -22,13 +22,13 @@ The [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-clas
 <tbody>
 <tr class="odd">
 <td></td>
-<td>[_canExecuteMethod](/patterns-practices/reference/delegatecommandbase-class-mspp-commands._canexecutemethod)</td>
+<td><a href="/patterns-practices/reference/delegatecommandbase-class-mspp-commands._canexecutemethod" data-raw-source="[_canExecuteMethod](/patterns-practices/reference/delegatecommandbase-class-mspp-commands._canexecutemethod)">_canExecuteMethod</a></td>
 <td></td>
 </td>
 </tr>
 <tr class="even">
 <td></td>
-<td>[_executeMethod](/patterns-practices/reference/delegatecommandbase-class-mspp-commands._executemethod)</td>
+<td><a href="/patterns-practices/reference/delegatecommandbase-class-mspp-commands._executemethod" data-raw-source="[_executeMethod](/patterns-practices/reference/delegatecommandbase-class-mspp-commands._executemethod)">_executeMethod</a></td>
 <td></td>
 </tr>
 </tbody>

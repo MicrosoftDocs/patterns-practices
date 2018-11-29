@@ -10,7 +10,7 @@ ms:mtpsurl: 'iregionmanager-properties-mspp-regions.md'
 The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) type exposes the following members.
 
 ## Properties
- 
+ 
 <table>
 <thead>
 <tr class="header">
@@ -21,10 +21,10 @@ The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Regions](/patterns-practices/reference/iregionmanager-regions-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/iregionmanager-regions-property-mspp-regions" data-raw-source="[Regions](/patterns-practices/reference/iregionmanager-regions-property-mspp-regions)">Regions</a></td>
 <td><div class="summary">
-Gets a collection of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that identify each region by name. You can use this collection to add or remove regions to the current region manager.
+Gets a collection of <a href="/patterns-practices/reference/iregion-interface-mspp-regions" data-raw-source="[IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)">IRegion</a> that identify each region by name. You can use this collection to add or remove regions to the current region manager.
 </div></td>
 </tr>
 </tbody>

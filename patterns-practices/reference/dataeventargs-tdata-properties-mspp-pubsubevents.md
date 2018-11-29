@@ -26,8 +26,8 @@ The [DataEventArgs&lt;TData&gt;](/patterns-practices/reference/dataeventargs-tda
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Value](/patterns-practices/reference/dataeventargs-tdata-value-property-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/dataeventargs-tdata-value-property-mspp-pubsubevents" data-raw-source="[Value](/patterns-practices/reference/dataeventargs-tdata-value-property-mspp-pubsubevents)">Value</a></td>
 <td><div class="summary">
 Gets the information related to the event.
 </div></td>

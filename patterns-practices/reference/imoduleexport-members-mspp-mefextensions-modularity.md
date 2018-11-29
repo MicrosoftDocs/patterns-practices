@@ -21,23 +21,23 @@ The [IModuleExport](/patterns-practices/reference/imoduleexport-interface-mspp-m
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[DependsOnModuleNames](/patterns-practices/reference/imoduleexport-dependsonmodulenames-property-mspp-mefextensions-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/imoduleexport-dependsonmodulenames-property-mspp-mefextensions-modularity" data-raw-source="[DependsOnModuleNames](/patterns-practices/reference/imoduleexport-dependsonmodulenames-property-mspp-mefextensions-modularity)">DependsOnModuleNames</a></td>
 <td>Gets the names of modules this module depends upon.</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[InitializationMode](/patterns-practices/reference/imoduleexport-initializationmode-property-mspp-mefextensions-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/imoduleexport-initializationmode-property-mspp-mefextensions-modularity" data-raw-source="[InitializationMode](/patterns-practices/reference/imoduleexport-initializationmode-property-mspp-mefextensions-modularity)">InitializationMode</a></td>
 <td>Gets when the module should have Initialize() called.</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ModuleName](/patterns-practices/reference/imoduleexport-modulename-property-mspp-mefextensions-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/imoduleexport-modulename-property-mspp-mefextensions-modularity" data-raw-source="[ModuleName](/patterns-practices/reference/imoduleexport-modulename-property-mspp-mefextensions-modularity)">ModuleName</a></td>
 <td>Gets the name of the module.</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ModuleType](/patterns-practices/reference/imoduleexport-moduletype-property-mspp-mefextensions-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/imoduleexport-moduletype-property-mspp-mefextensions-modularity" data-raw-source="[ModuleType](/patterns-practices/reference/imoduleexport-moduletype-property-mspp-mefextensions-modularity)">ModuleType</a></td>
 <td>Gets the type of the module.</td>
 </tr>
 </tbody>

@@ -49,7 +49,7 @@ The view to deactivate.
 </thead>
 <tbody>
 <tr class="odd">
-<td>[System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a)</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/2asft85a" data-raw-source="[System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a)">System.InvalidOperationException</a></td>
 <td>Every time this method is called.</td>
 </tr>
 </tbody>

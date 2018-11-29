@@ -20,15 +20,15 @@ ms:mtpsurl: 'errorscontainer-t-clearerrors-method-mspp-viewmodel.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ClearErrors&lt;TProperty&gt;(Expression&lt;Func&lt;TProperty&gt;&gt;)](/patterns-practices/reference/errorscontainer-t-clearerrors-tproperty-method-expression-func-tproperty-mspp-viewmodel)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/errorscontainer-t-clearerrors-tproperty-method-expression-func-tproperty-mspp-viewmodel" data-raw-source="[ClearErrors&amp;lt;TProperty&amp;gt;(Expression&amp;lt;Func&amp;lt;TProperty&amp;gt;&amp;gt;)](/patterns-practices/reference/errorscontainer-t-clearerrors-tproperty-method-expression-func-tproperty-mspp-viewmodel)">ClearErrors&lt;TProperty&gt;(Expression&lt;Func&lt;TProperty&gt;&gt;)</a></td>
 <td><div class="summary">
 Clears the errors for the property indicated by the property expression.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ClearErrors(String)](/patterns-practices/reference/errorscontainer-t-clearerrors-method-string-mspp-viewmodel)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/errorscontainer-t-clearerrors-method-string-mspp-viewmodel" data-raw-source="[ClearErrors(String)](/patterns-practices/reference/errorscontainer-t-clearerrors-method-string-mspp-viewmodel)">ClearErrors(String)</a></td>
 <td><div class="summary">
 Clears the errors for a property.
 </div></td>

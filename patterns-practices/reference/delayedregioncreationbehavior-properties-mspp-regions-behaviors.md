@@ -24,15 +24,15 @@ The [DelayedRegionCreationBehavior](/patterns-practices/reference/delayedregionc
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[RegionManagerAccessor](/patterns-practices/reference/delayedregioncreationbehavior-regionmanageraccessor-property-mspp-regions-behaviors)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/delayedregioncreationbehavior-regionmanageraccessor-property-mspp-regions-behaviors" data-raw-source="[RegionManagerAccessor](/patterns-practices/reference/delayedregioncreationbehavior-regionmanageraccessor-property-mspp-regions-behaviors)">RegionManagerAccessor</a></td>
 <td><div class="summary">
-Sets a class that interfaces between the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) 's static properties/events and this behavior, so this behavior can be tested in isolation.
+Sets a class that interfaces between the <a href="/patterns-practices/reference/regionmanager-class-mspp-regions" data-raw-source="[RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions)">RegionManager</a> &#39;s static properties/events and this behavior, so this behavior can be tested in isolation.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[TargetElement](/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors" data-raw-source="[TargetElement](/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors)">TargetElement</a></td>
 <td><div class="summary">
 The element that will host the Region.
 </div></td>

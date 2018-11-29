@@ -22,15 +22,15 @@ The [IModuleManager](/patterns-practices/reference/imodulemanager-interface-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[LoadModuleCompleted](/patterns-practices/reference/imodulemanager-loadmodulecompleted-event-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/imodulemanager-loadmodulecompleted-event-mspp-modularity" data-raw-source="[LoadModuleCompleted](/patterns-practices/reference/imodulemanager-loadmodulecompleted-event-mspp-modularity)">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[ModuleDownloadProgressChanged](/patterns-practices/reference/imodulemanager-moduledownloadprogresschanged-event-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/imodulemanager-moduledownloadprogresschanged-event-mspp-modularity" data-raw-source="[ModuleDownloadProgressChanged](/patterns-practices/reference/imodulemanager-moduledownloadprogresschanged-event-mspp-modularity)">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are downloaded.
 </div></td>

@@ -22,22 +22,22 @@ The [INavigationAware](/patterns-practices/reference/inavigationaware-interface-
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[IsNavigationTarget](/patterns-practices/reference/inavigationaware-isnavigationtarget-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/inavigationaware-isnavigationtarget-method-mspp-regions" data-raw-source="[IsNavigationTarget](/patterns-practices/reference/inavigationaware-isnavigationtarget-method-mspp-regions)">IsNavigationTarget</a></td>
 <td><div class="summary">
 Called to determine if this instance can handle the navigation request.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[OnNavigatedFrom](/patterns-practices/reference/inavigationaware-onnavigatedfrom-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/inavigationaware-onnavigatedfrom-method-mspp-regions" data-raw-source="[OnNavigatedFrom](/patterns-practices/reference/inavigationaware-onnavigatedfrom-method-mspp-regions)">OnNavigatedFrom</a></td>
 <td><div class="summary">
 Called when the implementer is being navigated away from.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[OnNavigatedTo](/patterns-practices/reference/inavigationaware-onnavigatedto-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/inavigationaware-onnavigatedto-method-mspp-regions" data-raw-source="[OnNavigatedTo](/patterns-practices/reference/inavigationaware-onnavigatedto-method-mspp-regions)">OnNavigatedTo</a></td>
 <td><div class="summary">
 Called when the implementer has been navigated to.
 </div></td>

@@ -19,17 +19,17 @@ ms:mtpsurl: 'modulecatalog-constructor-ienumerable-moduleinfo-mspp-modularity.md
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleCatalog()</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity" data-raw-source="[ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)">ModuleCatalog</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleCatalog(IEnumerable&lt;ModuleInfo&gt;)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) class while providing an initial list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity" data-raw-source="[ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)">ModuleCatalog</a> class while providing an initial list of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity" data-raw-source="[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)">ModuleInfo</a>s.
 </div></td>
 </tr>
 </tbody>

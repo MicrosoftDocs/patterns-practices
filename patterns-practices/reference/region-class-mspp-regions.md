@@ -29,9 +29,9 @@ Public Class Region
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Regions.Region  
-    [Microsoft.Practices.Prism.Regions.AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions)  
-    [Microsoft.Practices.Prism.Regions.SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions)
+  Microsoft.Practices.Prism.Regions.Region  
+    [Microsoft.Practices.Prism.Regions.AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions)  
+    [Microsoft.Practices.Prism.Regions.SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions)
 
 ## See Also
 

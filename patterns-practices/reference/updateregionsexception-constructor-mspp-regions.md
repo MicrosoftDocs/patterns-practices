@@ -21,31 +21,31 @@ ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>UpdateRegionsException()</td>
 <td><div class="summary">
-Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions)
+Initializes a new instance of the <a href="/patterns-practices/reference/updateregionsexception-class-mspp-regions" data-raw-source="[UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions)">UpdateRegionsException</a>
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>UpdateRegionsException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with a specified error message.
+Initializes a new instance of the <a href="/patterns-practices/reference/updateregionsexception-class-mspp-regions" data-raw-source="[UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions)">UpdateRegionsException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
 <td>UpdateRegionsException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
-Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with serialized data.
+Initializes a new instance of the <a href="/patterns-practices/reference/updateregionsexception-class-mspp-regions" data-raw-source="[UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions)">UpdateRegionsException</a> class with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>UpdateRegionsException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the <a href="/patterns-practices/reference/updateregionsexception-class-mspp-regions" data-raw-source="[UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions)">UpdateRegionsException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 </tbody>

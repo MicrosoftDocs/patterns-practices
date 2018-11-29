@@ -27,8 +27,8 @@ Public Class RegionNavigationService
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Regions.RegionNavigationService  
-    [Microsoft-Practices-Prism-MefExtensions-Regions-MefRegionNavigationService](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions)
+  Microsoft.Practices.Prism.Regions.RegionNavigationService  
+    [Microsoft-Practices-Prism-MefExtensions-Regions-MefRegionNavigationService](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions)
 
 ## See Also
 

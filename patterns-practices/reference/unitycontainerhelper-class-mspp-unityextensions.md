@@ -28,7 +28,7 @@ Public NotInheritable Class UnityContainerHelper
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper
+  Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper
 
 ## See Also
 

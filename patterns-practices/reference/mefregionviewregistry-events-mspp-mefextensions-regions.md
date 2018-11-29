@@ -22,12 +22,12 @@ The [MefRegionViewRegistry](/patterns-practices/reference/mefregionviewregistry-
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[ContentRegistered](/patterns-practices/reference/regionviewregistry-contentregistered-event-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/regionviewregistry-contentregistered-event-mspp-regions" data-raw-source="[ContentRegistered](/patterns-practices/reference/regionviewregistry-contentregistered-event-mspp-regions)">ContentRegistered</a></td>
 <td><div class="summary">
 Occurs whenever a new view is registered.
 </div>
-(Inherited from [RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/regionviewregistry-class-mspp-regions" data-raw-source="[RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-mspp-regions)">RegionViewRegistry</a>.)</td>
 </tr>
 </tbody>
 </table>

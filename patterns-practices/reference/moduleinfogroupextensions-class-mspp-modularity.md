@@ -29,7 +29,7 @@ Public NotInheritable Class ModuleInfoGroupExtensions
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions
+  Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions
 
 ## See Also
 

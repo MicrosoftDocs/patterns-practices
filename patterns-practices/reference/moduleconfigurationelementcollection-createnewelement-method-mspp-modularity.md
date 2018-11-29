@@ -20,20 +20,20 @@ ms:mtpsurl: 'createnewelement-mthd.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[CreateNewElement()](/patterns-practices/reference/createnewelement-mthd)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
+<td><a href="/patterns-practices/reference/createnewelement-mthd" data-raw-source="[CreateNewElement()](/patterns-practices/reference/createnewelement-mthd)">CreateNewElement()</a></td>
 <td><div class="summary">
-Creates a new [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity).
+Creates a new <a href="/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity" data-raw-source="[ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)">ModuleConfigurationElement</a>.
 </div>
-(Overrides [ConfigurationElementCollection.CreateNewElement()](http://msdn.microsoft.com/en-us/library/ak7z48w8).)</td>
+(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8" data-raw-source="[ConfigurationElementCollection.CreateNewElement()](http://msdn.microsoft.com/en-us/library/ak7z48w8)">ConfigurationElementCollection.CreateNewElement()</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[CreateNewElement(String)](http://msdn.microsoft.com/en-us/library/ky49faah)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ky49faah" data-raw-source="[CreateNewElement(String)](http://msdn.microsoft.com/en-us/library/ky49faah)">CreateNewElement(String)</a></td>
 <td><div class="summary">
-Creates a new [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) when overridden in a derived class.
+Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" data-raw-source="[ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)">ConfigurationElement</a> when overridden in a derived class.
 </div>
-(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" data-raw-source="[ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et)">ConfigurationElementCollection</a>.)</td>
 </tr>
 </tbody>
 </table>

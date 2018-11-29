@@ -27,7 +27,7 @@ Public Class NavigationContext
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Regions.NavigationContext
+  Microsoft.Practices.Prism.Regions.NavigationContext
 
 ## See Also
 

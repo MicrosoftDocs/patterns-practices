@@ -19,15 +19,15 @@ ms:mtpsurl: 'interactionrequest-t-raise-method-mspp-interactivity-interactionreq
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Raise(T)](/patterns-practices/reference/interactionrequest-t-raise-method-t-mspp-interactivity-interactionrequest)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/interactionrequest-t-raise-method-t-mspp-interactivity-interactionrequest" data-raw-source="[Raise(T)](/patterns-practices/reference/interactionrequest-t-raise-method-t-mspp-interactivity-interactionrequest)">Raise(T)</a></td>
 <td><div class="summary">
 Fires the Raised event.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Raise(T, Action&lt;T&gt;)](/patterns-practices/reference/interactionrequest-t-raise-method-t-action-t-mspp-interactivity-interactionrequest)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/interactionrequest-t-raise-method-t-action-t-mspp-interactivity-interactionrequest" data-raw-source="[Raise(T, Action&amp;lt;T&amp;gt;)](/patterns-practices/reference/interactionrequest-t-raise-method-t-action-t-mspp-interactivity-interactionrequest)">Raise(T, Action&lt;T&gt;)</a></td>
 <td><div class="summary">
 Fires the Raised event.
 </div></td>

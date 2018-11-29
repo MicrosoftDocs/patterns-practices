@@ -26,10 +26,10 @@ The [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[CanExecuteChanged](/patterns-practices/reference/compositecommand-canexecutechanged-event-mspp-commands)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/compositecommand-canexecutechanged-event-mspp-commands" data-raw-source="[CanExecuteChanged](/patterns-practices/reference/compositecommand-canexecutechanged-event-mspp-commands)">CanExecuteChanged</a></td>
 <td><div class="summary">
-Occurs when any of the registered commands raise [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106). You must keep a hard reference to the handler to avoid garbage collection and unexpected results. See remarks for more information.
+Occurs when any of the registered commands raise <a href="http://msdn.microsoft.com/en-us/library/ms523106" data-raw-source="[CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106)">CanExecuteChanged</a>. You must keep a hard reference to the handler to avoid garbage collection and unexpected results. See remarks for more information.
 </div></td>
 </tr>
 </tbody>

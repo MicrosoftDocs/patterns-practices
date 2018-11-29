@@ -69,10 +69,10 @@ The features of the Stock Trader reference implementation are covered in greater
 
 1. In the **Position** area, click the **+** or **–** symbol next to the stock that you want to buy or sell.
 2. In the **Buy & Sell** area, enter the following data:
-  1. In the **Shares** box, type the number of shares you want to buy or sell.
-  2. In the **Price Limit** box, type the appropriate price.
-  3. In the **Order Type** drop-down box, click **Limit**, **Market**, or **Stop**.
-  4. In the **Term** box, click **End of day** or **Thirty days**. Term is the length of time an order will be active before it is carried out or it expires.
+   1. In the **Shares** box, type the number of shares you want to buy or sell.
+   2. In the **Price Limit** box, type the appropriate price.
+   3. In the **Order Type** drop-down box, click **Limit**, **Market**, or **Stop**.
+   4. In the **Term** box, click **End of day** or **Thirty days**. Term is the length of time an order will be active before it is carried out or it expires.
 3. To submit the order, click the **Submit** button. To cancel the order, click the **Cancel** button.
 
 **To submit or cancel all your buy and sell orders**
@@ -458,7 +458,7 @@ The **AddWatchButton** in the view then binds to the **AddWatchViewModel** comma
   </StackPanel>
 ```
 
-This is using an attached behavior on the **Add To Watch List** text box, so when the user enters a stock symbol and then presses ENTER**,** the **AddWatchCommand** will be invoked, thereby passing the stock symbol to the **WatchListService**. For more information about attached behaviors, see [Command Behaviors](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf#CommandBehaviors) in [Advanced MVVM Scenarios](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf).
+This is using an attached behavior on the **Add To Watch List** text box, so when the user enters a stock symbol and then presses ENTER<strong>,</strong> the **AddWatchCommand** will be invoked, thereby passing the stock symbol to the **WatchListService**. For more information about attached behaviors, see [Command Behaviors](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf#CommandBehaviors) in [Advanced MVVM Scenarios](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf).
 
 ## Event Aggregator
 
@@ -490,20 +490,20 @@ The Stock Trader Reference Implementation (Stock Trader RI) demonstrates how you
 	<th scope="col"><p>Example of where feature is demonstrated</p></th>
 </tr>
 <tr>
-	<td colspan="3"><p>**Views and composite UI**</p></td>
+    <td colspan="3"><p><strong>Views and composite UI</strong></p></td>
 </tr>
 <tr>
-	<td><p>**Regions: **The use of regions for placing the views without having to know how the layout is implemented.</p></td>
-	<td><p>Regions defined in the shell and position module's orders view. </p></td>
+    <td><p><strong>Regions: **The use of regions for placing the views without having to know how the layout is implemented.</p></td>
+    <td><p>Regions defined in the shell and position module&#39;s orders view. </p></td>
 	<td><p>StockTraderRI\Shell.xaml</p><p>StockTraderRI.Modules.Position\Orders\OrdersView.xaml</p></td>
 </tr>
 <tr>
-	<td><p>**Composite view**: Shows how a composite view communicates with its child view.</p></td>
+    <td><p></strong>Composite view<strong>: Shows how a composite view communicates with its child view.</p></td>
 	<td><p>Order screen</p></td>
 	<td><p>StockTraderRI.Modules.Position\Orders\OrderCompositeViewModel.cs</p><p>StockTraderRI.Modules.Position\Orders\OrderDetailsViewModel.cs</p><p>StockTraderRI.Modules.Position\Orders\OrderCommandsView.xaml.cs</p></td>
 </tr>
 <tr>
-	<td rowspan="2"><p>**Compose UI across modules**: Shows how a module can have views in different parts of the shell that interact with each other.</p></td>
+    <td rowspan="2"><p></strong>Compose UI across modules<strong>: Shows how a module can have views in different parts of the shell that interact with each other.</p></td>
 	<td><p>The Watch module has a view and also is a part of the toolbar.</p></td>
 	<td><p>StockTraderRI.Modules.Watch\AddWatch\AddWatchView.xaml</p><p>StockTraderRI.Modules.Watch\WatchList\WatchListView.xaml</p></td>
 </tr>
@@ -512,21 +512,21 @@ The Stock Trader Reference Implementation (Stock Trader RI) demonstrates how you
 	<td><p>StockTraderRI.Modules.News\Article\ArticleView.xaml</p><p>StockTraderRI.Modules.News\Article\NewsReader.xaml</p></td>
 </tr>
 <tr>
-	<td colspan="3"><p>**Decoupled communication**</p></td>
+    <td colspan="3"><p></strong>Decoupled communication<strong></p></td>
 </tr>
 <tr>
-	<td><p>**Commands**: Shows the Command pattern. The command to buy or sell a stock is a delegate command. Each row in the list uses the same command instance but with a different parameter corresponding to the stock. This decouples the invoker from the receiver and shows passing additional data with the command.</p></td>
-	<td><p>Buy and Sell command invokers in **PositionSummaryView** and handlers in **OrdersController**</p></td>
+    <td><p></strong>Commands<strong>: Shows the Command pattern. The command to buy or sell a stock is a delegate command. Each row in the list uses the same command instance but with a different parameter corresponding to the stock. This decouples the invoker from the receiver and shows passing additional data with the command.</p></td>
+    <td><p>Buy and Sell command invokers in **PositionSummaryView</strong> and handlers in <strong>OrdersController</strong></p></td>
 	<td><p>StockTraderRI.Modules.Position\Controllers\OrdersController.cs</p><p>StockTraderRI.Modules.Position\PositionSummary\PositionSummaryView.xaml</p></td>
 </tr>
 <tr>
-	<td><p>**Composite commands**: Use composite commands to broadcast all of the commands. The **Submit All** or **Cancel All** commands execute all the individual instances of the **Submit** or **Cancel** commands.</p></td>
-	<td><p>**Submit All** and **Cancel All** buttons</p></td>
+    <td><p><strong>Composite commands</strong>: Use composite commands to broadcast all of the commands. The <strong>Submit All</strong> or <strong>Cancel All</strong> commands execute all the individual instances of the <strong>Submit</strong> or <strong>Cancel</strong> commands.</p></td>
+    <td><p><strong>Submit All</strong> and <strong>Cancel All</strong> buttons</p></td>
 	<td><p>StockTraderRI.Infrastructure\StockTraderRICommands.cs</p><p>StockTraderRI.Modules.Position\Orders\OrderDetailsViewModel.cs</p><p>StockTraderRI.Modules.Position\Controllers\OrdersController.cs</p></td>
 </tr>
 <tr>
-	<td rowspan="2"><p>**Event Aggregator pattern:** Publish and Subscribe to events across decoupled modules. Publisher and Subscriber have no contract other than the event type.</p></td>
-	<td><p>Show relevant news content: When the user selects a position in the position list, the communication to the news module uses the **EventAggregator** service. </p></td>
+    <td rowspan="2"><p><strong>Event Aggregator pattern:</strong> Publish and Subscribe to events across decoupled modules. Publisher and Subscriber have no contract other than the event type.</p></td>
+    <td><p>Show relevant news content: When the user selects a position in the position list, the communication to the news module uses the <strong>EventAggregator</strong> service. </p></td>
 	<td><p>StockTraderRI.Modules.Position\PositionSummary\PositionSummaryPresentationModel.cs</p><p>StockTraderRI.Modules.News\Controllers\NewsController.cs</p></td>
 </tr>
 <tr>
@@ -534,22 +534,22 @@ The Stock Trader Reference Implementation (Stock Trader RI) demonstrates how you
 	<td><p>StockTraderRI.Modules.Market\Services\MarketFeedService.cs</p><p>StockTraderRI.Modules.Position\PositionSummary\ObservablePosition.cs</p><p>StockTraderRI.Modules.Watch\WatchList\WatchListViewModel.cs</p></td>
 </tr>
 <tr>
-	<td><p>**Services**: Services are also used to communicate between modules. Services are more contractual and flexible than commands.</p></td>
+    <td><p><strong>Services</strong>: Services are also used to communicate between modules. Services are more contractual and flexible than commands.</p></td>
 	<td><p>Several service implementations in module assemblies</p></td>
-	<td><p>**Services**:</p><p>StockTraderRI.Modules.Market\Services\MarketFeedService.cs</p><p>StockTraderRI.Modules.Market\Services\MarketHistoryService.cs</p><p>StockTraderRI.Modules.News\Services\NewsFeedService.cs</p><p>StockTraderRI.Modules.Watch\Services\WatchListService.cs</p><p>StockTraderRI.Modules.Position\Services\AccountPositionService.cs</p><p>StockTraderRI.Modules.Position\Services\XmlOrdersService.cs</p></td>
+    <td><p><strong>Services</strong>:</p><p>StockTraderRI.Modules.Market\Services\MarketFeedService.cs</p><p>StockTraderRI.Modules.Market\Services\MarketHistoryService.cs</p><p>StockTraderRI.Modules.News\Services\NewsFeedService.cs</p><p>StockTraderRI.Modules.Watch\Services\WatchListService.cs</p><p>StockTraderRI.Modules.Position\Services\AccountPositionService.cs</p><p>StockTraderRI.Modules.Position\Services\XmlOrdersService.cs</p></td>
 </tr>
 <tr>
-	<td colspan="3"><p>**Other technical challenges**</p></td>
+    <td colspan="3"><p><strong>Other technical challenges</strong></p></td>
 </tr>
 <tr>
-	<td><p>**WPF:** Use WPF for the user interface</p></td>
+    <td><p><strong>WPF:</strong> Use WPF for the user interface</p></td>
 	<td><p>Shell and module views</p></td>
 	<td><p>The starting point for Stock Trader RI - Desktop version is in the StockTraderRI\App.xaml.cs</p></td>
 </tr>
 <tr>
-	<td><p>**Bootstrapper**: The use of a bootstrapper to initialize the application with global services.</p></td>
+    <td><p><strong>Bootstrapper</strong>: The use of a bootstrapper to initialize the application with global services.</p></td>
 	<td><p>Created bootstrapper with MEF and configuring global services, such as logging and defining the module catalog.</p></td>
-	<td><p>**Bootstrapper**: </p><p>StockTraderRI\StockTraderRIBootstrapper.cs</p></td>
+    <td><p><strong>Bootstrapper</strong>: </p><p>StockTraderRI\StockTraderRIBootstrapper.cs</p></td>
 </tr>
 </tbody></table>
 

@@ -24,7 +24,7 @@ If you need to respond to a user gesture, such as clicking on a command invoker 
 
 Windows Presentation Foundation (WPF) provides **RoutedCommand**, which is good at connecting command invokers, such as menu items and buttons, with command handlers that are associated with the current item in the visual tree that has keyboard focus.
 
-However, in a composite scenario, the command handler is often a view model that does not have any associated elements in the visual tree or is not the focused element. To support this scenario, the Prism Library provides **DelegateCommand**, which allows you to call a delegate method when the command is executed, and **CompositeCommand**, which allows you to combine multiple commands**.** These commands are different from the built-in **RoutedCommand**, which will route command execution and handling up and down the visual tree. This allows you to trigger a command at a point in the visual tree and handle it at a higher level.
+However, in a composite scenario, the command handler is often a view model that does not have any associated elements in the visual tree or is not the focused element. To support this scenario, the Prism Library provides **DelegateCommand**, which allows you to call a delegate method when the command is executed, and **CompositeCommand**, which allows you to combine multiple commands<strong>.</strong> These commands are different from the built-in **RoutedCommand**, which will route command execution and handling up and down the visual tree. This allows you to trigger a command at a point in the visual tree and handle it at a higher level.
 
 The **CompositeCommand** is an implementation of **ICommand** so that it can be bound to invokers. **CompositeCommands** can be connected to several child commands; when the **CompositeCommand** is invoked, the child commands are also invoked.
 
@@ -138,10 +138,10 @@ Depending on the scenario, you can choose to share a single piece of information
 
 > [!NOTE]
 > The Prism Library currently only supports consuming the **RegionContext** from a view inside a region if that view is a **DependencyObject**. If your view is not a **DependencyObject** (for example, you are using WPF automatic data templates and adding your view model directly in the region), consider creating a custom **RegionBehavior** to forward the **RegionContext** to your view objects.
-
-
->**Note: About the Data Context Property**<br />
-Data context is a concept that allows elements to inherit information from their parent elements about the data source that is used for binding. Child elements automatically inherit the **DataContext** of their parent element. The data flows down the visual tree.
+> 
+> 
+> **Note: About the Data Context Property**<br />
+> Data context is a concept that allows elements to inherit information from their parent elements about the data source that is used for binding. Child elements automatically inherit the **DataContext** of their parent element. The data flows down the visual tree.
 
 ## Shared Services
 
@@ -245,7 +245,7 @@ For example, the following code shows the **TickerSymbolSelectedEvent** in the S
 
 ### Publishing an Event
 
-Publishers raise an event by retrieving the event from the **EventAggregator** and****calling the **Publish** method. To access the **EventAggregator**, you can use dependency injection by adding a parameter of type **IEventAggregator** to the class constructor.****
+Publishers raise an event by retrieving the event from the **EventAggregator** and*<strong><em>calling the *</em>Publish</strong> method. To access the **EventAggregator**, you can use dependency injection by adding a parameter of type **IEventAggregator** to the class constructor.****
 
 The following code demonstrates publishing the **TickerSymbolSelectedEvent**.
 

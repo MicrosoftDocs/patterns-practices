@@ -20,16 +20,16 @@ ms:mtpsurl: 'subscriptiontoken-equals-method-mspp-pubsubevents.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Equals(Object)](/patterns-practices/reference/subscriptiontoken-equals-method-object-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/subscriptiontoken-equals-method-object-mspp-pubsubevents" data-raw-source="[Equals(Object)](/patterns-practices/reference/subscriptiontoken-equals-method-object-mspp-pubsubevents)">Equals(Object)</a></td>
 <td><div class="summary">
-Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
+Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" data-raw-source="[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" data-raw-source="[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)">Object</a>.
 </div>
-(Overrides [Object.Equals(Object)](http://msdn.microsoft.com/en-us/library/bsc2ak47).)</td>
+(Overrides <a href="http://msdn.microsoft.com/en-us/library/bsc2ak47" data-raw-source="[Object.Equals(Object)](http://msdn.microsoft.com/en-us/library/bsc2ak47)">Object.Equals(Object)</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Equals(SubscriptionToken)](/patterns-practices/reference/subscriptiontoken-equals-method-subscriptiontoken-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/subscriptiontoken-equals-method-subscriptiontoken-mspp-pubsubevents" data-raw-source="[Equals(SubscriptionToken)](/patterns-practices/reference/subscriptiontoken-equals-method-subscriptiontoken-mspp-pubsubevents)">Equals(SubscriptionToken)</a></td>
 <td><div class="summary">
 Indicates whether the current object is equal to another object of the same type.
 </div></td>

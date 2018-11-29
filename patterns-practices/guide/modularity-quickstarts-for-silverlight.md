@@ -11,25 +11,25 @@ From: [Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silv
 
 The QuickStarts included in this topic demonstrate how to code, discover, and initialize modules using Prism:
 
--   **Creating modules**. Modules are classes that implement the **IModule** interface. Declarative attributes can be used to name modules, control initialization, and define dependencies.
--   **Registering modules**. Modules can be registered in the following ways:
-    -   **Directly in code**. Modules can be directly registered in the module catalog in the application code. Using this approach, you can use conditional logic to determine which module should be included in your application. Modules added in code are referenced by the application instead of being loaded at run time.
-    -   **Using XAML**. Prism can register modules with the module catalog by loading an Extensible Application Markup Language (XAML) file. This is very similar to the configuration approach in the desktop scenarios. Declaring the modules in XAML allows the modules to be downloaded and initialized independent of the application XAP file.
--   **Registering module dependencies**. Modules can have dependencies on other modules. Prism provides dependencies management, including cyclic dependencies and duplicate module detection.
--   **Initializing modules**. There are two initialization modes supported in Prism. They are the following:
-    -   **When available**. Modules can be initialized as soon as they are available. Modules downloaded with the application are initialized during startup. Modules set to download in the background are initialized immediately after downloading completes.
-    -   **On-demand**. Modules can be initialized when the application code requests it. Modules downloaded in the background start downloading when the application requests the module, and then they initialize as soon as downloading completes.
--   **Downloading modules in the background**. Modules set to download in the background asynchronously download the associated XAP file and then load and initialize modules within the XAP. Prism prevents XAPs from being downloaded twice or multiple concurrent downloads of the same XAP. You can perform the following things when downloading modules in the background:
+- **Creating modules**. Modules are classes that implement the **IModule** interface. Declarative attributes can be used to name modules, control initialization, and define dependencies.
+- **Registering modules**. Modules can be registered in the following ways:
+  -   **Directly in code**. Modules can be directly registered in the module catalog in the application code. Using this approach, you can use conditional logic to determine which module should be included in your application. Modules added in code are referenced by the application instead of being loaded at run time.
+  -   **Using XAML**. Prism can register modules with the module catalog by loading an Extensible Application Markup Language (XAML) file. This is very similar to the configuration approach in the desktop scenarios. Declaring the modules in XAML allows the modules to be downloaded and initialized independent of the application XAP file.
+- **Registering module dependencies**. Modules can have dependencies on other modules. Prism provides dependencies management, including cyclic dependencies and duplicate module detection.
+- **Initializing modules**. There are two initialization modes supported in Prism. They are the following:
+  -   **When available**. Modules can be initialized as soon as they are available. Modules downloaded with the application are initialized during startup. Modules set to download in the background are initialized immediately after downloading completes.
+  -   **On-demand**. Modules can be initialized when the application code requests it. Modules downloaded in the background start downloading when the application requests the module, and then they initialize as soon as downloading completes.
+- **Downloading modules in the background**. Modules set to download in the background asynchronously download the associated XAP file and then load and initialize modules within the XAP. Prism prevents XAPs from being downloaded twice or multiple concurrent downloads of the same XAP. You can perform the following things when downloading modules in the background:
 
-    -   **Displaying progress**. An application can subscribe to a progress-changed event to display byte count and percentage progress as modules are downloaded.
-    -   **Action on download complete**. An application can subscribe to a load module–completed event to take additional action after a module loads and initializes.
+  -   **Displaying progress**. An application can subscribe to a progress-changed event to display byte count and percentage progress as modules are downloaded.
+  -   **Action on download complete**. An application can subscribe to a load module–completed event to take additional action after a module loads and initializes.
 
-    > [!NOTE]
-> Creating and populating a **ModuleCatalog** in XAML and downloading XAP files are two different concepts that can be used independently of each other. You can create and populate your **ModuleCatalog**, even if you do not download your modules. It is possible to add a **ModuleInfo** from code, instead of XAML, that indicates a module should be downloaded in a XAP file.
+  > [!NOTE]
+  > Creating and populating a **ModuleCatalog** in XAML and downloading XAP files are two different concepts that can be used independently of each other. You can create and populate your **ModuleCatalog**, even if you do not download your modules. It is possible to add a **ModuleInfo** from code, instead of XAML, that indicates a module should be downloaded in a XAP file.
 
--   **Leveraging different dependency injection containers**. Traditionally, QuickStarts have demonstrated using the Unity container, while the core library code remained container-agnostic. With the addition of Managed Extensibility Framework (MEF) to the .NET Framework 4, there are two QuickStarts, each of which uses a different container:
-    -   **ModularityWithMef**. This QuickStart demonstrates modularity when using the MEF as the dependency injection container. Prism leverages MEF's declarative attribute model to integrate the **ModuleCatalog** and MEF's **ComposablePartsCatalog**.
-    -   **ModularityWithUnity**. This QuickStart demonstrates modularity when using Unity as the dependency injection container.
+- **Leveraging different dependency injection containers**. Traditionally, QuickStarts have demonstrated using the Unity container, while the core library code remained container-agnostic. With the addition of Managed Extensibility Framework (MEF) to the .NET Framework 4, there are two QuickStarts, each of which uses a different container:
+  -   **ModularityWithMef**. This QuickStart demonstrates modularity when using the MEF as the dependency injection container. Prism leverages MEF's declarative attribute model to integrate the **ModuleCatalog** and MEF's **ComposablePartsCatalog**.
+  -   **ModularityWithUnity**. This QuickStart demonstrates modularity when using Unity as the dependency injection container.
 
 ## Scenarios
 
@@ -137,38 +137,38 @@ This QuickStart requires Microsoft Visual Studio 2010. The Silverlight version o
 
 To explore the scenario, perform the steps to build and run the QuickStart:
 
-1.  The main window shows a set of modules, each of which displays the module's initialization state. As the application starts, Module B and Module D start downloading, as shown in the following illustration.
+1. The main window shows a set of modules, each of which displays the module's initialization state. As the application starts, Module B and Module D start downloading, as shown in the following illustration.
 
-    ![](images/quickstart-silverlight-version-2.png "Main page of Modularity with MEF QuickStart – Silverlight version")
+   ![](images/quickstart-silverlight-version-2.png "Main page of Modularity with MEF QuickStart – Silverlight version")
 
-    Main page of Modularity with MEF QuickStart – Silverlight version
+   Main page of Modularity with MEF QuickStart – Silverlight version
 
-    Module B and D are initialized when they are available, and then they are downloaded in the background. The progress bars show each of these as they download. Module A is initialized when it is available, and it depends on Module D. Because Module D has not completed downloading, Module A is not yet initialized. The trace window at the bottom shows messages as the application is initialized.
+   Module B and D are initialized when they are available, and then they are downloaded in the background. The progress bars show each of these as they download. Module A is initialized when it is available, and it depends on Module D. Because Module D has not completed downloading, Module A is not yet initialized. The trace window at the bottom shows messages as the application is initialized.
 
-    > [!NOTE]
-> If no dependencies are specified, the module load order is non-deterministic.
+   > [!NOTE]
+   > If no dependencies are specified, the module load order is non-deterministic.
 
-2.  Hover over the Module A control. When the mouse hovers over the **Module A** control, a descriptive tooltip displays, as shown in the following illustration.
+2. Hover over the Module A control. When the mouse hovers over the **Module A** control, a descriptive tooltip displays, as shown in the following illustration.
 
-    ![](images/module-information-tooltip.png "Module information  tooltip")
+   ![](images/module-information-tooltip.png "Module information  tooltip")
 
-    Module information tooltip
+   Module information tooltip
 
-3.  As you hover the pointer over a module, a tooltip displays that shows information about its status, discovery, initialization, download timing, and dependencies.
-4.  Click the **Module C** control. As each module initialization state changes, the visual control is updated. When the **Module C** control is clicked, Module C loads, as shown in the following illustration.
+3. As you hover the pointer over a module, a tooltip displays that shows information about its status, discovery, initialization, download timing, and dependencies.
+4. Click the **Module C** control. As each module initialization state changes, the visual control is updated. When the **Module C** control is clicked, Module C loads, as shown in the following illustration.
 
-    ![](images/quickstart-silverlight-version-3.png "Screen shot of Module C loaded")
+   ![](images/quickstart-silverlight-version-3.png "Screen shot of Module C loaded")
 
-    Screen shot of Module C loaded
+   Screen shot of Module C loaded
 
-5.  Module B and Module D have downloaded and initialized. Module A also initialized right after its dependency, Module D, was initialized. Module C was clicked by the user. Because it was downloaded with the application, it is immediately initialized.
-6.  Click the **Module F** control. When the Module F control is clicked, Module E and Module F load, as shown in the following illustration.
+5. Module B and Module D have downloaded and initialized. Module A also initialized right after its dependency, Module D, was initialized. Module C was clicked by the user. Because it was downloaded with the application, it is immediately initialized.
+6. Click the **Module F** control. When the Module F control is clicked, Module E and Module F load, as shown in the following illustration.
 
-    ![](images/quickstart-silverlight-version-4.png "Screen shot of Module E getting loaded to load Module F")
+   ![](images/quickstart-silverlight-version-4.png "Screen shot of Module E getting loaded to load Module F")
 
-    Screen shot of Module E getting loaded to load Module F
+   Screen shot of Module E getting loaded to load Module F
 
-    Notice that Module F completes its download first, but it is not initialized until after Module E initializes because of the dependency. This QuickStart implements a delay download manager to simulate network latency when downloading some modules. In this case, Module E downloads much faster than Module F.
+   Notice that Module F completes its download first, but it is not initialized until after Module E initializes because of the dependency. This QuickStart implements a delay download manager to simulate network latency when downloading some modules. In this case, Module E downloads much faster than Module F.
 
 ## Implementation Details
 

@@ -19,19 +19,19 @@ ms:mtpsurl: 'canexecute-mthd.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[CanExecute()](/patterns-practices/reference/delegatecommand-canexecute-method-mspp-commands)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/delegatecommand-canexecute-method-mspp-commands" data-raw-source="[CanExecute()](/patterns-practices/reference/delegatecommand-canexecute-method-mspp-commands)">CanExecute()</a></td>
 <td><div class="summary">
 Determines if the command can be executed.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[CanExecute(Object)](/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
+<td><a href="/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands" data-raw-source="[CanExecute(Object)](/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands)">CanExecute(Object)</a></td>
 <td><div class="summary">
-Determines if the command can execute with the provided parameter by invoking the [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) supplied during construction.
+Determines if the command can execute with the provided parameter by invoking the <a href="http://msdn.microsoft.com/en-us/library/bb549151" data-raw-source="[Func&amp;lt;T, TResult&amp;gt;](http://msdn.microsoft.com/en-us/library/bb549151)">Func&lt;T, TResult&gt;</a> supplied during construction.
 </div>
-(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>
+(Inherited from <a href="/patterns-practices/reference/delegatecommandbase-class-mspp-commands" data-raw-source="[DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)">DelegateCommandBase</a>.)</td>
 </tr>
 </tbody>
 </table>

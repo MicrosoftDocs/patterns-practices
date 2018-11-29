@@ -23,7 +23,7 @@ Prism provides guidance designed to help you more easily design and build rich, 
 Prism is intended for software developers building WPF or Silverlight applications that typically feature multiple screens, rich user interaction and data visualization, and that embody significant presentation and business logic. These applications typically interact with a number of back-end systems and services and, using a layered architecture, may be physically deployed across multiple tiers. It is expected that the application will evolve significantly over its lifetime in response to new requirements and business opportunities. In short, these applications are "built to last" and "built for change." Applications that do not demand these characteristics may not benefit from using Prism.
 
 > [!NOTE]
-> Even single-person projects experience benefits in creating more testable and maintainable applications that can evolve over time using the modular approach**.**
+> Even single-person projects experience benefits in creating more testable and maintainable applications that can evolve over time using the modular approach<strong>.</strong>
 
 ## Architectural Goals
 
@@ -41,10 +41,10 @@ This guidance was designed to run on the Microsoft Windows 7, Windows Vista, or 
 
 Before you can use the Prism Library, the following must be installed:
 
--  Microsoft Visual Studio 2010 Professional, Premium, or Ultimate edition
--  Microsoft .NET Framework 4.0 (installed with Visual Studio 2010)
--  [Silverlight Tools for Visual Studio 2010](http://go.microsoft.com/fwlink/?linkid=177428) (required for Silverlight development; includes the developer Silverlight runtime)
--  Optional tools:
+- Microsoft Visual Studio 2010 Professional, Premium, or Ultimate edition
+- Microsoft .NET Framework 4.0 (installed with Visual Studio 2010)
+- [Silverlight Tools for Visual Studio 2010](http://go.microsoft.com/fwlink/?linkid=177428) (required for Silverlight development; includes the developer Silverlight runtime)
+- Optional tools:
   -  [Expression Blend 4](http://www.microsoft.com/expression/products/blend_overview.aspx)
   -  [Windows Phone Developer Tools SDK](http://go.microsoft.com/fwlink/?linkid=185968) (for development with the Windows Phone 7)
 
@@ -60,15 +60,15 @@ The following table contains Prism download links to help you get started with P
 <table>
 <td><p>Downloads</p></td>
 <td><p><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3453ab2b-2067-41e4-b087-312d8385cf1b">Prism 4</a></p>
-<p><a href="http://compositewpf.codeplex.com/releases/view/55580">Developer's Guide to Microsoft Prism in .pdf format</a></p>
-<p><a href="http://compositewpf.codeplex.com/releases/view/55580">Developer's Guide to Microsoft Prism in .chm format (Note: the .chm is also included in the Prism 4 download)</a></p>
+<p><a href="http://compositewpf.codeplex.com/releases/view/55580">Developer&#39;s Guide to Microsoft Prism in .pdf format</a></p>
+<p><a href="http://compositewpf.codeplex.com/releases/view/55580">Developer&#39;s Guide to Microsoft Prism in .chm format (Note: the .chm is also included in the Prism 4 download)</a></p>
 <p><a href="http://www.microsoft.com/downloads/details.aspx?familyid=bd727f0f-a52d-4503-b006-a91c375b9241">Visual Basic Prism 4 Reference Implementations, QuickStarts, and Hands-on Labs</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Getting Started</p></td>
 <td><p><a href="http://msdn.microsoft.com/en-us/library/gg405471(pandp.40).aspx">Prism Read Me</a> (includes installation instructions)</p>
 <p><a href="http://msdn.microsoft.com/en-us/library/ff921153(pandp.40).aspx">Introduction</a></p>
-<p><a href="http://msdn.microsoft.com/en-us/library/gg430871(pandp.40).aspx">What's New in Prism 4</a></p></td>
+<p><a href="http://msdn.microsoft.com/en-us/library/gg430871(pandp.40).aspx">What&#39;s New in Prism 4</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Upgrading</p></td>

@@ -29,8 +29,8 @@ Public Class ModuleInitializer
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Modularity.ModuleInitializer  
-    [Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer](/patterns-practices/reference/mefmoduleinitializer-class-mspp-mefextensions-modularity)
+  Microsoft.Practices.Prism.Modularity.ModuleInitializer  
+    [Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer](/patterns-practices/reference/mefmoduleinitializer-class-mspp-mefextensions-modularity)
 
 ## See Also
 

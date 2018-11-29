@@ -26,10 +26,10 @@ The [DefaultPrismServiceRegistrar](/patterns-practices/reference/defaultprismser
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[RegisterRequiredPrismServicesIfMissing](/patterns-practices/reference/defaultprismserviceregistrar-registerrequiredprismservicesifmissing-method-mspp-mefextensions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/defaultprismserviceregistrar-registerrequiredprismservicesifmissing-method-mspp-mefextensions" data-raw-source="[RegisterRequiredPrismServicesIfMissing](/patterns-practices/reference/defaultprismserviceregistrar-registerrequiredprismservicesifmissing-method-mspp-mefextensions)">RegisterRequiredPrismServicesIfMissing</a></td>
 <td><div class="summary">
-Registers the required Prism types that are not already registered in the [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165).
+Registers the required Prism types that are not already registered in the <a href="http://msdn.microsoft.com/en-us/library/dd833165" data-raw-source="[AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)">AggregateCatalog</a>.
 </div></td>
 </tr>
 </tbody>

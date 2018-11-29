@@ -21,19 +21,19 @@ ms:mtpsurl: 'navigationresult-constructor-mspp-regions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>NavigationResult(NavigationContext, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions
-) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/navigationresult-class-mspp-regions" data-raw-source="[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions
+)">NavigationResult</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>NavigationResult(NavigationContext, Nullable&lt;Boolean&gt;)</td>
 <td><div class="summary">
-Initializes a new instance of the [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions
-) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/navigationresult-class-mspp-regions" data-raw-source="[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions
+)">NavigationResult</a> class.
 </div></td>
 </tr>
 </tbody>

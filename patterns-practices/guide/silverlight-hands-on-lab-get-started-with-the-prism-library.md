@@ -146,69 +146,69 @@ The following procedure explains how to set up the application's bootstrapper.
 
 **To set up the application's bootstrapper**
 
-1.  Add a new class file named Bootstrapper.cs to the HelloWorld.Silverlight project.
-2.  Add the following **using** statements at the top of the file. You will use them to refer to elements referenced in the **UnityBootstrapper** class.
+1. Add a new class file named Bootstrapper.cs to the HelloWorld.Silverlight project.
+2. Add the following **using** statements at the top of the file. You will use them to refer to elements referenced in the **UnityBootstrapper** class.
 
-    ```C#
-            using Microsoft.Practices.Prism.Modularity;
-            using Microsoft.Practices.Prism.UnityExtensions;
-            using Microsoft.Practices.Unity;
-    ```
+   ```C#
+           using Microsoft.Practices.Prism.Modularity;
+           using Microsoft.Practices.Prism.UnityExtensions;
+           using Microsoft.Practices.Unity;
+   ```
 
-3.  Update the signature of the **Bootstrapper** class to inherit from the **UnityBootstrapper** class.
+3. Update the signature of the **Bootstrapper** class to inherit from the **UnityBootstrapper** class.
 
-    ```C#
-            class Bootstrapper : UnityBootstrapper
-            {
-            }
-    ```
-4.  Override the **CreateShell** method in the **Bootstrapper** class. In this method, create an instance of the shell window, and return it, as shown in the following code.
+   ```C#
+           class Bootstrapper : UnityBootstrapper
+           {
+           }
+   ```
+4. Override the **CreateShell** method in the **Bootstrapper** class. In this method, create an instance of the shell window, and return it, as shown in the following code.
 
-    ```C#
-            protected override DependencyObject CreateShell()
-            {
-                return Container.Resolve<Shell>();
-            }
-    ```
-> [!NOTE]
-> You return the shell object to have the **UnityBootstrapper** base class attach an instance of the region manager service to it. The region manager service is a service included in the Prism Library that manages regions in the application. By having a region manager instance attached to the shell window, you can declaratively register regions from XAML code that will exist in the scope of the shell window and child views.
+   ```C#
+           protected override DependencyObject CreateShell()
+           {
+               return Container.Resolve<Shell>();
+           }
+   ```
+   > [!NOTE]
+   > You return the shell object to have the **UnityBootstrapper** base class attach an instance of the region manager service to it. The region manager service is a service included in the Prism Library that manages regions in the application. By having a region manager instance attached to the shell window, you can declaratively register regions from XAML code that will exist in the scope of the shell window and child views.
 
-5.  Override the **InitializeShell** method in the **Bootstrapper** class. In this method, display the shell to the user.
+5. Override the **InitializeShell** method in the **Bootstrapper** class. In this method, display the shell to the user.
 
-    ```C#
-            protected override void InitializeShell()
-            {
-                base.InitializeShell();
-                Application.Current.RootVisual = (UIElement)this.Shell;
-            }
-    ```
+   ```C#
+           protected override void InitializeShell()
+           {
+               base.InitializeShell();
+               Application.Current.RootVisual = (UIElement)this.Shell;
+           }
+   ```
 
-6.  Override the **ConfigureModuleCatalog** method. In this template method, you populate the module catalog with modules. The module catalog interface is **Microsoft.Practices.Prism.Modularity.IModuleCatalog**, and it contains metadata for all the modules in the application. Because the application contains no modules at this point, the implementation of the **ConfigureModuleCatalog** method should simply call the base implementation and return. You can paste the following code in your **Bootstrapper** class to implement the method.
+6. Override the **ConfigureModuleCatalog** method. In this template method, you populate the module catalog with modules. The module catalog interface is **Microsoft.Practices.Prism.Modularity.IModuleCatalog**, and it contains metadata for all the modules in the application. Because the application contains no modules at this point, the implementation of the **ConfigureModuleCatalog** method should simply call the base implementation and return. You can paste the following code in your **Bootstrapper** class to implement the method.
 
-    ```C#
-            protected override void ConfigureModuleCatalog()
-            {
-                base.ConfigureModuleCatalog();
-            }
-    ```
+   ```C#
+           protected override void ConfigureModuleCatalog()
+           {
+               base.ConfigureModuleCatalog();
+           }
+   ```
 
-    For more information about module loading and module catalogs, see [Task 2: Adding a Module](#task2addingmodule) later in this topic.
+   For more information about module loading and module catalogs, see [Task 2: Adding a Module](#task2addingmodule) later in this topic.
 
-7.  Open the file App.xaml.cs, and then replace the **Application\_Startup** event handler with the following code to initialize the bootstrapper when the application starts.
+7. Open the file App.xaml.cs, and then replace the **Application\_Startup** event handler with the following code to initialize the bootstrapper when the application starts.
 
-    ```C#
-            private void Application_Startup(object sender, StartupEventArgs e)
-            {
-                Bootstrapper bootstrapper= new Bootstrapper();
-                bootstrapper.Run();
-            }
-    ```
+   ```C#
+           private void Application_Startup(object sender, StartupEventArgs e)
+           {
+               Bootstrapper bootstrapper= new Bootstrapper();
+               bootstrapper.Run();
+           }
+   ```
 
-8.  Build and run the application. You should see an empty Hello World window, as shown in the following illustration.
+8. Build and run the application. You should see an empty Hello World window, as shown in the following illustration.
 
-    ![](images/hello-world-window.png "Hello World window")
+   ![](images/hello-world-window.png "Hello World window")
 
-    Hello World window
+   Hello World window
 
 ## <a name="task2addingmodule"></a>Task 2: Adding a Module
 
@@ -283,44 +283,44 @@ The Prism Library provides several ways to populate the module catalog. In Silve
 
 **To populate the module catalog with the HelloWorld module from code**
 
-1.  In your shell project, add a reference to the module project. To do this in Solution Explorer, right-click the **HelloWorld.Silverlight** project, and then click **Add Reference**. In the **Add Reference** dialog box, click the **Projects** tab, click the **HelloWorldModule** project, and then click **OK**.
-2.  Open the Bootstrapper.cs file and explore the **ConfigureModuleCatalog** method. The method implementation is shown in the following code.
+1. In your shell project, add a reference to the module project. To do this in Solution Explorer, right-click the **HelloWorld.Silverlight** project, and then click **Add Reference**. In the **Add Reference** dialog box, click the **Projects** tab, click the **HelloWorldModule** project, and then click **OK**.
+2. Open the Bootstrapper.cs file and explore the **ConfigureModuleCatalog** method. The method implementation is shown in the following code.
 
-    ```C#
-            protected override void ConfigureModuleCatalog()
-            {
-                base.ConfigureModuleCatalog();
-            }
-    ```
+   ```C#
+           protected override void ConfigureModuleCatalog()
+           {
+               base.ConfigureModuleCatalog();
+           }
+   ```
 
-    The **ModuleCatalog** class is used to define the application's modules from code—it implements the methods included in the **IModuleCatalog** interface and adds an **AddModule** method for developers to manually register modules that should be loaded in the application. The signature of this method is shown in the following code.
+   The **ModuleCatalog** class is used to define the application's modules from code—it implements the methods included in the **IModuleCatalog** interface and adds an **AddModule** method for developers to manually register modules that should be loaded in the application. The signature of this method is shown in the following code.
 
-    ```C#	
-            public ModuleCatalog AddModule(Type moduleType, InitializationMode initializationMode, params string[] dependsOn)
-    ```
+   ```C#   
+           public ModuleCatalog AddModule(Type moduleType, InitializationMode initializationMode, params string[] dependsOn)
+   ```
 
-    The **AddModule** method returns the same module catalog instance and takes the following parameters:
+   The **AddModule** method returns the same module catalog instance and takes the following parameters:
 
-    -   **The module initializer class's type of module to load**. This type must implement the **IModule** interface.
-    -   **The Initialization mode**. This parameter indicates how the module will be initialized. The possible values are **InitializationMode.WhenAvailable** and **InitializationMode.OnDemand**.
-    -   **An array containing the names of the modules that the module depends on, if any**. These modules will be loaded before your module to ensure your module dependencies are available when it is loaded.
+   -   **The module initializer class's type of module to load**. This type must implement the **IModule** interface.
+   -   **The Initialization mode**. This parameter indicates how the module will be initialized. The possible values are **InitializationMode.WhenAvailable** and **InitializationMode.OnDemand**.
+   -   **An array containing the names of the modules that the module depends on, if any**. These modules will be loaded before your module to ensure your module dependencies are available when it is loaded.
 
-3.  Update the **ConfigureModuleCatalog** method to register the **HelloWorldModule** module with the module catalog instance. To do this, you can replace the **ConfigureModuleCatalog** implementation with the following code.
+3. Update the **ConfigureModuleCatalog** method to register the **HelloWorldModule** module with the module catalog instance. To do this, you can replace the **ConfigureModuleCatalog** implementation with the following code.
 
-    ```C#
-            protected override void ConfigureModuleCatalog()
-            {
-                base.ConfigureModuleCatalog();
+   ```C#
+           protected override void ConfigureModuleCatalog()
+           {
+               base.ConfigureModuleCatalog();
 
-                ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
-                moduleCatalog.AddModule(typeof(HelloWorldModule.HelloWorldModule));
-            }
-    ```
+               ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
+               moduleCatalog.AddModule(typeof(HelloWorldModule.HelloWorldModule));
+           }
+   ```
 
-    > [!NOTE]
-> In this example, the modules are directly referenced by the shell. That is why this example is able to use **typeof(Module)** to add modules to the catalog. But keep in mind that modules whose type is not already available can also be added to the catalog.<br />The **WhenAvailable** initialization mode is the default value if no initialization mode is specified.
+   > [!NOTE]
+   > In this example, the modules are directly referenced by the shell. That is why this example is able to use **typeof(Module)** to add modules to the catalog. But keep in mind that modules whose type is not already available can also be added to the catalog.<br />The **WhenAvailable** initialization mode is the default value if no initialization mode is specified.
 
-4.  Build and run the solution. To verify that the **HelloWorldModule** module gets initialized, add a breakpoint to the **Initialize** method of the **HelloWorldModule** class. The breakpoint should be hit when the application starts.
+4. Build and run the solution. To verify that the **HelloWorldModule** module gets initialized, add a breakpoint to the **Initialize** method of the **HelloWorldModule** class. The breakpoint should be hit when the application starts.
 
 ## Task 3: Adding a View
 
@@ -357,49 +357,49 @@ The region manager service is responsible for maintaining a collection of region
 
 **To show the view in the shell**
 
-1.  Open the HelloWorldModule.cs file.
-2.  Add the following **using** statement to the top of the file. You will use it to refer to the region elements in the Prism Library.
+1. Open the HelloWorldModule.cs file.
+2. Add the following **using** statement to the top of the file. You will use it to refer to the region elements in the Prism Library.
 
-    ```C#
-            using Microsoft.Practices.Prism.Regions;
-    ```
+   ```C#
+           using Microsoft.Practices.Prism.Regions;
+   ```
 
-3.  Create a private read-only instance variable to hold a reference to the region manager. To do this, paste the following code inside the class body.
+3. Create a private read-only instance variable to hold a reference to the region manager. To do this, paste the following code inside the class body.
 
-    ```C#
-            private readonly IRegionManager regionManager;
-    ```
+   ```C#
+           private readonly IRegionManager regionManager;
+   ```
 
-4.  Add the constructor of the **HelloWorldModule** class to obtain a region manager instance through constructor dependency injection and store it in the **regionManager** instance variable. To do this, the constructor has to take a parameter of type **Microsoft.Practices.Prism.Regions.IRegionManager**. You can paste the following code inside the class body to implement the constructor.
+4. Add the constructor of the **HelloWorldModule** class to obtain a region manager instance through constructor dependency injection and store it in the **regionManager** instance variable. To do this, the constructor has to take a parameter of type **Microsoft.Practices.Prism.Regions.IRegionManager**. You can paste the following code inside the class body to implement the constructor.
 
-    ```C#
-            public HelloWorldModule(IRegionManager regionManager)
-            {
-            this.regionManager = regionManager;
-            }
-    ```
+   ```C#
+           public HelloWorldModule(IRegionManager regionManager)
+           {
+           this.regionManager = regionManager;
+           }
+   ```
 
-5.  In the **Initialize** method, invoke the **RegisterViewWithRegion** method on the **RegionManager** instance. This method registers a region name with its associated view type in the region view registry; the registry is responsible for registering and retrieving these mappings.
+5. In the **Initialize** method, invoke the **RegisterViewWithRegion** method on the **RegionManager** instance. This method registers a region name with its associated view type in the region view registry; the registry is responsible for registering and retrieving these mappings.
 
-    The **RegisterViewWithRegion** method has two overloads. When you want to register a view directly, you use the first overload that requires two parameters, the region name and the type of the view. This is shown in the following code.
+   The **RegisterViewWithRegion** method has two overloads. When you want to register a view directly, you use the first overload that requires two parameters, the region name and the type of the view. This is shown in the following code.
 
-    ```C#
-            public void Initialize()
-            {
-                regionManager.RegisterViewWithRegion("MainRegion", typeof(Views.HelloWorldView));
-            }
-    ```
+   ```C#
+           public void Initialize()
+           {
+               regionManager.RegisterViewWithRegion("MainRegion", typeof(Views.HelloWorldView));
+           }
+   ```
 
-    The UI composition approach used in the preceding code is known as view discovery. When using this approach, you specify the views and the region where the views will be loaded. When a region is created, it asks for its associated views and automatically loads them.
+   The UI composition approach used in the preceding code is known as view discovery. When using this approach, you specify the views and the region where the views will be loaded. When a region is created, it asks for its associated views and automatically loads them.
 
-    > [!NOTE]
-> The region's name must match the name defined in the **RegionName** attribute of the region.
+   > [!NOTE]
+   > The region's name must match the name defined in the **RegionName** attribute of the region.
 
-6.  Build and run the application. You should see the Hello World window with a "Hello World" message, as shown in the following illustration.
+6. Build and run the application. You should see the Hello World window with a "Hello World" message, as shown in the following illustration.
 
-    ![](images/hello-world-message.png "Hello World message")
+   ![](images/hello-world-message.png "Hello World message")
 
-    Hello World message
+   Hello World message
 
 > [!NOTE]
 > To open the solution that results from performing the steps in this Hands-on Lab in Visual Studio, run the file Silverlight only - Open QS - Hello World QuickStart.

@@ -23,12 +23,12 @@ The [NavigationParameters](/patterns-practices/reference/navigationparameters-cl
 <tbody>
 <tr class="odd">
 
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
 
-<td>[Item](/patterns-practices/reference/navigationparameters-item-property-mspp-regions
-)</td>
+<td><a href="/patterns-practices/reference/navigationparameters-item-property-mspp-regions" data-raw-source="[Item](/patterns-practices/reference/navigationparameters-item-property-mspp-regions
+)">Item</a></td>
 <td><div class="summary">
-Gets the [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) with the specified key.
+Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf" data-raw-source="[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)">String</a> with the specified key.
 </div></td>
 </tr>
 </tbody>

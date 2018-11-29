@@ -27,9 +27,9 @@ Public Class ModuleDownloadProgressChangedEventArgs Inherits ProgressChangedEven
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)  
-    [System.ComponentModel.ProgressChangedEventArgs](http://msdn.microsoft.com/en-us/library/0tat795f)  
-      Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs
+  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)  
+    [System.ComponentModel.ProgressChangedEventArgs](http://msdn.microsoft.com/en-us/library/0tat795f)  
+      Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs
 
 ## See Also
 

@@ -23,34 +23,34 @@ The [ModuleAttribute](/patterns-practices/reference/moduleattribute-class-mspp-m
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ModuleName](/patterns-practices/reference/moduleattribute-modulename-property-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/moduleattribute-modulename-property-mspp-modularity" data-raw-source="[ModuleName](/patterns-practices/reference/moduleattribute-modulename-property-mspp-modularity)">ModuleName</a></td>
 <td><div class="summary">
 Gets or sets the name of the module.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[OnDemand](/patterns-practices/reference/moduleattribute-ondemand-property-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/moduleattribute-ondemand-property-mspp-modularity" data-raw-source="[OnDemand](/patterns-practices/reference/moduleattribute-ondemand-property-mspp-modularity)">OnDemand</a></td>
 <td><div class="summary">
 Gets or sets the value indicating whether the module should be loaded OnDemand.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[StartupLoaded](/patterns-practices/reference/moduleattribute-startuploaded-property-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/moduleattribute-startuploaded-property-mspp-modularity" data-raw-source="[StartupLoaded](/patterns-practices/reference/moduleattribute-startuploaded-property-mspp-modularity)">StartupLoaded</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
 Gets or sets a value indicating whether the module should be loaded at startup.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[TypeId](http://msdn.microsoft.com/en-us/library/sa1bf03e)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/sa1bf03e" data-raw-source="[TypeId](http://msdn.microsoft.com/en-us/library/sa1bf03e)">TypeId</a></td>
 <td><div class="summary">
-When implemented in a derived class, gets a unique identifier for this [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).
+When implemented in a derived class, gets a unique identifier for this <a href="http://msdn.microsoft.com/en-us/library/e8kc3626" data-raw-source="[Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)">Attribute</a>.
 </div>
-(Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626" data-raw-source="[Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)">Attribute</a>.)</td>
 </tr>
 </tbody>
 </table>

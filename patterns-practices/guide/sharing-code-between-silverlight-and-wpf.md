@@ -38,14 +38,14 @@ Service-oriented applications are easier to multi-target because Silverlight is 
 
 By making your solution multi-targetable, you should also consider the following:
 
--   Silverlight offers limited storage on the local client computer in isolated storage.
--   You may lose simplicity and readability of code in your multi-targetable solution. Because some features of WPF are not available in Silverlight, you will need to work around these issues and your code may not be as elegant or readable.
--   By default, Silverlight applications execute in a secure sandbox, so there are a several things that you cannot do outside of the sandbox context. These applications have restricted access to the local computer and are constrained to help prevent malicious behavior. These restrictions prevent access to devices and interacting with other running programs.
+- Silverlight offers limited storage on the local client computer in isolated storage.
+- You may lose simplicity and readability of code in your multi-targetable solution. Because some features of WPF are not available in Silverlight, you will need to work around these issues and your code may not be as elegant or readable.
+- By default, Silverlight applications execute in a secure sandbox, so there are a several things that you cannot do outside of the sandbox context. These applications have restricted access to the local computer and are constrained to help prevent malicious behavior. These restrictions prevent access to devices and interacting with other running programs.
 
-    > [!NOTE]
-> If you need access to some of these items, you can create an out-of-browser Silverlight application with elevated trust. For more information, see "[Trusted Applications](http://msdn.microsoft.com/en-us/library/ee721083(vs.95).aspx)" on MSDN.
+  > [!NOTE]
+  > If you need access to some of these items, you can create an out-of-browser Silverlight application with elevated trust. For more information, see "[Trusted Applications](http://msdn.microsoft.com/en-us/library/ee721083(vs.95).aspx)" on MSDN.
 
--   Silverlight supports only asynchronous communications, so you cannot multi-target applications that use synchronous communications.
+- Silverlight supports only asynchronous communications, so you cannot multi-target applications that use synchronous communications.
 
 ## <a name="MultiTargetedElements"></a>Multi-Targeted Elements
 

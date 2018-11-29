@@ -24,8 +24,8 @@ The [IModuleInitializer](/patterns-practices/reference/imoduleinitializer-interf
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Initialize](/patterns-practices/reference/imoduleinitializer-initialize-method-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/imoduleinitializer-initialize-method-mspp-modularity" data-raw-source="[Initialize](/patterns-practices/reference/imoduleinitializer-initialize-method-mspp-modularity)">Initialize</a></td>
 <td><div class="summary">
 Initializes the specified module.
 </div></td>

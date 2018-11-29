@@ -116,10 +116,10 @@ The **RegionViewRegistry** class in the Prism Library is responsible of register
 
 The **RegisterViewWithRegion** method of the Prism Library's **RegionViewRegistry** class is used to register the region name with its associated view in the registry. There are two ways to access this method:
 
--   From the **RegionViewRegistry** directly.
--   From a **RegionManager** instance, because this is an extension method of that class for easy access.
-    > [!NOTE]
-> This extension method is on the <strong>RegionManager</strong> for easy access, but it does not register the view with that instance of the region manager only. When a region with the specified name is created, regardless of which scoped region manager is registered, the view will be pulled into it.
+- From the **RegionViewRegistry** directly.
+- From a **RegionManager** instance, because this is an extension method of that class for easy access.
+  > [!NOTE]
+  > This extension method is on the <strong>RegionManager</strong> for easy access, but it does not register the view with that instance of the region manager only. When a region with the specified name is created, regardless of which scoped region manager is registered, the view will be pulled into it.
 
 The **RegisterViewWithRegion** method has two overloads:
 

@@ -20,9 +20,9 @@ public class SelectorRegionAdapter : RegionAdapterBase<Selector>
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)&lt;[Selector](http://msdn.microsoft.com/en-us/library/ms595227)&gt;  
-    Microsoft.Practices.Prism.Regions.SelectorRegionAdapter  
-      [Microsoft-Practices-Prism-MefExtensions-Regions-MefSelectorRegionAdapter](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)
+  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)&lt;[Selector](http://msdn.microsoft.com/en-us/library/ms595227)&gt;  
+    Microsoft.Practices.Prism.Regions.SelectorRegionAdapter  
+      [Microsoft-Practices-Prism-MefExtensions-Regions-MefSelectorRegionAdapter](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)
 
 ```VB
 'Declaration
@@ -33,9 +33,9 @@ Public Class SelectorRegionAdapter
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)(Of [Selector](http://msdn.microsoft.com/en-us/library/ms595227))  
-    Microsoft.Practices.Prism.Regions.SelectorRegionAdapter  
-      [Microsoft-Practices-Prism-MefExtensions-Regions-MefSelectorRegionAdapter](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)
+  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)(Of [Selector](http://msdn.microsoft.com/en-us/library/ms595227))  
+    Microsoft.Practices.Prism.Regions.SelectorRegionAdapter  
+      [Microsoft-Practices-Prism-MefExtensions-Regions-MefSelectorRegionAdapter](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)
 
 ## See Also
 

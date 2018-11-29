@@ -48,7 +48,7 @@ The resulting ordered list of modules.
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)</td>
+<td><a href="/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity" data-raw-source="[Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)">Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException</a></td>
 <td>This exception is thrown when a cycle is found in the defined depedency graph.</td>
 </tr>
 </tbody>

@@ -27,7 +27,7 @@ Public Class EmptyLogger
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Logging.EmptyLogger
+  Microsoft.Practices.Prism.Logging.EmptyLogger
 
 ## See Also
 

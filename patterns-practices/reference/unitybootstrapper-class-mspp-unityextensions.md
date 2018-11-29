@@ -30,8 +30,8 @@ Public MustInherit Class UnityBootstrapper
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft-Practices-Prism-Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp)  
-    Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper
+  [Microsoft-Practices-Prism-Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp)  
+    Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper
 
 ## See Also
 

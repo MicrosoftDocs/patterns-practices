@@ -21,9 +21,9 @@ public class ContentControlRegionAdapter : RegionAdapterBase<ContentControl>
 ### Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)&lt;[ContentControl](http://msdn.microsoft.com/en-us/library/ms609797)&gt;  
-    Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter  
-      [Microsoft-Practices-Prism-MefExtensions-Regions-MefContentControlRegionAdapter](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions)  
+  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)&lt;[ContentControl](http://msdn.microsoft.com/en-us/library/ms609797)&gt;  
+    Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter  
+      [Microsoft-Practices-Prism-MefExtensions-Regions-MefContentControlRegionAdapter](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions)  
 
 ```VB
 'Declaration
@@ -34,9 +34,9 @@ Public Class ContentControlRegionAdapter
 ### Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)(Of [ContentControl](http://msdn.microsoft.com/en-us/library/ms609797))  
-    Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter  
-      [Microsoft-Practices-Prism-MefExtensions-Regions-MefContentControlRegionAdapter](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions)
+  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)(Of [ContentControl](http://msdn.microsoft.com/en-us/library/ms609797))  
+    Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter  
+      [Microsoft-Practices-Prism-MefExtensions-Regions-MefContentControlRegionAdapter](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions)
 
 ## See Also
 

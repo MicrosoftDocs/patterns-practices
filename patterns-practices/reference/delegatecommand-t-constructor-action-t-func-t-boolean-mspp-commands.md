@@ -44,8 +44,8 @@ Delegate to execute when CanExecute is called on the command. This can be null.
 </thead>
 <tbody>
 <tr class="odd">
-<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
-<td>When both *executeMethod* and *canExecuteMethod* ar **null**a null reference (**Nothing** in Visual Basic).</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">System.ArgumentNullException</a></td>
+<td>When both <em>executeMethod</em> and <em>canExecuteMethod</em> ar <strong>null</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
 </tr>
 </tbody>
 </table>
@@ -96,8 +96,8 @@ Delegate to execute when CanExecute is called on the command. This can be null.
 </thead>
 <tbody>
 <tr class="odd">
-<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
-<td>When both *executeMethod* and *canExecuteMethod* ar **Nothing**a null reference (**Nothing** in Visual Basic).</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">System.ArgumentNullException</a></td>
+<td>When both <em>executeMethod</em> and <em>canExecuteMethod</em> ar <strong>Nothing</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
 </tr>
 </tbody>
 </table>

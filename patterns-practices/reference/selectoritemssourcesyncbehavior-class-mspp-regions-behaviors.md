@@ -34,9 +34,9 @@ Public Class SelectorItemsSourceSyncBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/mspp-regions-behaviors-namespace)  
-    Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior  
-      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors)
+  [Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/mspp-regions-behaviors-namespace)  
+    Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior  
+      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors)
 
 ## See Also
 

@@ -20,20 +20,20 @@ ms:mtpsurl: 'unitybootstrapper-run-method-boolean-mspp-unityextensions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Run()](/patterns-practices/reference/run-mthd)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/run-mthd" data-raw-source="[Run()](/patterns-practices/reference/run-mthd)">Run()</a></td>
 <td><div class="summary">
 Runs the bootstrapper process.
 </div>
-(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
+(Inherited from <a href="/patterns-practices/reference/bootstrapper-class-mspp" data-raw-source="[Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp)">Bootstrapper</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Run(Boolean)](/patterns-practices/reference/unitybootstrapper-run-method-boolean-mspp-unityextensions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/unitybootstrapper-run-method-boolean-mspp-unityextensions" data-raw-source="[Run(Boolean)](/patterns-practices/reference/unitybootstrapper-run-method-boolean-mspp-unityextensions)">Run(Boolean)</a></td>
 <td><div class="summary">
 Run the bootstrapper process.
 </div>
-(Overrides [Bootstrapper.Run(Boolean)](/patterns-practices/reference/bootstrapper-run-method-boolean-mspp).)</td>
+(Overrides <a href="/patterns-practices/reference/bootstrapper-run-method-boolean-mspp" data-raw-source="[Bootstrapper.Run(Boolean)](/patterns-practices/reference/bootstrapper-run-method-boolean-mspp)">Bootstrapper.Run(Boolean)</a>.)</td>
 </tr>
 </tbody>
 </table>

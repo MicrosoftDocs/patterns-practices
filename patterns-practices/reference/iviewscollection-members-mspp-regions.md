@@ -24,27 +24,27 @@ The [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Contains](/patterns-practices/reference/iviewscollection-contains-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iviewscollection-contains-method-mspp-regions" data-raw-source="[Contains](/patterns-practices/reference/iviewscollection-contains-method-mspp-regions)">Contains</a></td>
 <td><div class="summary">
 Determines whether the collection contains a specific value.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEnumerator()](http://msdn.microsoft.com/en-us/library/s793z9y2)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/s793z9y2" data-raw-source="[GetEnumerator()](http://msdn.microsoft.com/en-us/library/s793z9y2)">GetEnumerator()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div>
-(Inherited from [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0" data-raw-source="[IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)">IEnumerable</a>&lt;<a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" data-raw-source="[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)">Object</a>&gt;.)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEnumerator()](http://msdn.microsoft.com/en-us/library/5zae5365)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/5zae5365" data-raw-source="[GetEnumerator()](http://msdn.microsoft.com/en-us/library/5zae5365)">GetEnumerator()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through a collection.
 </div>
-(Inherited from [IEnumerable](http://msdn.microsoft.com/en-us/library/h1x9x1b1).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/h1x9x1b1" data-raw-source="[IEnumerable](http://msdn.microsoft.com/en-us/library/h1x9x1b1)">IEnumerable</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -63,12 +63,12 @@ Returns an enumerator that iterates through a collection.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[CollectionChanged](http://msdn.microsoft.com/en-us/library/ms653382)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms653382" data-raw-source="[CollectionChanged](http://msdn.microsoft.com/en-us/library/ms653382)">CollectionChanged</a></td>
 <td><div class="summary">
 Occurs when the collection changes.
 </div>
-(Inherited from [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms668629" data-raw-source="[INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629)">INotifyCollectionChanged</a>.)</td>
 </tr>
 </tbody>
 </table>

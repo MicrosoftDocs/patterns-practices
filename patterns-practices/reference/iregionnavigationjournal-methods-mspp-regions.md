@@ -24,29 +24,29 @@ The [IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjo
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Clear](/patterns-practices/reference/iregionnavigationjournal-clear-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationjournal-clear-method-mspp-regions" data-raw-source="[Clear](/patterns-practices/reference/iregionnavigationjournal-clear-method-mspp-regions)">Clear</a></td>
 <td><div class="summary">
 Clears the journal of current, back, and forward navigation histories.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GoBack](/patterns-practices/reference/iregionnavigationjournal-goback-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationjournal-goback-method-mspp-regions" data-raw-source="[GoBack](/patterns-practices/reference/iregionnavigationjournal-goback-method-mspp-regions)">GoBack</a></td>
 <td><div class="summary">
 Navigates to the most recent entry in the back navigation history, or does nothing if no entry exists in back navigation.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GoForward](/patterns-practices/reference/iregionnavigationjournal-goforward-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationjournal-goforward-method-mspp-regions" data-raw-source="[GoForward](/patterns-practices/reference/iregionnavigationjournal-goforward-method-mspp-regions)">GoForward</a></td>
 <td><div class="summary">
 Navigates to the most recent entry in the forward navigation history, or does nothing if no entry exists in forward navigation.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RecordNavigation](/patterns-practices/reference/iregionnavigationjournal-recordnavigation-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationjournal-recordnavigation-method-mspp-regions" data-raw-source="[RecordNavigation](/patterns-practices/reference/iregionnavigationjournal-recordnavigation-method-mspp-regions)">RecordNavigation</a></td>
 <td><div class="summary">
 Records the navigation to the entry..
 </div></td>

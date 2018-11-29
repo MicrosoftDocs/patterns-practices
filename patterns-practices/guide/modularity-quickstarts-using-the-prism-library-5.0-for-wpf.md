@@ -136,39 +136,39 @@ xcopy &quot;$(TargetDir)*.*&quot; &quot;$(SolutionDir)ConfigurationModularity\bi
 
 To explore the scenario, perform the steps to build and run the QuickStart:
 
-1.  The main window shows a set of modules, each of which displays the module's initialization state, as shown in the following illustration. As the application starts, Module D and Module A are discovered and initialized.
+1. The main window shows a set of modules, each of which displays the module's initialization state, as shown in the following illustration. As the application starts, Module D and Module A are discovered and initialized.
 
-    ![](images/modularity-quickstart.png "Main page of Modularity with MEF QuickStart")
+   ![](images/modularity-quickstart.png "Main page of Modularity with MEF QuickStart")
 
-    Main page of Modularity with MEF QuickStart
+   Main page of Modularity with MEF QuickStart
 
-    Module D is discovered by directory inspection at application startup. Module A is initialized when it is available and depends on Module D. After Module D loads, Module A is initialized. The trace window at the bottom shows messages as the application is initialized.
+   Module D is discovered by directory inspection at application startup. Module A is initialized when it is available and depends on Module D. After Module D loads, Module A is initialized. The trace window at the bottom shows messages as the application is initialized.
 
-    > [!NOTE]
-> If no dependencies are specified, the module load order is non-deterministic.
+   > [!NOTE]
+   > If no dependencies are specified, the module load order is non-deterministic.
 
-2.  Hover over the **Module A** control. When the mouse hovers over the **Module A** control, a descriptive tooltip is displayed, as shown in the following illustration.
+2. Hover over the **Module A** control. When the mouse hovers over the **Module A** control, a descriptive tooltip is displayed, as shown in the following illustration.
 
-    ![](images/module-information-tooltip.png "Module Information tooltip")
+   ![](images/module-information-tooltip.png "Module Information tooltip")
 
-    Module Information tooltip
+   Module Information tooltip
 
-3.  As you hover the pointer over a module, a tooltip displays that shows information about its status, discovery, initialization, download timing, and dependencies.
-4.  Click the **Module B** and **Module C** controls. As each module initialization state changes, the visual control is updated. When either the **Module B** control or the **Module C** control is clicked, that module gets loaded, as shown in the following illustration.
+3. As you hover the pointer over a module, a tooltip displays that shows information about its status, discovery, initialization, download timing, and dependencies.
+4. Click the **Module B** and **Module C** controls. As each module initialization state changes, the visual control is updated. When either the **Module B** control or the **Module C** control is clicked, that module gets loaded, as shown in the following illustration.
 
-    ![](images/screen-shot-of-module-loaded.png "Screen shot of module loaded")
+   ![](images/screen-shot-of-module-loaded.png "Screen shot of module loaded")
 
-    Screen shot of module loaded
+   Screen shot of module loaded
 
-    Module B is discovered by directory inspection, and Module C is referenced by the application. Both modules are loaded on demand.
+   Module B is discovered by directory inspection, and Module C is referenced by the application. Both modules are loaded on demand.
 
-5.  Click the **Module F** control. When the **Module F** control is clicked, Module E and Module F get loaded, as shown in the following illustration.
+5. Click the **Module F** control. When the **Module F** control is clicked, Module E and Module F get loaded, as shown in the following illustration.
 
-    ![](images/screen-shot-of-module-e-getting-loaded-to-load-module-f.png "Screen shot of Module E getting loaded to load Module F")
+   ![](images/screen-shot-of-module-e-getting-loaded-to-load-module-f.png "Screen shot of Module E getting loaded to load Module F")
 
-    Screen shot of Module E getting loaded to load Module F
+   Screen shot of Module E getting loaded to load Module F
 
-    Notice that Module F completes its initialization first, but is not initialized until after Module E initializes because of the dependency.
+   Notice that Module F completes its initialization first, but is not initialized until after Module E initializes because of the dependency.
 
 ## Implementation Details
 

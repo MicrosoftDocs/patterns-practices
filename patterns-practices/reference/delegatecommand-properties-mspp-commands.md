@@ -23,12 +23,12 @@ The [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-c
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[IsActive](/patterns-practices/reference/delegatecommandbase-isactive-property-mspp-commands)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/delegatecommandbase-isactive-property-mspp-commands" data-raw-source="[IsActive](/patterns-practices/reference/delegatecommandbase-isactive-property-mspp-commands)">IsActive</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the object is active.
 </div>
-(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>
+(Inherited from <a href="/patterns-practices/reference/delegatecommandbase-class-mspp-commands" data-raw-source="[DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)">DelegateCommandBase</a>.)</td>
 </tr>
 </tbody>
 </table>

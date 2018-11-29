@@ -21,44 +21,44 @@ The [ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/modul
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[BytesReceived](/patterns-practices/reference/moduledownloadprogresschangedeventargs-bytesreceived-property-mspp-modularity
-)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-bytesreceived-property-mspp-modularity" data-raw-source="[BytesReceived](/patterns-practices/reference/moduledownloadprogresschangedeventargs-bytesreceived-property-mspp-modularity
+)">BytesReceived</a></td>
 <td><div class="summary">
 Gets the bytes received.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ModuleInfo](/patterns-practices/reference/moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity" data-raw-source="[ModuleInfo](/patterns-practices/reference/moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity)">ModuleInfo</a></td>
 <td><div class="summary">
 Getsthe module info.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ProgressPercentage](/patterns-practices/reference/moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity
-)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity" data-raw-source="[ProgressPercentage](/patterns-practices/reference/moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity
+)">ProgressPercentage</a></td>
 <td><div class="summary">
 Gets the asynchronous task progress percentage.
 </div>
-(Inherited from [ProgressChangedEventArgs](http://msdn.microsoft.com/en-us/library/0tat795f).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/0tat795f" data-raw-source="[ProgressChangedEventArgs](http://msdn.microsoft.com/en-us/library/0tat795f)">ProgressChangedEventArgs</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[TotalBytesToReceive](/patterns-practices/reference/moduledownloadprogresschangedeventargs-totalbytestoreceive-property-mspp-modularity
-)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-totalbytestoreceive-property-mspp-modularity" data-raw-source="[TotalBytesToReceive](/patterns-practices/reference/moduledownloadprogresschangedeventargs-totalbytestoreceive-property-mspp-modularity
+)">TotalBytesToReceive</a></td>
 <td><div class="summary">
 Gets the total bytes to receive.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[UserState](http://msdn.microsoft.com/en-us/library/w2bh9809)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/w2bh9809" data-raw-source="[UserState](http://msdn.microsoft.com/en-us/library/w2bh9809)">UserState</a></td>
 <td><div class="summary">
 Gets a unique user state.
 </div>
-(Inherited from [ProgressChangedEventArgs](http://msdn.microsoft.com/en-us/library/0tat795f).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/0tat795f" data-raw-source="[ProgressChangedEventArgs](http://msdn.microsoft.com/en-us/library/0tat795f)">ProgressChangedEventArgs</a>.)</td>
 </tr>
 </tbody>
 </table>

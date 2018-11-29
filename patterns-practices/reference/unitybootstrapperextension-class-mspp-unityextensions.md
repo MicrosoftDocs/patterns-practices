@@ -26,8 +26,8 @@ Public Class UnityBootstrapperExtension
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  UnityContainerExtension  
-    Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension
+  UnityContainerExtension  
+    Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension
 
 ## See Also
 

@@ -22,8 +22,8 @@ The [IRegionViewRegistry](/patterns-practices/reference/iregionviewregistry-inte
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[ContentRegistered](/patterns-practices/reference/iregionviewregistry-contentregistered-event-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/iregionviewregistry-contentregistered-event-mspp-regions" data-raw-source="[ContentRegistered](/patterns-practices/reference/iregionviewregistry-contentregistered-event-mspp-regions)">ContentRegistered</a></td>
 <td><div class="summary">
 Event triggered when a content is registered to a region name.
 </div></td>

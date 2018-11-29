@@ -20,31 +20,31 @@ ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ViewRegistrationException()</td>
 <td><div class="summary">
-Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/viewregistrationexception-class-mspp-regions" data-raw-source="[ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)">ViewRegistrationException</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ViewRegistrationException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/viewregistrationexception-class-mspp-regions" data-raw-source="[ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)">ViewRegistrationException</a> class.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
 <td>ViewRegistrationException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
-Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class with serialized data.
+Initializes a new instance of the <a href="/patterns-practices/reference/viewregistrationexception-class-mspp-regions" data-raw-source="[ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)">ViewRegistrationException</a> class with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ViewRegistrationException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/viewregistrationexception-class-mspp-regions" data-raw-source="[ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)">ViewRegistrationException</a> class.
 </div></td>
 </tr>
 </tbody>

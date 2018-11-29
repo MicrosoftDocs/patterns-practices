@@ -339,7 +339,7 @@ If your application has a packaging or distribution mechanism other than assembl
 
 The Prism 4.1 Library **MefXapModuleTypeLoader** class is an example of this. It uses the MEF **DeploymentCatalog** to download XAP files, locate the assemblies, and register them with the MEF catalog.
 
-Each **IModuleTypeLoader** implements the **CanLoadModuleType** method to allow the **ModuleManager** to determine the appropriate type loader to use for obtaining a module. The following code example shows the **MefXapModuleTypeLoader** implementation**.**
+Each **IModuleTypeLoader** implements the **CanLoadModuleType** method to allow the **ModuleManager** to determine the appropriate type loader to use for obtaining a module. The following code example shows the **MefXapModuleTypeLoader** implementation<strong>.</strong>
 
 ```C#
     // MefXapModuleTypeLoader.cs

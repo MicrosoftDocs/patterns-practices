@@ -20,17 +20,17 @@ ms:mtpsurl: 'regionmanagerextensions-registerviewwithregion-method-iregionmanage
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[RegisterViewWithRegion(IRegionManager, String, Func&lt;Object&gt;)](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-func-object-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-func-object-mspp-regions" data-raw-source="[RegisterViewWithRegion(IRegionManager, String, Func&amp;lt;Object&amp;gt;)](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-func-object-mspp-regions)">RegisterViewWithRegion(IRegionManager, String, Func&lt;Object&gt;)</a></td>
 <td><div class="summary">
-Associate a view with a region, using a delegate to resolve a concreate instance of the view. When the region get's displayed, this delelgate will be called and the result will be added to the views collection of the region.
+Associate a view with a region, using a delegate to resolve a concreate instance of the view. When the region get&#39;s displayed, this delelgate will be called and the result will be added to the views collection of the region.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[RegisterViewWithRegion(IRegionManager, String, Type)](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-type-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-type-mspp-regions" data-raw-source="[RegisterViewWithRegion(IRegionManager, String, Type)](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-type-mspp-regions)">RegisterViewWithRegion(IRegionManager, String, Type)</a></td>
 <td><div class="summary">
-Associate a view with a region, by registering a type. When the region get's displayed this type will be resolved using the ServiceLocator into a concrete instance. The instance will be added to the Views collection of the region
+Associate a view with a region, by registering a type. When the region get&#39;s displayed this type will be resolved using the ServiceLocator into a concrete instance. The instance will be added to the Views collection of the region
 </div></td>
 </tr>
 </tbody>

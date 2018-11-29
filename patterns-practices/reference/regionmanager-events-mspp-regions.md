@@ -21,8 +21,8 @@ The [RegionManager](/patterns-practices/reference/regionmanager-updatingregions-
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/public-event.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[UpdatingRegions](/patterns-practices/reference/regionmanager-updatingregions-event-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-event.gif" alt="Public event"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/regionmanager-updatingregions-event-mspp-regions" data-raw-source="[UpdatingRegions](/patterns-practices/reference/regionmanager-updatingregions-event-mspp-regions)">UpdatingRegions</a></td>
 <td><div class="summary">
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
 </div></td>

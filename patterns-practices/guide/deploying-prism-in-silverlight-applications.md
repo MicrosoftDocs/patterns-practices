@@ -75,15 +75,15 @@ Silverlight applications can be hosted on most types of web servers, such as Int
 
 To deploy a Silverlight application and the modules that are remotely loaded, the XAP files must be made accessible on the web server. There are several ways to accomplish this:
 
--   You can manually copy all the XAP files to a public folder on the web server.
--   You can include the Silverlight XAP files in a web project or website and publish from Microsoft Visual Studio. To do this with a Web Application project, the project needs to be part of the same solution as the Silverlight projects that create the XAP files. You then add the Silverlight projects to the **Silverlight Applications** tab in the web project settings, as shown in the following illustration. A copy of the XAP files from the included Silverlight projects will be placed in a \\ClientBin subfolder of the published site. These files are synchronized in the web project each time you build.
+- You can manually copy all the XAP files to a public folder on the web server.
+- You can include the Silverlight XAP files in a web project or website and publish from Microsoft Visual Studio. To do this with a Web Application project, the project needs to be part of the same solution as the Silverlight projects that create the XAP files. You then add the Silverlight projects to the **Silverlight Applications** tab in the web project settings, as shown in the following illustration. A copy of the XAP files from the included Silverlight projects will be placed in a \\ClientBin subfolder of the published site. These files are synchronized in the web project each time you build.
 
-    ![](images/remote_modules_silverlight_applications.png "Adding the remote modules as Silverlight applications")
+  ![](images/remote_modules_silverlight_applications.png "Adding the remote modules as Silverlight applications")
 
-    Adding the remote modules as Silverlight applications
+  Adding the remote modules as Silverlight applications
 
-    > [!NOTE]
-> To avoid cross-domain call issues, the remote modules' XAP files should be located on the same domain as the main application; when deployed like this, the <strong>Ref</strong> property on the ModuleCatalog should be a Uniform Resource Identifier (URI) relative to the main XAP file location on the web server.
+  > [!NOTE]
+  > To avoid cross-domain call issues, the remote modules' XAP files should be located on the same domain as the main application; when deployed like this, the <strong>Ref</strong> property on the ModuleCatalog should be a Uniform Resource Identifier (URI) relative to the main XAP file location on the web server.
 
 In addition to publishing or locating the XAP files in the hosting website, the hosting web page will need to refer to the shell application XAP file in its object tag source parameter. Because the hosting page should be part of the same site that the XAP files are placed in for cross-domain reasons, the path specified in the host page should be a relative path.
 

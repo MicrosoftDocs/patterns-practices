@@ -24,20 +24,20 @@ The [AutoPopulateRegionBehavior](/patterns-practices/reference/autopopulateregio
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions" data-raw-source="[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)">IsAttached</a></td>
 <td><div class="summary">
-Returns **Truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **Falsefalse** (**False** in Visual Basic) otherwise.
+Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>Falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
 </div>
-(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions" data-raw-source="[RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Region](/patterns-practices/reference/regionbehavior-region-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionbehavior-region-property-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/regionbehavior-region-property-mspp-regions)">Region</a></td>
 <td><div class="summary">
-Behavior's attached region.
+Behavior&#39;s attached region.
 </div>
-(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions" data-raw-source="[RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)">RegionBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>

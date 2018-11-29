@@ -22,22 +22,22 @@ Adds a new view to the region.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Add(Object)](/patterns-practices/reference/region-add-method-object-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/region-add-method-object-mspp-regions" data-raw-source="[Add(Object)](/patterns-practices/reference/region-add-method-object-mspp-regions)">Add(Object)</a></td>
 <td><div class="summary">
 Adds a new view to the region.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Add(Object, String)](/patterns-practices/reference/region-add-method-object-string-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/region-add-method-object-string-mspp-regions" data-raw-source="[Add(Object, String)](/patterns-practices/reference/region-add-method-object-string-mspp-regions)">Add(Object, String)</a></td>
 <td><div class="summary">
 Adds a new view to the region.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Add(Object, String, Boolean)](/patterns-practices/reference/region-add-method-object-string-boolean-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/region-add-method-object-string-boolean-mspp-regions" data-raw-source="[Add(Object, String, Boolean)](/patterns-practices/reference/region-add-method-object-string-boolean-mspp-regions)">Add(Object, String, Boolean)</a></td>
 <td><div class="summary">
 Adds a new view to the region.
 </div></td>

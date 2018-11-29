@@ -26,24 +26,24 @@ The [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-clas
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[GetRootException](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp" data-raw-source="[GetRootException](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp)">GetRootException</a></td>
 <td><div class="summary">
 Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[IsFrameworkExceptionRegistered](/patterns-practices/reference/exceptionextensions-isframeworkexceptionregistered-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/exceptionextensions-isframeworkexceptionregistered-method-mspp" data-raw-source="[IsFrameworkExceptionRegistered](/patterns-practices/reference/exceptionextensions-isframeworkexceptionregistered-method-mspp)">IsFrameworkExceptionRegistered</a></td>
 <td><div class="summary">
-Determines whether the exception type is already registered using the [RegisterFrameworkExceptionType(Type)](/patterns-practices/reference/exceptionextensions-registerframeworkexceptiontype-method-mspp) method
+Determines whether the exception type is already registered using the <a href="/patterns-practices/reference/exceptionextensions-registerframeworkexceptiontype-method-mspp" data-raw-source="[RegisterFrameworkExceptionType(Type)](/patterns-practices/reference/exceptionextensions-registerframeworkexceptiontype-method-mspp)">RegisterFrameworkExceptionType(Type)</a> method
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[RegisterFrameworkExceptionType](/patterns-practices/reference/exceptionextensions-registerframeworkexceptiontype-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/exceptionextensions-registerframeworkexceptiontype-method-mspp" data-raw-source="[RegisterFrameworkExceptionType](/patterns-practices/reference/exceptionextensions-registerframeworkexceptiontype-method-mspp)">RegisterFrameworkExceptionType</a></td>
 <td><div class="summary">
-Register the type of an Exception that is thrown by the framework. The [GetRootException(Exception)](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp) method uses this list of Exception types to find out if something has gone wrong.
+Register the type of an Exception that is thrown by the framework. The <a href="/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp" data-raw-source="[GetRootException(Exception)](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp)">GetRootException(Exception)</a> method uses this list of Exception types to find out if something has gone wrong.
 </div></td>
 </tr>
 </tbody>

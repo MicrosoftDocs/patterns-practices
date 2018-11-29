@@ -21,16 +21,16 @@ ms:mtpsurl: 'servicelocatorextensions-methods-mspp.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[TryResolve(IServiceLocator, Type)](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp
-)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp" data-raw-source="[TryResolve(IServiceLocator, Type)](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp
+)">TryResolve(IServiceLocator, Type)</a></td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[TryResolve&lt;T&gt;(IServiceLocator)](/patterns-practices/reference/servicelocatorextensions-tryresolve-t-method-iservicelocator-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/servicelocatorextensions-tryresolve-t-method-iservicelocator-mspp" data-raw-source="[TryResolve&amp;lt;T&amp;gt;(IServiceLocator)](/patterns-practices/reference/servicelocatorextensions-tryresolve-t-method-iservicelocator-mspp)">TryResolve&lt;T&gt;(IServiceLocator)</a></td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>

@@ -21,22 +21,22 @@ The [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regio
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[RegionContextProperty](/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-field.gif" alt="Public field"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions" data-raw-source="[RegionContextProperty](/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions)">RegionContextProperty</a></td>
 <td><div class="summary">
 Identifies the RegionContext attached property.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[RegionManagerProperty](/patterns-practices/reference/regionmanager-regionmanagerproperty-field-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-field.gif" alt="Public field"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/regionmanager-regionmanagerproperty-field-mspp-regions" data-raw-source="[RegionManagerProperty](/patterns-practices/reference/regionmanager-regionmanagerproperty-field-mspp-regions)">RegionManagerProperty</a></td>
 <td><div class="summary">
 Identifies the RegionManager attached property.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[RegionNameProperty](/patterns-practices/reference/regionmanager-regionnameproperty-field-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-field.gif" alt="Public field"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/regionmanager-regionnameproperty-field-mspp-regions" data-raw-source="[RegionNameProperty](/patterns-practices/reference/regionmanager-regionnameproperty-field-mspp-regions)">RegionNameProperty</a></td>
 <td><div class="summary">
 Identifies the RegionName attached property.
 </div></td>

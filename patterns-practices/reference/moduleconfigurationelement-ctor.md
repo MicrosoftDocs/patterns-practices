@@ -19,17 +19,17 @@ ms:mtpsurl: 'moduleconfigurationelement-constructor-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleConfigurationElement()</td>
 <td><div class="summary">
-Initializes a new instance of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity" data-raw-source="[ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)">ModuleConfigurationElement</a></a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleConfigurationElement(String, String, String, Boolean)</a></td>
 <td><div class="summary">
-Initializes a new instance of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity" data-raw-source="[ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)">ModuleConfigurationElement</a></a>.
 </div></td>
 </tr>
 </tbody>

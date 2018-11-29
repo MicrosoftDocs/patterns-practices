@@ -22,8 +22,8 @@ The [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-ms
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Attach](/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions" data-raw-source="[Attach](/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions)">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the specified region.
 </div></td>
@@ -44,8 +44,8 @@ Attaches the behavior to the specified region.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Region](/patterns-practices/reference/iregionbehavior-region-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/iregionbehavior-region-property-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/iregionbehavior-region-property-mspp-regions)">Region</a></td>
 <td><div class="summary">
 The region that this behavior is extending.
 </div></td>

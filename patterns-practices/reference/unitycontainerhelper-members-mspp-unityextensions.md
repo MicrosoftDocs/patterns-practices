@@ -22,22 +22,22 @@ The [UnityContainerHelper](/patterns-practices/reference/unitycontainerhelper-cl
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[IsTypeRegistered](/patterns-practices/reference/unitycontainerhelper-istyperegistered-method-mspp-unityextensions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/unitycontainerhelper-istyperegistered-method-mspp-unityextensions" data-raw-source="[IsTypeRegistered](/patterns-practices/reference/unitycontainerhelper-istyperegistered-method-mspp-unityextensions)">IsTypeRegistered</a></td>
 <td><div class="summary">
 Returns whether a specified type has a type mapping registered in the container.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[TryResolve(IUnityContainer, Type)](/patterns-practices/reference/unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-unityextensions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-unityextensions" data-raw-source="[TryResolve(IUnityContainer, Type)](/patterns-practices/reference/unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-unityextensions)">TryResolve(IUnityContainer, Type)</a></td>
 <td><div class="summary">
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[TryResolve(Of T)(IUnityContainer)](/patterns-practices/reference/unitycontainerhelper-tryresolve-t-method-iunitycontainer-mspp-unityextensions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/unitycontainerhelper-tryresolve-t-method-iunitycontainer-mspp-unityextensions" data-raw-source="[TryResolve(Of T)(IUnityContainer)](/patterns-practices/reference/unitycontainerhelper-tryresolve-t-method-iunitycontainer-mspp-unityextensions)">TryResolve(Of T)(IUnityContainer)</a></td>
 <td><div class="summary">
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 </div></td>

@@ -20,17 +20,17 @@ ms:mtpsurl: 'moduleinfogroup-indexof-method-moduleinfo-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[IndexOf(Object)](/patterns-practices/reference/moduleinfogroup-indexof-method-object-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/moduleinfogroup-indexof-method-object-mspp-modularity" data-raw-source="[IndexOf(Object)](/patterns-practices/reference/moduleinfogroup-indexof-method-object-mspp-modularity)">IndexOf(Object)</a></td>
 <td><div class="summary">
-Determines the index of a specific item in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-indexof-method-mspp-modularity).
+Determines the index of a specific item in the <a href="/patterns-practices/reference/moduleinfogroup-indexof-method-mspp-modularity" data-raw-source="[ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-indexof-method-mspp-modularity)">ModuleInfoGroup</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[IndexOf(ModuleInfo)](/patterns-practices/reference/moduleinfogroup-indexof-method-moduleinfo-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/moduleinfogroup-indexof-method-moduleinfo-mspp-modularity" data-raw-source="[IndexOf(ModuleInfo)](/patterns-practices/reference/moduleinfogroup-indexof-method-moduleinfo-mspp-modularity)">IndexOf(ModuleInfo)</a></td>
 <td><div class="summary">
-Determines the index of a specific item in the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6).
+Determines the index of a specific item in the <a href="http://msdn.microsoft.com/en-us/library/5y536ey6" data-raw-source="[IList&amp;lt;T&amp;gt;](http://msdn.microsoft.com/en-us/library/5y536ey6)">IList&lt;T&gt;</a>.
 </div></td>
 </tr>
 </tbody>

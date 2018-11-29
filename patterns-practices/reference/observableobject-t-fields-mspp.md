@@ -23,8 +23,8 @@ The [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[ValueProperty](/patterns-practices/reference/observableobject-t-valueproperty-field-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-field.gif" alt="Public field"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/observableobject-t-valueproperty-field-mspp" data-raw-source="[ValueProperty](/patterns-practices/reference/observableobject-t-valueproperty-field-mspp)">ValueProperty</a></td>
 <td><div class="summary">
 Identifies the Value property of the ObservableObject
 </div></td>

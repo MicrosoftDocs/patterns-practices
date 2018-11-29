@@ -19,15 +19,15 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-add-method-mspp.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Add(TKey)](/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-mspp" data-raw-source="[Add(TKey)](/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-mspp)">Add(TKey)</a></td>
 <td><div class="summary">
 If a list does not already exist, it will be created automatically.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Add(TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-tvalue-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-tvalue-mspp" data-raw-source="[Add(TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-tvalue-mspp)">Add(TKey, TValue)</a></td>
 <td><div class="summary">
 Adds a value to a list with the given key. If a list does not already exist, it will be created automatically.
 </div></td>

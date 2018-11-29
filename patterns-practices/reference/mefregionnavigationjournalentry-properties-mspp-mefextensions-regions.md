@@ -21,20 +21,20 @@ The [MefRegionNavigationJournalEntry](/patterns-practices/reference/mefregionnav
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Parameters](/patterns-practices/reference/regionnavigationjournalentry-parameters-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournalentry-parameters-property-mspp-regions" data-raw-source="[Parameters](/patterns-practices/reference/regionnavigationjournalentry-parameters-property-mspp-regions)">Parameters</a></td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
 </div>
-(Inherited from [RegionNavigationJournalEntry](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)</td>
+(Inherited from <a href="/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions" data-raw-source="[RegionNavigationJournalEntry](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)">RegionNavigationJournalEntry</a></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Uri](/patterns-practices/reference/regionnavigationjournalentry-uri-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournalentry-uri-property-mspp-regions" data-raw-source="[Uri](/patterns-practices/reference/regionnavigationjournalentry-uri-property-mspp-regions)">Uri</a></td>
 <td><div class="summary">
 Gets or sets the URI.
 </div>
-(Inherited from [RegionNavigationJournalEntry](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)</td>
+(Inherited from <a href="/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions" data-raw-source="[RegionNavigationJournalEntry](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)">RegionNavigationJournalEntry</a></td>
 </tr>
 </tbody>
 </table>

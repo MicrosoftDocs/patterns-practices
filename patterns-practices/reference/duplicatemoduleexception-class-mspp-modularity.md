@@ -26,7 +26,7 @@ public class DuplicateModuleException : ModularityException
 <SerializableAttribute>
 Public Class DuplicateModuleException
 	Inherits ModularityException
-```	
+``` 
 
 ## Inheritance Hierarchy
 

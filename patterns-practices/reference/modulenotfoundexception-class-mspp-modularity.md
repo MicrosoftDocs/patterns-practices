@@ -31,9 +31,9 @@ Public Class ModuleNotFoundException
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
-    [Microsoft-Practices-Prism-Modularity-ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)  
-      Microsoft.Practices.Prism.Modularity.ModuleNotFoundException
+  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
+    [Microsoft-Practices-Prism-Modularity-ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)  
+      Microsoft.Practices.Prism.Modularity.ModuleNotFoundException
 
 ## See Also
 

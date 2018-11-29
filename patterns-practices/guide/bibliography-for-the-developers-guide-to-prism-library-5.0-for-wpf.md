@@ -104,20 +104,20 @@ For more information about region navigation, see [Navigation](/patterns-practic
 
 For more information about the guidelines discussed in this topic, see the following:
 
--  [Dependency Properties Overview](http://msdn.microsoft.com/en-us/library/ms752914.aspx) on MSDN.
--  Data binding; see:
+- [Dependency Properties Overview](http://msdn.microsoft.com/en-us/library/ms752914.aspx) on MSDN.
+- Data binding; see:
   -  [Data Binding Overview](http://msdn.microsoft.com/en-us/library/ms742521.aspx) on MSDN.
   -  [Data Binding in WPF](http://msdn.microsoft.com/en-us/magazine/cc163299.aspx) in *MSDN Magazine*.
--  [Data Templating Overview](http://msdn.microsoft.com/en-us/library/ms742521.aspx) on MSDN.
--  [Resources Overview](http://msdn.microsoft.com/en-us/library/ms750613.aspx) on MSDN.
--  [UserControl Class](https://msdn.microsoft.com/en-us/library/system.windows.forms.usercontrol.aspx) on MSDN.
--  [VisualStateManager Class](http://msdn.microsoft.com/en-us/library/cc626338(v=vs.95).aspx) on MSDN.
--  [Customizing Controls For Windows Presentation Foundation](http://msdn.microsoft.com/en-us/magazine/cc163421.aspx) in *MSDN Magazine*.
--  [ComponentResourceKey Markup Extension](http://msdn.microsoft.com/en-us/library/ms753186.aspx) on MSDN.
--  [Design-Time Attributes in the WPF Designer](http://msdn.microsoft.com/en-us/library/ee839627.aspx) on MSDN.
--  [Markup Extensions and WPF XAML](http://msdn.microsoft.com/en-us/library/ms747254.aspx) on MSDN.
--  [Sample Data in the WPF and Silverlight Designer](http://blogs.msdn.com/b/wpfsldesigner/archive/2010/06/30/sample-data-in-the-wpf-and-silverlight-designer.aspx) on MSDN.
--  [Learning the Visual Studio WPF and Silverlight Designer](http://blogs.msdn.com/b/wpfsldesigner/archive/2010/01/15/learn.aspx). This contains tutorials and articles on layout, resources, data binding, sample data, debugging data bindings, object data sources, and master-detail forms.
+- [Data Templating Overview](http://msdn.microsoft.com/en-us/library/ms742521.aspx) on MSDN.
+- [Resources Overview](http://msdn.microsoft.com/en-us/library/ms750613.aspx) on MSDN.
+- [UserControl Class](https://msdn.microsoft.com/en-us/library/system.windows.forms.usercontrol.aspx) on MSDN.
+- [VisualStateManager Class](http://msdn.microsoft.com/en-us/library/cc626338(v=vs.95).aspx) on MSDN.
+- [Customizing Controls For Windows Presentation Foundation](http://msdn.microsoft.com/en-us/magazine/cc163421.aspx) in *MSDN Magazine*.
+- [ComponentResourceKey Markup Extension](http://msdn.microsoft.com/en-us/library/ms753186.aspx) on MSDN.
+- [Design-Time Attributes in the WPF Designer](http://msdn.microsoft.com/en-us/library/ee839627.aspx) on MSDN.
+- [Markup Extensions and WPF XAML](http://msdn.microsoft.com/en-us/library/ms747254.aspx) on MSDN.
+- [Sample Data in the WPF and Silverlight Designer](http://blogs.msdn.com/b/wpfsldesigner/archive/2010/06/30/sample-data-in-the-wpf-and-silverlight-designer.aspx) on MSDN.
+- [Learning the Visual Studio WPF and Silverlight Designer](http://blogs.msdn.com/b/wpfsldesigner/archive/2010/01/15/learn.aspx). This contains tutorials and articles on layout, resources, data binding, sample data, debugging data bindings, object data sources, and master-detail forms.
 
 ##  Navigation
 

@@ -21,10 +21,10 @@ The [DelegateReference](/patterns-practices/reference/delegatereference-class-ms
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Target](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference.target)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.delegatereference.target" data-raw-source="[Target](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference.target)">Target</a></td>
 <td><div class="summary">
-Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the target) referenced by the current [DelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference) object.
+Gets the <a href="http://msdn.microsoft.com/en-us/library/y22acf51" data-raw-source="[Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)">Delegate</a> (the target) referenced by the current <a href="/patterns-practices/reference/mspp-mvvm-namespace.delegatereference" data-raw-source="[DelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference)">DelegateReference</a> object.
 </div></td>
 </tr>
 </tbody>

@@ -21,8 +21,8 @@ The [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[RegionBehaviorFactory](/patterns-practices/reference/regionadapterbase-t-regionbehaviorfactory-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/protproperty.gif" alt="Protected property"/></td>
+<td><a href="/patterns-practices/reference/regionadapterbase-t-regionbehaviorfactory-property-mspp-regions" data-raw-source="[RegionBehaviorFactory](/patterns-practices/reference/regionadapterbase-t-regionbehaviorfactory-property-mspp-regions)">RegionBehaviorFactory</a></td>
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 </div></td>

@@ -1,4 +1,4 @@
-﻿---
+---
 TOCTitle: 'RaisePropertyChanged Method (String[])'
 Title: 'NotificationObject.RaisePropertyChanged Method (String[]) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged(System.String[])'

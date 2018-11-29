@@ -21,15 +21,15 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[NavigationContext](/patterns-practices/reference/regionnavigationeventargs-navigationcontext-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationeventargs-navigationcontext-property-mspp-regions" data-raw-source="[NavigationContext](/patterns-practices/reference/regionnavigationeventargs-navigationcontext-property-mspp-regions)">NavigationContext</a></td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Uri](/patterns-practices/reference/regionnavigationeventargs-uri-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationeventargs-uri-property-mspp-regions" data-raw-source="[Uri](/patterns-practices/reference/regionnavigationeventargs-uri-property-mspp-regions)">Uri</a></td>
 <td><div class="summary">
 Gets the navigation URI
 </div></td>

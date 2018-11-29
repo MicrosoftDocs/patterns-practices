@@ -22,22 +22,22 @@ The [IRegionNavigationService](/patterns-practices/reference/iregionnavigationse
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[Navigated](/patterns-practices/reference/iregionnavigationservice-navigated-event-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationservice-navigated-event-mspp-regions" data-raw-source="[Navigated](/patterns-practices/reference/iregionnavigationservice-navigated-event-mspp-regions)">Navigated</a></td>
 <td><div class="summary">
 Raised when the region is navigated to content.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[Navigating](/patterns-practices/reference/iregionnavigationservice-navigating-event-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationservice-navigating-event-mspp-regions" data-raw-source="[Navigating](/patterns-practices/reference/iregionnavigationservice-navigating-event-mspp-regions)">Navigating</a></td>
 <td><div class="summary">
 Raised when the region is about to be navigated to content.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[NavigationFailed](/patterns-practices/reference/iregionnavigationservice-navigationfailed-event-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationservice-navigationfailed-event-mspp-regions" data-raw-source="[NavigationFailed](/patterns-practices/reference/iregionnavigationservice-navigationfailed-event-mspp-regions)">NavigationFailed</a></td>
 <td><div class="summary">
 Raised when a navigation request fails.
 </div></td>

@@ -19,17 +19,17 @@ ms:mtpsurl: 'textlogger-constructor-mspp-logging.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>TextLogger()</td>
 <td><div class="summary">
-Initializes a new instance of [TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging) that writes to the console output.
+Initializes a new instance of <a href="/patterns-practices/reference/textlogger-class-mspp-logging" data-raw-source="[TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging)">TextLogger</a> that writes to the console output.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>TextLogger(TextWriter)</td>
 <td><div class="summary">
-Initializes a new instance of [TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging).
+Initializes a new instance of <a href="/patterns-practices/reference/textlogger-class-mspp-logging" data-raw-source="[TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging)">TextLogger</a>.
 </div></td>
 </tr>
 </tbody>

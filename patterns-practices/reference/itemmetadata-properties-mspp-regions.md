@@ -21,46 +21,46 @@ The [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms600674)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms600674" data-raw-source="[DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms600674)">DependencyObjectType</a></td>
 <td><div class="summary">
-Gets the [DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms589310) that wraps the CLR type of this instance. 
+Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310" data-raw-source="[DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms589310)">DependencyObjectType</a> that wraps the CLR type of this instance. 
 </div>
-(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309" data-raw-source="[DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Dispatcher](http://msdn.microsoft.com/en-us/library/ms605656)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms605656" data-raw-source="[Dispatcher](http://msdn.microsoft.com/en-us/library/ms605656)">Dispatcher</a></td>
 <td><div class="summary">
-Gets the [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907) this [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925) is associated with.
+Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907" data-raw-source="[Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907)">Dispatcher</a> this <a href="http://msdn.microsoft.com/en-us/library/ms615925" data-raw-source="[DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)">DispatcherObject</a> is associated with.
 </div>
-(Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925" data-raw-source="[DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)">DispatcherObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[IsActive](/patterns-practices/reference/itemmetadata-isactive-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/itemmetadata-isactive-property-mspp-regions" data-raw-source="[IsActive](/patterns-practices/reference/itemmetadata-isactive-property-mspp-regions)">IsActive</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the wrapped item is considered active.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[IsSealed](http://msdn.microsoft.com/en-us/library/ms600677)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms600677" data-raw-source="[IsSealed](http://msdn.microsoft.com/en-us/library/ms600677)">IsSealed</a></td>
 <td><div class="summary">
 Gets a value that indicates whether this instance is currently sealed (read-only).
 </div>
-(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309" data-raw-source="[DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item](/patterns-practices/reference/itemmetadata-item-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/itemmetadata-item-property-mspp-regions" data-raw-source="[Item](/patterns-practices/reference/itemmetadata-item-property-mspp-regions)">Item</a></td>
 <td><div class="summary">
 Gets the wrapped item.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Name](/patterns-practices/reference/itemmetadata-name-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/itemmetadata-name-property-mspp-regions" data-raw-source="[Name](/patterns-practices/reference/itemmetadata-name-property-mspp-regions)">Name</a></td>
 <td><div class="summary">
 Gets or sets a name for the wrapped item.
 </div></td>

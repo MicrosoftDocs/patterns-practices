@@ -24,15 +24,15 @@ The [IRegionNavigationJournalEntry](/patterns-practices/reference/mspp-regions-n
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Parameters](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournalentry.parameters)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournalentry.parameters" data-raw-source="[Parameters](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournalentry.parameters)">Parameters</a></td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Uri](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournalentry.uri)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournalentry.uri" data-raw-source="[Uri](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournalentry.uri)">Uri</a></td>
 <td><div class="summary">
 Gets or sets the URI.
 </div></td>
