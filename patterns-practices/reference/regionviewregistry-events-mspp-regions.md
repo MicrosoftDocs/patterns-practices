@@ -22,8 +22,8 @@ The [RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[ContentRegistered](/patterns-practices/reference/regionviewregistry-contentregistered-event-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/regionviewregistry-contentregistered-event-mspp-regions" data-raw-source="[ContentRegistered](/patterns-practices/reference/regionviewregistry-contentregistered-event-mspp-regions)">ContentRegistered</a></td>
 <td><div class="summary">
 Occurs whenever a new view is registered.
 </div></td>

@@ -19,15 +19,15 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-unsubscribe-method-mspp-events.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>Unsubscribe(SubscriptionToken)</td>
 <td>(Inherited from EventBase.)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Unsubscribe(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-unsubscribe-method-action-tpayload-mspp-events)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/compositepresentationevent-tpayload-unsubscribe-method-action-tpayload-mspp-events" data-raw-source="[Unsubscribe(Action&amp;lt;TPayload&amp;gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-unsubscribe-method-action-tpayload-mspp-events)">Unsubscribe(Action&lt;TPayload&gt;)</a></td>
 <td><div class="summary">
-Removes the first subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
+Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8" data-raw-source="[Action&amp;lt;T&amp;gt;](http://msdn.microsoft.com/en-us/library/018hxwa8)">Action&lt;T&gt;</a> from the subscribers&#39; list.
 </div></td>
 </tr>
 </tbody>

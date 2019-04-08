@@ -22,8 +22,8 @@ The [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[MetadataChanged](/patterns-practices/reference/itemmetadata-metadatachanged-event-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/itemmetadata-metadatachanged-event-mspp-regions" data-raw-source="[MetadataChanged](/patterns-practices/reference/itemmetadata-metadatachanged-event-mspp-regions)">MetadataChanged</a></td>
 <td><div class="summary">
 Occurs when metadata on the item changes.
 </div></td>

@@ -22,12 +22,12 @@ The [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) type
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms133023" data-raw-source="[PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)">PropertyChanged</a></td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div>
-(Inherited from [INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/ms133020).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms133020" data-raw-source="[INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/ms133020)">INotifyPropertyChanged</a>.)</td>
 </tr>
 </tbody>
 </table>

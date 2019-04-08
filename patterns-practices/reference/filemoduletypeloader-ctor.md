@@ -19,17 +19,17 @@ ms:mtpsurl: 'filemoduletypeloader-constructor-iassemblyresolver-mspp-modularity.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>FileModuleTypeLoader()</td>
 <td><div class="summary">
-Initializes a new instance of the [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity" data-raw-source="[FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity)">FileModuleTypeLoader</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>FileModuleTypeLoader(IAssemblyResolver)</td>
 <td><div class="summary">
-Initializes a new instance of the [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity" data-raw-source="[FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity)">FileModuleTypeLoader</a> class.
 </div></td>
 </tr>
 </tbody>

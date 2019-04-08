@@ -27,8 +27,8 @@ The [IEventAggregator](/patterns-practices/reference/ieventaggregator-interface-
 <tbody>
 <tr class="odd">
 <td>
-![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEvent(Of TEventType)](/patterns-practices/reference/ieventaggregator-getevent-teventtype-method-mspp-pubsubevents)</td>
+<img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/ieventaggregator-getevent-teventtype-method-mspp-pubsubevents" data-raw-source="[GetEvent(Of TEventType)](/patterns-practices/reference/ieventaggregator-getevent-teventtype-method-mspp-pubsubevents)">GetEvent(Of TEventType)</a></td>
 <td><div class="summary">
 Gets an instance of an event type.
 </div></td>

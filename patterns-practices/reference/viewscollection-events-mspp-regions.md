@@ -22,8 +22,8 @@ The [ViewsCollection](/patterns-practices/reference/viewscollection-class-mspp-r
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[CollectionChanged](/patterns-practices/reference/viewscollection-collectionchanged-event-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/viewscollection-collectionchanged-event-mspp-regions" data-raw-source="[CollectionChanged](/patterns-practices/reference/viewscollection-collectionchanged-event-mspp-regions)">CollectionChanged</a></td>
 <td><div class="summary">
 Occurs when the collection changes.
 </div></td>

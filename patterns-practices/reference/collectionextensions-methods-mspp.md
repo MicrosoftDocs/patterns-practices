@@ -25,8 +25,8 @@ The [CollectionExtensions](/patterns-practices/reference/collectionextensions-cl
 <tbody>
 <tr class="odd">
 
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[AddRange&lt;T&gt;](/patterns-practices/reference/collectionextensions-addrange-t-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/collectionextensions-addrange-t-method-mspp" data-raw-source="[AddRange&amp;lt;T&amp;gt;](/patterns-practices/reference/collectionextensions-addrange-t-method-mspp)">AddRange&lt;T&gt;</a></td>
 <td><div class="summary">
 Add a range of items to a collection.
 </div></td>

@@ -22,10 +22,10 @@ The [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Initialize](/patterns-practices/reference/iregionadapter-initialize-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionadapter-initialize-method-mspp-regions" data-raw-source="[Initialize](/patterns-practices/reference/iregionadapter-initialize-method-mspp-regions)">Initialize</a></td>
 <td><div class="summary">
-Adapts an object and binds it to a new [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
+Adapts an object and binds it to a new <a href="/patterns-practices/reference/iregion-interface-mspp-regions" data-raw-source="[IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)">IRegion</a>.
 </div></td>
 </tr>
 </tbody>

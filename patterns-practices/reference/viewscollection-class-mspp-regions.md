@@ -27,12 +27,12 @@ Implementation of [IViewsCollection](/patterns-practices/reference/iviewscollect
 Public Class ViewsCollection
 	Implements IViewsCollection, IEnumerable(Of Object), 
 	IEnumerable, INotifyCollectionChanged
-```	
+``` 
 
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Regions.ViewsCollection
+  Microsoft.Practices.Prism.Regions.ViewsCollection
 
 ## See Also
 

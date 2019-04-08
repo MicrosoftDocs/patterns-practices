@@ -123,7 +123,7 @@ The following table lists the core non-application specific services in the Pris
 <tbody>
 <tr class="odd">
 <td><p><strong>IModuleManager</strong></p></td>
-<td><p>Defines the interface for the service that will retrieve and initialize the application's modules.</p></td>
+<td><p>Defines the interface for the service that will retrieve and initialize the application&#39;s modules.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>IModuleCatalog</strong></p></td>
@@ -143,7 +143,7 @@ The following table lists the core non-application specific services in the Pris
 </tr>
 <tr class="even">
 <td><p><strong>ILoggerFacade</strong></p></td>
-<td><p>A wrapper for a logging mechanism, so you can choose your own logging mechanism. The Stock Trader Reference Implementation (Stock Trader RI) uses the Enterprise Library Logging Application Block, via the <strong>EnterpriseLibraryLoggerAdapter</strong> class, as an example of how you can use your own logger. The logging service is registered with the container by the bootstrapper's <strong>Run</strong> method, using the value returned by the <strong>CreateLogger</strong> method. Registering another logger with the container will not work; instead override the <strong>CreateLogger</strong> method on the bootstrapper.</p></td>
+<td><p>A wrapper for a logging mechanism, so you can choose your own logging mechanism. The Stock Trader Reference Implementation (Stock Trader RI) uses the Enterprise Library Logging Application Block, via the <strong>EnterpriseLibraryLoggerAdapter</strong> class, as an example of how you can use your own logger. The logging service is registered with the container by the bootstrapper&#39;s <strong>Run</strong> method, using the value returned by the <strong>CreateLogger</strong> method. Registering another logger with the container will not work; instead override the <strong>CreateLogger</strong> method on the bootstrapper.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>IServiceLocator</strong></p></td>

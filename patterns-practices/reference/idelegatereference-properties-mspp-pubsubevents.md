@@ -25,10 +25,10 @@ The [IDelegateReference](/patterns-practices/reference/idelegatereference-interf
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Target](/patterns-practices/reference/idelegatereference-target-property-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/idelegatereference-target-property-mspp-pubsubevents" data-raw-source="[Target](/patterns-practices/reference/idelegatereference-target-property-mspp-pubsubevents)">Target</a></td>
 <td><div class="summary">
-Gets the referenced [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) object.
+Gets the referenced <a href="http://msdn.microsoft.com/en-us/library/y22acf51" data-raw-source="[Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)">Delegate</a> object.
 </div></td>
 </tr>
 </tbody>

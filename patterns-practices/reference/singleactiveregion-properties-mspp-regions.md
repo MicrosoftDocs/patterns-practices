@@ -22,76 +22,76 @@ The [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ActiveViews](/patterns-practices/reference/region-class-mspp-regions.activeviews)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/region-class-mspp-regions.activeviews" data-raw-source="[ActiveViews](/patterns-practices/reference/region-class-mspp-regions.activeviews)">ActiveViews</a></td>
 <td><div class="summary">
 Gets a readonly view of the collection of all the active views in the region.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/region-class-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/region-class-mspp-regions)">Region</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Behaviors](/patterns-practices/reference/region-class-mspp-regions.behaviors)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/region-class-mspp-regions.behaviors" data-raw-source="[Behaviors](/patterns-practices/reference/region-class-mspp-regions.behaviors)">Behaviors</a></td>
 <td><div class="summary">
-Gets the collection of [IRegionBehavior](/patterns-practices/reference/iregionmanager-interface-mspp-regions)s that can extend the behavior of regions.
+Gets the collection of <a href="/patterns-practices/reference/iregionmanager-interface-mspp-regions" data-raw-source="[IRegionBehavior](/patterns-practices/reference/iregionmanager-interface-mspp-regions)">IRegionBehavior</a>s that can extend the behavior of regions.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/region-class-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/region-class-mspp-regions)">Region</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Context](/patterns-practices/reference/region-class-mspp-regions.context)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/region-class-mspp-regions.context" data-raw-source="[Context](/patterns-practices/reference/region-class-mspp-regions.context)">Context</a></td>
 <td><div class="summary">
 Gets or sets a context for the region. This value can be used by the user to share context with the views.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/region-class-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/region-class-mspp-regions)">Region</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[ItemMetadataCollection](/patterns-practices/reference/region-class-mspp-regions.itemmetadatacollection)</td>
+<td><img src="/patterns-practices/reference/images/protproperty.gif" alt="Protected property"/></td>
+<td><a href="/patterns-practices/reference/region-class-mspp-regions.itemmetadatacollection" data-raw-source="[ItemMetadataCollection](/patterns-practices/reference/region-class-mspp-regions.itemmetadatacollection)">ItemMetadataCollection</a></td>
 <td><div class="summary">
 Gets the collection with all the views along with their metadata.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/region-class-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/region-class-mspp-regions)">Region</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Name](/patterns-practices/reference/region-class-mspp-regions.name)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/region-class-mspp-regions.name" data-raw-source="[Name](/patterns-practices/reference/region-class-mspp-regions.name)">Name</a></td>
 <td><div class="summary">
-Gets the name of the region that uniequely identifies the region within a [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions).
+Gets the name of the region that uniequely identifies the region within a <a href="/patterns-practices/reference/iregionmanager-interface-mspp-regions" data-raw-source="[IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)">IRegionManager</a>.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/region-class-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/region-class-mspp-regions)">Region</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[NavigationService](/patterns-practices/reference/region-class-mspp-regions.navigationservice)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/region-class-mspp-regions.navigationservice" data-raw-source="[NavigationService](/patterns-practices/reference/region-class-mspp-regions.navigationservice)">NavigationService</a></td>
 <td><div class="summary">
 Gets the navigation service.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/region-class-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/region-class-mspp-regions)">Region</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[RegionManager](/patterns-practices/reference/region-class-mspp-regions.regionmanager)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/region-class-mspp-regions.regionmanager" data-raw-source="[RegionManager](/patterns-practices/reference/region-class-mspp-regions.regionmanager)">RegionManager</a></td>
 <td><div class="summary">
-Gets or sets the [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) that will be passed to the views when adding them to the region, unless the view is added by specifying createRegionManagerScope as **truetrue** (**True** in Visual Basic).
+Gets or sets the <a href="/patterns-practices/reference/iregionmanager-interface-mspp-regions" data-raw-source="[IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)">IRegionManager</a> that will be passed to the views when adding them to the region, unless the view is added by specifying createRegionManagerScope as <strong>truetrue</strong> (<strong>True</strong> in Visual Basic).
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/region-class-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/region-class-mspp-regions)">Region</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[SortComparison](/patterns-practices/reference/region-class-mspp-regions.sortcomparison)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/region-class-mspp-regions.sortcomparison" data-raw-source="[SortComparison](/patterns-practices/reference/region-class-mspp-regions.sortcomparison)">SortComparison</a></td>
 <td><div class="summary">
 Gets or sets the comparison used to sort the views.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/region-class-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/region-class-mspp-regions)">Region</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Views](/patterns-practices/reference/region-class-mspp-regions.views)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/region-class-mspp-regions.views" data-raw-source="[Views](/patterns-practices/reference/region-class-mspp-regions.views)">Views</a></td>
 <td><div class="summary">
 Gets a readonly view of the collection of views in the region.
 </div>
-(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/region-class-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/region-class-mspp-regions)">Region</a>.)</td>
 </tr>
 </tbody>
 </table>

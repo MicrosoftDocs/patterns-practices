@@ -19,24 +19,24 @@ ms:mtpsurl: 'mspp-logging-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[EmptyLogger](/patterns-practices/reference/emptylogger-class-mspp-logging)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/emptylogger-class-mspp-logging" data-raw-source="[EmptyLogger](/patterns-practices/reference/emptylogger-class-mspp-logging)">EmptyLogger</a></td>
 <td><div class="summary">
-Implementation of [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) that does nothing. This implementation is useful when the application does not need logging but there are infrastructure pieces that assume there is a logger.
+Implementation of <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging" data-raw-source="[ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)">ILoggerFacade</a> that does nothing. This implementation is useful when the application does not need logging but there are infrastructure pieces that assume there is a logger.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/textlogger-class-mspp-logging" data-raw-source="[TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging)">TextLogger</a></td>
 <td><div class="summary">
-Implementation of [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) that logs into a [TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328).
+Implementation of <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging" data-raw-source="[ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)">ILoggerFacade</a> that logs into a <a href="http://msdn.microsoft.com/en-us/library/ywxh2328" data-raw-source="[TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328)">TextWriter</a>.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[TraceLogger](/patterns-practices/reference/tracelogger-class-mspp-logging)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/tracelogger-class-mspp-logging" data-raw-source="[TraceLogger](/patterns-practices/reference/tracelogger-class-mspp-logging)">TraceLogger</a></td>
 <td><div class="summary">
-Implementation of [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) that logs to .NET [Trace](http://msdn.microsoft.com/en-us/library/36hhw2t6) class.
+Implementation of <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging" data-raw-source="[ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)">ILoggerFacade</a> that logs to .NET <a href="http://msdn.microsoft.com/en-us/library/36hhw2t6" data-raw-source="[Trace](http://msdn.microsoft.com/en-us/library/36hhw2t6)">Trace</a> class.
 </div></td>
 </tr>
 </tbody>
@@ -54,8 +54,8 @@ Implementation of [ILoggerFacade](/patterns-practices/reference/iloggerfacade-in
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public interface](/patterns-practices/reference/images/public-interface.gif)</td>
-<td>[ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)</td>
+<td><img src="/patterns-practices/reference/images/public-interface.gif" alt="Public interface"/></td>
+<td><a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging" data-raw-source="[ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)">ILoggerFacade</a></td>
 <td><div class="summary">
 Defines a simple logger façade to be used by the Prism Library.
 </div></td>
@@ -75,17 +75,17 @@ Defines a simple logger façade to be used by the Prism Library.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public enumeration](/patterns-practices/reference/images/pubenumeration.gif)</td>
-<td>[Category](/patterns-practices/reference/category-enumeration-mspp-logging)</td>
+<td><img src="/patterns-practices/reference/images/pubenumeration.gif" alt="Public enumeration"/></td>
+<td><a href="/patterns-practices/reference/category-enumeration-mspp-logging" data-raw-source="[Category](/patterns-practices/reference/category-enumeration-mspp-logging)">Category</a></td>
 <td><div class="summary">
-Defines values for the categories used by [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging).
+Defines values for the categories used by <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging" data-raw-source="[ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)">ILoggerFacade</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public enumeration](/patterns-practices/reference/images/pubenumeration.gif)</td>
-<td>[Priority](/patterns-practices/reference/priority-enumeration-mspp-logging)</td>
+<td><img src="/patterns-practices/reference/images/pubenumeration.gif" alt="Public enumeration"/></td>
+<td><a href="/patterns-practices/reference/priority-enumeration-mspp-logging" data-raw-source="[Priority](/patterns-practices/reference/priority-enumeration-mspp-logging)">Priority</a></td>
 <td><div class="summary">
-Defines values for the priorities used by [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging).
+Defines values for the priorities used by <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging" data-raw-source="[ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)">ILoggerFacade</a>.
 </div></td>
 </tr>
 </tbody>

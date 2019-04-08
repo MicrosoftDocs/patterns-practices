@@ -19,17 +19,17 @@ ms:mtpsurl: 'textlogger-dispose-method-boolean-mspp-logging.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Dispose()](/patterns-practices/reference/textlogger-dispose)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/textlogger-dispose" data-raw-source="[Dispose()](/patterns-practices/reference/textlogger-dispose)">Dispose()</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[Dispose(Boolean)](/patterns-practices/reference/textlogger-dispose-method-boolean-mspp-logging)</a></td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
+<td><a href="/patterns-practices/reference/textlogger-dispose-method-boolean-mspp-logging" data-raw-source="[Dispose(Boolean)](/patterns-practices/reference/textlogger-dispose-method-boolean-mspp-logging)">Dispose(Boolean)</a></a></td>
 <td><div class="summary">
-Disposes the associated [TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328).
+Disposes the associated <a href="http://msdn.microsoft.com/en-us/library/ywxh2328" data-raw-source="[TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328)">TextWriter</a>.
 </div></td>
 </tr>
 </tbody>

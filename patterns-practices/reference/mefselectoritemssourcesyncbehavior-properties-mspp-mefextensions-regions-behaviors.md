@@ -21,28 +21,28 @@ The [MefSelectorItemsSourceSyncBehavior](/patterns-practices/reference/mefselect
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[HostControl](/patterns-practices/reference/selectoritemssourcesyncbehavior-hostcontrol-property-mspp-regions-behaviors)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/selectoritemssourcesyncbehavior-hostcontrol-property-mspp-regions-behaviors" data-raw-source="[HostControl](/patterns-practices/reference/selectoritemssourcesyncbehavior-hostcontrol-property-mspp-regions-behaviors)">HostControl</a></td>
 <td><div class="summary">
-Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) is attached to.
+Gets or sets the <a href="http://msdn.microsoft.com/en-us/library/ms589309" data-raw-source="[DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)">DependencyObject</a> that the <a href="/patterns-practices/reference/iregion-interface-mspp-regions" data-raw-source="[IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)">IRegion</a> is attached to.
 </div>
-(Inherited from [SelectorItemsSourceSyncBehavior](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors).)</td>
+(Inherited from <a href="/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors" data-raw-source="[SelectorItemsSourceSyncBehavior](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)">SelectorItemsSourceSyncBehavior</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions" data-raw-source="[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)">IsAttached</a></td>
 <td><div class="summary">
 Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
 </div>
-(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions" data-raw-source="[RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)">RegionBehavior</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Region](/patterns-practices/reference/regionbehavior-region-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionbehavior-region-property-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/regionbehavior-region-property-mspp-regions)">Region</a></td>
 <td><div class="summary">
-Behavior's attached region.
+Behavior&#39;s attached region.
 </div>
-(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions" data-raw-source="[RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)">RegionBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>

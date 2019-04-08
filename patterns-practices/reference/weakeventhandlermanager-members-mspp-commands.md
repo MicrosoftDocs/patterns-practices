@@ -24,25 +24,25 @@ The [WeakEventHandlerManager](/patterns-practices/reference/weakeventhandlermana
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[AddWeakReferenceHandler](/patterns-practices/reference/weakeventhandlermanager-addweakreferencehandler-method-mspp-commands
-)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/weakeventhandlermanager-addweakreferencehandler-method-mspp-commands" data-raw-source="[AddWeakReferenceHandler](/patterns-practices/reference/weakeventhandlermanager-addweakreferencehandler-method-mspp-commands
+)">AddWeakReferenceHandler</a></td>
 <td><div class="summary">
 Adds a handler to the supplied list in a weak way.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[CallWeakReferenceHandlers](/patterns-practices/reference/weakeventhandlermanager-callweakreferencehandlers-method-mspp-commands
-)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/weakeventhandlermanager-callweakreferencehandlers-method-mspp-commands" data-raw-source="[CallWeakReferenceHandlers](/patterns-practices/reference/weakeventhandlermanager-callweakreferencehandlers-method-mspp-commands
+)">CallWeakReferenceHandlers</a></td>
 <td><div class="summary">
 Invokes the handlers
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[RemoveWeakReferenceHandler](/patterns-practices/reference/weakeventhandlermanager-removeweakreferencehandler-method-mspp-commands
-)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/weakeventhandlermanager-removeweakreferencehandler-method-mspp-commands" data-raw-source="[RemoveWeakReferenceHandler](/patterns-practices/reference/weakeventhandlermanager-removeweakreferencehandler-method-mspp-commands
+)">RemoveWeakReferenceHandler</a></td>
 <td><div class="summary">
 Removes an event handler from the reference list.
 </div></td>

@@ -19,19 +19,19 @@ ms:mtpsurl: 'delegatecommand-execute-method-mspp-commands.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Execute()](/patterns-practices/reference/delegatecommand-execute-method-mspp-commands)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/delegatecommand-execute-method-mspp-commands" data-raw-source="[Execute()](/patterns-practices/reference/delegatecommand-execute-method-mspp-commands)">Execute()</a></td>
 <td><div class="summary">
 Executes the command.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[Execute(Object)](/patterns-practices/reference/delegatecommandbase-execute-method-mspp-commands)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
+<td><a href="/patterns-practices/reference/delegatecommandbase-execute-method-mspp-commands" data-raw-source="[Execute(Object)](/patterns-practices/reference/delegatecommandbase-execute-method-mspp-commands)">Execute(Object)</a></td>
 <td><div class="summary">
-Executes the command with the provided parameter by invoking the [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8) supplied during construction.
+Executes the command with the provided parameter by invoking the <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8" data-raw-source="[Action&amp;lt;T&amp;gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8)">Action&lt;T&gt;</a> supplied during construction.
 </div>
-(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>
+(Inherited from <a href="/patterns-practices/reference/delegatecommandbase-class-mspp-commands" data-raw-source="[DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)">DelegateCommandBase</a>.)</td>
 </tr>
 </tbody>
 </table>

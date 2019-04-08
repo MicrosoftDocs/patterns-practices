@@ -21,8 +21,8 @@ The [BindableBase](/patterns-practices/reference/bindablebase-class-mspp-mvvm) t
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/public-event.gif)</td>
-<td>[PropertyChanged](/patterns-practices/reference/bindablebase-propertychanged-event-mspp-mvvm)</td>
+<td><img src="/patterns-practices/reference/images/public-event.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/bindablebase-propertychanged-event-mspp-mvvm" data-raw-source="[PropertyChanged](/patterns-practices/reference/bindablebase-propertychanged-event-mspp-mvvm)">PropertyChanged</a></td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div></td>

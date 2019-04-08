@@ -21,8 +21,8 @@ The [IDispatcherFacade](/patterns-practices/reference/idispatcherfacade-interfac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[BeginInvoke](/patterns-practices/reference/idispatcherfacade-begininvoke-method-mspp-events)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/idispatcherfacade-begininvoke-method-mspp-events" data-raw-source="[BeginInvoke](/patterns-practices/reference/idispatcherfacade-begininvoke-method-mspp-events)">BeginInvoke</a></td>
 <td><div class="summary">
 Dispatches an invocation to the method received as parameter.
 </div></td>

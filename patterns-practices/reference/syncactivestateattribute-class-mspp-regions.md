@@ -28,8 +28,8 @@ Public NotInheritable Class SyncActiveStateAttribute
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)  
-    Microsoft.Practices.Prism.Regions.SyncActiveStateAttribute
+  [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)  
+    Microsoft.Practices.Prism.Regions.SyncActiveStateAttribute
 
 ## See Also
 

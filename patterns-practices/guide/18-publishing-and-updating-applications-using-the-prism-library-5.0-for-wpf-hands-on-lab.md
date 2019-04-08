@@ -23,9 +23,9 @@ This guidance was designed to run on the Microsoft Windows 8, Windows 7, Windows
 
 Before you can use the Prism Library, the following must be installed:
 
--  Microsoft Visual Studio 2013 Professional, Premium, or Ultimate editions
--  Microsoft .NET Framework 4.5 (installed with Visual Studio 2013)
--  Optional tool:
+- Microsoft Visual Studio 2013 Professional, Premium, or Ultimate editions
+- Microsoft .NET Framework 4.5 (installed with Visual Studio 2013)
+- Optional tool:
   -  [Microsoft Blend for Visual Studio 2013](http://www.microsoft.com/expression/products/blend_overview)
 
 ## Preparation
@@ -74,24 +74,24 @@ The following procedure describes how to configure the ClickOnce publish setting
 
 1. In Visual Studio, open the project properties for the ModularityWithUnity.Desktop WPF project. To do this, right-click the project in Solution Explorer, and then click **Properties**. In the project settings, click the **Publish** tab. The ClickOnce publishing settings will be shown, as in the following illustration.
 
-  ![](images/clickonce-publish-settings.png "ClickOnce publish settings")
+   ![](images/clickonce-publish-settings.png "ClickOnce publish settings")
 
-  ClickOnce publish settings
+   ClickOnce publish settings
 
 2. Change the publishing folder location to **http://localhost/PrismDeploymentHOL** if you have IIS on your local computer. If you do not, you can publish to another IIS computer for which you have administrator permissions to create a new virtual directory, or you can use a fully qualified Universal Naming Convention (UNC) file path (such as \\\\mymachinename\\c$\\PrismDeploymentHOL) if you first create that directory. The address used is the one that will be used to install the application later in the lab, so make sure you note the address. This address is the physical address you use to push the ClickOnce manifests and application files to the deployment server when you publish.
 3. The installation folder URL can be used if the externally exposed address used for installation of the application will be different from the one used for publishing (for example, if you are publishing via FTP to one of your servers, but users will install the application based on an externally visible HTTP path to that server). This path represents the installation address on the deployment server to the users. If the path is not supplied, it is assumed you can launch the application using the same address you used to publish.
 4. The install mode and settings provide you fine-grained options for configuring the way the application installs, what files it is composed of, if there are prerequisite installations that need to happen first (such as installing the .NET Framework 4.5), how updates are performed, and a number of other options. For this lab, you will use the default settings, which configures the application to install for offline use (meaning it can at least be launched even if you are not connected to the deployment server, but it depends on what your application does after launch as to whether it will function properly). The default settings also set the application to automatically update before launch if a new version is detected on the deployment server.
 5. Click the **Updates** button, and then select check box labeled **The application should check for updates**, as shown in the following illustration.
 
-  ![](images/application-updates-dialog-box.png "Application Updates dialog box")
+   ![](images/application-updates-dialog-box.png "Application Updates dialog box")
 
-  Application Updates dialog box
+   Application Updates dialog box
 
 6. Click the **Options** button. In the **Options** dialog box, click **Manifests** in the left pane, and then select the check box labeled **Create desktop shortcut**.
 
-  ![](images/publish-options-dialog-box.png "Publish Options dialog box")
+   ![](images/publish-options-dialog-box.png "Publish Options dialog box")
 
-  Publish Options dialog box
+   Publish Options dialog box
 
 7. The publish version drives detection of updates for installed ClickOnce applications. Generally, you want to be in explicit control over this version in a real deployment. For this lab, you will allow Visual Studio to automatically increment this version number each time you publish.
 
@@ -102,15 +102,15 @@ The following procedure explains how to set up the certificate used for signing 
 1. In the shell project properties, click the **Signing** tab.
 2. Select the check box labeled **Sign the ClickOnce manifests**. The certificate information will initially be blank if you have not previously created or associated a certificate with the project.
 
-  ![](images/clickonce-publish-project-property-settings.png "ClickOnce Publish project property settings")
+   ![](images/clickonce-publish-project-property-settings.png "ClickOnce Publish project property settings")
 
-  ClickOnce Publish project property settings
+   ClickOnce Publish project property settings
 
 3. Click the **Create Test Certificate** button. This opens the Create Test Certificate dialog box, as shown in the following illustration.
 
-  ![](images/create-test-certificate-password-dialog-box.png "Create Test Certificate password dialog box")
+   ![](images/create-test-certificate-password-dialog-box.png "Create Test Certificate password dialog box")
 
-  Create Test Certificate password dialog box
+   Create Test Certificate password dialog box
 
 4. Click **OK** to leave the test certificate without a password.
 5. The certificate information should now be populated, and the certificate name and issuer will be based on your logged-on Windows account information. If you have an existing certificate as a file or already installed in your certificate stores, you can select the certificate using one of the buttons next to the certificate information instead.
@@ -121,19 +121,19 @@ The following procedure explains how to set up the certificate used for signing 
 2. In Visual Studio, click **Publish ModularityWithUnity.Desktop** on the **Build** menu.
 3. The **Publish Wizard** dialog box displays the publish folder location address that you entered in step 2, as shown in the following illustration. Click **Finish** to publish the application.
 
-  ![](images/publish-wizard-dialog-box.png "Publish Wizard dialog box")
+   ![](images/publish-wizard-dialog-box.png "Publish Wizard dialog box")
 
-  Publish Wizard dialog box
+   Publish Wizard dialog box
 
-  > [!NOTE]
-> Depending on the computer you publish to and the security settings, you may get a warning that Visual Studio is unable to view the published application. This simply means it was unable to launch a browser and navigate to the publish location URL. However, the application is not really ready to install yet at this point because you need to add the dynamic modules to the manifests in the next task.
+   > [!NOTE]
+   > Depending on the computer you publish to and the security settings, you may get a warning that Visual Studio is unable to view the published application. This simply means it was unable to launch a browser and navigate to the publish location URL. However, the application is not really ready to install yet at this point because you need to add the dynamic modules to the manifests in the next task.
 
 ## Task 2: Updating the Manifests to Include Dynamically Loaded Module Assemblies
 
 In this task, you will edit the ClickOnce manifests of your deployed application to add the dynamic module assemblies. This involves editing the application files list in the application manifest, saving and re-signing the application manifest, updating the application manifest reference within the deployment manifest, and saving and re-signing the deployment manifest. These steps can all be performed individually using the .NET Framework SDK tool named the Manifest Generating and Editing tool (Mage). However, the Manifest Manager Utility that you can download from the Prism CodePlex site automates these steps into a single easy editor. To accomplish them, you will do the following:
 
 1. **Open the deployment manifest in the Manifest Manager Utility**. In this task, you run the utility to simplify editing of the manifests.
-  >**Important:** You must run this utility as an administrator.
+   >**Important:** You must run this utility as an administrator.
 
 2. **Add the dynamically loaded modules to the manifests**. In this task, you locate and add the dynamic module assemblies to the manifest and get them deployed to the publish location.
 3. **Save and sign the manifests**. In this task, you select the publisher certificate used for signing the ClickOnce manifests to save and re-sign the manifests.
@@ -144,46 +144,46 @@ The following procedure describes how to add the dynamic module assemblies to th
 
 1. If you have not already done so, download the most recent Manifest Manager Utility from the **Download** section of the Prism CodePlex site at <http://compositewpf.codeplex.com/releases/view/14771> and unzip it to a working directory on your computer.
 2. In Visual Studio 2013, open the file ManifestManagerUtility.sln, build it, and run it.
-  >**Important:** You must run this utility as an administrator. If you are running this from Visual Studio, you must start Visual Studio as an administrator.
+   >**Important:** You must run this utility as an administrator. If you are running this from Visual Studio, you must start Visual Studio as an administrator.
 
 3. On the **File** menu, click **Open**, and then navigate to the publish folder location where you published the QuickStart in the previous task. In that folder, select the deployment manifest file ModularityWithUnity.Desktop.application, and then click **Open**.
 
-  ![](images/open-dialog-box-from-Manifest-Manager-Utility-in-publish-folder-location.png "Open dialog box from Manifest Manager Utility in publish folder location")
+   ![](images/open-dialog-box-from-Manifest-Manager-Utility-in-publish-folder-location.png "Open dialog box from Manifest Manager Utility in publish folder location")
 
-  Open dialog box from Manifest Manager Utility in publish folder location
+   Open dialog box from Manifest Manager Utility in publish folder location
 
 4. The deployment and linked application manifest files will be opened by the utility and will be presented in the unified view of the utility, as shown in the following illustration. You can see that the shell executable file and all referenced assemblies that are not part of the framework are automatically included. Note that Modules A and C are included because they were referenced for static loading by the QuickStart, but you will need to add the additional modules using the utility.
 
-  ![](images/manifest-manager-utility.png "Manifest Manager utility")
+   ![](images/manifest-manager-utility.png "Manifest Manager utility")
 
-  Manifest Manager utility
+   Manifest Manager utility
 
-1. **To add the dynamically loaded modules to the manifest**
-2. On the **Edit** menu, click **Add Files**. In the **Add Application Files** dialog box, navigate to the build output folder for Module B (such as C:\\temp\\ModularityWithUnity\\ModuleB\\bin\\Debug\\) and select the module DLL (such as ModularityWithUnity.Desktop.ModuleB.dll). In the **Add Application Files** dialog box, click **Open** to add the module DLL to the manifest.
-3. When you click **Open**, a **Browse For Folder** dialog box appears. In this dialog box, you can specify the destination folder to copy the module file to the publish folder. Modules B and D are loaded in the QuickStart through directory scan, and the bootstrapper sets the folder it scans to a relative path of .\\DirectoryModules from the executable file. This means the files need to be in that same relative path in the published application.
-4. Select the version-specific Application Files folder, and then click the **Make New Folder** button at the bottom of the dialog box.
-5. Name the new folder DirectoryModules.
-6. Make sure the new folder is selected, and then click **OK**. This copies the Module B DLL into the DirectoryModules subfolder of the application files, as shown in the following illustration.
+5. **To add the dynamically loaded modules to the manifest**
+6. On the **Edit** menu, click **Add Files**. In the **Add Application Files** dialog box, navigate to the build output folder for Module B (such as C:\\temp\\ModularityWithUnity\\ModuleB\\bin\\Debug\\) and select the module DLL (such as ModularityWithUnity.Desktop.ModuleB.dll). In the **Add Application Files** dialog box, click **Open** to add the module DLL to the manifest.
+7. When you click **Open**, a **Browse For Folder** dialog box appears. In this dialog box, you can specify the destination folder to copy the module file to the publish folder. Modules B and D are loaded in the QuickStart through directory scan, and the bootstrapper sets the folder it scans to a relative path of .\\DirectoryModules from the executable file. This means the files need to be in that same relative path in the published application.
+8. Select the version-specific Application Files folder, and then click the **Make New Folder** button at the bottom of the dialog box.
+9. Name the new folder DirectoryModules.
+10. Make sure the new folder is selected, and then click **OK**. This copies the Module B DLL into the DirectoryModules subfolder of the application files, as shown in the following illustration.
 
-  ![](images/browse-for-folder-dialog-box-with-directorymodules-subfolder-selected.png "Browse For Folder dialog box with DirectoryModules subfolder selected")
+    ![](images/browse-for-folder-dialog-box-with-directorymodules-subfolder-selected.png "Browse For Folder dialog box with DirectoryModules subfolder selected")
 
-  Browse For Folder dialog box with DirectoryModules subfolder selected
+    Browse For Folder dialog box with DirectoryModules subfolder selected
 
-7. Repeat the preceding steps to add Module D to the manifest and place it in the DirectoryModules subfolder.
-8. Repeat the preceding steps to add Modules E and F to the manifest, but those both go in the root Application Files folder (ModularityWithUnity.Desktop\_1\_0\_0\_0).
-9. At this point, the additional modules should be listed in Manifest Manager Utility with the relative path shown for Modules B and D, as shown in the following illustration (order does not matter).
+11. Repeat the preceding steps to add Module D to the manifest and place it in the DirectoryModules subfolder.
+12. Repeat the preceding steps to add Modules E and F to the manifest, but those both go in the root Application Files folder (ModularityWithUnity.Desktop\_1\_0\_0\_0).
+13. At this point, the additional modules should be listed in Manifest Manager Utility with the relative path shown for Modules B and D, as shown in the following illustration (order does not matter).
 
-  ![](images/manifest-manager-utility-with-modules-b-d-E-and-F-added.png "Manifest Manager utility with Modules B, D, E, and F added")
+    ![](images/manifest-manager-utility-with-modules-b-d-E-and-F-added.png "Manifest Manager utility with Modules B, D, E, and F added")
 
-  Manifest Manager utility with Modules B, D, E, and F added
+    Manifest Manager utility with Modules B, D, E, and F added
 
 **To sign and save the manifests**
 
 1. Click the **Save** button on the toolbar of the utility. This opens the **Select Publisher Certificate to Sign Manifest** dialog box.
 
-  ![](images/select-publisher-certificate-to-Sign-manifest-dialog-box.png "Select Publisher Certificate to Sign Manifest dialog box")
+   ![](images/select-publisher-certificate-to-Sign-manifest-dialog-box.png "Select Publisher Certificate to Sign Manifest dialog box")
 
-  Select Publisher Certificate to Sign Manifest dialog box
+   Select Publisher Certificate to Sign Manifest dialog box
 
 2. Click the **Browse** button, and then locate and select the ModularityWithUnity.Desktop\_TemporaryKey.pfx file that was generated when you added the test certificate to the project in the first task of this lab.
 3. Click the **Save and Sign** button, leaving the password blank again.
@@ -199,27 +199,27 @@ In this task, you will launch and install the application.
 1. Open an Internet Explorer browser window and enter the address you used as the publish folder location with the deployment manifest (.application file) path added to the end of it (such as http://localhost/PrismDeploymentHOL/ModularityWithUnity.Desktop.application).
 2. A **Launching Application** dialog box briefly appears as ClickOnce downloads the manifests for the application, as shown in the following illustration.
 
-  ![](images/clickonce-launching-application-dialog-box.png "ClickOnce Launching Application dialog box")
+   ![](images/clickonce-launching-application-dialog-box.png "ClickOnce Launching Application dialog box")
 
-  ClickOnce Launching Application dialog box
+   ClickOnce Launching Application dialog box
 
 3. A security warning appears, as shown in the following illustration. It notifies the user of who the publisher of this application is. Because you are using a test certificate, it will show an unknown publisher. To get a more friendly security warning, you will need a certificate issued from a trusted root certification authority.
 
-  ![](images/clickonce-security-warning.png "ClickOnce security warning")
+   ![](images/clickonce-security-warning.png "ClickOnce security warning")
 
-  ClickOnce security warning
+   ClickOnce security warning
 
 4. Click **Install.** While the rest of the application files are downloaded and launched, you will briefly see a dialog box with a progress bar, as shown in the following illustration.
 
-  ![](images/install-progress-bar.png "Install progress bar")
+   ![](images/install-progress-bar.png "Install progress bar")
 
-  Install progress bar
+   Install progress bar
 
 5. The QuickStart should launch and you should see Modules A and D load when it starts. You can click on the other squares to get the other modules to load on demand.
 
-  ![](images/modularity-with-unity-quickstart-running.png "Modularity with Unity QuickStart running")
+   ![](images/modularity-with-unity-quickstart-running.png "Modularity with Unity QuickStart running")
 
-  Modularity with Unity QuickStart running
+   Modularity with Unity QuickStart running
 
 ## Task 4: Publishing an Updated Version of the Application and Updating the Manifests
 
@@ -265,8 +265,8 @@ In this task, you will launch the application as the client computer and see tha
 1. Locate the shortcut on your desktop that was created when you installed the initial version of the application (ModularityWithUnity.Desktop), and then click it to launch the application from the client computer.
 2. The Update Available dialog box appears, as shown in the following illustration. Click **OK** to accept the update.
 
-  ![](images/update-available-dialog-box.png "Update Available dialog box")
+   ![](images/update-available-dialog-box.png "Update Available dialog box")
 
-  Update Available dialog box
+   Update Available dialog box
 
 You should see the modified title on the application after it has launched.

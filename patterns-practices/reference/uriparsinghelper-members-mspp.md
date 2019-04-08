@@ -22,22 +22,22 @@ The [UriParsingHelper](/patterns-practices/reference/uriparsinghelper-class-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[GetAbsolutePath](/patterns-practices/reference/uriparsinghelper-getabsolutepath-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/uriparsinghelper-getabsolutepath-method-mspp" data-raw-source="[GetAbsolutePath](/patterns-practices/reference/uriparsinghelper-getabsolutepath-method-mspp)">GetAbsolutePath</a></td>
 <td><div class="summary">
 Gets the AbsolutePath part of uri.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[GetQuery](/patterns-practices/reference/uriparsinghelper-getquery-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/uriparsinghelper-getquery-method-mspp" data-raw-source="[GetQuery](/patterns-practices/reference/uriparsinghelper-getquery-method-mspp)">GetQuery</a></td>
 <td><div class="summary">
 Gets the query part of uri.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[ParseQuery](/patterns-practices/reference/uriparsinghelper-parsequery-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/uriparsinghelper-parsequery-method-mspp" data-raw-source="[ParseQuery](/patterns-practices/reference/uriparsinghelper-parsequery-method-mspp)">ParseQuery</a></td>
 <td><div class="summary">
 Parses the query of uri into a dictionary.
 </div></td>

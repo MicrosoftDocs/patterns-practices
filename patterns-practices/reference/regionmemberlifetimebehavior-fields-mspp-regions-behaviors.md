@@ -21,8 +21,8 @@ The [RegionMemberLifetimeBehavior](/patterns-practices/reference/regionmemberlif
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[BehaviorKey](/patterns-practices/reference/regionmemberlifetimebehavior-behaviorkey-field-mspp-regions-behaviors)</td>
+<td><img src="/patterns-practices/reference/images/public-field.gif" alt="Public field"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/regionmemberlifetimebehavior-behaviorkey-field-mspp-regions-behaviors" data-raw-source="[BehaviorKey](/patterns-practices/reference/regionmemberlifetimebehavior-behaviorkey-field-mspp-regions-behaviors)">BehaviorKey</a></td>
 <td><div class="summary">
 The key for this behavior.
 </div></td>

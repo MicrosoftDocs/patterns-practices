@@ -20,17 +20,17 @@ ms:mtpsurl: 'modulemanager-dispose-method-boolean-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Dispose()](/patterns-practices/reference/modulemanager-dispose-method-mspp-modularity)</a></td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/modulemanager-dispose-method-mspp-modularity" data-raw-source="[Dispose()](/patterns-practices/reference/modulemanager-dispose-method-mspp-modularity)">Dispose()</a></a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[Dispose(Boolean)](/patterns-practices/reference/modulemanager-dispose-method-boolean-mspp-modularity)</a></td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
+<td><a href="/patterns-practices/reference/modulemanager-dispose-method-boolean-mspp-modularity" data-raw-source="[Dispose(Boolean)](/patterns-practices/reference/modulemanager-dispose-method-boolean-mspp-modularity)">Dispose(Boolean)</a></a></td>
 <td><div class="summary">
-Disposes the associated [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity)s.
+Disposes the associated <a href="/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity" data-raw-source="[IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity)">IModuleTypeLoader</a>s.
 </div></td>
 </tr>
 </tbody>

@@ -34,6 +34,7 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "patterns-practices"
+    "dest": "patterns-practices",
+    "markdownEngineName": "markdig"
   }
 }

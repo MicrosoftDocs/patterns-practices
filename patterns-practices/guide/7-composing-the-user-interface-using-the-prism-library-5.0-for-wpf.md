@@ -516,7 +516,7 @@ To allow views to participate in ordering themselves, the Prism Library provides
 
 When displaying views, the **Region** class uses a default view sorting routine that uses the hint to order the views. This is a simple case-sensitive ordinal sort. Views that have the sort hint attribute are ordered ahead of those without. Also, those without the attribute appear in the order they were added to the region.
 
-If you want to change how views are ordered, the **Region** class provides a **SortComparison** property that you can set with your own **Comparison*&lt;object&gt;* delegate method. It is important to note that the ordering of the region's **Views** and **ActiveViews** properties are reflected in the UI because adapters such as the **ItemsControlRegionAdapter** bind directly to these properties. A custom region adapter could implement its own sorting and filter that will override how the region orders views.
+If you want to change how views are ordered, the **Region** class provides a **SortComparison** property that you can set with your own <strong>Comparison<em>&lt;object&gt;</em> delegate method. It is important to note that the ordering of the region's **Views</strong> and **ActiveViews** properties are reflected in the UI because adapters such as the **ItemsControlRegionAdapter** bind directly to these properties. A custom region adapter could implement its own sorting and filter that will override how the region orders views.
 
 The View Switching QuickStart demonstrates a simple numbering scheme to order the views in the left-hand-side navigation region. The following code examples show **ViewSortHint** applied to each of the navigation item views.
 
@@ -699,16 +699,16 @@ The two previous figures illustrate one of the challenges of working with high-l
 
 Consider the following when you design the layout of a composite application:
 
--  The shell defines the main layout of the application. Each area of the layout is a region and should be kept as an empty container. Do not place content inside regions at design time because content will be loaded there at run time.
--  The shell should contain the background, titles, and the footer. Think of the shell as an ASP.NET master page.
--  Control containers that act as regions are decoupled from the views that they contain. Therefore, you should be able to change the size of the views without modifying the controls, and you should be able to change the size of the controls without modifying the views. You should consider the following when defining the size of a view:
+- The shell defines the main layout of the application. Each area of the layout is a region and should be kept as an empty container. Do not place content inside regions at design time because content will be loaded there at run time.
+- The shell should contain the background, titles, and the footer. Think of the shell as an ASP.NET master page.
+- Control containers that act as regions are decoupled from the views that they contain. Therefore, you should be able to change the size of the views without modifying the controls, and you should be able to change the size of the controls without modifying the views. You should consider the following when defining the size of a view:
   -  If a view will be used in several regions or if it is uncertain where it will be used, design it with dynamic width and height.
   -  If the views have fixed sizes, the regions of the shell should use dynamic sizes.
   -  If the shell regions have fixed sizes, the views should use dynamic sizes.
   -  Views might require a fixed height and dynamic width. An example of this is the **PositionPieChart** view located in the sidebar of the Stock Trader RI.
   -  Other views might require a dynamic height and width. For example, the **NewsReader** views in the sidebar of the Stock Trader RI. The height itself depends on the title's length, and the width should always adapt to the region's size (sidebar width). The same applies to the **PositionSummaryView** view, where the grid's width should adapt to the screen size and the height should adapt to the number of rows in the grid.
--  Views should generally have transparent backgrounds, allowing the shell background to provide the application visual background.
--  Always use named resources for assigning colors, brushes, fonts and font sizes, rather than directly assigning the property value in XAML. This makes application maintenance much easier over time. It also allows an application to respond to changes in resource dictionaries at run time.
+- Views should generally have transparent backgrounds, allowing the shell background to provide the application visual background.
+- Always use named resources for assigning colors, brushes, fonts and font sizes, rather than directly assigning the property value in XAML. This makes application maintenance much easier over time. It also allows an application to respond to changes in resource dictionaries at run time.
 
 ### Animation
 
@@ -755,7 +755,7 @@ The following are some of the characteristics of a designer friendly (also known
 
 The following actions are performed many times during an editing session. User code that is not designer friendly will cause one or more of these actions to fail, thus reducing the productivity and creativity of a developer or designer.
 
--  Design surface actions:
+- Design surface actions:
   -  Constructing objects
   -  Loading objects
   -  Setting property values
@@ -765,11 +765,11 @@ The following actions are performed many times during an editing session. User c
   -  Opening, closing, and reopening a XAML file repeatedly
   -  Rebuilding the project
   -  Reloading the designer
--  Binding builder actions:
+- Binding builder actions:
   -  Discovering the **DataContext**
   -  Listing the available data sources
   -  Listing data source type properties
--  Design-time sample data actions:
+- Design-time sample data actions:
   -  Using controls on the design surface to correctly display sample data
 
 ### Coding for Design Time
@@ -786,25 +786,25 @@ The following table lists the main causes of poor design-time experiences. By av
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p>**Avoid This in User Code**</p></td>
-<td><p>**Visual Studio 2013**</p></td>
-<td><p>**Blend for Visual Studio 2013**</p></td>
+<td><p><strong>Avoid This in User Code</strong></p></td>
+<td><p><strong>Visual Studio 2013</strong></p></td>
+<td><p><strong>Blend for Visual Studio 2013</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>Spinning multiple threads at design time. For example, instantiating and starting a **Timer** in a constructor or **Loaded** event at design time.</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
+<td><p>Spinning multiple threads at design time. For example, instantiating and starting a <strong>Timer</strong> in a constructor or <strong>Loaded</strong> event at design time.</p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
 </tr>
 <tr class="odd">
 <td><p>Using controls that cause stack overflows at design time.</p>
 <p>Using controls that attempt to recursively load themselves.</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
 </tr>
 <tr class="even">
 <td><p>Throwing null reference exceptions in converters or data template selectors.</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
 </tr>
 <tr class="odd">
 <td><p>Throwing null reference or other exceptions in constructors. These are caused by:</p>
@@ -812,23 +812,23 @@ The following table lists the main causes of poor design-time experiences. By av
 <li>Using code that calls into the business or data layers to return data from a database or over the network at design time.</li>
 <li>Attempting to resolve dependencies by using MEF, inversion of control (IoC), or a Service Locator before bootstrapping or container initialization code has run.</li>
 </ul></td>
-<td><p>![](images/avoid-code.png)</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
 </tr>
 <tr class="even">
-<td><p>Throwing null reference or other exceptions inside the **Loaded** events of controls or user controls. This happens when you make assumptions about the state of the control that might be true at run time but are not true at design time.</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
+<td><p>Throwing null reference or other exceptions inside the <strong>Loaded</strong> events of controls or user controls. This happens when you make assumptions about the state of the control that might be true at run time but are not true at design time.</p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
 </tr>
 <tr class="odd">
-<td><p>Attempting to access the **Application** or **Application.Current** object at design time.</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
+<td><p>Attempting to access the <strong>Application</strong> or <strong>Application.Current</strong> object at design time.</p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
 </tr>
 <tr class="even">
 <td><p>Creating very large projects.</p></td>
-<td><p>![](images/approve-code.png)</p></td>
-<td><p>![](images/avoid-code.png)</p></td>
+<td><p><img src="images/approve-code.png" alt=""/></p></td>
+<td><p><img src="images/avoid-code.png" alt=""/></p></td>
 </tr>
 </tbody>
 </table>
@@ -839,11 +839,11 @@ A few defensive coding practices will eliminate most of the issues described in 
 
 When your application executes at run time, the startup code in App.xaml.cs or App.xaml.vb is run. If you have code in there that the rest of your application depends on, this code will not have been executed at design time. If you have not anticipated this in your code, unwanted exceptions will occur. (This is why attempting to access the **Application** or **Application.Current** object in user code at design time will result in exceptions.) To mitigate these issues:
 
--  Never assume that referenced objects will be instantiated in design-time code. In code that can be executed at design time, always perform a null check before accessing any reference object.
--  If your code accesses the **Application** or **Application.Current** objects, perform a null reference check before accessing the object.
--  If your constructors or **Loaded** event handlers need to run complex code or code that accesses a database or calls out to the network, consider one of the following solutions:
-  -  Wrap the code inside a check that determines if the code is running at design time by calling the **System.ComponentModel DesignerProperties** method, **DesignerProperties.GetIsInDesignMode**.
-  -  Instead of running the code directly in the constructor or **Loaded** event handler, abstract the calls to a class behind an interface, and then use one of many techniques to resolve that dependency differently at design time, run time, and test time.
+- Never assume that referenced objects will be instantiated in design-time code. In code that can be executed at design time, always perform a null check before accessing any reference object.
+- If your code accesses the **Application** or **Application.Current** objects, perform a null reference check before accessing the object.
+- If your constructors or **Loaded** event handlers need to run complex code or code that accesses a database or calls out to the network, consider one of the following solutions:
+  - Wrap the code inside a check that determines if the code is running at design time by calling the **System.ComponentModel DesignerProperties** method, **DesignerProperties.GetIsInDesignMode**.
+  - Instead of running the code directly in the constructor or **Loaded** event handler, abstract the calls to a class behind an interface, and then use one of many techniques to resolve that dependency differently at design time, run time, and test time.
 
     For example, instead of calling out to a data service directly to retrieve data, wrap the data service calls in a class that exposes the methods through an interface. Then, at design time, resolve the interface with a mock or design-time object.
 
@@ -895,19 +895,19 @@ If markup extensions are new to you, read [Markup Extensions and WPF XAML](http:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p>**Markup Extension Property**</p></td>
-<td><p>**Definition**</p></td>
+<td><p><strong>Markup Extension Property</strong></p></td>
+<td><p><strong>Definition</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>**Type**</p></td>
+<td><p><strong>Type</strong></p></td>
 <td><p>Name of the Type that will be created. Type is the default parameter in the constructor.</p></td>
 </tr>
 <tr class="odd">
-<td><p>**IsDesignTimeCreatable**</p></td>
+<td><p><strong>IsDesignTimeCreatable</strong></p></td>
 <td><p>Can the specified Type be created? If false, a faux Type will be created rather than the real Type. The default is false.</p></td>
 </tr>
 <tr class="even">
-<td><p>**CreateList**</p></td>
+<td><p><strong>CreateList</strong></p></td>
 <td><p>If true, returns a generic list of the specified Type. The default is false.</p></td>
 </tr>
 </tbody>
@@ -956,7 +956,7 @@ This is a good pattern for wiring up a view and view model; however, it leaves t
 
 In the following XAML example, you can see the **d:DesignInstance** markup extension used on the **Grid** to return a faux instance of **PersonViewModel** that is then exposed by the **d:DataContext**. As a result, all child controls of the **Grid** will inherit the **d:DataContext**, enabling the designer tooling to discover and use its types and properties, resulting in a more productive design experience for developers and designers.
 
-  <!PersonView.xaml >
+  &lt;!PersonView.xaml &gt;
   <UserControl 
    xmlns:local="clr-namespace:WpfApplication1"
    x:Class="WpfApplication1.PersonView"
@@ -970,26 +970,26 @@ In the following XAML example, you can see the **d:DesignInstance** markup exten
    <Border BorderBrush="LightGray" BorderThickness="1" CornerRadius="10" Padding="10">
 
    <Grid d:DataContext="{d:DesignInstance local:PersonViewModel}">
-    <Grid.RowDefinitions>
+    &lt;Grid.RowDefinitions&gt;
     <RowDefinition Height="Auto" />
     <RowDefinition Height="Auto" />
-    </Grid.RowDefinitions>
-    <Grid.ColumnDefinitions>
+    &lt;/Grid.RowDefinitions&gt;
+    &lt;Grid.ColumnDefinitions&gt;
     <ColumnDefinition Width="100" />
     <ColumnDefinition Width="Auto" />
-    </Grid.ColumnDefinitions>
+    &lt;/Grid.ColumnDefinitions&gt;
 
-    <Label Grid.Column="0" Grid.Row="0" Content="First Name" />
-    <Label Grid.Column="0" Grid.Row="1" Content="Las Name" />
+    &lt;Label Grid.Column=&quot;0&quot; Grid.Row=&quot;0&quot; Content=&quot;First Name&quot; /&gt;
+    &lt;Label Grid.Column=&quot;0&quot; Grid.Row=&quot;1&quot; Content=&quot;Las Name&quot; /&gt;
 
-    <TextBox 
-    Grid.Column="1" Grid.Row="0" Width="150" MaxLength="50" 
-    HorizontalAlignment="Left" VerticalAlignment="Top"
-    Text="{Binding Path=FirstName, Mode=TwoWay}" />
-    <TextBox 
-    Grid.Column="1" Grid.Row="1" Width="150" MaxLength="50" 
-    HorizontalAlignment="Left" VerticalAlignment="Top"
-    Text="{Binding Path=LasName, Mode=TwoWay}" />
+    &lt;TextBox 
+    Grid.Column=&quot;1&quot; Grid.Row=&quot;0&quot; Width=&quot;150&quot; MaxLength=&quot;50&quot; 
+    HorizontalAlignment=&quot;Left&quot; VerticalAlignment=&quot;Top&quot;
+    Text=&quot;{Binding Path=FirstName, Mode=TwoWay}&quot; /&gt;
+    &lt;TextBox 
+    Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot; Width=&quot;150&quot; MaxLength=&quot;50&quot; 
+    HorizontalAlignment=&quot;Left&quot; VerticalAlignment=&quot;Top&quot;
+    Text=&quot;{Binding Path=LasName, Mode=TwoWay}&quot; /&gt;
 
    </Grid>
    </Border>
@@ -1058,8 +1058,8 @@ When Blend is used to create sample data for a class, it creates a XAML sample d
 </thead>
 <tbody>
 <tr class="odd">
-<td>In the next illustration, the **Custom Tool** property is empty. This is required for sample data to work correctly. By default, Blend correctly sets this property to empty.<br />
-When you use Visual Studio 2013 to add a sample data file, you typically add a new resource dictionary item and edit from there. In this case, you must set the **Build Action** and clear the **Custom Tool** property.</td>
+<td>In the next illustration, the <strong>Custom Tool</strong> property is empty. This is required for sample data to work correctly. By default, Blend correctly sets this property to empty.<br />
+When you use Visual Studio 2013 to add a sample data file, you typically add a new resource dictionary item and edit from there. In this case, you must set the <strong>Build Action</strong> and clear the <strong>Custom Tool</strong> property.</td>
 </tr>
 </tbody>
 </table>
@@ -1127,18 +1127,18 @@ For more information about region navigation, see [Navigation](/patterns-practic
 
 For more information about the guidelines discussed in this topic, see the following:
 
--  [Dependency Properties Overview](http://msdn.microsoft.com/en-us/library/ms752914.aspx) on MSDN.
--  Data binding; see:
+- [Dependency Properties Overview](http://msdn.microsoft.com/en-us/library/ms752914.aspx) on MSDN.
+- Data binding; see:
   -  [Data Binding Overview](http://msdn.microsoft.com/en-us/library/ms742521.aspx) on MSDN.
   -  [Data Binding in WPF](http://msdn.microsoft.com/en-us/magazine/cc163299.aspx) in *MSDN Magazine*.
--  [Data Templating Overview](http://msdn.microsoft.com/en-us/library/ms742521.aspx) on MSDN.
--  [Resources Overview](http://msdn.microsoft.com/en-us/library/ms750613.aspx) on MSDN.
--  [UserControl Class](http://msdn.microsoft.com/en-us/library/system.windows.forms.usercontrol.aspx) on MSDN.
--  [VisualStateManager Class](http://msdn.microsoft.com/en-us/library/cc626338(v=vs.95).aspx) on MSDN.
--  [Customizing Controls For Windows Presentation Foundation](http://msdn.microsoft.com/en-us/magazine/cc163421.aspx) in *MSDN Magazine*.
--  [ComponentResourceKey Markup Extension](http://msdn.microsoft.com/en-us/library/ms753186.aspx) on MSDN.
--  [Design-Time Attributes in the WPF Designer](http://msdn.microsoft.com/en-us/library/ee839627.aspx) on MSDN.
--  [Markup Extensions and WPF XAML](http://msdn.microsoft.com/en-us/library/ms747254.aspx) on MSDN.
--  [Sample Data in the WPF and Silverlight Designer](http://blogs.msdn.com/b/wpfsldesigner/archive/2010/06/30/sample-data-in-the-wpf-and-silverlight-designer.aspx) on MSDN.
--  [Learning the Visual Studio WPF and Silverlight Designer](http://blogs.msdn.com/b/wpfsldesigner/archive/2010/01/15/learn.aspx). This contains tutorials and articles on layout, resources, data binding, sample data, debugging data bindings, object data sources, and master-detail forms.
+- [Data Templating Overview](http://msdn.microsoft.com/en-us/library/ms742521.aspx) on MSDN.
+- [Resources Overview](http://msdn.microsoft.com/en-us/library/ms750613.aspx) on MSDN.
+- [UserControl Class](http://msdn.microsoft.com/en-us/library/system.windows.forms.usercontrol.aspx) on MSDN.
+- [VisualStateManager Class](http://msdn.microsoft.com/en-us/library/cc626338(v=vs.95).aspx) on MSDN.
+- [Customizing Controls For Windows Presentation Foundation](http://msdn.microsoft.com/en-us/magazine/cc163421.aspx) in *MSDN Magazine*.
+- [ComponentResourceKey Markup Extension](http://msdn.microsoft.com/en-us/library/ms753186.aspx) on MSDN.
+- [Design-Time Attributes in the WPF Designer](http://msdn.microsoft.com/en-us/library/ee839627.aspx) on MSDN.
+- [Markup Extensions and WPF XAML](http://msdn.microsoft.com/en-us/library/ms747254.aspx) on MSDN.
+- [Sample Data in the WPF and Silverlight Designer](http://blogs.msdn.com/b/wpfsldesigner/archive/2010/06/30/sample-data-in-the-wpf-and-silverlight-designer.aspx) on MSDN.
+- [Learning the Visual Studio WPF and Silverlight Designer](http://blogs.msdn.com/b/wpfsldesigner/archive/2010/01/15/learn.aspx). This contains tutorials and articles on layout, resources, data binding, sample data, debugging data bindings, object data sources, and master-detail forms.
 

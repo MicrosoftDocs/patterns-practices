@@ -22,15 +22,15 @@ The [InteractionRequestedEventArgs](/patterns-practices/reference/interactionreq
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Callback](/patterns-practices/reference/interactionrequestedeventargs-callback-property-mspp-interactivity-interactionrequest)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/interactionrequestedeventargs-callback-property-mspp-interactivity-interactionrequest" data-raw-source="[Callback](/patterns-practices/reference/interactionrequestedeventargs-callback-property-mspp-interactivity-interactionrequest)">Callback</a></td>
 <td><div class="summary">
 Gets the callback to execute when an interaction is completed.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Context](/patterns-practices/reference/interactionrequestedeventargs-context-property-mspp-interactivity-interactionrequest)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/interactionrequestedeventargs-context-property-mspp-interactivity-interactionrequest" data-raw-source="[Context](/patterns-practices/reference/interactionrequestedeventargs-context-property-mspp-interactivity-interactionrequest)">Context</a></td>
 <td><div class="summary">
 Gets the context for a requested interaction.
 </div></td>

@@ -21,15 +21,15 @@ The [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[IsActiveProperty](/patterns-practices/reference/itemmetadata-isactiveproperty-field-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-field.gif" alt="Public field"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/itemmetadata-isactiveproperty-field-mspp-regions" data-raw-source="[IsActiveProperty](/patterns-practices/reference/itemmetadata-isactiveproperty-field-mspp-regions)">IsActiveProperty</a></td>
 <td><div class="summary">
 Value indicating whether the wrapped item is considered active.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[NameProperty](/patterns-practices/reference/itemmetadata-nameproperty-field-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-field.gif" alt="Public field"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/itemmetadata-nameproperty-field-mspp-regions" data-raw-source="[NameProperty](/patterns-practices/reference/itemmetadata-nameproperty-field-mspp-regions)">NameProperty</a></td>
 <td><div class="summary">
 The name of the wrapped item.
 </div></td>

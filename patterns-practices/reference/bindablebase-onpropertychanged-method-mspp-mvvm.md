@@ -24,15 +24,15 @@ ms:mtpsurl: 'bindablebase-onpropertychanged-method-mspp-mvvm.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[OnPropertyChanged(Of T)(Expression(Of Func(Of T)))](/patterns-practices/reference/bindablebase-onpropertychanged-t-method-expression-func-t-mspp-mvvm)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
+<td><a href="/patterns-practices/reference/bindablebase-onpropertychanged-t-method-expression-func-t-mspp-mvvm" data-raw-source="[OnPropertyChanged(Of T)(Expression(Of Func(Of T)))](/patterns-practices/reference/bindablebase-onpropertychanged-t-method-expression-func-t-mspp-mvvm)">OnPropertyChanged(Of T)(Expression(Of Func(Of T)))</a></td>
 <td><div class="summary">
-Raises this object's PropertyChanged event.
+Raises this object&#39;s PropertyChanged event.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[OnPropertyChanged(String)](/patterns-practices/reference/bindablebase-onpropertychanged-method-string-mspp-mvvm)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
+<td><a href="/patterns-practices/reference/bindablebase-onpropertychanged-method-string-mspp-mvvm" data-raw-source="[OnPropertyChanged(String)](/patterns-practices/reference/bindablebase-onpropertychanged-method-string-mspp-mvvm)">OnPropertyChanged(String)</a></td>
 <td><div class="summary">
 Notifies listeners that a property value has changed.
 </div></td>

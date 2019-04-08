@@ -19,17 +19,17 @@ ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>CompositeCommand()</td>
 <td><div class="summary">
-Initializes a new instance of [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands).
+Initializes a new instance of <a href="/patterns-practices/reference/compositecommand-class-mspp-commands" data-raw-source="[CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands)">CompositeCommand</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>CompositeCommand(Boolean)</td>
 <td><div class="summary">
-Initializes a new instance of [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands).
+Initializes a new instance of <a href="/patterns-practices/reference/compositecommand-class-mspp-commands" data-raw-source="[CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands)">CompositeCommand</a>.
 </div></td>
 </tr>
 </tbody>

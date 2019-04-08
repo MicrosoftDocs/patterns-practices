@@ -19,37 +19,37 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleTypeLoaderNotFoundException()</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity
-) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity" data-raw-source="[ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity
+)">ModuleTypeLoaderNotFoundException</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleTypeLoaderNotFoundException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity
-) class with a specified error message.
+Initializes a new instance of the <a href="/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity" data-raw-source="[ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity
+)">ModuleTypeLoaderNotFoundException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
 <td>ModuleTypeLoaderNotFoundException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
 Initializes a new instance with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleTypeLoaderNotFoundException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity) class with a specified error message.
+Initializes a new instance of the <a href="/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity" data-raw-source="[ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)">ModuleTypeLoaderNotFoundException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleTypeLoaderNotFoundException(String, String, Exception)</td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.

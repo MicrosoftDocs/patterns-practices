@@ -22,8 +22,8 @@ The [IEventSubscription](/patterns-practices/reference/ieventsubscription-interf
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetExecutionStrategy](/patterns-practices/reference/ieventsubscription-getexecutionstrategy-method-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/ieventsubscription-getexecutionstrategy-method-mspp-pubsubevents" data-raw-source="[GetExecutionStrategy](/patterns-practices/reference/ieventsubscription-getexecutionstrategy-method-mspp-pubsubevents)">GetExecutionStrategy</a></td>
 <td><div class="summary">
 Gets the execution strategy to publish this event.
 </div></td>

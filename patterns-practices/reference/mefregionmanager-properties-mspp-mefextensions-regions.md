@@ -26,14 +26,14 @@ The [MefRegionManager](/patterns-practices/reference/mefregionmanager-class-mspp
 <th>Description</th>
 </tr>
 <tr>
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/>
 </td>
-<td>[Regions](/patterns-practices/reference/regionmanager-regions-property-mspp-regions)
+<td><a href="/patterns-practices/reference/regionmanager-regions-property-mspp-regions" data-raw-source="[Regions](/patterns-practices/reference/regionmanager-regions-property-mspp-regions)">Regions</a>
 </td>
 <td>
 <div>
-Gets a collection of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that identify each region by name. You can use this collection to add or remove regions to the current region manager.
-</div> (Inherited from [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions).)</td>
+Gets a collection of <a href="/patterns-practices/reference/iregion-interface-mspp-regions" data-raw-source="[IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)">IRegion</a> that identify each region by name. You can use this collection to add or remove regions to the current region manager.
+</div> (Inherited from <a href="/patterns-practices/reference/regionmanager-class-mspp-regions" data-raw-source="[RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions)">RegionManager</a>.)</td>
 </tr>
 </tbody>
 </table>

@@ -19,24 +19,24 @@ ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleInfo()</td>
 <td><div class="summary">
-Initializes a new empty instance of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity).
+Initializes a new empty instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity" data-raw-source="[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)">ModuleInfo</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleInfo(String, String)</td>
 <td><div class="summary">
-Initializes a new instance of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity).
+Initializes a new instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity" data-raw-source="[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)">ModuleInfo</a>.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleInfo(String, String, String[])</td>
 <td><div class="summary">
-Initializes a new instance of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity).
+Initializes a new instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity" data-raw-source="[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)">ModuleInfo</a>.
 </div></td>
 </tr>
 </tbody>

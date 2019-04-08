@@ -38,8 +38,8 @@ The module info to forward values to.
 </thead>
 <tbody>
 <tr class="odd">
-<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
-<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if <i>moduleInfo</i> is <strong>null</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">System.ArgumentNullException</a></td>
+<td>An <a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">ArgumentNullException</a> is thrown if <i>moduleInfo</i> is <strong>null</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
 </tr>
 </tbody>
 </table>
@@ -69,8 +69,8 @@ The module info to forward values to.
 </thead>
 <tbody>
 <tr class="odd">
-<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
-<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if <i>moduleInfo</i> is <strong>Nothing</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">System.ArgumentNullException</a></td>
+<td>An <a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">ArgumentNullException</a> is thrown if <i>moduleInfo</i> is <strong>Nothing</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
 </tr>
 </tbody>
 </table>

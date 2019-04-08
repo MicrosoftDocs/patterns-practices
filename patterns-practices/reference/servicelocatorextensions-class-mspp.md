@@ -28,7 +28,7 @@ Defines extension methods for the ServiceLocator class.
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.ServiceLocatorExtensions
+  Microsoft.Practices.Prism.ServiceLocatorExtensions
 
 ## See Also
 

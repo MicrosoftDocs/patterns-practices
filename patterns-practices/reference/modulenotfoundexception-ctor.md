@@ -19,46 +19,46 @@ ms:mtpsurl: 'modulenotfoundexception-constructor-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleNotFoundException()</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity" data-raw-source="[ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)">ModuleNotFoundException</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleNotFoundException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity
-) class with a specified error message.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity" data-raw-source="[ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity
+)">ModuleNotFoundException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
 <td>ModuleNotFoundException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) class with the serialization data.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity" data-raw-source="[ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)">ModuleNotFoundException</a> class with the serialization data.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleNotFoundException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) class with a specified error message.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity" data-raw-source="[ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)">ModuleNotFoundException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleNotFoundException(String, String)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity" data-raw-source="[ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)">ModuleNotFoundException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleNotFoundException(String, String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity" data-raw-source="[ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)">ModuleNotFoundException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 </tbody>

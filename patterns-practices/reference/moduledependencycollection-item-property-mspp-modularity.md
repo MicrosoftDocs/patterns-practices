@@ -19,26 +19,26 @@ ms:mtpsurl: 'moduledependencycollection-item-property-int32-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Item[ConfigurationProperty]](http://msdn.microsoft.com/en-us/library/es150ftc)</td>
+<td><img src="/patterns-practices/reference/images/protproperty.gif" alt="Protected property"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc" data-raw-source="[Item[ConfigurationProperty]](http://msdn.microsoft.com/en-us/library/es150ftc)">Item[ConfigurationProperty]</a></td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
-(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" data-raw-source="[ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[Item[String]](http://msdn.microsoft.com/en-us/library/c8693ks1)</td>
+<td><img src="/patterns-practices/reference/images/protproperty.gif" alt="Protected property"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1" data-raw-source="[Item[String]](http://msdn.microsoft.com/en-us/library/c8693ks1)">Item[String]</a></td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
-(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" data-raw-source="[ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item[Int32]](/patterns-practices/reference/moduledependencycollection-item-property-int32-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/moduledependencycollection-item-property-int32-mspp-modularity" data-raw-source="[Item[Int32]](/patterns-practices/reference/moduledependencycollection-item-property-int32-mspp-modularity)">Item[Int32]</a></td>
 <td><div class="summary">
-Gets the [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) located at the specified index in the collection.
+Gets the <a href="/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity" data-raw-source="[ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)">ModuleDependencyConfigurationElement</a> located at the specified index in the collection.
 </div></td>
 </tr>
 </tbody>

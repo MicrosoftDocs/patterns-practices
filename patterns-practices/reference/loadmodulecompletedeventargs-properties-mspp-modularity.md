@@ -24,22 +24,22 @@ The [LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompl
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Error](/patterns-practices/reference/loadmodulecompletedeventargs-error-property-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/loadmodulecompletedeventargs-error-property-mspp-modularity" data-raw-source="[Error](/patterns-practices/reference/loadmodulecompletedeventargs-error-property-mspp-modularity)">Error</a></td>
 <td><div class="summary">
 Gets any error that occurred
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[IsErrorHandled](/patterns-practices/reference/loadmodulecompletedeventargs-iserrorhandled-property-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/loadmodulecompletedeventargs-iserrorhandled-property-mspp-modularity" data-raw-source="[IsErrorHandled](/patterns-practices/reference/loadmodulecompletedeventargs-iserrorhandled-property-mspp-modularity)">IsErrorHandled</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the error has been handled by the event subscriber.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ModuleInfo](/patterns-practices/reference/loadmodulecompletedeventargs-moduleinfo-property-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/loadmodulecompletedeventargs-moduleinfo-property-mspp-modularity" data-raw-source="[ModuleInfo](/patterns-practices/reference/loadmodulecompletedeventargs-moduleinfo-property-mspp-modularity)">ModuleInfo</a></td>
 <td><div class="summary">
 Gets the module info.
 </div></td>

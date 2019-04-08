@@ -24,9 +24,9 @@ The [PropertySupport](/patterns-practices/reference/propertysupport-class-mspp-m
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td>[ExtractPropertyName&lt;T&gt;](/patterns-practices/reference/propertysupport-extractpropertyname-t-method-mspp-mvvm
-)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static-member.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/propertysupport-extractpropertyname-t-method-mspp-mvvm" data-raw-source="[ExtractPropertyName&amp;lt;T&amp;gt;](/patterns-practices/reference/propertysupport-extractpropertyname-t-method-mspp-mvvm
+)">ExtractPropertyName&lt;T&gt;</a></td>
 <td><div class="summary">
 Extracts the property name from a property expression.
 </div></td>

@@ -22,27 +22,27 @@ The [MefModuleManager](/patterns-practices/reference/mefmodulemanager-class-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[ImportedModules](/patterns-practices/reference/mefmodulemanager-importedmodules-property-mspp-mefextensions-modularity)</td>
+<td><img src="/patterns-practices/reference/images/protproperty.gif" alt="Protected property"/></td>
+<td><a href="/patterns-practices/reference/mefmodulemanager-importedmodules-property-mspp-mefextensions-modularity" data-raw-source="[ImportedModules](/patterns-practices/reference/mefmodulemanager-importedmodules-property-mspp-mefextensions-modularity)">ImportedModules</a></td>
 <td><div class="summary">
 Gets or sets the modules to be imported.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[ModuleCatalog](/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/protproperty.gif" alt="Protected property"/></td>
+<td><a href="/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity" data-raw-source="[ModuleCatalog](/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity)">ModuleCatalog</a></td>
 <td><div class="summary">
 The module catalog specified in the constructor.
 </div>
-(Inherited from [ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity).)</td>
+(Inherited from <a href="/patterns-practices/reference/modulemanager-class-mspp-modularity" data-raw-source="[ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity)">ModuleManager</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ModuleTypeLoaders](/patterns-practices/reference/mefmodulemanager-moduletypeloaders-property-mspp-mefextensions-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/mefmodulemanager-moduletypeloaders-property-mspp-mefextensions-modularity" data-raw-source="[ModuleTypeLoaders](/patterns-practices/reference/mefmodulemanager-moduletypeloaders-property-mspp-mefextensions-modularity)">ModuleTypeLoaders</a></td>
 <td><div class="summary">
 Gets or sets the type loaders used by the module manager.
 </div>
-(Overrides [ModuleManager.ModuleTypeLoaders](/patterns-practices/reference/modulemanager-moduletypeloaders-property-mspp-modularity).)</td>
+(Overrides <a href="/patterns-practices/reference/modulemanager-moduletypeloaders-property-mspp-modularity" data-raw-source="[ModuleManager.ModuleTypeLoaders](/patterns-practices/reference/modulemanager-moduletypeloaders-property-mspp-modularity)">ModuleManager.ModuleTypeLoaders</a>.)</td>
 </tr>
 </tbody>
 </table>

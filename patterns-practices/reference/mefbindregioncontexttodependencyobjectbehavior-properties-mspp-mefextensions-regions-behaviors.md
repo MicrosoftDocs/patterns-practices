@@ -21,12 +21,12 @@ The [MefBindRegionContextToDependencyObjectBehavior](/patterns-practices/referen
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Region](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors" data-raw-source="[Region](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors)">Region</a></td>
 <td><div class="summary">
-Behavior's attached region.
+Behavior&#39;s attached region.
 </div>
-(Inherited from [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors).)</td>
+(Inherited from <a href="/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors" data-raw-source="[BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors)">BindRegionContextToDependencyObjectBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>

@@ -24,38 +24,38 @@ The [IRegionBehaviorCollection](/patterns-practices/reference/iregionbehaviorcol
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Add](/patterns-practices/reference/iregionbehaviorcollection-add-method-mspp-regions
-)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionbehaviorcollection-add-method-mspp-regions" data-raw-source="[Add](/patterns-practices/reference/iregionbehaviorcollection-add-method-mspp-regions
+)">Add</a></td>
 <td><div class="summary">
-Adds a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions
-) to the collection, using the specified key as an indexer.
+Adds a <a href="/patterns-practices/reference/iregionbehavior-interface-mspp-regions" data-raw-source="[IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions
+)">IRegionBehavior</a> to the collection, using the specified key as an indexer.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ContainsKey](/patterns-practices/reference/iregionbehaviorcollection-containskey-method-mspp-regions
-)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionbehaviorcollection-containskey-method-mspp-regions" data-raw-source="[ContainsKey](/patterns-practices/reference/iregionbehaviorcollection-containskey-method-mspp-regions
+)">ContainsKey</a></td>
 <td><div class="summary">
-Checks if a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions
-) with the specified key is already present.
+Checks if a <a href="/patterns-practices/reference/iregionbehavior-interface-mspp-regions" data-raw-source="[IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions
+)">IRegionBehavior</a> with the specified key is already present.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEnumerator()](http://msdn.microsoft.com/en-us/library/s793z9y2)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/s793z9y2" data-raw-source="[GetEnumerator()](http://msdn.microsoft.com/en-us/library/s793z9y2)">GetEnumerator()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div>
-(Inherited from [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)&lt;[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)&gt;&gt;.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0" data-raw-source="[IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)">IEnumerable</a>&lt;<a href="http://msdn.microsoft.com/en-us/library/5tbh8a42" data-raw-source="[KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)">KeyValuePair</a>&lt;<a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf" data-raw-source="[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)">String</a>, <a href="/patterns-practices/reference/iregionbehavior-interface-mspp-regions" data-raw-source="[IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)">IRegionBehavior</a>&gt;&gt;.)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetEnumerator()](http://msdn.microsoft.com/en-us/library/5zae5365)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/5zae5365" data-raw-source="[GetEnumerator()](http://msdn.microsoft.com/en-us/library/5zae5365)">GetEnumerator()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through a collection.
 </div>
-(Inherited from [IEnumerable](http://msdn.microsoft.com/en-us/library/h1x9x1b1).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/h1x9x1b1" data-raw-source="[IEnumerable](http://msdn.microsoft.com/en-us/library/h1x9x1b1)">IEnumerable</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -74,11 +74,11 @@ Returns an enumerator that iterates through a collection.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item](/patterns-practices/reference/iregionbehaviorcollection-item-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/iregionbehaviorcollection-item-property-mspp-regions" data-raw-source="[Item](/patterns-practices/reference/iregionbehaviorcollection-item-property-mspp-regions)">Item</a></td>
 <td><div class="summary">
-Gets the [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions
-) with the specified key.
+Gets the <a href="/patterns-practices/reference/iregionbehavior-interface-mspp-regions" data-raw-source="[IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions
+)">IRegionBehavior</a> with the specified key.
 </div></td>
 </tr>
 </tbody>

@@ -52,13 +52,13 @@ public DispatcherEventSubscription(
 </thead>
 <tbody>
 <tr class="odd">
-<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">System.ArgumentNullException</a></td>
 <td>When <i>actionReference</i> or are <b>null</b>a null reference (<b>Nothing</b> in Visual Basic).
 </td>
 </tr>
 <tr class="even">
-<td>[System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)</td>
-<td>When the target of <i>actionReference</i> is not of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8), or the target of <i>filterReference</i> is not of type [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
+<td><a href="http://msdn.microsoft.com/en-us/library/3w1b3114" data-raw-source="[System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)">System.ArgumentException</a></td>
+<td>When the target of <i>actionReference</i> is not of type <a href="http://msdn.microsoft.com/en-us/library/018hxwa8" data-raw-source="[Action&amp;lt;T&amp;gt;](http://msdn.microsoft.com/en-us/library/018hxwa8)">Action&lt;T&gt;</a>, or the target of <i>filterReference</i> is not of type <a href="http://msdn.microsoft.com/en-us/library/bfcke1bz" data-raw-source="[Predicate&amp;lt;T&amp;gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz)">Predicate&lt;T&gt;</a>.
 </tr>
 </tbody>
 </table>
@@ -117,13 +117,13 @@ Public Sub New (
 </thead>
 <tbody>
 <tr class="odd">
-<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">System.ArgumentNullException</a></td>
 <td>When <i>actionReference</i> or are <b>Nothing</b>a null reference (<b>Nothing</b> in Visual Basic).
 </td>
 </tr>
 <tr class="even">
-<td>[System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)</td>
-<td>When the target of <i>actionReference</i> is not of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8), or the target of <i>filterReference</i> is not of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
+<td><a href="http://msdn.microsoft.com/en-us/library/3w1b3114" data-raw-source="[System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)">System.ArgumentException</a></td>
+<td>When the target of <i>actionReference</i> is not of type <a href="http://msdn.microsoft.com/en-us/library/018hxwa8" data-raw-source="[Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8)">Action(Of T)</a>, or the target of <i>filterReference</i> is not of type <a href="http://msdn.microsoft.com/en-us/library/bfcke1bz" data-raw-source="[Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz)">Predicate(Of T)</a>.
 </tr>
 </tbody>
 </table>

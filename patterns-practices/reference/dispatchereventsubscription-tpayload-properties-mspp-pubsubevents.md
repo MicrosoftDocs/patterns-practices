@@ -22,12 +22,12 @@ The [DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents" data-raw-source="[Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents)">Action</a></td>
 <td><div class="summary">
-            Gets the target [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) that is referenced by the [IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents).
+            Gets the target <a href="http://msdn.microsoft.com/en-us/library/018hxwa8" data-raw-source="[Action&amp;lt;T&amp;gt;](http://msdn.microsoft.com/en-us/library/018hxwa8)">Action&lt;T&gt;</a> that is referenced by the <a href="/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents" data-raw-source="[IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)">IDelegateReference</a>.
             </div>
-(Inherited from [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents).)
+(Inherited from <a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents" data-raw-source="[EventSubscription&amp;lt;TPayload&amp;gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)">EventSubscription&lt;TPayload&gt;</a>.)
 </td>
 
 
@@ -35,24 +35,24 @@ The [DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/
 
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Filter](/patterns-practices/reference/eventsubscription-tpayload-filter-property-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/eventsubscription-tpayload-filter-property-mspp-pubsubevents" data-raw-source="[Filter](/patterns-practices/reference/eventsubscription-tpayload-filter-property-mspp-pubsubevents)">Filter</a></td>
 <td><div class="summary">
-    Gets the target [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz) that is referenced by the [IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents).
+    Gets the target <a href="http://msdn.microsoft.com/en-us/library/bfcke1bz" data-raw-source="[Predicate&amp;lt;T&amp;gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz)">Predicate&lt;T&gt;</a> that is referenced by the <a href="/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents" data-raw-source="[IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)">IDelegateReference</a>.
 </div>
 
 
 
 </div>
-(Inherited from [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents).)</td>
+(Inherited from <a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents" data-raw-source="[EventSubscription&amp;lt;TPayload&amp;gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)">EventSubscription&lt;TPayload&gt;</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents" data-raw-source="[SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents)">SubscriptionToken</a></td>
 <td><div class="summary">
-Gets or sets a [SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents) that identifies this [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).
+Gets or sets a <a href="/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents" data-raw-source="[SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents)">SubscriptionToken</a> that identifies this <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents" data-raw-source="[IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)">IEventSubscription</a>.
 </div>
-(Inherited from [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents).)</td>
+(Inherited from <a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents" data-raw-source="[EventSubscription&amp;lt;TPayload&amp;gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)">EventSubscription&lt;TPayload&gt;</a>.)</td>
 </tr>
 </tbody>
 </table>

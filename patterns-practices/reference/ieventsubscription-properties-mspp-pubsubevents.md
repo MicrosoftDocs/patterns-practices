@@ -26,10 +26,10 @@ The [IEventSubscription](/patterns-practices/reference/ieventsubscription-interf
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[SubscriptionToken](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents" data-raw-source="[SubscriptionToken](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)">SubscriptionToken</a></td>
 <td><div class="summary">
-Gets or sets a [SubscriptionToken](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents) that identifies this [IEventSubscription] (/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).
+Gets or sets a <a href="/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents" data-raw-source="[SubscriptionToken](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)">SubscriptionToken</a> that identifies this <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents" data-raw-source="[IEventSubscription] (/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)">IEventSubscription</a>.
 </div></td>
 </tr>
 </tbody>

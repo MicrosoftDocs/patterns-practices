@@ -22,8 +22,8 @@ The [NotificationObject](/patterns-practices/reference/notificationobject-class-
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[PropertyChanged](/patterns-practices/reference/notificationobject-propertychanged-event-mspp-viewmodel)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/notificationobject-propertychanged-event-mspp-viewmodel" data-raw-source="[PropertyChanged](/patterns-practices/reference/notificationobject-propertychanged-event-mspp-viewmodel)">PropertyChanged</a></td>
 <td><div class="summary">
 Raised when a property on this object has a new value.
 </div></td>

@@ -22,12 +22,12 @@ The [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletype
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected event](/patterns-practices/reference/images/protected-event.gif)</td>
-<td>[SerializeObjectState](http://msdn.microsoft.com/en-us/library/ee332915)</td>
+<td><img src="/patterns-practices/reference/images/protected-event.gif" alt="Protected event"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ee332915" data-raw-source="[SerializeObjectState](http://msdn.microsoft.com/en-us/library/ee332915)">SerializeObjectState</a></td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents" data-raw-source="[Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>

@@ -126,10 +126,10 @@ The following line, extracted from the preceding code, shows how the event handl
 
 In the preceding line, the following parameters are passed to configure the subscription:
 
--  The **FundAddedEventHandler** action**.** This event handler is executed when the **Add** button is clicked and the filter condition is satisfied.
--  The **ThreadOption.UIThread** option**.** This option specifies that the event handler will run on the user interface thread.
--  The **KeepSubscriberReferenceAlive** flag. This flag is **false** and indicates that the lifetime of the subscriber's reference is not managed by the event. This is set to **false** because the lifetime of the subscriber, the presenter class, is managed by its view, which contains a reference to it.
--  The **filter** predicate. This filter is a condition that specifies that the event handler is invoked only when the fund is added to the view's corresponding customer.
+- The **FundAddedEventHandler** action<strong>.</strong> This event handler is executed when the **Add** button is clicked and the filter condition is satisfied.
+- The **ThreadOption.UIThread** option<strong>.</strong> This option specifies that the event handler will run on the user interface thread.
+- The **KeepSubscriberReferenceAlive** flag. This flag is **false** and indicates that the lifetime of the subscriber's reference is not managed by the event. This is set to **false** because the lifetime of the subscriber, the presenter class, is managed by its view, which contains a reference to it.
+- The **filter** predicate. This filter is a condition that specifies that the event handler is invoked only when the fund is added to the view's corresponding customer.
 
 ## Unit and Acceptance Tests
 

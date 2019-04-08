@@ -21,20 +21,20 @@ The [MefRegionNavigationService](/patterns-practices/reference/mefregionnavigati
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Journal](/patterns-practices/reference/regionnavigationservice-journal-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-journal-property-mspp-regions" data-raw-source="[Journal](/patterns-practices/reference/regionnavigationservice-journal-property-mspp-regions)">Journal</a></td>
 <td><div class="summary">
 Gets the journal.
 </div>
-(Inherited from [RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions" data-raw-source="[RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)">RegionNavigationService</a></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Region](/patterns-practices/reference/regionnavigationservice-region-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-region-property-mspp-regions" data-raw-source="[Region](/patterns-practices/reference/regionnavigationservice-region-property-mspp-regions)">Region</a></td>
 <td><div class="summary">
 Gets or sets the region.
 </div>
-(Inherited from [RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions" data-raw-source="[RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)">RegionNavigationService</a></td>
 </tr>
 </tbody>
 </table>

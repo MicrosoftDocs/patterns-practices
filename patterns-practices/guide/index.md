@@ -66,21 +66,21 @@ The following table contains Prism download links to help you get started with P
 <td><p>Downloads</p></td>
 <td><p><a href="http://www.microsoft.com/download/en/details.aspx?displaylang=en&amp;id=28950">Prism 4.1</a> (includes Prism 4.1 source code, binaries, documentation in CHM format, Reference Implementations, QuickStarts, and Hands-on Labs in C#) for the .NET Framework 4.0 and Silverlight 5.</p>
 <p><a href="http://www.microsoft.com/download/en/details.aspx?displaylang=en&amp;id=4922">Prism 4.0</a> (includes Prism 4.0 source code, binaries, documentation in .chm format, Reference Implementations, QuickStarts, and Hands-on Labs in C#) for the .NET Framework 4.0 and Silverlight 4.</p>
-<p>Developer's Guide to Microsoft Prism 4 on <a href="http://msdn.microsoft.com/en-us/library/gg430865(pandp.40).aspx">MSDN</a>.</p>
-<p>Developer's Guide to Microsoft Prism 4 in <a href="http://oreilly.com/catalog/0790145315496/">printed book and eBook formats</a>.</p>
+<p>Developer&#39;s Guide to Microsoft Prism 4 on <a href="http://msdn.microsoft.com/en-us/library/gg430865(pandp.40).aspx">MSDN</a>.</p>
+<p>Developer&#39;s Guide to Microsoft Prism 4 in <a href="http://oreilly.com/catalog/0790145315496/">printed book and eBook formats</a>.</p>
 <p><a href="https://msdn.microsoft.com/en-us/library/gg405483(v=pandp.40)">Prism NuGet Packages</a></p>
-<p><a href="http://compositewpf.codeplex.com/releases/view/55580">Developer's Guide to Microsoft Prism 4 in .pdf format</a></p>
+<p><a href="http://compositewpf.codeplex.com/releases/view/55580">Developer&#39;s Guide to Microsoft Prism 4 in .pdf format</a></p>
 <p><a href="http://www.microsoft.com/downloads/details.aspx?familyid=bd727f0f-a52d-4503-b006-a91c375b9241">Visual Basic Prism 4 Reference Implementations, QuickStarts, and Hands-on Labs</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Getting Started</p></td>
 <td><p><a href="https://msdn.microsoft.com/en-us/library/gg405483(v=pandp.40)">Prism 4.1 ReadMe</a> (includes installation instructions).</p>
 <p><a href="http://compositewpf.codeplex.com/releases/view/55580">Introduction</a></p>
-<p><a href="http://compositewpf.codeplex.com/releases/view/55580">What's New in Prism 4</a></p></td>
+<p><a href="http://compositewpf.codeplex.com/releases/view/55580">What&#39;s New in Prism 4</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Book</p></td>
-<td><p>[![](images/order-book.png "book")](http://shop.oreilly.com/product/0790145315496.do)</a></p>
+<td><p><a href="http://shop.oreilly.com/product/0790145315496.do" data-raw-source="[![](images/order-book.png &quot;book&quot;)](http://shop.oreilly.com/product/0790145315496.do)"><img src="images/order-book.png" alt="" title="book"/></a></a></p>
 <p><a href="http://shop.oreilly.com/product/0790145315496.do">Buy book</a></p></td>
 </tr>
 <tr class="even">

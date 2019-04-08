@@ -19,36 +19,36 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-subscribe-method-mspp-events.md
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-mspp-events)</a></td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-mspp-events" data-raw-source="[Subscribe(Action&amp;lt;TPayload&amp;gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-mspp-events)">Subscribe(Action&lt;TPayload&gt;)</a></a></td>
 <td><div class="summary">
-Subscribes a delegate to an event that will be published on the PublisherThread. [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied action delegate.
+Subscribes a delegate to an event that will be published on the PublisherThread. <a href="/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events" data-raw-source="[CompositePresentationEvent&amp;lt;TPayload&amp;gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)">CompositePresentationEvent&lt;TPayload&gt;</a> will maintain a <a href="http://msdn.microsoft.com/en-us/library/hbh8w2zd" data-raw-source="[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)">WeakReference</a> to the target of the supplied action delegate.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action&lt;TPayload&gt;, ThreadOption)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-mspp-events)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-mspp-events" data-raw-source="[Subscribe(Action&amp;lt;TPayload&amp;gt;, ThreadOption)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-mspp-events)">Subscribe(Action&lt;TPayload&gt;, ThreadOption)</a></td>
 <td><div class="summary">
-Subscribes a delegate to an event. CompositePresentationEvent will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
+Subscribes a delegate to an event. CompositePresentationEvent will maintain a <a href="http://msdn.microsoft.com/en-us/library/hbh8w2zd" data-raw-source="[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)">WeakReference</a> to the Target of the supplied action delegate.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action&lt;TPayload&gt;, Boolean)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-boolean-mspp-events)</a></td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-boolean-mspp-events" data-raw-source="[Subscribe(Action&amp;lt;TPayload&amp;gt;, Boolean)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-boolean-mspp-events)">Subscribe(Action&lt;TPayload&gt;, Boolean)</a></a></td>
 <td><div class="summary">
 Subscribes a delegate to an event that will be published on the PublisherThread.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action&lt;TPayload&gt;, ThreadOption, Boolean)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-mspp-events)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-mspp-events" data-raw-source="[Subscribe(Action&amp;lt;TPayload&amp;gt;, ThreadOption, Boolean)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-mspp-events)">Subscribe(Action&lt;TPayload&gt;, ThreadOption, Boolean)</a></td>
 <td><div class="summary">
 Subscribes a delegate to an event.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action&lt;TPayload&gt;, ThreadOption, Boolean, Predicate&lt;TPayload&gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-predicate-tpayload-mspp-events)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-predicate-tpayload-mspp-events" data-raw-source="[Subscribe(Action&amp;lt;TPayload&amp;gt;, ThreadOption, Boolean, Predicate&amp;lt;TPayload&amp;gt;)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-predicate-tpayload-mspp-events)">Subscribe(Action&lt;TPayload&gt;, ThreadOption, Boolean, Predicate&lt;TPayload&gt;)</a></td>
 <td><div class="summary">
 Subscribes a delegate to an event.
 </div></td>

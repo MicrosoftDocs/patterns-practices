@@ -21,8 +21,8 @@ The [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-l
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Log](/patterns-practices/reference/iloggerfacade-log-method-mspp-logging)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iloggerfacade-log-method-mspp-logging" data-raw-source="[Log](/patterns-practices/reference/iloggerfacade-log-method-mspp-logging)">Log</a></td>
 <td><div class="summary">
 Write a new log entry with the specified category and priority.
 </div></td>

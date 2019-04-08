@@ -19,42 +19,42 @@ ms:mtpsurl: 'modularityexception-constructor-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModularityException()</td>
 <td><div class="summary">
-Initializes a new instance of the [ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/modularityexception-class-mspp-modularity" data-raw-source="[ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)">ModularityException</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModularityException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/modularityexception-class-mspp-modularity" data-raw-source="[ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)">ModularityException</a> class.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
+<td><img src="/patterns-practices/reference/images/protmethod.gif" alt="Protected method"/></td>
 <td>ModularityException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
 Initializes a new instance with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModularityException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/modularityexception-class-mspp-modularity" data-raw-source="[ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)">ModularityException</a> class.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModularityException(String, String)</td>
 <td><div class="summary">
 Initializes the exception with a particular module and error message.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModularityException(String, String, Exception)</td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.

@@ -53,8 +53,8 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <th>Condition</th>
 </tr>
 <tr>
-<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
-<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if <em>collection</em> or <em>items</em> is <strong>null</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">System.ArgumentNullException</a></td>
+<td>An <a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">ArgumentNullException</a> is thrown if <em>collection</em> or <em>items</em> is <strong>null</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
 </tr>
 </table>
 
@@ -109,8 +109,8 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 <th>Condition</th>
 </tr>
 <tr>
-<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
-<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if <em>collection</em> or <em>items</em> is <strong>Nothing</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">System.ArgumentNullException</a></td>
+<td>An <a href="http://msdn.microsoft.com/en-us/library/27426hcy" data-raw-source="[ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)">ArgumentNullException</a> is thrown if <em>collection</em> or <em>items</em> is <strong>Nothing</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
 </tr>
 </table>
 

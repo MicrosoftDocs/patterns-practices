@@ -16,8 +16,8 @@ ms:mtpsurl: 'mspp-mefextensions-events-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[MefEventAggregator](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events" data-raw-source="[MefEventAggregator](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events)">MefEventAggregator</a></td>
 <td><div class="summary">
 Exports the EventAggregator using the Managed Extensibility Framework (MEF).
 </div></td>

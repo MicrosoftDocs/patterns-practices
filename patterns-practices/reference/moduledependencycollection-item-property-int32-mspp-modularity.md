@@ -9,25 +9,24 @@ ms:mtpsurl: 'moduledependencycollection-item-property-int32-mspp-modularity.md'
 
 Gets the [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) located at the specified index in the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
 ```C#
 public ModuleDependencyConfigurationElement this[
-	int index
+    int index
 ] { get; }
 ```
 
 ```VB
 'Declaration
 Public ReadOnly Default Property Item ( 
-	index As Integer
+    index As Integer
 ) As ModuleDependencyConfigurationElement
-	Get
-
+    Get
 ```
 
 ### Parameters

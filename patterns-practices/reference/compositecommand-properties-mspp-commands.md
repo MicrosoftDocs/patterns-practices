@@ -23,8 +23,8 @@ The [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[RegisteredCommands](/patterns-practices/reference/compositecommand-registeredcommands-property-mspp-commands)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/compositecommand-registeredcommands-property-mspp-commands" data-raw-source="[RegisteredCommands](/patterns-practices/reference/compositecommand-registeredcommands-property-mspp-commands)">RegisteredCommands</a></td>
 <td><div class="summary">
 Gets the list of all the registered commands.
 </div></td>

@@ -25,10 +25,10 @@ The [IActiveAware](/patterns-practices/reference/iactiveaware-interface-mspp) ty
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[IsActiveChanged](/patterns-practices/reference/iactiveaware-isactivechanged-event-mspp)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/iactiveaware-isactivechanged-event-mspp" data-raw-source="[IsActiveChanged](/patterns-practices/reference/iactiveaware-isactivechanged-event-mspp)">IsActiveChanged</a></td>
 <td><div class="summary">
-Notifies that the value for [IsActive](/patterns-practices/reference/iactiveaware-isactive-property-mspp) property has changed.
+Notifies that the value for <a href="/patterns-practices/reference/iactiveaware-isactive-property-mspp" data-raw-source="[IsActive](/patterns-practices/reference/iactiveaware-isactive-property-mspp)">IsActive</a> property has changed.
 </div></td>
 </tr>
 </tbody>

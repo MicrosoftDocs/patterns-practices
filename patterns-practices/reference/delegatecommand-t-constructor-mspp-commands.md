@@ -19,17 +19,17 @@ ms:mtpsurl: 'delegatecommand-t-constructor-mspp-commands.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>DelegateCommand&lt;T&gt;(Action&lt;T&gt;)</td>
 <td><div class="summary">
-Initializes a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
+Initializes a new instance of <a href="/patterns-practices/reference/delegatecommand-t-class-mspp-commands" data-raw-source="[DelegateCommand&amp;lt;T&amp;gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)">DelegateCommand&lt;T&gt;</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>DelegateCommand&lt;T&gt;(Action&lt;T&gt;, Func&lt;T, Boolean&gt;)</td>
 <td><div class="summary">
-Initializes a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
+Initializes a new instance of <a href="/patterns-practices/reference/delegatecommand-t-class-mspp-commands" data-raw-source="[DelegateCommand&amp;lt;T&amp;gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)">DelegateCommand&lt;T&gt;</a>.
 </div></td>
 </tr>
 </tbody>

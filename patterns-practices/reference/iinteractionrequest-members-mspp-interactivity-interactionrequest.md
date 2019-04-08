@@ -21,8 +21,8 @@ The [IInteractionRequest](/patterns-practices/reference/iinteractionrequest-inte
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[Raised](/patterns-practices/reference/iinteractionrequest-raised-event-mspp-interactivity-interactionrequest)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/iinteractionrequest-raised-event-mspp-interactivity-interactionrequest" data-raw-source="[Raised](/patterns-practices/reference/iinteractionrequest-raised-event-mspp-interactivity-interactionrequest)">Raised</a></td>
 <td><div class="summary">
 Fired when the interaction is needed.
 </div></td>

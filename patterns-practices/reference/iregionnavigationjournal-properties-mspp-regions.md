@@ -21,29 +21,29 @@ The [IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjo
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CanGoBack](/patterns-practices/reference/iregionnavigationjournal-cangoback-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationjournal-cangoback-property-mspp-regions" data-raw-source="[CanGoBack](/patterns-practices/reference/iregionnavigationjournal-cangoback-property-mspp-regions)">CanGoBack</a></td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the back navigation history.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CanGoForward](/patterns-practices/reference/iregionnavigationjournal-cangoforward-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationjournal-cangoforward-property-mspp-regions" data-raw-source="[CanGoForward](/patterns-practices/reference/iregionnavigationjournal-cangoforward-property-mspp-regions)">CanGoForward</a></td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the forward navigation history.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CurrentEntry](/patterns-practices/reference/iregionnavigationjournal-currententry-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationjournal-currententry-property-mspp-regions" data-raw-source="[CurrentEntry](/patterns-practices/reference/iregionnavigationjournal-currententry-property-mspp-regions)">CurrentEntry</a></td>
 <td><div class="summary">
 Gets the current navigation entry of the content that is currently displayed.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[NavigationTarget](/patterns-practices/reference/iregionnavigationjournal-navigationtarget-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationjournal-navigationtarget-property-mspp-regions" data-raw-source="[NavigationTarget](/patterns-practices/reference/iregionnavigationjournal-navigationtarget-property-mspp-regions)">NavigationTarget</a></td>
 <td><div class="summary">
 Gets or sets the target that implements INavigateAsync.
 </div></td>

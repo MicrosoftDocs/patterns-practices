@@ -10,7 +10,7 @@ ms:mtpsurl: 'mefregionnavigationjournal-properties-mspp-mefextensions-regions.md
 The [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Properties
- 
+ 
 <table>
 <thead>
 <tr class="header">
@@ -21,36 +21,36 @@ The [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigati
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CanGoBack](/patterns-practices/reference/regionnavigationjournal-cangoback-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-cangoback-property-mspp-regions" data-raw-source="[CanGoBack](/patterns-practices/reference/regionnavigationjournal-cangoback-property-mspp-regions)">CanGoBack</a></td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the back navigation history.
 </div>
-(Inherited from [RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions" data-raw-source="[RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CanGoForward](/patterns-practices/reference/regionnavigationjournal-cangoforward-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-cangoforward-property-mspp-regions" data-raw-source="[CanGoForward](/patterns-practices/reference/regionnavigationjournal-cangoforward-property-mspp-regions)">CanGoForward</a></td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the forward navigation history.
 </div>
-(Inherited from [RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions" data-raw-source="[RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CurrentEntry](/patterns-practices/reference/regionnavigationjournal-currententry-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-currententry-property-mspp-regions" data-raw-source="[CurrentEntry](/patterns-practices/reference/regionnavigationjournal-currententry-property-mspp-regions)">CurrentEntry</a></td>
 <td><div class="summary">
 Gets the current navigation entry of the content that is currently displayed.
 </div>
-(Inherited from [RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions" data-raw-source="[RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[NavigationTarget](/patterns-practices/reference/regionnavigationjournal-currententry-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-currententry-property-mspp-regions" data-raw-source="[NavigationTarget](/patterns-practices/reference/regionnavigationjournal-currententry-property-mspp-regions)">NavigationTarget</a></td>
 <td><div class="summary">
 Gets or sets the target that implements INavigate.
 </div>
-(Inherited from [RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions).)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions" data-raw-source="[RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)">RegionNavigationJournal</a>.)</td>
 </tr>
 </tbody>
 </table>

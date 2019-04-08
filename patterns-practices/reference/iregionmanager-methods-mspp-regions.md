@@ -22,8 +22,8 @@ The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[CreateRegionManager](/patterns-practices/reference/iregionmanager-createregionmanager-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionmanager-createregionmanager-method-mspp-regions" data-raw-source="[CreateRegionManager](/patterns-practices/reference/iregionmanager-createregionmanager-method-mspp-regions)">CreateRegionManager</a></td>
 <td><div class="summary">
 Creates a new region manager.
 </div></td>
@@ -44,102 +44,102 @@ Creates a new region manager.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[AddToRegion](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions" data-raw-source="[AddToRegion](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions)">AddToRegion</a></td>
 <td><div class="summary">
 Add a view to the Views collection of a Region. Note that the region must already exist in this regionmanager.
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RegisterViewWithRegion(String, Type)](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions" data-raw-source="[RegisterViewWithRegion(String, Type)](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions)">RegisterViewWithRegion(String, Type)</a></td>
 <td>Overloaded.
 <div class="summary">
-Associate a view with a region, by registering a type. When the region get's displayed this type will be resolved using the ServiceLocator into a concrete instance. The instance will be added to the Views collection of the region
+Associate a view with a region, by registering a type. When the region get&#39;s displayed this type will be resolved using the ServiceLocator into a concrete instance. The instance will be added to the Views collection of the region
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RegisterViewWithRegion(String, Func(Of Object))](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions" data-raw-source="[RegisterViewWithRegion(String, Func(Of Object))](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions)">RegisterViewWithRegion(String, Func(Of Object))</a></td>
 <td>Overloaded.
 <div class="summary">
-Associate a view with a region, using a delegate to resolve a concreate instance of the view. When the region get's displayed, this delelgate will be called and the result will be added to the views collection of the region.
+Associate a view with a region, using a delegate to resolve a concreate instance of the view. When the region get&#39;s displayed, this delelgate will be called and the result will be added to the views collection of the region.
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, Uri)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions" data-raw-source="[RequestNavigate(String, Uri)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)">RequestNavigate(String, Uri)</a></td>
 <td>Overloaded.
 <div class="summary">
 Navigates the specified region manager.
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, String)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions" data-raw-source="[RequestNavigate(String, String)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)">RequestNavigate(String, String)</a></td>
 <td>Overloaded.
 <div class="summary">
 Navigates the specified region manager.
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, Uri, Action(Of NavigationResult))](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions" data-raw-source="[RequestNavigate(String, Uri, Action(Of NavigationResult))](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)">RequestNavigate(String, Uri, Action(Of NavigationResult))</a></td>
 <td>Overloaded.
 <div class="summary">
 Navigates the specified region manager.
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, String, Action(Of NavigationResult))](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions" data-raw-source="[RequestNavigate(String, String, Action(Of NavigationResult))](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)">RequestNavigate(String, String, Action(Of NavigationResult))</a></td>
 <td>Overloaded.
 <div class="summary">
 Navigates the specified region manager.
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, Uri, NavigationParameters)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions" data-raw-source="[RequestNavigate(String, Uri, NavigationParameters)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)">RequestNavigate(String, Uri, NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target Uri, passing an instance of NavigationParameters, which holds a collection of object parameters.
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, String, NavigationParameters)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions" data-raw-source="[RequestNavigate(String, String, NavigationParameters)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)">RequestNavigate(String, String, NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target string, passing an instance of NavigationParameters, which holds a collection of object parameters.
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, Uri, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-action-navigationresult-navigationparameters-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-action-navigationresult-navigationparameters-mspp-regions" data-raw-source="[RequestNavigate(String, Uri, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-action-navigationresult-navigationparameters-mspp-regions)">RequestNavigate(String, Uri, Action(Of NavigationResult), NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target Uri, passing a navigation callback and an instance of NavigationParameters, which holds a collection of object parameters.
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[RequestNavigate(String, String, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-navigationparameters-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubextension.gif" alt="Public Extension Method"/></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-navigationparameters-mspp-regions" data-raw-source="[RequestNavigate(String, String, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-navigationparameters-mspp-regions)">RequestNavigate(String, String, Action(Of NavigationResult), NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target string, passing a navigation callback and an instance of NavigationParameters, which holds a collection of object parameters.
 </div>
-(Defined by [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions).)</td>
+(Defined by <a href="/patterns-practices/reference/regionmanagerextensions-class-mspp-regions" data-raw-source="[RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)">RegionManagerExtensions</a>.)</td>
 </tr>
 </tbody>
 </table>

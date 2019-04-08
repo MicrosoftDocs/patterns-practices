@@ -27,8 +27,8 @@ Public Class Notification
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification  
-    [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)
+  Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification  
+    [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)
 
 ## See Also
 

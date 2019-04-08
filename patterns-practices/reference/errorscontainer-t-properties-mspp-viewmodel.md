@@ -21,8 +21,8 @@ The [ErrorsContainer(Of T)](/patterns-practices/reference/errorscontainer-t-clas
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[HasErrors](/patterns-practices/reference/errorscontainer-t-haserrors-property-mspp-viewmodel)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/errorscontainer-t-haserrors-property-mspp-viewmodel" data-raw-source="[HasErrors](/patterns-practices/reference/errorscontainer-t-haserrors-property-mspp-viewmodel)">HasErrors</a></td>
 <td><div class="summary">
 Gets a value indicating whether the object has validation errors.
 </div></td>

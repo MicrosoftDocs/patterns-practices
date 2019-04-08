@@ -24,10 +24,10 @@ The [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Modules](/patterns-practices/reference/imodulecatalog-modules-property-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/imodulecatalog-modules-property-mspp-modularity" data-raw-source="[Modules](/patterns-practices/reference/imodulecatalog-modules-property-mspp-modularity)">Modules</a></td>
 <td><div class="summary">
-Gets all the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) classes that are in the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).
+Gets all the <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity" data-raw-source="[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)">ModuleInfo</a> classes that are in the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity" data-raw-source="[ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)">ModuleCatalog</a>.
 </div></td>
 </tr>
 </tbody>

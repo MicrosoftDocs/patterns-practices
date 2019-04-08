@@ -19,19 +19,19 @@ ms:mtpsurl: 'pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Unsubscribe(Action&lt;TPayload&gt;)](https://msdn.microsoft.com/en-us/library/dn736235(v=pandp.50))</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736235(v=pandp.50)" data-raw-source="[Unsubscribe(Action&amp;lt;TPayload&amp;gt;)](https://msdn.microsoft.com/en-us/library/dn736235(v=pandp.50))">Unsubscribe(Action&lt;TPayload&gt;)</a></td>
 <td><div class="summary">
-Removes the first subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
+Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8" data-raw-source="[Action&amp;lt;T&amp;gt;](http://msdn.microsoft.com/en-us/library/018hxwa8)">Action&lt;T&gt;</a> from the subscribers&#39; list.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Unsubscribe(SubscriptionToken)](/patterns-practices/reference/eventbase-unsubscribe-method-mspp-pubsubevents)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/eventbase-unsubscribe-method-mspp-pubsubevents" data-raw-source="[Unsubscribe(SubscriptionToken)](/patterns-practices/reference/eventbase-unsubscribe-method-mspp-pubsubevents)">Unsubscribe(SubscriptionToken)</a></td>
 <td><div class="summary">
-Removes the subscriber matching the [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
+Removes the subscriber matching the <a href="/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents" data-raw-source="[SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)">SubscriptionToken</a>.
 </div>
-(Inherited from [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents).)</td>
+(Inherited from <a href="/patterns-practices/reference/eventbase-class-mspp-pubsubevents" data-raw-source="[EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)">EventBase</a>.)</td>
 </tr>
 </tbody>
 </table>

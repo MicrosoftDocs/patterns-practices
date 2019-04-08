@@ -21,22 +21,22 @@ The [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Context](/patterns-practices/reference/navigationresult-context-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/navigationresult-context-property-mspp-regions" data-raw-source="[Context](/patterns-practices/reference/navigationresult-context-property-mspp-regions)">Context</a></td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Error](/patterns-practices/reference/navigationresult-error-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/navigationresult-error-property-mspp-regions" data-raw-source="[Error](/patterns-practices/reference/navigationresult-error-property-mspp-regions)">Error</a></td>
 <td><div class="summary">
 Gets an exception that occurred while navigating.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Result](/patterns-practices/reference/navigationresult-result-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/navigationresult-result-property-mspp-regions" data-raw-source="[Result](/patterns-practices/reference/navigationresult-result-property-mspp-regions)">Result</a></td>
 <td><div class="summary">
 Gets the result.
 </div></td>

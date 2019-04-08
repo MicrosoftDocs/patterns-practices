@@ -28,8 +28,8 @@ Public Class InteractionRequestedEventArgs
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)  
-    Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs
+  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)  
+    Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs
 
 ## See Also
 

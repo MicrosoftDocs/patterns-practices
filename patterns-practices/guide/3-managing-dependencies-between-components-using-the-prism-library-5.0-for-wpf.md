@@ -149,14 +149,14 @@ After a type is registered, it can be resolved or injected as a dependency. When
 
 In general, when a type is resolved, one of three things happens:
 
--   If the type has not been registered, the container throws an exception.
-    > [!NOTE]
-> Some containers, including Unity, allow you to resolve a concrete type that has not been registered.
+- If the type has not been registered, the container throws an exception.
+  > [!NOTE]
+  > Some containers, including Unity, allow you to resolve a concrete type that has not been registered.
 
--   If the type has been registered as a singleton, the container returns the singleton instance. If this is the first time the type was called for, the container creates it and holds on to it for future calls.
--   If the type has not been registered as a singleton, the container returns a new instance.
-    > [!NOTE]
-> By default, types registered with MEF are singletons and the container holds a reference to the object. In Unity, new instances of objects are returned by default, and the container does not maintain a reference to the object.
+- If the type has been registered as a singleton, the container returns the singleton instance. If this is the first time the type was called for, the container creates it and holds on to it for future calls.
+- If the type has not been registered as a singleton, the container returns a new instance.
+  > [!NOTE]
+  > By default, types registered with MEF are singletons and the container holds a reference to the object. In Unity, new instances of objects are returned by default, and the container does not maintain a reference to the object.
 
 ### Resolving Instances with Unity
 

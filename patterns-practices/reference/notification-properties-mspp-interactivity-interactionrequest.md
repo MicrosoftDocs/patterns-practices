@@ -22,15 +22,15 @@ The [Notification](/patterns-practices/reference/notification-class-mspp-interac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Content](/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest" data-raw-source="[Content](/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest)">Content</a></td>
 <td><div class="summary">
 Gets or sets the content of the notification.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Title](/patterns-practices/reference/notification-title-property-mspp-interactivity-interactionrequest)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/notification-title-property-mspp-interactivity-interactionrequest" data-raw-source="[Title](/patterns-practices/reference/notification-title-property-mspp-interactivity-interactionrequest)">Title</a></td>
 <td><div class="summary">
 Gets or sets the title to use for the notification.
 </div></td>

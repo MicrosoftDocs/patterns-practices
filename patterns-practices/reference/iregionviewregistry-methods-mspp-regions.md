@@ -21,22 +21,22 @@ The [IRegionViewRegistry](/patterns-practices/reference/iregionviewregistry-inte
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetContents](/patterns-practices/reference/iregionviewregistry-getcontents-method-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionviewregistry-getcontents-method-mspp-regions" data-raw-source="[GetContents](/patterns-practices/reference/iregionviewregistry-getcontents-method-mspp-regions)">GetContents</a></td>
 <td><div class="summary">
 Returns the contents associated with a region name.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RegisterViewWithRegion(String, Func&lt;Object&gt;)](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions" data-raw-source="[RegisterViewWithRegion(String, Func&amp;lt;Object&amp;gt;)](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions)">RegisterViewWithRegion(String, Func&lt;Object&gt;)</a></td>
 <td><div class="summary">
 Registers a delegate that can be used to retrieve the content associated with a region name.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RegisterViewWithRegion(String, Type)](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-type-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-type-mspp-regions" data-raw-source="[RegisterViewWithRegion(String, Type)](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-type-mspp-regions)">RegisterViewWithRegion(String, Type)</a></td>
 <td><div class="summary">
 Registers a content type with a region name.
 </div></td>

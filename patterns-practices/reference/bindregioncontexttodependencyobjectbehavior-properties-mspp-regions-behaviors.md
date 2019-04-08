@@ -24,10 +24,10 @@ The [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Region](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors" data-raw-source="[Region](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors)">Region</a></td>
 <td><div class="summary">
-Behavior's attached region.
+Behavior&#39;s attached region.
 </div></td>
 </tr>
 </tbody>

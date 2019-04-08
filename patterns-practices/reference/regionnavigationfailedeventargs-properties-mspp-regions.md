@@ -21,22 +21,22 @@ The [RegionNavigationFailedEventArgs](/patterns-practices/reference/regionnaviga
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Error](/patterns-practices/reference/regionnavigationfailedeventargs-error-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationfailedeventargs-error-property-mspp-regions" data-raw-source="[Error](/patterns-practices/reference/regionnavigationfailedeventargs-error-property-mspp-regions)">Error</a></td>
 <td><div class="summary">
 Gets the error.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[NavigationContext](/patterns-practices/reference/regionnavigationfailedeventargs-navigationcontext-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationfailedeventargs-navigationcontext-property-mspp-regions" data-raw-source="[NavigationContext](/patterns-practices/reference/regionnavigationfailedeventargs-navigationcontext-property-mspp-regions)">NavigationContext</a></td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Uri](/patterns-practices/reference/regionnavigationfailedeventargs-uri-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionnavigationfailedeventargs-uri-property-mspp-regions" data-raw-source="[Uri](/patterns-practices/reference/regionnavigationfailedeventargs-uri-property-mspp-regions)">Uri</a></td>
 <td><div class="summary">
 Gets the navigation URI
 </div></td>

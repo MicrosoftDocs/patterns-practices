@@ -29,9 +29,9 @@ Public Class AutoPopulateRegionBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  [Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
-    Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior  
-      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefAutoPopulateRegionBehavior](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors)
+  [Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)  
+    Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior  
+      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefAutoPopulateRegionBehavior](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors)
 
 ## See Also
 

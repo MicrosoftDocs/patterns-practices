@@ -21,17 +21,17 @@ The [IModuleManager](/patterns-practices/reference/imodulemanager-interface-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[LoadModule](/patterns-practices/reference/imodulemanager-loadmodule-method-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/imodulemanager-loadmodule-method-mspp-modularity" data-raw-source="[LoadModule](/patterns-practices/reference/imodulemanager-loadmodule-method-mspp-modularity)">LoadModule</a></td>
 <td><div class="summary">
-Loads and initializes the module on the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) with the name <i>moduleName</i>.
+Loads and initializes the module on the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity" data-raw-source="[ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)">ModuleCatalog</a> with the name <i>moduleName</i>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Run](/patterns-practices/reference/imodulemanager-run-method-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/imodulemanager-run-method-mspp-modularity" data-raw-source="[Run](/patterns-practices/reference/imodulemanager-run-method-mspp-modularity)">Run</a></td>
 <td><div class="summary">
-Initializes the modules marked as [WhenAvailable](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity) on the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).
+Initializes the modules marked as <a href="/patterns-practices/reference/initializationmode-enumeration-mspp-modularity" data-raw-source="[WhenAvailable](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity)">WhenAvailable</a> on the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity" data-raw-source="[ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)">ModuleCatalog</a>.
 </div></td>
 </tr>
 </tbody>

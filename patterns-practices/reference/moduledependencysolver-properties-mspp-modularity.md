@@ -21,9 +21,9 @@ The [ModuleDependencySolver](/patterns-practices/reference/moduledependencysolve
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[ModuleCount](/patterns-practices/reference/moduledependencysolver-modulecount-property-mspp-modularity
-)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/moduledependencysolver-modulecount-property-mspp-modularity" data-raw-source="[ModuleCount](/patterns-practices/reference/moduledependencysolver-modulecount-property-mspp-modularity
+)">ModuleCount</a></td>
 <td><div class="summary">
 Gets the number of modules added to the solver.
 </div></td>

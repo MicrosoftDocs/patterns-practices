@@ -1,4 +1,3 @@
-
 ---
 TOCTitle: GetCandidatesFromRegion Method
 Title: 'MefRegionNavigationContentLoader.GetCandidatesFromRegion Method (Microsoft.Practices.Prism.MefExtensions.Regions)'
@@ -11,16 +10,16 @@ ms:mtpsurl: 'mefregionnavigationcontentloader-getcandidatesfromregion-method-msp
 
 Returns the set of candidates that may satisfiy this navigation request.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)  
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
 ```C#
 protected override IEnumerable<Object> GetCandidatesFromRegion(
-	IRegion region,
-	string candidateNavigationContract
+    IRegion region,
+    string candidateNavigationContract
 )
 ```
 
@@ -43,8 +42,8 @@ An enumerable of candidate objects from the [IRegion](/patterns-practices/refere
 
 ```VB
 protected override IEnumerable<Object> GetCandidatesFromRegion(
-	IRegion region,
-	string candidateNavigationContract
+    IRegion region,
+    string candidateNavigationContract
 )
 ```
 

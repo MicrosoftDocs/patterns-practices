@@ -28,7 +28,7 @@ Public NotInheritable Class ViewModelLocationProvider
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider
+  Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider
 
 ## See Also
 [ViewModelLocationProvider Members](/patterns-practices/reference/viewmodellocationprovider-members-mspp-mvvm)

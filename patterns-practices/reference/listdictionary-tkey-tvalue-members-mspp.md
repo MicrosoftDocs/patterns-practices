@@ -20,10 +20,10 @@ The [ListDictionary&lt;TKey, TValue&gt;](/patterns-practices/reference/listdicti
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td> ListDictionary&lt;TKey, TValue&gt;</td>
 <td><div class="summary">
-Initializes a new instance of the [ ListDictionary&lt;TKey, TValue&gt;](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp) class
+Initializes a new instance of the <a href="/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp" data-raw-source="[ ListDictionary&amp;lt;TKey, TValue&amp;gt;](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)"> ListDictionary&lt;TKey, TValue&gt;</a> class
 </div></td>
 </tr>
 </tbody>
@@ -41,106 +41,106 @@ Initializes a new instance of the [ ListDictionary&lt;TKey, TValue&gt;](/pattern
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Add(TKey)](/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-mspp" data-raw-source="[Add(TKey)](/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-mspp)">Add(TKey)</a></td>
 <td><div class="summary">
 If a list does not already exist, it will be created automatically.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Add(TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-tvalue-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-tvalue-mspp" data-raw-source="[Add(TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-tvalue-mspp)">Add(TKey, TValue)</a></td>
 <td><div class="summary">
 Adds a value to a list with the given key. If a list does not already exist, it will be created automatically.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Clear](/patterns-practices/reference/listdictionary-tkey-tvalue-clear-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-clear-method-mspp" data-raw-source="[Clear](/patterns-practices/reference/listdictionary-tkey-tvalue-clear-method-mspp)">Clear</a></td>
 <td><div class="summary">
 Removes all entries in the dictionary.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ContainsKey](/patterns-practices/reference/listdictionary-tkey-tvalue-containskey-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-containskey-method-mspp" data-raw-source="[ContainsKey](/patterns-practices/reference/listdictionary-tkey-tvalue-containskey-method-mspp)">ContainsKey</a></td>
 <td><div class="summary">
 Determines whether the dictionary contains the given key.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ContainsValue](/patterns-practices/reference/listdictionary-tkey-tvalue-containsvalue-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-containsvalue-method-mspp" data-raw-source="[ContainsValue](/patterns-practices/reference/listdictionary-tkey-tvalue-containsvalue-method-mspp)">ContainsValue</a></td>
 <td><div class="summary">
 Determines whether the dictionary contains the specified value.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47" data-raw-source="[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)">Equals</a></td>
 <td><div class="summary">
-Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
+Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" data-raw-source="[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" data-raw-source="[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)">Object</a>.
 </div>
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" data-raw-source="[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[FindAllValues](/patterns-practices/reference/listdictionary-tkey-tvalue-findallvalues-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-findallvalues-method-mspp" data-raw-source="[FindAllValues](/patterns-practices/reference/listdictionary-tkey-tvalue-findallvalues-method-mspp)">FindAllValues</a></td>
 <td><div class="summary">
 Retrieves all the elements that match the condition defined by the specified predicate.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[FindAllValuesByKey](/patterns-practices/reference/listdictionary-tkey-tvalue-findallvaluesbykey-method-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-findallvaluesbykey-method-mspp" data-raw-source="[FindAllValuesByKey](/patterns-practices/reference/listdictionary-tkey-tvalue-findallvaluesbykey-method-mspp)">FindAllValuesByKey</a></td>
 <td><div class="summary">
 Retrieves the all the elements from the list which have a key that matches the condition defined by the specified predicate.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y" data-raw-source="[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)">GetHashCode</a></td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
 </div>
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" data-raw-source="[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" data-raw-source="[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)">GetType</a></td>
 <td><div class="summary">
-Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
+Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65" data-raw-source="[Type](http://msdn.microsoft.com/en-us/library/42892f65)">Type</a> of the current instance.
 </div>
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" data-raw-source="[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Remove(TKey)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-mspp" data-raw-source="[Remove(TKey)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-mspp)">Remove(TKey)</a></td>
 <td><div class="summary">
 Removes a list by key.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Remove(TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tvalue-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tvalue-mspp" data-raw-source="[Remove(TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tvalue-mspp)">Remove(TValue)</a></td>
 <td><div class="summary">
 Removes a value from all lists where it may be found.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Remove(TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp" data-raw-source="[Remove(TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp)">Remove(TKey, TValue)</a></td>
 <td><div class="summary">
 Removes a value from the list with the given key.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" data-raw-source="[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
 </div>
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" data-raw-source="[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)">Object</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -157,29 +157,29 @@ Returns a string that represents the current object.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Count](/patterns-practices/reference/listdictionary-tkey-tvalue-count-property-mspp)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-count-property-mspp" data-raw-source="[Count](/patterns-practices/reference/listdictionary-tkey-tvalue-count-property-mspp)">Count</a></td>
 <td><div class="summary">
 Gets the number of lists in the dictionary.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item](/patterns-practices/reference/listdictionary-tkey-tvalue-item-property-mspp)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-item-property-mspp" data-raw-source="[Item](/patterns-practices/reference/listdictionary-tkey-tvalue-item-property-mspp)">Item</a></td>
 <td><div class="summary">
 Gets or sets the list associated with the given key. The access always succeeds, eventually returning an empty list.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Keys](/patterns-practices/reference/listdictionary-tkey-tvalue-keys-property-mspp)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-keys-property-mspp" data-raw-source="[Keys](/patterns-practices/reference/listdictionary-tkey-tvalue-keys-property-mspp)">Keys</a></td>
 <td><div class="summary">
 Gets the list of keys in the dictionary.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Values](/patterns-practices/reference/listdictionary-tkey-tvalue-values-property-mspp)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-values-property-mspp" data-raw-source="[Values](/patterns-practices/reference/listdictionary-tkey-tvalue-values-property-mspp)">Values</a></td>
 <td><div class="summary">
 Gets a shallow copy of all values in all lists.
 </div></td>

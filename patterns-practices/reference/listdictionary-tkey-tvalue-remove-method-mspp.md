@@ -19,22 +19,22 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-mspp.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Remove(TKey)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-mspp" data-raw-source="[Remove(TKey)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-mspp)">Remove(TKey)</a></td>
 <td><div class="summary">
 Removes a list by key.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Remove(TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tvalue-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tvalue-mspp" data-raw-source="[Remove(TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tvalue-mspp)">Remove(TValue)</a></td>
 <td><div class="summary">
 Removes a value from all lists where it may be found.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Remove(TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp" data-raw-source="[Remove(TKey, TValue)](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp)">Remove(TKey, TValue)</a></td>
 <td><div class="summary">
 Removes a value from the list with the given key.
 </div></td>

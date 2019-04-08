@@ -179,7 +179,7 @@ The following code example shows how to set the property and simultaneously sign
 ```
 
 > > [!NOTE]
-> Using a lambda expression in this way involves a small performance cost because the lambda expression has to be evaluated for each call. The benefit is that this approach provides compile-time type safety and refactoring support if you rename a property. Although the performance cost is small and would not normally impact your application, the costs can accrue if you have many change notifications. In this case, you should consider using the non-lambda method overload.
+> > Using a lambda expression in this way involves a small performance cost because the lambda expression has to be evaluated for each call. The benefit is that this approach provides compile-time type safety and refactoring support if you rename a property. Although the performance cost is small and would not normally impact your application, the costs can accrue if you have many change notifications. In this case, you should consider using the non-lambda method overload.
 
 Often, your model or view model will include properties whose values are calculated from other properties in the model or view model. When handling changes to properties, be sure to also raise notification events for any calculated properties.
 
@@ -226,7 +226,7 @@ WPF supports these scenarios by providing various classes that implement the **I
 Collection view classes work by wrapping an underlying collection of items so that they can provide automatic selection tracking and sorting, filtering, and paging for them. An instance of these classes can be created programmatically or declaratively in XAML using the **CollectionViewSource** class.
 
 > > [!NOTE]
-> In WPF, a default collection view will actually be automatically created whenever a control is bound to a collection.
+> > In WPF, a default collection view will actually be automatically created whenever a control is bound to a collection.
 
 Collection view classes can be used by the view model to keep track of important state information for the underlying collection, while maintaining a clean separation of concerns between the UI in the view and the underlying data in the model. In effect, **CollectionViews** are view models that are designed specifically to support collections.
 
@@ -401,11 +401,11 @@ When binding controls in the view to properties you want to validate through the
 
 ### Implementing INotifyDataErrorInfo
 
-The **INotifyDataErrorInfo** interface is more flexible****than the **IDataErrorInfo** interface. It supports multiple errors for a property, asynchronous data validation, and the ability to notify the view if the error state changes for an object.
+The **INotifyDataErrorInfo** interface is more flexible*<strong><em>than the *</em>IDataErrorInfo</strong> interface. It supports multiple errors for a property, asynchronous data validation, and the ability to notify the view if the error state changes for an object.
 
 The **INotifyDataErrorInfo** interface defines a **HasErrors** property, which allows the view model to indicate whether an error (or multiple errors) for any properties exist, and a **GetErrors** method, which allows the view model to return a list of error messages for a particular property.
 
-The **INotifyDataErrorInfo** interface also defines an **ErrorsChanged** event.****This****supports asynchronous validation scenarios by allowing the view or view model to signal a change in error state for a particular property through the **ErrorsChanged** event. Property values can be changed in a number of ways, and not just via data binding—for example, as a result of a web service call or background calculation. The **ErrorsChanged** event allows the view model to inform the view of an error once a data validation error has been identified.
+The **INotifyDataErrorInfo** interface also defines an **ErrorsChanged** event.****This***<em>supports asynchronous validation scenarios by allowing the view or view model to signal a change in error state for a particular property through the **ErrorsChanged</em>* event. Property values can be changed in a number of ways, and not just via data binding—for example, as a result of a web service call or background calculation. The **ErrorsChanged** event allows the view model to inform the view of an error once a data validation error has been identified.
 
 To support **INotifyDataErrorInfo**, you will need to maintain a list of errors for each property. The Model-View-ViewModel Reference Implementation (MVVM RI) demonstrates one way to do this using an **ErrorsContainer** collection class that tracks all the validation errors in the object. It also raises notification events if the error list changes. The following code example shows a **DomainObject** (a root model object) and shows an example implementation of **INotifyDataErrorInfo** using the **ErrorsContainer** class.
 

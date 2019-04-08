@@ -21,12 +21,12 @@ The [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-ms
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/public-event.gif)</td>
-<td>[Changed](http://msdn.microsoft.com/en-us/library/ms596566)</td>
+<td><img src="/patterns-practices/reference/images/public-event.gif" alt="Public event"/></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms596566" data-raw-source="[Changed](http://msdn.microsoft.com/en-us/library/ms596566)">Changed</a></td>
 <td><div class="summary">
-Occurs when the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) or an object it contains is modified.
+Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734" data-raw-source="[Freezable](http://msdn.microsoft.com/en-us/library/ms602734)">Freezable</a> or an object it contains is modified.
 </div>
-(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734" data-raw-source="[Freezable](http://msdn.microsoft.com/en-us/library/ms602734)">Freezable</a>.)</td>
 </tr>
 </tbody>
 </table>

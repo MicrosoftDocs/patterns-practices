@@ -19,17 +19,17 @@ ms:mtpsurl: 'moduleexportattribute-constructor-mspp-mefextensions-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleExportAttribute(Type)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleExportAttribute](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity" data-raw-source="[ModuleExportAttribute](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)">ModuleExportAttribute</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>ModuleExportAttribute(String, Type)</td>
 <td><div class="summary">
-Initializes a new instance of the [ModuleExportAttribute](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity" data-raw-source="[ModuleExportAttribute](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)">ModuleExportAttribute</a> class.
 </div></td>
 </tr>
 </tbody>

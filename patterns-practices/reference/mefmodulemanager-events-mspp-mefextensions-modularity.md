@@ -22,20 +22,20 @@ The [MefModuleManager](/patterns-practices/reference/mefmodulemanager-class-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[LoadModuleCompleted](/patterns-practices/reference/modulemanager-loadmodulecompleted-event-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/modulemanager-loadmodulecompleted-event-mspp-modularity" data-raw-source="[LoadModuleCompleted](/patterns-practices/reference/modulemanager-loadmodulecompleted-event-mspp-modularity)">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div>
-(Inherited from [ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity).)</td>
+(Inherited from <a href="/patterns-practices/reference/modulemanager-class-mspp-modularity" data-raw-source="[ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity)">ModuleManager</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[ModuleDownloadProgressChanged](/patterns-practices/reference/modulemanager-moduledownloadprogresschanged-event-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/pubevent.gif" alt="Public event"/></td>
+<td><a href="/patterns-practices/reference/modulemanager-moduledownloadprogresschanged-event-mspp-modularity" data-raw-source="[ModuleDownloadProgressChanged](/patterns-practices/reference/modulemanager-moduledownloadprogresschanged-event-mspp-modularity)">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are loaded in the background.
 </div>
-(Inherited from [ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity).)</td>
+(Inherited from <a href="/patterns-practices/reference/modulemanager-class-mspp-modularity" data-raw-source="[ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity)">ModuleManager</a>.)</td>
 </tr>
 </tbody>
 </table>

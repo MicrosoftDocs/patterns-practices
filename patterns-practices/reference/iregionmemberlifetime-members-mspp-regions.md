@@ -24,8 +24,8 @@ The [IRegionMemberLifetime](/patterns-practices/reference/mspp-regions-namespace
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[KeepAlive](/patterns-practices/reference/mspp-regions-namespace.iregionmemberlifetime.keepalive)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionmemberlifetime.keepalive" data-raw-source="[KeepAlive](/patterns-practices/reference/mspp-regions-namespace.iregionmemberlifetime.keepalive)">KeepAlive</a></td>
 <td><div class="summary">
 Gets a value indicating whether this instance should be kept-alive upon deactivation.
 </div></td>

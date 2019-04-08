@@ -91,13 +91,13 @@ Prism 5.0 contains eleven separate code samples that demonstrate portions of the
 
 The following samples were added for Prism 5.0:
 
--   **Basic MVVM QuickStart**. This QuickStart shows a very simple MVVM application that uses the **ViewModel** Locator and show a parent and child **ViewModels**. For more information, see the MVVM QuickStart**.**
--   **MVVM QuickStart**. This QuickStart was removed for this version.
--   **MVVM Reference Implementation**. This reference implementation was removed for this version.
--   **View-Switching Navigation QuickStart**. This QuickStart now supports WPF. It demonstrates how to use the Prism region navigation API. For more information, see [View-Switching Navigation QuickStart](/patterns-practices/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf).
--   **State-Based Navigation QuickStart**. This QuickStart now supports WPF. It shows an approach that uses the Visual State Manager to define the views (states) and the allowed transitions. For more information, see [State-Based Navigation QuickStart](/patterns-practices/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf).
--   **UI Composition QuickStart**. This QuickStart now supports WPF. It replaced the View Injection QuickStart and the View Discovery QuickStart from Prism 2.0. In the current versions, both concepts are shown in one example application. For more information, see [UI Composition QuickStart](/patterns-practices/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf).
--   **Interactivity QuickStart**. This new QuickStart demonstrates how to exposes an interaction request to the view through the view model. The interactions can be a popup, confirmation, custom popup, and a more complex case where the popup needs a custom view model. It also shows Prism’s **InvokeCommandAction** action that passes the **EventArgs** from the trigger, as a command parameter. For more infromation, see [Interactivity QuickStart](/patterns-practices/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf).
+- **Basic MVVM QuickStart**. This QuickStart shows a very simple MVVM application that uses the **ViewModel** Locator and show a parent and child **ViewModels**. For more information, see the MVVM QuickStart<strong>.</strong>
+- **MVVM QuickStart**. This QuickStart was removed for this version.
+- **MVVM Reference Implementation**. This reference implementation was removed for this version.
+- **View-Switching Navigation QuickStart**. This QuickStart now supports WPF. It demonstrates how to use the Prism region navigation API. For more information, see [View-Switching Navigation QuickStart](/patterns-practices/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf).
+- **State-Based Navigation QuickStart**. This QuickStart now supports WPF. It shows an approach that uses the Visual State Manager to define the views (states) and the allowed transitions. For more information, see [State-Based Navigation QuickStart](/patterns-practices/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf).
+- **UI Composition QuickStart**. This QuickStart now supports WPF. It replaced the View Injection QuickStart and the View Discovery QuickStart from Prism 2.0. In the current versions, both concepts are shown in one example application. For more information, see [UI Composition QuickStart](/patterns-practices/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf).
+- **Interactivity QuickStart**. This new QuickStart demonstrates how to exposes an interaction request to the view through the view model. The interactions can be a popup, confirmation, custom popup, and a more complex case where the popup needs a custom view model. It also shows Prism’s **InvokeCommandAction** action that passes the **EventArgs** from the trigger, as a command parameter. For more infromation, see [Interactivity QuickStart](/patterns-practices/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf).
 
 ## NuGet Packages Now Available
 

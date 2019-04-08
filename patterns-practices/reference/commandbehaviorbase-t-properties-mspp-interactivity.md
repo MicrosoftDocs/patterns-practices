@@ -26,22 +26,22 @@ The [CommandBehaviorBase&lt;T&gt;](/patterns-practices/reference/commandbehavior
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Command](/patterns-practices/reference/commandbehaviorbase-t-command-property-mspp-interactivity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/commandbehaviorbase-t-command-property-mspp-interactivity" data-raw-source="[Command](/patterns-practices/reference/commandbehaviorbase-t-command-property-mspp-interactivity)">Command</a></td>
 <td><div class="summary">
-Corresponding command to be execute and monitored for [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106)
+Corresponding command to be execute and monitored for <a href="http://msdn.microsoft.com/en-us/library/ms523106" data-raw-source="[CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106)">CanExecuteChanged</a>
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CommandParameter](/patterns-practices/reference/commandbehaviorbase-t-commandparameter-property-mspp-interactivity)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/commandbehaviorbase-t-commandparameter-property-mspp-interactivity" data-raw-source="[CommandParameter](/patterns-practices/reference/commandbehaviorbase-t-commandparameter-property-mspp-interactivity)">CommandParameter</a></td>
 <td><div class="summary">
 The parameter to supply the command during execution
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td>[TargetObject](/patterns-practices/reference/commandbehaviorbase-t-targetobject-property-mspp-interactivity)</td>
+<td><img src="/patterns-practices/reference/images/protproperty.gif" alt="Protected property"/></td>
+<td><a href="/patterns-practices/reference/commandbehaviorbase-t-targetobject-property-mspp-interactivity" data-raw-source="[TargetObject](/patterns-practices/reference/commandbehaviorbase-t-targetobject-property-mspp-interactivity)">TargetObject</a></td>
 <td><div class="summary">
 Object to which this behavior is attached.
 </div></td>

@@ -33,7 +33,7 @@ Public Class ModuleInfoGroup
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Modularity.ModuleInfoGroup
+  Microsoft.Practices.Prism.Modularity.ModuleInfoGroup
 
 ## See Also
 

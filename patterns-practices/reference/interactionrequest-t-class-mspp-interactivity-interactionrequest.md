@@ -28,7 +28,7 @@ where T : INotification
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest&lt;T&gt;
+  Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest&lt;T&gt;
 
 ## See Also
 
@@ -58,7 +58,7 @@ Public Class InteractionRequest(Of T As INotification)
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
-  Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest(Of T)
+  Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest(Of T)
 
 ## See Also
 

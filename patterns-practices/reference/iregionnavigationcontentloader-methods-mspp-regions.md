@@ -24,8 +24,8 @@ The [IRegionNavigationContentLoader](/patterns-practices/reference/iregionnaviga
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[LoadContent](/patterns-practices/reference/iregionnavigationcontentloader-loadcontent-method-mspp-regions)</a></td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iregionnavigationcontentloader-loadcontent-method-mspp-regions" data-raw-source="[LoadContent](/patterns-practices/reference/iregionnavigationcontentloader-loadcontent-method-mspp-regions)">LoadContent</a></a></td>
 <td><div class="summary">
 Gets the content to which the navigation request represented by <em>navigationContext</em> applies.
 </div></td>

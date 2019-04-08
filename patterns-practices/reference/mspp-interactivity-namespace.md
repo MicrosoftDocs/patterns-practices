@@ -19,24 +19,24 @@ ms:mtpsurl: 'mspp-interactivity-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[CommandBehaviorBase(Of T)](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity" data-raw-source="[CommandBehaviorBase(Of T)](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)">CommandBehaviorBase(Of T)</a></td>
 <td><div class="summary">
-Base behavior to handle connecting a [Control](http://msdn.microsoft.com/en-us/library/ms609826) to a Command.
+Base behavior to handle connecting a <a href="http://msdn.microsoft.com/en-us/library/ms609826" data-raw-source="[Control](http://msdn.microsoft.com/en-us/library/ms609826)">Control</a> to a Command.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[InvokeCommandAction](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/invokecommandaction-class-mspp-interactivity" data-raw-source="[InvokeCommandAction](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)">InvokeCommandAction</a></td>
 <td><div class="summary">
 Trigger action that executes a command when invoked. It also maintains the Enabled state of the target control based on the CanExecute method of the command.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td>[PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)</td>
+<td><img src="/patterns-practices/reference/images/public-class.gif" alt="Public class"/></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-class-mspp-interactivity" data-raw-source="[PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)">PopupWindowAction</a></td>
 <td><div class="summary">
-Shows a popup window in response to an [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace) being raised.
+Shows a popup window in response to an <a href="/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace" data-raw-source="[Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)">Microsoft.Practices.Prism.Interactivity.InteractionRequest</a> being raised.
 </div></td>
 </tr>
 </tbody>

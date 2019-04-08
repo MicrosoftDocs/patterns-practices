@@ -22,19 +22,19 @@ ms:mtpsurl: 'regionnavigationfailedeventargs-constructor-mspp-regions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>RegionNavigationFailedEventArgs(NavigationContext)</td>
 <td><div class="summary">
-Initializes a new instance of the [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions
-) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions" data-raw-source="[RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions
+)">RegionNavigationEventArgs</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
 <td>RegionNavigationFailedEventArgs(NavigationContext, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the [RegionNavigationFailedEventArgs](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions
-) class.
+Initializes a new instance of the <a href="/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions" data-raw-source="[RegionNavigationFailedEventArgs](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions
+)">RegionNavigationFailedEventArgs</a> class.
 </div></td>
 </tr>
 </tbody>

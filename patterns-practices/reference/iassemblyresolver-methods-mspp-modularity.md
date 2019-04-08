@@ -21,10 +21,10 @@ The [IAssemblyResolver](/patterns-practices/reference/iassemblyresolver-interfac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[LoadAssemblyFrom](/patterns-practices/reference/iassemblyresolver-loadassemblyfrom-method-mspp-modularity)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
+<td><a href="/patterns-practices/reference/iassemblyresolver-loadassemblyfrom-method-mspp-modularity" data-raw-source="[LoadAssemblyFrom](/patterns-practices/reference/iassemblyresolver-loadassemblyfrom-method-mspp-modularity)">LoadAssemblyFrom</a></td>
 <td><div class="summary">
-Load an assembly when it's required by the application.
+Load an assembly when it&#39;s required by the application.
 </div></td>
 </tr>
 </tbody>

@@ -22,8 +22,8 @@ The [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawareb
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Region](/patterns-practices/reference/regionactiveawarebehavior-region-property-mspp-regions-behaviors)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/regionactiveawarebehavior-region-property-mspp-regions-behaviors" data-raw-source="[Region](/patterns-practices/reference/regionactiveawarebehavior-region-property-mspp-regions-behaviors)">Region</a></td>
 <td><div class="summary">
 The region that this behavior is extending
 </div></td>

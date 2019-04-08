@@ -20,15 +20,15 @@ ms:mtpsurl: 'moduleinfogroupextensions-methods-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[AddModule(ModuleInfoGroup, Type, String[])](/patterns-practices/reference/addmodule-mthd-moduleinfogroup-type-str)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/addmodule-mthd-moduleinfogroup-type-str" data-raw-source="[AddModule(ModuleInfoGroup, Type, String[])](/patterns-practices/reference/addmodule-mthd-moduleinfogroup-type-str)">AddModule(ModuleInfoGroup, Type, String[])</a></td>
 <td><div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[AddModule(ModuleInfoGroup, String, Type, String[])](/patterns-practices/reference/addmodule-mthd-moduleinfogroup-str-type-str)</td>
+<td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/><img src="/patterns-practices/reference/images/static.gif" alt="Static member"/></td>
+<td><a href="/patterns-practices/reference/addmodule-mthd-moduleinfogroup-str-type-str" data-raw-source="[AddModule(ModuleInfoGroup, String, Type, String[])](/patterns-practices/reference/addmodule-mthd-moduleinfogroup-str-type-str)">AddModule(ModuleInfoGroup, String, Type, String[])</a></td>
 <td><div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
 </div></td>

@@ -21,15 +21,15 @@ The [ViewRegisteredEventArgs](/patterns-practices/reference/viewregisteredeventa
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[GetView](/patterns-practices/reference/viewregisteredeventargs-getview-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/viewregisteredeventargs-getview-property-mspp-regions" data-raw-source="[GetView](/patterns-practices/reference/viewregisteredeventargs-getview-property-mspp-regions)">GetView</a></td>
 <td><div class="summary">
 Gets the content which was registered.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[RegionName](/patterns-practices/reference/viewregisteredeventargs-regionname-property-mspp-regions)</td>
+<td><img src="/patterns-practices/reference/images/pubproperty.gif" alt="Public property"/></td>
+<td><a href="/patterns-practices/reference/viewregisteredeventargs-regionname-property-mspp-regions" data-raw-source="[RegionName](/patterns-practices/reference/viewregisteredeventargs-regionname-property-mspp-regions)">RegionName</a></td>
 <td><div class="summary">
 Gets the region name to which the content was registered.
 </div></td>
