@@ -113,7 +113,7 @@ Sets the validation errors for the specified property.
 </tr>
 <tr class="even">
 <td><img src="/patterns-practices/reference/images/public-method.gif" alt="Public method"/></td>
-<td><a href="/patterns-practices/reference/errorscontainer-t-seterrors-tproperty-method-expression-func-tproperty-ienumerable-t-mspp-viewmodel&quot;&gt;SetErrors&lt;TProperty&gt;" data-raw-source="[Expression&amp;lt;Func&amp;lt;TProperty&amp;gt;&amp;gt;, IEnumerable&amp;lt;T&amp;gt;](/patterns-practices/reference/errorscontainer-t-seterrors-tproperty-method-expression-func-tproperty-ienumerable-t-mspp-viewmodel&quot;&gt;SetErrors&amp;lt;TProperty&amp;gt;)">Expression&lt;Func&lt;TProperty&gt;&gt;, IEnumerable&lt;T&gt;</a></td>
+<td><a href="/patterns-practices/reference/errorscontainer-t-seterrors-tproperty-method-expression-func-tproperty-ienumerable-t-mspp-viewmodel" data-raw-source="[Expression&amp;lt;Func&amp;lt;TProperty&amp;gt;&amp;gt;, IEnumerable&amp;lt;T&amp;gt;](/patterns-practices/reference/errorscontainer-t-seterrors-tproperty-method-expression-func-tproperty-ienumerable-t-mspp-viewmodel)">Expression&lt;Func&lt;TProperty&gt;&gt;, IEnumerable&lt;T&gt;</a></td>
 <td><div class="summary">
 Sets the validation errors for the specified property.
 </div></td>
